@@ -1,0 +1,5 @@
+PatchedVersions:
+    - '>= 0.10.0-rc.3'
+    - < 0.10.0-alpha.1, >= 0.9.6
+UnaffectedVersions:
+    - < 0.7.0

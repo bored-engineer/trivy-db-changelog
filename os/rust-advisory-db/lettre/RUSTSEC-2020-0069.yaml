@@ -1,0 +1,7 @@
+PatchedVersions:
+    - '>= 0.10.0-alpha.4'
+    - < 0.10.0-alpha.1, >= 0.9.5
+    - < 0.9.0, >= 0.8.4
+    - < 0.8.0, >= 0.7.1
+UnaffectedVersions:
+    - < 0.7.0

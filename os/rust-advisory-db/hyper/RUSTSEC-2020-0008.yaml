@@ -1,0 +1,4 @@
+PatchedVersions:
+    - '>= 0.12.34'
+UnaffectedVersions:
+    - < 0.11.0

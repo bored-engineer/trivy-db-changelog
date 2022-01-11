@@ -1,0 +1,4 @@
+PatchedVersions:
+    - '>= 0.9.8'
+UnaffectedVersions:
+    - < 0.9.7

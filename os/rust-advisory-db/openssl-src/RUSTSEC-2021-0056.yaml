@@ -1,0 +1,4 @@
+PatchedVersions:
+    - '>= 111.15'
+UnaffectedVersions:
+    - < 111.11

@@ -1,0 +1,4 @@
+PatchedVersions:
+    - '>= 300.0.4'
+UnaffectedVersions:
+    - < 300.0.0

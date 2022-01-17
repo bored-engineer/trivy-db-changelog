@@ -1,4 +1,0 @@
-PatchedVersions:
-    - '>= 0.18.1'
-UnaffectedVersions:
-    - < 0.16.0

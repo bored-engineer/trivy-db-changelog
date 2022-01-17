@@ -1,4 +1,0 @@
-PatchedVersions:
-    - '>= 0.4.5'
-UnaffectedVersions:
-    - < 0.4.0

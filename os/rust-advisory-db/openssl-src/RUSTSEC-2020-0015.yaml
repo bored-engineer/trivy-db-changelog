@@ -1,4 +1,0 @@
-PatchedVersions:
-    - '>= 111.9'
-UnaffectedVersions:
-    - < 111.6

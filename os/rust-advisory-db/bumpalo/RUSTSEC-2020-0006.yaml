@@ -1,4 +1,0 @@
-PatchedVersions:
-    - '>= 3.2.1'
-UnaffectedVersions:
-    - < 3.0.0

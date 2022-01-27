@@ -1,1 +1,2 @@
-VulnerableVersions: <=0.13.12
+VulnerableVersions:
+    - <=0.13.12

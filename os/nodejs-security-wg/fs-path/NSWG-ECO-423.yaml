@@ -1,1 +1,2 @@
-VulnerableVersions: <=0.0.24
+VulnerableVersions:
+    - <=0.0.24

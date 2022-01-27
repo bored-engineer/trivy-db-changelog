@@ -1,1 +1,2 @@
-VulnerableVersions: '*'
+VulnerableVersions:
+    - '*'

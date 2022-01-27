@@ -1,2 +1,4 @@
-PatchedVersions: '>=3.0.1'
-VulnerableVersions: <3.0.1
+PatchedVersions:
+    - '>=3.0.1'
+VulnerableVersions:
+    - <3.0.1

@@ -14,6 +14,8 @@ Entries:
         - cpe:/a:redhat:rhel_aus:8.2::appstream
         - cpe:/a:redhat:rhel_aus:8.4
         - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
         - cpe:/a:redhat:rhel_e4s:8.0
         - cpe:/a:redhat:rhel_e4s:8.0::appstream
         - cpe:/a:redhat:rhel_e4s:8.0::highavailability
@@ -98,6 +100,8 @@ Entries:
         - cpe:/o:redhat:rhel_aus:8.2::baseos
         - cpe:/o:redhat:rhel_aus:8.4
         - cpe:/o:redhat:rhel_aus:8.4::baseos
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
         - cpe:/o:redhat:rhel_e4s:8.0
         - cpe:/o:redhat:rhel_e4s:8.0::baseos
         - cpe:/o:redhat:rhel_e4s:8.1

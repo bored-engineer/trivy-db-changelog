@@ -1,0 +1,27 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.6
+        - cpe:/a:redhat:rhel_tus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6::highavailability
+        - cpe:/a:redhat:rhel_tus:8.6::nfv
+        - cpe:/a:redhat:rhel_tus:8.6::realtime
+        - cpe:/o:redhat:rhel_tus:8.6
+        - cpe:/o:redhat:rhel_tus:8.6::baseos
+      Cves:
+        - ID: CVE-2021-35556
+          Severity: MEDIUM
+        - ID: CVE-2021-35559
+          Severity: MEDIUM
+        - ID: CVE-2021-35560
+          Severity: HIGH
+        - ID: CVE-2021-35564
+          Severity: MEDIUM
+        - ID: CVE-2021-35565
+          Severity: HIGH
+        - ID: CVE-2021-35578
+          Severity: MEDIUM
+        - ID: CVE-2021-35586
+          Severity: MEDIUM
+        - ID: CVE-2021-41035
+          Severity: MEDIUM
+      FixedVersion: 1:1.8.0.7.0-1.el8_5

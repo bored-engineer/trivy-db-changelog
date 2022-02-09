@@ -1,0 +1,17 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2
+        - cpe:/a:redhat:rhel_tus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2::highavailability
+        - cpe:/a:redhat:rhel_tus:8.2::nfv
+        - cpe:/a:redhat:rhel_tus:8.2::realtime
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+        - cpe:/o:redhat:rhel_tus:8.2
+        - cpe:/o:redhat:rhel_tus:8.2::baseos
+      Cves:
+        - ID: CVE-2021-45417
+          Severity: HIGH
+      FixedVersion: 0:0.16-11.el8_2.1

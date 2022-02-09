@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.1
+        - cpe:/a:redhat:openshift:4.1::el7
+      Cves:
+        - ID: CVE-2019-10214
+          Severity: MEDIUM
+      FixedVersion: 0:1.13.11-0.4.dev.rhaos4.1.git9cb8f2f.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.1
+        - cpe:/a:redhat:openshift:4.1::el8
+      Cves:
+        - ID: CVE-2019-10214
+          Severity: MEDIUM
+      FixedVersion: 0:1.13.11-0.7.dev.rhaos4.1.git9cb8f2f.el8

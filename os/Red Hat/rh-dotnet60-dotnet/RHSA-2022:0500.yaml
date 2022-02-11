@@ -3,6 +3,6 @@ Entries:
         - cpe:/a:redhat:rhel_dotnet:6.0
         - cpe:/a:redhat:rhel_dotnet:6.0::el7
       Cves:
-        - ID: CVE-2022-219862
+        - ID: CVE-2022-21986
           Severity: HIGH
       FixedVersion: 0:6.0.102-1.el7_9

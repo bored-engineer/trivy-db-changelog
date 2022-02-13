@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:4
+        - cpe:/a:redhat:ceph_storage:4::el8
+      Cves:
+        - ID: CVE-2020-1716
+          Severity: MEDIUM
+      FixedVersion: 0:0.5.4-10.el8ost

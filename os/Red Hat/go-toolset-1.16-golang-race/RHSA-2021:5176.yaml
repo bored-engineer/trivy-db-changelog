@@ -8,6 +8,8 @@ Entries:
         - cpe:/a:redhat:devtools:2022
         - cpe:/a:redhat:devtools:2::el7
       Cves:
+        - ID: CVE-2021-41772
+          Severity: MEDIUM
         - ID: CVE-2021-44716
           Severity: HIGH
         - ID: CVE-2021-44717

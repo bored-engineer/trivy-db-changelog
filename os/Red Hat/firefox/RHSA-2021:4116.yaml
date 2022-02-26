@@ -25,4 +25,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2021-38509
           Severity: MEDIUM
+        - ID: CVE-2021-43534
+          Severity: HIGH
+        - ID: CVE-2021-43535
+          Severity: HIGH
       FixedVersion: 0:91.3.0-1.el7_9

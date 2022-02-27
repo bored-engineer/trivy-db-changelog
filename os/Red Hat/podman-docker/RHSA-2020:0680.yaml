@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el8
+      Cves:
+        - ID: CVE-2020-1726
+          Severity: LOW
+      FixedVersion: 0:1.6.4-7.el8

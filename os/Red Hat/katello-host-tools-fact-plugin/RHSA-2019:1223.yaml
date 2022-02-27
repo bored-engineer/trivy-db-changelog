@@ -1,11 +1,5 @@
 Entries:
     - Affected:
-        - cpe:/a:redhat:rhel_satellite_tools:5
-      Cves:
-        - ID: CVE-2019-3845
-          Severity: HIGH
-      FixedVersion: 0:3.5.0-2.el5
-    - Affected:
         - cpe:/a:redhat:rhel_satellite_tools:6
       Cves:
         - ID: CVE-2019-3845

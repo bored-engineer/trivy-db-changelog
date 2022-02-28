@@ -1,0 +1,64 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:satellite:6.4
+        - cpe:/a:redhat:satellite:6.4::el7
+        - cpe:/a:redhat:satellite_capsule:6.4
+        - cpe:/a:redhat:satellite_capsule:6.4::el7
+      Cves:
+        - ID: CVE-2015-3208
+          Severity: MEDIUM
+        - ID: CVE-2015-6644
+          Severity: MEDIUM
+        - ID: CVE-2016-1000338
+          Severity: MEDIUM
+        - ID: CVE-2016-1000339
+          Severity: MEDIUM
+        - ID: CVE-2016-1000340
+          Severity: LOW
+        - ID: CVE-2016-1000341
+          Severity: MEDIUM
+        - ID: CVE-2016-1000342
+          Severity: MEDIUM
+        - ID: CVE-2016-1000343
+          Severity: LOW
+        - ID: CVE-2016-1000344
+          Severity: MEDIUM
+        - ID: CVE-2016-1000345
+          Severity: MEDIUM
+        - ID: CVE-2016-1000346
+          Severity: MEDIUM
+        - ID: CVE-2016-1000352
+          Severity: MEDIUM
+        - ID: CVE-2017-10689
+          Severity: LOW
+        - ID: CVE-2017-10690
+          Severity: MEDIUM
+        - ID: CVE-2017-12175
+          Severity: MEDIUM
+        - ID: CVE-2017-15095
+          Severity: LOW
+        - ID: CVE-2017-15100
+          Severity: MEDIUM
+        - ID: CVE-2017-5929
+          Severity: MEDIUM
+        - ID: CVE-2017-7233
+          Severity: LOW
+        - ID: CVE-2017-7536
+          Severity: MEDIUM
+        - ID: CVE-2018-10237
+          Severity: MEDIUM
+        - ID: CVE-2018-1090
+          Severity: MEDIUM
+        - ID: CVE-2018-1096
+          Severity: MEDIUM
+        - ID: CVE-2018-1097
+          Severity: MEDIUM
+        - ID: CVE-2018-5382
+          Severity: LOW
+        - ID: CVE-2018-6188
+          Severity: MEDIUM
+        - ID: CVE-2018-7536
+          Severity: MEDIUM
+        - ID: CVE-2018-7537
+          Severity: MEDIUM
+      FixedVersion: 0:0.9.1-1.el7sat

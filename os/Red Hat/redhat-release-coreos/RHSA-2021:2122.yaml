@@ -4,9 +4,9 @@ Entries:
         - cpe:/a:redhat:openshift:4.7::el8
       Cves:
         - ID: CVE-2020-15586
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2020-16845
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2021-21642
           Severity: HIGH
         - ID: CVE-2021-21643

@@ -18,7 +18,7 @@ Entries:
         - ID: CVE-2020-1740
           Severity: LOW
         - ID: CVE-2020-1746
-          Severity: MEDIUM
+          Severity: LOW
       FixedVersion: 0:2.8.11-1.el7ae
     - Affected:
         - cpe:/a:redhat:ansible_engine:2.8
@@ -39,5 +39,5 @@ Entries:
         - ID: CVE-2020-1740
           Severity: LOW
         - ID: CVE-2020-1746
-          Severity: MEDIUM
+          Severity: LOW
       FixedVersion: 0:2.8.11-1.el8ae

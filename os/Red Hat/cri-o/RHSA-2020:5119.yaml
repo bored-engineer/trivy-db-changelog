@@ -13,7 +13,7 @@ Entries:
         - cpe:/a:redhat:openshift:4.5::el8
       Cves:
         - ID: CVE-2020-15586
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2020-16845
-          Severity: MEDIUM
+          Severity: LOW
       FixedVersion: 0:1.18.4-4.rhaos4.5.git6dee389.el8

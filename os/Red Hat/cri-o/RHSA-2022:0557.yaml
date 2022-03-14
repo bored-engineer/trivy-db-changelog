@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.9
+        - cpe:/a:redhat:openshift:4.9::el7
+      Cves:
+        - ID: CVE-2021-29923
+          Severity: LOW
+        - ID: CVE-2021-36221
+          Severity: MEDIUM
+      FixedVersion: 0:1.22.1-17.rhaos4.9.git3029b1d.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.9
+        - cpe:/a:redhat:openshift:4.9::el8
+      Cves:
+        - ID: CVE-2021-29923
+          Severity: LOW
+        - ID: CVE-2021-36221
+          Severity: MEDIUM
+        - ID: CVE-2021-44716
+          Severity: MEDIUM
+        - ID: CVE-2021-44717
+          Severity: MEDIUM
+      FixedVersion: 0:1.22.1-17.rhaos4.9.git3029b1d.2.el8

@@ -7,6 +7,10 @@ Entries:
           Severity: LOW
         - ID: CVE-2021-36221
           Severity: MEDIUM
+        - ID: CVE-2021-44716
+          Severity: MEDIUM
+        - ID: CVE-2021-44717
+          Severity: MEDIUM
       FixedVersion: 0:4.9.0-202202140924.p0.g340e212.assembly.stream.el7
     - Affected:
         - cpe:/a:redhat:openshift:4.9

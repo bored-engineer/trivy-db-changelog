@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.9
+        - cpe:/a:redhat:openshift:4.9::el7
+      Cves:
+        - ID: CVE-2022-0811
+          Severity: HIGH
+      FixedVersion: 0:1.22.2-3.rhaos4.9.gitb030be8.el7

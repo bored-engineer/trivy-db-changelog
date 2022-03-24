@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.10
+        - cpe:/a:redhat:openshift:4.10::el8
+      Cves:
+        - ID: CVE-2021-44716
+          Severity: MEDIUM
+        - ID: CVE-2021-44717
+          Severity: MEDIUM
+      FixedVersion: 3:1.1.0-2.rhaos4.10.el8

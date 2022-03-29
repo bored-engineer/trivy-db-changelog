@@ -1,5 +1,10 @@
 Entries:
     - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.2
+        - cpe:/a:redhat:rhel_e4s:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.2::sap
+        - cpe:/a:redhat:rhel_e4s:8.2::sap_hana
         - cpe:/a:redhat:rhel_eus:8.2
         - cpe:/a:redhat:rhel_eus:8.2::appstream
         - cpe:/a:redhat:rhel_eus:8.2::crb
@@ -10,6 +15,8 @@ Entries:
         - cpe:/a:redhat:rhel_eus:8.2::sap
         - cpe:/a:redhat:rhel_eus:8.2::sap_hana
         - cpe:/a:redhat:rhel_eus:8.2::supplementary
+        - cpe:/o:redhat:rhel_e4s:8.2
+        - cpe:/o:redhat:rhel_e4s:8.2::baseos
         - cpe:/o:redhat:rhel_eus:8.2
         - cpe:/o:redhat:rhel_eus:8.2::baseos
       Cves:

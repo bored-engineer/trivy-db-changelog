@@ -6,3 +6,15 @@ Entries:
         - ID: CVE-2014-1568
           Severity: HIGH
       FixedVersion: 0:3.12.9-12.el6_2
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::computenode
+        - cpe:/o:redhat:rhel_aus:6.4::server
+        - cpe:/o:redhat:rhel_eus:6.4
+        - cpe:/o:redhat:rhel_eus:6.4::computenode
+        - cpe:/o:redhat:rhel_eus:6.4::server
+      Cves:
+        - ID: CVE-2014-1568
+          Severity: HIGH
+      FixedVersion: 0:3.14.3-4.el6_4

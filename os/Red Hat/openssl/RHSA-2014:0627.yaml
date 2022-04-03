@@ -14,3 +14,15 @@ Entries:
         - ID: CVE-2014-0224
           Severity: HIGH
       FixedVersion: 0:1.0.0-25.el6_3.3
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::computenode
+        - cpe:/o:redhat:rhel_aus:6.4::server
+        - cpe:/o:redhat:rhel_eus:6.4
+        - cpe:/o:redhat:rhel_eus:6.4::computenode
+        - cpe:/o:redhat:rhel_eus:6.4::server
+      Cves:
+        - ID: CVE-2014-0224
+          Severity: HIGH
+      FixedVersion: 0:1.0.0-27.el6_4.4

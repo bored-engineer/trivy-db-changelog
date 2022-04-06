@@ -13,4 +13,8 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:7::server
         - cpe:/o:redhat:enterprise_linux:7::workstation
       Cves:
-        - Severity: HIGH
+        - ID: CVE-2021-4028
+          Severity: HIGH
+        - ID: CVE-2021-4083
+          Severity: HIGH
+      FixedVersion: 0:1-4.el7

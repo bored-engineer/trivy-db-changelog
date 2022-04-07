@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16
+        - cpe:/a:redhat:openstack:16::el8
+      Cves:
+        - ID: CVE-2019-3866
+          Severity: MEDIUM
+      FixedVersion: 0:0.7.0-0.20191003113049.a5068ba.el8ost

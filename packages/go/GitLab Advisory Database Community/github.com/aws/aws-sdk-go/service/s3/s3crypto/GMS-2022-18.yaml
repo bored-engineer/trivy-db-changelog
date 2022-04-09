@@ -1,4 +1,4 @@
 PatchedVersions:
-    - v1.34.0
+    - 1.34.0
 VulnerableVersions:
-    - <v1.34.0
+    - <1.34.0

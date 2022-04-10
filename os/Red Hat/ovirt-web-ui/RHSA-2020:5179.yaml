@@ -8,5 +8,5 @@ Entries:
         - ID: CVE-2019-20922
           Severity: LOW
         - ID: CVE-2020-8203
-          Severity: MEDIUM
+          Severity: LOW
       FixedVersion: 0:1.6.5-1.el8ev

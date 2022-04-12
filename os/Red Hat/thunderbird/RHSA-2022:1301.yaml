@@ -10,8 +10,6 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:8::sap
         - cpe:/a:redhat:enterprise_linux:8::sap_hana
         - cpe:/a:redhat:enterprise_linux:8::supplementary
-        - cpe:/a:redhat:rhel_aus:8.6
-        - cpe:/a:redhat:rhel_aus:8.6::appstream
         - cpe:/a:redhat:rhel_e4s:8.6
         - cpe:/a:redhat:rhel_e4s:8.6::appstream
         - cpe:/a:redhat:rhel_e4s:8.6::highavailability
@@ -29,8 +27,6 @@ Entries:
         - cpe:/a:redhat:rhel_eus:8.6::supplementary
         - cpe:/o:redhat:enterprise_linux:8
         - cpe:/o:redhat:enterprise_linux:8::baseos
-        - cpe:/o:redhat:rhel_aus:8.6
-        - cpe:/o:redhat:rhel_aus:8.6::baseos
         - cpe:/o:redhat:rhel_e4s:8.6
         - cpe:/o:redhat:rhel_e4s:8.6::baseos
         - cpe:/o:redhat:rhel_eus:8.6

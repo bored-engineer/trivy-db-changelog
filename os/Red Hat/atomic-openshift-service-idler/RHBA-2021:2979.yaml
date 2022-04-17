@@ -4,7 +4,7 @@ Entries:
         - cpe:/a:redhat:openshift:4.7::el8
       Cves:
         - ID: CVE-2021-31525
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2021-33195
           Severity: MEDIUM
         - ID: CVE-2021-33197

@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.6
+        - cpe:/a:redhat:rhel_tus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6::highavailability
+        - cpe:/a:redhat:rhel_tus:8.6::nfv
+        - cpe:/a:redhat:rhel_tus:8.6::realtime
+        - cpe:/o:redhat:rhel_tus:8.6
+        - cpe:/o:redhat:rhel_tus:8.6::baseos
+      Cves:
+        - ID: CVE-2022-21426
+          Severity: MEDIUM
+        - ID: CVE-2022-21434
+          Severity: MEDIUM
+        - ID: CVE-2022-21443
+          Severity: MEDIUM
+        - ID: CVE-2022-21449
+          Severity: HIGH
+        - ID: CVE-2022-21476
+          Severity: HIGH
+        - ID: CVE-2022-21496
+          Severity: MEDIUM
+      FixedVersion: 1:17.0.3.0.6-2.el8_5

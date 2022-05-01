@@ -14,7 +14,7 @@ Entries:
         - ID: CVE-2021-33198
           Severity: MEDIUM
         - ID: CVE-2021-34558
-          Severity: LOW
+          Severity: MEDIUM
       FixedVersion: 0:4.8.0-202107300027.p0.git.38b3ecc.assembly.stream.el7
     - Affected:
         - cpe:/a:redhat:openshift:4.8
@@ -31,5 +31,5 @@ Entries:
         - ID: CVE-2021-33198
           Severity: MEDIUM
         - ID: CVE-2021-34558
-          Severity: LOW
+          Severity: MEDIUM
       FixedVersion: 0:4.8.0-202107300027.p0.git.38b3ecc.assembly.stream.el8

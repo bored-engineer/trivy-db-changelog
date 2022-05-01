@@ -14,7 +14,7 @@ Entries:
         - ID: CVE-2021-33198
           Severity: MEDIUM
         - ID: CVE-2021-34558
-          Severity: LOW
+          Severity: MEDIUM
       FixedVersion: 0:1.21.2-8.rhaos4.8.git8d4264e.el7
     - Affected:
         - cpe:/a:redhat:openshift:4.8
@@ -31,5 +31,5 @@ Entries:
         - ID: CVE-2021-33198
           Severity: MEDIUM
         - ID: CVE-2021-34558
-          Severity: LOW
+          Severity: MEDIUM
       FixedVersion: 0:1.21.2-8.rhaos4.8.git8d4264e.el8

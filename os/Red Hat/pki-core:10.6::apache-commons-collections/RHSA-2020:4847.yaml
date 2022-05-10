@@ -101,6 +101,8 @@ Entries:
           Severity: LOW
         - ID: CVE-2020-1935
           Severity: LOW
+        - ID: CVE-2020-1938
+          Severity: MEDIUM
         - ID: CVE-2020-25715
           Severity: MEDIUM
       FixedVersion: 0:3.2.2-10.module+el8.1.0+3366+6dfb954c

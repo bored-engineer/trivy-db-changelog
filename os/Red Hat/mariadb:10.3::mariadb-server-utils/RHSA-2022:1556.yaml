@@ -63,4 +63,6 @@ Entries:
           Severity: LOW
         - ID: CVE-2021-46667
           Severity: MEDIUM
+        - ID: CVE-2022-21451
+          Severity: MEDIUM
       FixedVersion: 3:10.3.32-2.module+el8.5.0+14124+14ced695

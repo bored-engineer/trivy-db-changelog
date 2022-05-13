@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:red_hat_single_sign_on:7
+        - cpe:/a:redhat:red_hat_single_sign_on:7::el6
+      Cves:
+        - ID: CVE-2016-8629
+          Severity: MEDIUM
+        - ID: CVE-2016-9589
+          Severity: MEDIUM
+        - ID: CVE-2017-2585
+          Severity: MEDIUM
+      FixedVersion: 0:3.2.1-1.redhat_4.1.jbcs.el6

@@ -42,8 +42,6 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2015-0320
           Severity: CRITICAL
-        - ID: CVE-2015-0321
-          Severity: CRITICAL
         - ID: CVE-2015-0322
           Severity: CRITICAL
         - ID: CVE-2015-0323

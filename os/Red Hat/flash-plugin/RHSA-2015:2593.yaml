@@ -23,11 +23,7 @@ Entries:
       Cves:
         - ID: CVE-2015-8045
           Severity: CRITICAL
-        - ID: CVE-2015-8047
-          Severity: CRITICAL
         - ID: CVE-2015-8048
-          Severity: CRITICAL
-        - ID: CVE-2015-8049
           Severity: CRITICAL
         - ID: CVE-2015-8050
           Severity: CRITICAL
@@ -41,33 +37,21 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2015-8059
           Severity: CRITICAL
-        - ID: CVE-2015-8060
-          Severity: CRITICAL
         - ID: CVE-2015-8061
           Severity: CRITICAL
         - ID: CVE-2015-8062
           Severity: CRITICAL
         - ID: CVE-2015-8063
           Severity: CRITICAL
-        - ID: CVE-2015-8064
-          Severity: CRITICAL
         - ID: CVE-2015-8065
-          Severity: CRITICAL
-        - ID: CVE-2015-8066
           Severity: CRITICAL
         - ID: CVE-2015-8067
           Severity: CRITICAL
         - ID: CVE-2015-8068
           Severity: CRITICAL
-        - ID: CVE-2015-8069
-          Severity: CRITICAL
         - ID: CVE-2015-8070
           Severity: CRITICAL
-        - ID: CVE-2015-8071
-          Severity: CRITICAL
         - ID: CVE-2015-8401
-          Severity: CRITICAL
-        - ID: CVE-2015-8402
           Severity: CRITICAL
         - ID: CVE-2015-8403
           Severity: CRITICAL
@@ -81,25 +65,15 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2015-8408
           Severity: CRITICAL
-        - ID: CVE-2015-8409
-          Severity: CRITICAL
         - ID: CVE-2015-8410
           Severity: CRITICAL
-        - ID: CVE-2015-8411
-          Severity: CRITICAL
         - ID: CVE-2015-8412
-          Severity: CRITICAL
-        - ID: CVE-2015-8413
           Severity: CRITICAL
         - ID: CVE-2015-8414
           Severity: CRITICAL
         - ID: CVE-2015-8415
           Severity: CRITICAL
         - ID: CVE-2015-8416
-          Severity: CRITICAL
-        - ID: CVE-2015-8417
-          Severity: CRITICAL
-        - ID: CVE-2015-8418
           Severity: CRITICAL
         - ID: CVE-2015-8419
           Severity: CRITICAL
@@ -125,8 +99,6 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2015-8430
           Severity: CRITICAL
-        - ID: CVE-2015-8431
-          Severity: CRITICAL
         - ID: CVE-2015-8432
           Severity: CRITICAL
         - ID: CVE-2015-8433
@@ -134,8 +106,6 @@ Entries:
         - ID: CVE-2015-8434
           Severity: CRITICAL
         - ID: CVE-2015-8435
-          Severity: CRITICAL
-        - ID: CVE-2015-8436
           Severity: CRITICAL
         - ID: CVE-2015-8437
           Severity: CRITICAL
@@ -149,8 +119,6 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2015-8442
           Severity: CRITICAL
-        - ID: CVE-2015-8443
-          Severity: CRITICAL
         - ID: CVE-2015-8444
           Severity: CRITICAL
         - ID: CVE-2015-8445
@@ -160,8 +128,6 @@ Entries:
         - ID: CVE-2015-8447
           Severity: CRITICAL
         - ID: CVE-2015-8448
-          Severity: CRITICAL
-        - ID: CVE-2015-8449
           Severity: CRITICAL
         - ID: CVE-2015-8450
           Severity: CRITICAL
@@ -181,8 +147,6 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2015-8652
           Severity: CRITICAL
-        - ID: CVE-2015-8653
-          Severity: CRITICAL
         - ID: CVE-2015-8654
           Severity: CRITICAL
         - ID: CVE-2015-8655
@@ -193,12 +157,8 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2015-8658
           Severity: CRITICAL
-        - ID: CVE-2015-8820
-          Severity: CRITICAL
         - ID: CVE-2015-8821
           Severity: CRITICAL
         - ID: CVE-2015-8822
-          Severity: CRITICAL
-        - ID: CVE-2015-8823
           Severity: CRITICAL
       FixedVersion: 0:11.2.202.554-1.el6_7

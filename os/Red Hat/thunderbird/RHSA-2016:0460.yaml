@@ -8,7 +8,7 @@ Entries:
         - cpe:/a:redhat:rhel_extras_sap:6
         - cpe:/a:redhat:rhel_extras_sap_els:6
         - cpe:/a:redhat:rhel_extras_sap_hana:6
-        - cpe:/a:redhat:rhel_extras_sap_hanna_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
         - cpe:/o:redhat:enterprise_linux:6
         - cpe:/o:redhat:enterprise_linux:6::client
         - cpe:/o:redhat:enterprise_linux:6::computenode
@@ -56,8 +56,6 @@ Entries:
         - ID: CVE-2016-2797
           Severity: HIGH
         - ID: CVE-2016-2798
-          Severity: HIGH
-        - ID: CVE-2016-2799
           Severity: HIGH
         - ID: CVE-2016-2800
           Severity: HIGH
@@ -187,8 +185,6 @@ Entries:
         - ID: CVE-2016-2797
           Severity: HIGH
         - ID: CVE-2016-2798
-          Severity: HIGH
-        - ID: CVE-2016-2799
           Severity: HIGH
         - ID: CVE-2016-2800
           Severity: HIGH

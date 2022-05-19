@@ -94,8 +94,6 @@ Entries:
           Severity: LOW
         - ID: CVE-2015-2155
           Severity: MEDIUM
-        - ID: CVE-2016-7922
-          Severity: MEDIUM
         - ID: CVE-2016-7923
           Severity: MEDIUM
         - ID: CVE-2016-7924
@@ -105,8 +103,6 @@ Entries:
         - ID: CVE-2016-7926
           Severity: MEDIUM
         - ID: CVE-2016-7927
-          Severity: MEDIUM
-        - ID: CVE-2016-7928
           Severity: MEDIUM
         - ID: CVE-2016-7929
           Severity: MEDIUM
@@ -126,8 +122,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2016-7937
           Severity: MEDIUM
-        - ID: CVE-2016-7938
-          Severity: MEDIUM
         - ID: CVE-2016-7939
           Severity: MEDIUM
         - ID: CVE-2016-7940
@@ -138,37 +132,23 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2016-7975
           Severity: MEDIUM
-        - ID: CVE-2016-7983
-          Severity: MEDIUM
-        - ID: CVE-2016-7984
-          Severity: MEDIUM
-        - ID: CVE-2016-7985
-          Severity: MEDIUM
         - ID: CVE-2016-7986
           Severity: MEDIUM
         - ID: CVE-2016-7992
           Severity: MEDIUM
         - ID: CVE-2016-7993
           Severity: MEDIUM
-        - ID: CVE-2016-8574
-          Severity: MEDIUM
         - ID: CVE-2016-8575
           Severity: MEDIUM
         - ID: CVE-2017-5202
           Severity: MEDIUM
-        - ID: CVE-2017-5203
-          Severity: MEDIUM
         - ID: CVE-2017-5204
-          Severity: MEDIUM
-        - ID: CVE-2017-5205
           Severity: MEDIUM
         - ID: CVE-2017-5341
           Severity: MEDIUM
         - ID: CVE-2017-5342
           Severity: MEDIUM
         - ID: CVE-2017-5482
-          Severity: MEDIUM
-        - ID: CVE-2017-5483
           Severity: MEDIUM
         - ID: CVE-2017-5484
           Severity: MEDIUM

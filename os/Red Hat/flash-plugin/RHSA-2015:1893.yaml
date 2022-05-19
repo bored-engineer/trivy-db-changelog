@@ -8,7 +8,7 @@ Entries:
         - cpe:/a:redhat:rhel_extras_sap:6
         - cpe:/a:redhat:rhel_extras_sap_els:6
         - cpe:/a:redhat:rhel_extras_sap_hana:6
-        - cpe:/a:redhat:rhel_extras_sap_hanna_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
         - cpe:/o:redhat:enterprise_linux:6
         - cpe:/o:redhat:enterprise_linux:6::client
         - cpe:/o:redhat:enterprise_linux:6::computenode
@@ -41,8 +41,6 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2015-7633
           Severity: CRITICAL
-        - ID: CVE-2015-7634
-          Severity: CRITICAL
         - ID: CVE-2015-7635
           Severity: CRITICAL
         - ID: CVE-2015-7636
@@ -53,13 +51,9 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2015-7639
           Severity: CRITICAL
-        - ID: CVE-2015-7640
-          Severity: CRITICAL
         - ID: CVE-2015-7641
           Severity: CRITICAL
         - ID: CVE-2015-7642
-          Severity: CRITICAL
-        - ID: CVE-2015-7643
           Severity: CRITICAL
         - ID: CVE-2015-7644
           Severity: CRITICAL

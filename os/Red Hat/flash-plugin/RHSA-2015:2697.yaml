@@ -41,6 +41,8 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2015-8642
           Severity: CRITICAL
+        - ID: CVE-2015-8643
+          Severity: CRITICAL
         - ID: CVE-2015-8644
           Severity: CRITICAL
         - ID: CVE-2015-8645

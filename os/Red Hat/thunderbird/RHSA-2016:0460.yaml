@@ -57,6 +57,8 @@ Entries:
           Severity: HIGH
         - ID: CVE-2016-2798
           Severity: HIGH
+        - ID: CVE-2016-2799
+          Severity: HIGH
         - ID: CVE-2016-2800
           Severity: HIGH
         - ID: CVE-2016-2801
@@ -185,6 +187,8 @@ Entries:
         - ID: CVE-2016-2797
           Severity: HIGH
         - ID: CVE-2016-2798
+          Severity: HIGH
+        - ID: CVE-2016-2799
           Severity: HIGH
         - ID: CVE-2016-2800
           Severity: HIGH

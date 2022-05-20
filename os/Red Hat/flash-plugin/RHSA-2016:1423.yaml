@@ -17,6 +17,8 @@ Entries:
       Cves:
         - ID: CVE-2016-4172
           Severity: CRITICAL
+        - ID: CVE-2016-4173
+          Severity: CRITICAL
         - ID: CVE-2016-4174
           Severity: CRITICAL
         - ID: CVE-2016-4175
@@ -53,6 +55,8 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2016-4217
           Severity: CRITICAL
+        - ID: CVE-2016-4218
+          Severity: CRITICAL
         - ID: CVE-2016-4219
           Severity: CRITICAL
         - ID: CVE-2016-4220
@@ -75,7 +79,11 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2016-4229
           Severity: CRITICAL
+        - ID: CVE-2016-4230
+          Severity: CRITICAL
         - ID: CVE-2016-4231
+          Severity: CRITICAL
+        - ID: CVE-2016-4232
           Severity: CRITICAL
         - ID: CVE-2016-4233
           Severity: CRITICAL
@@ -92,6 +100,8 @@ Entries:
         - ID: CVE-2016-4239
           Severity: CRITICAL
         - ID: CVE-2016-4240
+          Severity: CRITICAL
+        - ID: CVE-2016-4241
           Severity: CRITICAL
         - ID: CVE-2016-4242
           Severity: CRITICAL

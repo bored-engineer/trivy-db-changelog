@@ -38,6 +38,8 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2015-3102
           Severity: MEDIUM
+        - ID: CVE-2015-3103
+          Severity: CRITICAL
         - ID: CVE-2015-3104
           Severity: CRITICAL
         - ID: CVE-2015-3105

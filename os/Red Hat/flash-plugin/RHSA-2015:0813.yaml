@@ -32,6 +32,8 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2015-0347
           Severity: CRITICAL
+        - ID: CVE-2015-0348
+          Severity: CRITICAL
         - ID: CVE-2015-0349
           Severity: CRITICAL
         - ID: CVE-2015-0350
@@ -44,10 +46,14 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2015-0354
           Severity: CRITICAL
+        - ID: CVE-2015-0355
+          Severity: CRITICAL
         - ID: CVE-2015-0356
           Severity: CRITICAL
         - ID: CVE-2015-0357
           Severity: LOW
+        - ID: CVE-2015-0358
+          Severity: CRITICAL
         - ID: CVE-2015-0359
           Severity: CRITICAL
         - ID: CVE-2015-0360
@@ -58,6 +64,8 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2015-3040
           Severity: LOW
+        - ID: CVE-2015-3041
+          Severity: CRITICAL
         - ID: CVE-2015-3042
           Severity: CRITICAL
         - ID: CVE-2015-3043

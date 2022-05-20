@@ -43,14 +43,20 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2014-0550
           Severity: CRITICAL
+        - ID: CVE-2014-0551
+          Severity: CRITICAL
         - ID: CVE-2014-0552
           Severity: CRITICAL
         - ID: CVE-2014-0553
           Severity: CRITICAL
         - ID: CVE-2014-0554
           Severity: CRITICAL
+        - ID: CVE-2014-0555
+          Severity: CRITICAL
         - ID: CVE-2014-0556
           Severity: CRITICAL
         - ID: CVE-2014-0557
+          Severity: CRITICAL
+        - ID: CVE-2014-0559
           Severity: CRITICAL
       FixedVersion: 0:11.2.202.406-1.el6

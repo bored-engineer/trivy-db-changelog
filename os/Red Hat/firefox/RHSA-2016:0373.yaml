@@ -65,6 +65,8 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2016-2798
           Severity: CRITICAL
+        - ID: CVE-2016-2799
+          Severity: CRITICAL
         - ID: CVE-2016-2800
           Severity: CRITICAL
         - ID: CVE-2016-2801
@@ -201,6 +203,8 @@ Entries:
         - ID: CVE-2016-2797
           Severity: CRITICAL
         - ID: CVE-2016-2798
+          Severity: CRITICAL
+        - ID: CVE-2016-2799
           Severity: CRITICAL
         - ID: CVE-2016-2800
           Severity: CRITICAL

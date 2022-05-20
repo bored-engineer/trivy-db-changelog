@@ -96,6 +96,8 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2012-5285
           Severity: CRITICAL
+        - ID: CVE-2012-5286
+          Severity: CRITICAL
         - ID: CVE-2012-5287
           Severity: CRITICAL
         - ID: CVE-2012-5673

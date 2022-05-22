@@ -6,29 +6,29 @@ Entries:
         - cpe:/a:redhat:satellite_capsule:6.6::el7
       Cves:
         - ID: CVE-2019-12086
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2019-20330
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-10968
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-10969
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-11619
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-14060
           Severity: HIGH
         - ID: CVE-2020-14061
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-14062
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-14195
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-8840
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-9546
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-9547
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-9548
-          Severity: LOW
+          Severity: HIGH
       FixedVersion: 0:6.6.3-1.el7sat

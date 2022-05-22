@@ -73,12 +73,16 @@ Entries:
           Severity: CRITICAL
         - ID: CVE-2013-2733
           Severity: CRITICAL
+        - ID: CVE-2013-2734
+          Severity: CRITICAL
         - ID: CVE-2013-2735
           Severity: CRITICAL
         - ID: CVE-2013-2736
           Severity: CRITICAL
         - ID: CVE-2013-2737
           Severity: MEDIUM
+        - ID: CVE-2013-3337
+          Severity: CRITICAL
         - ID: CVE-2013-3338
           Severity: CRITICAL
         - ID: CVE-2013-3339

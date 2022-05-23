@@ -25,6 +25,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2021-38509
           Severity: MEDIUM
+        - ID: CVE-2021-43529
+          Severity: CRITICAL
         - ID: CVE-2021-43534
           Severity: HIGH
         - ID: CVE-2021-43535

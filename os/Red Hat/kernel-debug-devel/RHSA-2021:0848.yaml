@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3::server
+      Cves:
+        - ID: CVE-2020-14351
+          Severity: MEDIUM
+      FixedVersion: 0:3.10.0-514.86.1.el7

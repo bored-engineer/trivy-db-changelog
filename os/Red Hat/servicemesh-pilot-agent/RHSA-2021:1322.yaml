@@ -2,6 +2,10 @@ Entries:
     - Affected:
         - cpe:/a:redhat:service_mesh:1.1
         - cpe:/a:redhat:service_mesh:1.1::el8
+      Arch:
+        - ppc64le
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2019-25014
           Severity: MEDIUM

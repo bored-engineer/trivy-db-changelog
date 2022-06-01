@@ -2,6 +2,8 @@ Entries:
     - Affected:
         - cpe:/a:redhat:cloudforms_managementengine:5.10
         - cpe:/a:redhat:cloudforms_managementengine:5.10::el7
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2017-1000385
           Severity: LOW

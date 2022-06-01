@@ -119,6 +119,11 @@ Entries:
         - cpe:/o:redhat:rhel_tus:8.4::baseos
         - cpe:/o:redhat:rhel_tus:8.6
         - cpe:/o:redhat:rhel_tus:8.6::baseos
+      Arch:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2020-15810
           Severity: HIGH
@@ -133,6 +138,9 @@ Entries:
         - cpe:/a:redhat:rhel_e4s:8.0::sap_hana
         - cpe:/o:redhat:rhel_e4s:8.0
         - cpe:/o:redhat:rhel_e4s:8.0::baseos
+      Arch:
+        - ppc64le
+        - x86_64
       Cves:
         - ID: CVE-2020-15810
           Severity: HIGH

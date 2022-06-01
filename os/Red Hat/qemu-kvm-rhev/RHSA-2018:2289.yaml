@@ -4,6 +4,8 @@ Entries:
         - cpe:/a:redhat:openstack-optools:10::el7
         - cpe:/a:redhat:openstack:10
         - cpe:/a:redhat:openstack:10::el7
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2018-3639
           Severity: HIGH

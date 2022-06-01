@@ -34,6 +34,8 @@ Entries:
         - cpe:/a:redhat:storage:3.5:server:el7
         - cpe:/a:redhat:storage:3.5:wa:el7
         - cpe:/a:redhat:storage:3:client:el7
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2020-10762
           Severity: MEDIUM

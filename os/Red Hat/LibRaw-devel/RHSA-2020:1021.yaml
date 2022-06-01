@@ -12,6 +12,10 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:7::containers
         - cpe:/o:redhat:enterprise_linux:7::server
         - cpe:/o:redhat:enterprise_linux:7::workstation
+      Arch:
+        - i686
+        - ppc64le
+        - x86_64
       Cves:
         - ID: CVE-2019-3820
           Severity: MEDIUM

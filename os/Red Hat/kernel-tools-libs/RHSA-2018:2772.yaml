@@ -12,6 +12,9 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:7::containers
         - cpe:/o:redhat:enterprise_linux:7::server
         - cpe:/o:redhat:enterprise_linux:7::workstation
+      Arch:
+        - aarch64
+        - ppc64le
       Cves:
         - ID: CVE-2017-18202
           Severity: HIGH

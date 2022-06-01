@@ -2,6 +2,9 @@ Entries:
     - Affected:
         - cpe:/a:redhat:a_mq_clients:2
         - cpe:/a:redhat:a_mq_clients:2::el6
+      Arch:
+        - i686
+        - x86_64
       Cves:
         - ID: CVE-2020-11113
           Severity: MEDIUM
@@ -17,6 +20,8 @@ Entries:
         - cpe:/a:redhat:a_mq_clients:2.9
         - cpe:/a:redhat:a_mq_clients:2.9::el7
         - cpe:/a:redhat:a_mq_clients:2::el7
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2020-11113
           Severity: MEDIUM
@@ -32,6 +37,8 @@ Entries:
         - cpe:/a:redhat:a_mq_clients:2.9
         - cpe:/a:redhat:a_mq_clients:2.9::el8
         - cpe:/a:redhat:a_mq_clients:2::el8
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2020-11113
           Severity: MEDIUM

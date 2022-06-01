@@ -43,6 +43,8 @@ Entries:
         - cpe:/o:redhat:rhel_tus:6.5::server
         - cpe:/o:redhat:rhel_tus:6.6
         - cpe:/o:redhat:rhel_tus:6.6::server
+      Arch:
+        - ppc64
       Cves:
         - ID: CVE-2012-2313
           Severity: LOW

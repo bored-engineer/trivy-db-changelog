@@ -102,6 +102,8 @@ Entries:
         - cpe:/o:redhat:rhel_tus:8.4::baseos
         - cpe:/o:redhat:rhel_tus:8.6
         - cpe:/o:redhat:rhel_tus:8.6::baseos
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2019-20908
           Severity: MEDIUM

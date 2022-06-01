@@ -8,6 +8,8 @@ Entries:
         - cpe:/a:redhat:rhel_software_collections:2::el6
         - cpe:/a:redhat:rhel_software_collections:3
         - cpe:/a:redhat:rhel_software_collections:3::el6
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2015-0499
           Severity: MEDIUM
@@ -67,6 +69,8 @@ Entries:
         - cpe:/a:redhat:rhel_software_collections:2::el7
         - cpe:/a:redhat:rhel_software_collections:3
         - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2015-0499
           Severity: MEDIUM

@@ -13,6 +13,14 @@ Entries:
         - cpe:/o:redhat:rhel_eus:7.6::server
         - cpe:/o:redhat:rhel_tus:7.6
         - cpe:/o:redhat:rhel_tus:7.6::server
+      Arch:
+        - i686
+        - ppc
+        - ppc64
+        - ppc64le
+        - s390
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2018-10360
           Severity: LOW

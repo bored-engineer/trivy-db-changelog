@@ -1,5 +1,8 @@
 Entries:
-    - Cves:
+    - Arch:
+        - s390x
+        - x86_64
+      Cves:
         - ID: CVE-2018-11212
           Severity: LOW
         - ID: CVE-2018-12547

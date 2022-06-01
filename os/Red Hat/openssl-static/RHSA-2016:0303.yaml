@@ -2,6 +2,8 @@ Entries:
     - Affected:
         - cpe:/o:redhat:rhel_mission_critical:6.2
         - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2015-0293
           Severity: MEDIUM
@@ -18,6 +20,8 @@ Entries:
         - cpe:/o:redhat:rhel_aus:6.4
         - cpe:/o:redhat:rhel_aus:6.4::computenode
         - cpe:/o:redhat:rhel_aus:6.4::server
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2015-0293
           Severity: MEDIUM
@@ -33,6 +37,8 @@ Entries:
     - Affected:
         - cpe:/o:redhat:rhel_aus:6.5
         - cpe:/o:redhat:rhel_aus:6.5::server
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2015-0293
           Severity: MEDIUM

@@ -7,6 +7,9 @@ Entries:
         - cpe:/a:redhat:rhel_e4s:8.0::sap_hana
         - cpe:/o:redhat:rhel_e4s:8.0
         - cpe:/o:redhat:rhel_e4s:8.0::baseos
+      Arch:
+        - ppc64le
+        - x86_64
       Cves:
         - ID: CVE-2020-26950
           Severity: CRITICAL

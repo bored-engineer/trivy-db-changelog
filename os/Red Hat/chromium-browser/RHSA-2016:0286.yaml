@@ -20,6 +20,9 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.7::computenode
         - cpe:/o:redhat:rhel_eus:6.7::sap
         - cpe:/o:redhat:rhel_eus:6.7::server
+      Arch:
+        - i686
+        - x86_64
       Cves:
         - ID: CVE-2016-1629
           Severity: CRITICAL

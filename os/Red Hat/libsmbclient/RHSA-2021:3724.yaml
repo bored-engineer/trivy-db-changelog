@@ -6,6 +6,8 @@ Entries:
         - cpe:/a:redhat:storage:3.5:samba:el8
         - cpe:/a:redhat:storage:3.5:server:el8
         - cpe:/a:redhat:storage:3.5:wa:el8
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2021-20254
           Severity: MEDIUM

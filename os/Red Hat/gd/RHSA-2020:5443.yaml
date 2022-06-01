@@ -12,6 +12,14 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:7::containers
         - cpe:/o:redhat:enterprise_linux:7::server
         - cpe:/o:redhat:enterprise_linux:7::workstation
+      Arch:
+        - i686
+        - ppc
+        - ppc64
+        - ppc64le
+        - s390
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2016-5766
           Severity: MEDIUM

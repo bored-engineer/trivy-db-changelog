@@ -6,6 +6,10 @@ Entries:
         - cpe:/a:redhat:rhel_software_collections:2::el7
         - cpe:/a:redhat:rhel_software_collections:3
         - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arch:
+        - ppc64le
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2020-36327
           Severity: HIGH

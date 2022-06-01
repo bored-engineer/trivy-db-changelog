@@ -7,6 +7,8 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.4
         - cpe:/o:redhat:rhel_eus:6.4::computenode
         - cpe:/o:redhat:rhel_eus:6.4::server
+      Arch:
+        - ppc64
       Cves:
         - ID: CVE-2014-5077
           Severity: HIGH

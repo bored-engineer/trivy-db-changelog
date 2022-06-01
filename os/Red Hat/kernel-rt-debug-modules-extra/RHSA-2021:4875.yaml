@@ -30,6 +30,8 @@ Entries:
         - cpe:/o:redhat:rhel_eus:8.2::baseos
         - cpe:/o:redhat:rhel_tus:8.2
         - cpe:/o:redhat:rhel_tus:8.2::baseos
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2020-36385
           Severity: HIGH

@@ -4,6 +4,9 @@ Entries:
         - cpe:/a:redhat:openstack-optools:13::el7
         - cpe:/a:redhat:openstack:13
         - cpe:/a:redhat:openstack:13::el7
+      Arch:
+        - ppc64le
+        - x86_64
       Cves:
         - ID: CVE-2020-1711
           Severity: HIGH

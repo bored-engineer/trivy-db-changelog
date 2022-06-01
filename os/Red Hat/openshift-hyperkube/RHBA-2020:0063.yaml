@@ -2,6 +2,8 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.3
         - cpe:/a:redhat:openshift:4.3::el7
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2019-10401
           Severity: MEDIUM
@@ -21,6 +23,8 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.3
         - cpe:/a:redhat:openshift:4.3::el8
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2019-10401
           Severity: MEDIUM

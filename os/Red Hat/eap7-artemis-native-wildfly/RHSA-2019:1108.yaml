@@ -8,6 +8,8 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el7
         - cpe:/a:redhat:jboss_enterprise_application_platform:7::el7
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2018-11307
           Severity: HIGH

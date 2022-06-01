@@ -12,6 +12,11 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:7::containers
         - cpe:/o:redhat:enterprise_linux:7::server
         - cpe:/o:redhat:enterprise_linux:7::workstation
+      Arch:
+        - ppc64
+        - ppc64le
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2017-0393
           Severity: MEDIUM

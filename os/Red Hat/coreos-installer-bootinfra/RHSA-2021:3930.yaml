@@ -2,6 +2,9 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.7
         - cpe:/a:redhat:openshift:4.7::el8
+      Arch:
+        - ppc64le
+        - s390x
       Cves:
         - ID: CVE-2021-20319
           Severity: MEDIUM

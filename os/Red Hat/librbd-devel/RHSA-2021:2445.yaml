@@ -2,6 +2,9 @@ Entries:
     - Affected:
         - cpe:/a:redhat:ceph_storage:4
         - cpe:/a:redhat:ceph_storage:4::el7
+      Arch:
+        - ppc64le
+        - x86_64
       Cves:
         - ID: CVE-2020-27839
           Severity: MEDIUM
@@ -13,6 +16,10 @@ Entries:
     - Affected:
         - cpe:/a:redhat:ceph_storage:4
         - cpe:/a:redhat:ceph_storage:4::el8
+      Arch:
+        - ppc64le
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2020-27839
           Severity: MEDIUM

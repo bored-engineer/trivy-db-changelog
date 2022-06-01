@@ -49,6 +49,8 @@ Entries:
         - cpe:/o:redhat:rhel_tus:6.5::server
         - cpe:/o:redhat:rhel_tus:6.6
         - cpe:/o:redhat:rhel_tus:6.6::server
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2011-0011
           Severity: MEDIUM

@@ -20,6 +20,8 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.7::computenode
         - cpe:/o:redhat:rhel_eus:6.7::sap
         - cpe:/o:redhat:rhel_eus:6.7::server
+      Arch:
+        - i686
       Cves:
         - ID: CVE-2015-5567
           Severity: CRITICAL

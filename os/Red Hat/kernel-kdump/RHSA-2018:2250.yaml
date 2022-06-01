@@ -6,6 +6,8 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.7::computenode
         - cpe:/o:redhat:rhel_eus:6.7::sap
         - cpe:/o:redhat:rhel_eus:6.7::server
+      Arch:
+        - s390x
       Cves:
         - ID: CVE-2018-3639
           Severity: HIGH

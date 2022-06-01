@@ -2,6 +2,9 @@ Entries:
     - Affected:
         - cpe:/o:redhat:enterprise_linux:7
         - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arch:
+        - ppc64le
+        - x86_64
       Cves:
         - ID: CVE-2018-11806
           Severity: HIGH

@@ -7,6 +7,9 @@ Entries:
         - cpe:/a:redhat:devtools:2021
         - cpe:/a:redhat:devtools:2022
         - cpe:/a:redhat:devtools:2::el7
+      Arch:
+        - aarch64
+        - x86_64
       Cves:
         - ID: CVE-2018-1000622
           Severity: MEDIUM

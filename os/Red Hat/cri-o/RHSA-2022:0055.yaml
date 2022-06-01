@@ -2,6 +2,8 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.10
         - cpe:/a:redhat:openshift:4.10::el7
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2014-3577
           Severity: HIGH
@@ -19,6 +21,11 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.10
         - cpe:/a:redhat:openshift:4.10::el8
+      Arch:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2014-3577
           Severity: HIGH

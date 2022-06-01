@@ -5,6 +5,11 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.2::server
         - cpe:/o:redhat:rhel_mission_critical:6.2
         - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arch:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2013-4164
           Severity: CRITICAL
@@ -13,6 +18,11 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.3
         - cpe:/o:redhat:rhel_eus:6.3::computenode
         - cpe:/o:redhat:rhel_eus:6.3::server
+      Arch:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2013-4164
           Severity: CRITICAL
@@ -25,6 +35,11 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.4
         - cpe:/o:redhat:rhel_eus:6.4::computenode
         - cpe:/o:redhat:rhel_eus:6.4::server
+      Arch:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2013-4164
           Severity: CRITICAL

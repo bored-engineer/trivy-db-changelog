@@ -3,6 +3,8 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.3
         - cpe:/o:redhat:rhel_eus:6.3::computenode
         - cpe:/o:redhat:rhel_eus:6.3::server
+      Arch:
+        - ppc64
       Cves:
         - ID: CVE-2012-4542
           Severity: MEDIUM

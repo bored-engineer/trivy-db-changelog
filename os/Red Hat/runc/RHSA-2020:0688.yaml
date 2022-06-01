@@ -2,6 +2,9 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.2
         - cpe:/a:redhat:openshift:4.2::el8
+      Arch:
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2019-19921
           Severity: MEDIUM

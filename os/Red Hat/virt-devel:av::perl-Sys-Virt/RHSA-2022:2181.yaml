@@ -16,6 +16,8 @@ Entries:
         - cpe:/a:redhat:advanced_virtualization:8.6
         - cpe:/a:redhat:advanced_virtualization:8.6::el8
         - cpe:/a:redhat:advanced_virtualization:8::el8
+      Arch:
+        - i686
       Cves:
         - ID: CVE-2022-0485
           Severity: MEDIUM

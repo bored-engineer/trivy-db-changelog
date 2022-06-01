@@ -2,6 +2,8 @@ Entries:
     - Affected:
         - cpe:/o:redhat:rhel_aus:7.3
         - cpe:/o:redhat:rhel_aus:7.3::server
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2021-44790
           Severity: HIGH

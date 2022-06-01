@@ -2,6 +2,10 @@ Entries:
     - Affected:
         - cpe:/o:redhat:enterprise_linux:8
         - cpe:/o:redhat:enterprise_linux:8::fastdatapath
+      Arch:
+        - ppc64le
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2019-14818
           Severity: MEDIUM

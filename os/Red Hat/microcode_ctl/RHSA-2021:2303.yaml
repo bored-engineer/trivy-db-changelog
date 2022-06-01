@@ -8,6 +8,8 @@ Entries:
         - cpe:/o:redhat:rhel_e4s:7.6::server
         - cpe:/o:redhat:rhel_tus:7.6
         - cpe:/o:redhat:rhel_tus:7.6::server
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2020-24489
           Severity: HIGH

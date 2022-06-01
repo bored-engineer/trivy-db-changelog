@@ -17,6 +17,11 @@ Entries:
         - cpe:/o:redhat:rhel_eus:7.2::server
         - cpe:/o:redhat:rhel_tus:7.2
         - cpe:/o:redhat:rhel_tus:7.2::server
+      Arch:
+        - ppc64
+        - ppc64le
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2017-14491
           Severity: CRITICAL
@@ -41,6 +46,11 @@ Entries:
         - cpe:/o:redhat:rhel_eus:7.3::server
         - cpe:/o:redhat:rhel_tus:7.3
         - cpe:/o:redhat:rhel_tus:7.3::server
+      Arch:
+        - ppc64
+        - ppc64le
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2017-14491
           Severity: CRITICAL

@@ -2,6 +2,8 @@ Entries:
     - Affected:
         - cpe:/o:redhat:rhel_aus:6.5
         - cpe:/o:redhat:rhel_aus:6.5::server
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2020-8696
           Severity: MEDIUM

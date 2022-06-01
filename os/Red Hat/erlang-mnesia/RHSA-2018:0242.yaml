@@ -4,6 +4,9 @@ Entries:
         - cpe:/a:redhat:openstack-optools:12::el7
         - cpe:/a:redhat:openstack:12
         - cpe:/a:redhat:openstack:12::el7
+      Arch:
+        - ppc64le
+        - x86_64
       Cves:
         - ID: CVE-2017-1000385
           Severity: LOW

@@ -16,6 +16,9 @@ Entries:
         - cpe:/a:redhat:advanced_virtualization:8.6
         - cpe:/a:redhat:advanced_virtualization:8.6::el8
         - cpe:/a:redhat:advanced_virtualization:8::el8
+      Arch:
+        - aarch64
+        - x86_64
       Cves:
         - ID: CVE-2019-11135
           Severity: MEDIUM

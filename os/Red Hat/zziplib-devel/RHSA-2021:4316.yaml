@@ -42,6 +42,12 @@ Entries:
         - cpe:/o:redhat:rhel_eus:8.6::baseos
         - cpe:/o:redhat:rhel_tus:8.6
         - cpe:/o:redhat:rhel_tus:8.6::baseos
+      Arch:
+        - aarch64
+        - i686
+        - ppc64le
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2020-18442
           Severity: LOW

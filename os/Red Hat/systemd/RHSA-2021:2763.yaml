@@ -2,6 +2,8 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.7
         - cpe:/a:redhat:openshift:4.7::el8
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2021-33909
           Severity: HIGH

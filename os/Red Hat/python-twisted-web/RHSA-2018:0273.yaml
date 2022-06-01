@@ -4,6 +4,8 @@ Entries:
         - cpe:/a:redhat:satellite:6.2::el7
         - cpe:/a:redhat:satellite_capsule:6.2
         - cpe:/a:redhat:satellite_capsule:6.2::el7
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2016-1000111
           Severity: HIGH

@@ -27,6 +27,9 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.7::server
         - cpe:/o:redhat:rhel_tus:6.6
         - cpe:/o:redhat:rhel_tus:6.6::server
+      Arch:
+        - i686
+        - x86_64
       Cves:
         - ID: CVE-2014-8106
           Severity: HIGH

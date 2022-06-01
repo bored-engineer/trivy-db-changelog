@@ -2,6 +2,8 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.4
         - cpe:/a:redhat:openshift:4.4::el7
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2019-18277
           Severity: MEDIUM
@@ -13,6 +15,8 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.4
         - cpe:/a:redhat:openshift:4.4::el8
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2019-18277
           Severity: MEDIUM

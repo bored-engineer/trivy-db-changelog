@@ -7,6 +7,10 @@ Entries:
         - cpe:/a:redhat:devtools:2021
         - cpe:/a:redhat:devtools:2022
         - cpe:/a:redhat:devtools:2::el7
+      Arch:
+        - ppc64le
+        - s390x
+        - x86_64
       Cves:
         - ID: CVE-2021-33196
           Severity: MEDIUM

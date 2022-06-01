@@ -4,6 +4,8 @@ Entries:
         - cpe:/o:redhat:rhel_aus:6.5::server
         - cpe:/o:redhat:rhel_tus:6.5
         - cpe:/o:redhat:rhel_tus:6.5::server
+      Arch:
+        - x86_64
       Cves:
         - ID: CVE-2016-5195
           Severity: HIGH

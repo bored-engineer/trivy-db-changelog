@@ -1,5 +1,7 @@
 Entries:
-    - Cves:
+    - Arch:
+        - s390x
+      Cves:
         - ID: CVE-2017-7514
           Severity: MEDIUM
       FixedVersion: 1:0.5300-1.el6

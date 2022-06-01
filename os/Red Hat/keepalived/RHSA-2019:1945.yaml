@@ -13,6 +13,9 @@ Entries:
         - cpe:/o:redhat:rhel_eus:7.4::server
         - cpe:/o:redhat:rhel_tus:7.4
         - cpe:/o:redhat:rhel_tus:7.4::server
+      Arch:
+        - ppc64le
+        - x86_64
       Cves:
         - ID: CVE-2018-19115
           Severity: HIGH

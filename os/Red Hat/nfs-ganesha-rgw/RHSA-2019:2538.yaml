@@ -2,6 +2,9 @@ Entries:
     - Affected:
         - cpe:/a:redhat:ceph_storage:3
         - cpe:/a:redhat:ceph_storage:3::el7
+      Arch:
+        - ppc64le
+        - x86_64
       Cves:
         - ID: CVE-2018-14662
           Severity: LOW

@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_satellite_tools:6.9
+        - cpe:/a:redhat:rhel_satellite_tools:6.9::el8
+        - cpe:/a:redhat:rhel_satellite_tools:8
+      Arch:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-0223
+          Severity: HIGH
+      FixedVersion: 0:0.28.0-1.el8

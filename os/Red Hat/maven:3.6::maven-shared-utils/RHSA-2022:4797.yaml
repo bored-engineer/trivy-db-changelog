@@ -47,6 +47,13 @@ Entries:
           Severity: HIGH
       FixedVersion: 0:3.2.1-0.5.module+el8.6.0+15049+43453910
     - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2
+        - cpe:/a:redhat:rhel_e4s:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.2::sap
+        - cpe:/a:redhat:rhel_e4s:8.2::sap_hana
         - cpe:/a:redhat:rhel_eus:8.2
         - cpe:/a:redhat:rhel_eus:8.2::appstream
         - cpe:/a:redhat:rhel_eus:8.2::crb
@@ -62,6 +69,10 @@ Entries:
         - cpe:/a:redhat:rhel_tus:8.2::highavailability
         - cpe:/a:redhat:rhel_tus:8.2::nfv
         - cpe:/a:redhat:rhel_tus:8.2::realtime
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+        - cpe:/o:redhat:rhel_e4s:8.2
+        - cpe:/o:redhat:rhel_e4s:8.2::baseos
         - cpe:/o:redhat:rhel_eus:8.2
         - cpe:/o:redhat:rhel_eus:8.2::baseos
         - cpe:/o:redhat:rhel_tus:8.2

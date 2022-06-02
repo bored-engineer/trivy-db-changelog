@@ -2,7 +2,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:3.4
         - cpe:/a:redhat:openshift:3.4::el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2017-12195
@@ -11,7 +11,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:3.5
         - cpe:/a:redhat:openshift:3.5::el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2017-12195
@@ -20,7 +20,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:3.6
         - cpe:/a:redhat:openshift:3.6::el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2017-12195

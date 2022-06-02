@@ -2,7 +2,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:service_mesh:1.0
         - cpe:/a:redhat:service_mesh:1.0::el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2019-18801

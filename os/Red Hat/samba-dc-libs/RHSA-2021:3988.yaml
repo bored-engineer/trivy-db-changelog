@@ -8,7 +8,7 @@ Entries:
         - cpe:/o:redhat:rhel_e4s:7.7::server
         - cpe:/o:redhat:rhel_tus:7.7
         - cpe:/o:redhat:rhel_tus:7.7::server
-      Arch:
+      Arches:
         - ppc64le
         - x86_64
       Cves:

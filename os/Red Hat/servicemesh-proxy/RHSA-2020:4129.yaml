@@ -2,7 +2,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:service_mesh:1.1
         - cpe:/a:redhat:service_mesh:1.1::el8
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2020-25017

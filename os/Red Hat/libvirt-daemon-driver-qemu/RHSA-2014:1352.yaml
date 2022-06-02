@@ -85,7 +85,7 @@ Entries:
         - cpe:/o:redhat:rhel_tus:7.6::server
         - cpe:/o:redhat:rhel_tus:7.7
         - cpe:/o:redhat:rhel_tus:7.7::server
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2014-3633

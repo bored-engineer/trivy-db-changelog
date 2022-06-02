@@ -4,7 +4,7 @@ Entries:
         - cpe:/a:redhat:satellite:6.10::el7
         - cpe:/a:redhat:satellite_capsule:6.10
         - cpe:/a:redhat:satellite_capsule:6.10::el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2021-27023

@@ -2,7 +2,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.7
         - cpe:/a:redhat:openshift:4.7::el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2022-0811
@@ -11,7 +11,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.7
         - cpe:/a:redhat:openshift:4.7::el8
-      Arch:
+      Arches:
         - ppc64le
         - s390x
         - x86_64

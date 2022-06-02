@@ -2,7 +2,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.2
         - cpe:/a:redhat:openshift:4.2::el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2019-10392
@@ -11,7 +11,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.2
         - cpe:/a:redhat:openshift:4.2::el8
-      Arch:
+      Arches:
         - s390x
         - x86_64
       Cves:

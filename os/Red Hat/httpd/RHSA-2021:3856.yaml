@@ -12,7 +12,7 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:7::containers
         - cpe:/o:redhat:enterprise_linux:7::server
         - cpe:/o:redhat:enterprise_linux:7::workstation
-      Arch:
+      Arches:
         - ppc64
         - ppc64le
         - s390x
@@ -24,7 +24,7 @@ Entries:
     - Affected:
         - cpe:/o:redhat:rhel_aus:7.2
         - cpe:/o:redhat:rhel_aus:7.2::server
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2021-40438
@@ -33,7 +33,7 @@ Entries:
     - Affected:
         - cpe:/o:redhat:rhel_aus:7.3
         - cpe:/o:redhat:rhel_aus:7.3::server
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2021-40438
@@ -42,7 +42,7 @@ Entries:
     - Affected:
         - cpe:/o:redhat:rhel_aus:7.4
         - cpe:/o:redhat:rhel_aus:7.4::server
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2021-40438
@@ -53,7 +53,7 @@ Entries:
         - cpe:/o:redhat:rhel_aus:7.6::server
         - cpe:/o:redhat:rhel_tus:7.6
         - cpe:/o:redhat:rhel_tus:7.6::server
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2021-40438
@@ -64,7 +64,7 @@ Entries:
         - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.6
         - cpe:/o:redhat:rhel_e4s:7.6
         - cpe:/o:redhat:rhel_e4s:7.6::server
-      Arch:
+      Arches:
         - ppc64le
         - x86_64
       Cves:
@@ -76,7 +76,7 @@ Entries:
         - cpe:/o:redhat:rhel_aus:7.7::server
         - cpe:/o:redhat:rhel_tus:7.7
         - cpe:/o:redhat:rhel_tus:7.7::server
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2021-40438
@@ -87,7 +87,7 @@ Entries:
         - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.7
         - cpe:/o:redhat:rhel_e4s:7.7
         - cpe:/o:redhat:rhel_e4s:7.7::server
-      Arch:
+      Arches:
         - ppc64le
         - x86_64
       Cves:

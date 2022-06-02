@@ -6,7 +6,7 @@ Entries:
         - cpe:/a:redhat:rhel_software_collections:2::el7
         - cpe:/a:redhat:rhel_software_collections:3
         - cpe:/a:redhat:rhel_software_collections:3::el7
-      Arch:
+      Arches:
         - aarch64
         - ppc64le
         - s390x

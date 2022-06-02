@@ -10,7 +10,7 @@ Entries:
         - cpe:/a:redhat:openstack:7::el7
         - cpe:/a:redhat:openstack_els:7
         - cpe:/a:redhat:openstack_els:7::el7.4
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2017-2615

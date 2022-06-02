@@ -7,7 +7,7 @@ Entries:
         - cpe:/a:redhat:devtools:2021
         - cpe:/a:redhat:devtools:2022
         - cpe:/a:redhat:devtools:2::el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2017-15041

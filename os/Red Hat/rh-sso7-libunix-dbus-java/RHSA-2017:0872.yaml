@@ -2,7 +2,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:red_hat_single_sign_on:7
         - cpe:/a:redhat:red_hat_single_sign_on:7::el6
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2016-8629

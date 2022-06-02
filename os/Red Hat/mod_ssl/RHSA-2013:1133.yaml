@@ -2,7 +2,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:jboss_enterprise_web_server:2
         - cpe:/a:redhat:jboss_enterprise_web_server:2::el6
-      Arch:
+      Arches:
         - i386
         - x86_64
       Cves:

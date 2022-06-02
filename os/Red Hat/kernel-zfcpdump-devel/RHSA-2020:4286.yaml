@@ -102,7 +102,7 @@ Entries:
         - cpe:/o:redhat:rhel_tus:8.4::baseos
         - cpe:/o:redhat:rhel_tus:8.6
         - cpe:/o:redhat:rhel_tus:8.6::baseos
-      Arch:
+      Arches:
         - s390x
       Cves:
         - ID: CVE-2020-12351

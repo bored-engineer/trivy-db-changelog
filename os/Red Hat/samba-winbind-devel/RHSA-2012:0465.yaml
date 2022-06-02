@@ -48,7 +48,7 @@ Entries:
         - cpe:/o:redhat:rhel_tus:6.5::server
         - cpe:/o:redhat:rhel_tus:6.6
         - cpe:/o:redhat:rhel_tus:6.6::server
-      Arch:
+      Arches:
         - i686
         - ppc
         - ppc64
@@ -61,7 +61,7 @@ Entries:
       FixedVersion: 0:3.5.10-115.el6_2
     - Affected:
         - cpe:/o:redhat:rhel_eus:6.1
-      Arch:
+      Arches:
         - i686
         - ppc
         - ppc64

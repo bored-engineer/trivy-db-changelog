@@ -1,7 +1,7 @@
 Entries:
     - Affected:
         - cpe:/o:redhat:rhel_eus:6.1
-      Arch:
+      Arches:
         - i686
         - ppc64
         - s390x

@@ -27,7 +27,7 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.7::server
         - cpe:/o:redhat:rhel_tus:6.6
         - cpe:/o:redhat:rhel_tus:6.6::server
-      Arch:
+      Arches:
         - i686
         - ppc
         - ppc64
@@ -148,7 +148,7 @@ Entries:
         - cpe:/o:redhat:rhel_tus:7.6::server
         - cpe:/o:redhat:rhel_tus:7.7
         - cpe:/o:redhat:rhel_tus:7.7::server
-      Arch:
+      Arches:
         - i686
         - ppc
         - ppc64

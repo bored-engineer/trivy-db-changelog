@@ -6,7 +6,7 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.3
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el6
         - cpe:/a:redhat:jboss_enterprise_application_platform:7::el6
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2020-25644
@@ -21,7 +21,7 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el7
         - cpe:/a:redhat:jboss_enterprise_application_platform:7::el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2020-25644
@@ -34,7 +34,7 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el8
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el8
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2020-25644

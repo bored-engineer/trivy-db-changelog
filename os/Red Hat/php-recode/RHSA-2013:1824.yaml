@@ -5,7 +5,7 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.2::server
         - cpe:/o:redhat:rhel_mission_critical:6.2
         - cpe:/o:redhat:rhel_mission_critical:6.2::server
-      Arch:
+      Arches:
         - i686
         - ppc64
         - s390x
@@ -18,7 +18,7 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.3
         - cpe:/o:redhat:rhel_eus:6.3::computenode
         - cpe:/o:redhat:rhel_eus:6.3::server
-      Arch:
+      Arches:
         - i686
         - ppc64
         - s390x
@@ -35,7 +35,7 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.4
         - cpe:/o:redhat:rhel_eus:6.4::computenode
         - cpe:/o:redhat:rhel_eus:6.4::server
-      Arch:
+      Arches:
         - i686
         - ppc64
         - s390x

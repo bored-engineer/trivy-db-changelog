@@ -3,7 +3,7 @@ Entries:
         - cpe:/o:redhat:rhel_aus:6.4
         - cpe:/o:redhat:rhel_aus:6.4::computenode
         - cpe:/o:redhat:rhel_aus:6.4::server
-      Arch:
+      Arches:
         - i686
         - x86_64
       Cves:
@@ -19,7 +19,7 @@ Entries:
     - Affected:
         - cpe:/o:redhat:rhel_aus:6.5
         - cpe:/o:redhat:rhel_aus:6.5::server
-      Arch:
+      Arches:
         - i686
         - x86_64
       Cves:

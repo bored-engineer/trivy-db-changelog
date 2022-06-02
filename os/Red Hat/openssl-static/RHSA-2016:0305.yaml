@@ -7,7 +7,7 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.6::server
         - cpe:/o:redhat:rhel_tus:6.6
         - cpe:/o:redhat:rhel_tus:6.6::server
-      Arch:
+      Arches:
         - i686
         - ppc64
         - s390x
@@ -25,7 +25,7 @@ Entries:
         - cpe:/o:redhat:rhel_eus:7.1
         - cpe:/o:redhat:rhel_eus:7.1::computenode
         - cpe:/o:redhat:rhel_eus:7.1::server
-      Arch:
+      Arches:
         - i686
         - ppc
         - ppc64

@@ -3,7 +3,7 @@ Entries:
         - cpe:/o:redhat:rhel_aus:6.4
         - cpe:/o:redhat:rhel_aus:6.4::computenode
         - cpe:/o:redhat:rhel_aus:6.4::server
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2015-5370
@@ -26,7 +26,7 @@ Entries:
     - Affected:
         - cpe:/o:redhat:rhel_aus:6.5
         - cpe:/o:redhat:rhel_aus:6.5::server
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2015-5370
@@ -54,7 +54,7 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.6::server
         - cpe:/o:redhat:rhel_tus:6.6
         - cpe:/o:redhat:rhel_tus:6.6::server
-      Arch:
+      Arches:
         - i686
         - x86_64
       Cves:

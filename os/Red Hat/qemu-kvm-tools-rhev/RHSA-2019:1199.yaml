@@ -6,7 +6,7 @@ Entries:
         - cpe:/a:redhat:openstack-optools:9::el7
         - cpe:/a:redhat:openstack:9
         - cpe:/a:redhat:openstack:9::el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2018-12126

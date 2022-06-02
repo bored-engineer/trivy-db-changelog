@@ -2,7 +2,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:rhel_dotnet:3.1
         - cpe:/a:redhat:rhel_dotnet:3.1::el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2021-26423

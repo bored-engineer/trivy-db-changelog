@@ -119,7 +119,7 @@ Entries:
         - cpe:/o:redhat:rhel_tus:8.4::baseos
         - cpe:/o:redhat:rhel_tus:8.6
         - cpe:/o:redhat:rhel_tus:8.6::baseos
-      Arch:
+      Arches:
         - aarch64
         - i686
         - ppc64le

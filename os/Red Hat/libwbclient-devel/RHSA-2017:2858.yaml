@@ -32,7 +32,7 @@ Entries:
         - cpe:/a:redhat:storage:3:nfs:el6
         - cpe:/a:redhat:storage:3:samba:el6
         - cpe:/a:redhat:storage:3:server:el6
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2017-12150
@@ -77,7 +77,7 @@ Entries:
         - cpe:/a:redhat:storage:3.5:server:el7
         - cpe:/a:redhat:storage:3.5:wa:el7
         - cpe:/a:redhat:storage:3:client:el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2017-12150

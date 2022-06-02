@@ -2,7 +2,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.9
         - cpe:/a:redhat:openshift:4.9::el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2021-29923
@@ -17,7 +17,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.9
         - cpe:/a:redhat:openshift:4.9::el8
-      Arch:
+      Arches:
         - aarch64
         - ppc64le
         - s390x

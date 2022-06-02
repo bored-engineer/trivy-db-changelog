@@ -2,7 +2,7 @@ Entries:
     - Affected:
         - cpe:/o:redhat:rhel_mission_critical:6.2
         - cpe:/o:redhat:rhel_mission_critical:6.2::server
-      Arch:
+      Arches:
         - i686
         - x86_64
       Cves:
@@ -17,7 +17,7 @@ Entries:
         - cpe:/o:redhat:rhel_aus:6.4
         - cpe:/o:redhat:rhel_aus:6.4::computenode
         - cpe:/o:redhat:rhel_aus:6.4::server
-      Arch:
+      Arches:
         - i686
         - x86_64
       Cves:
@@ -33,7 +33,7 @@ Entries:
         - cpe:/o:redhat:rhel_aus:6.5::server
         - cpe:/o:redhat:rhel_tus:6.5
         - cpe:/o:redhat:rhel_tus:6.5::server
-      Arch:
+      Arches:
         - i686
         - x86_64
       Cves:
@@ -49,7 +49,7 @@ Entries:
         - cpe:/o:redhat:rhel_aus:6.6::server
         - cpe:/o:redhat:rhel_tus:6.6
         - cpe:/o:redhat:rhel_tus:6.6::server
-      Arch:
+      Arches:
         - i686
         - x86_64
       Cves:
@@ -67,7 +67,7 @@ Entries:
         - cpe:/o:redhat:rhel_eus:6.7::computenode
         - cpe:/o:redhat:rhel_eus:6.7::sap
         - cpe:/o:redhat:rhel_eus:6.7::server
-      Arch:
+      Arches:
         - i686
         - ppc
         - ppc64

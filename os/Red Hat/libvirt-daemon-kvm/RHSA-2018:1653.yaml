@@ -13,7 +13,7 @@ Entries:
         - cpe:/o:redhat:rhel_eus:7.3::server
         - cpe:/o:redhat:rhel_tus:7.3
         - cpe:/o:redhat:rhel_tus:7.3::server
-      Arch:
+      Arches:
         - ppc64le
         - x86_64
       Cves:

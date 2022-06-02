@@ -16,7 +16,7 @@ Entries:
         - cpe:/a:redhat:openstack:8::el7
         - cpe:/a:redhat:openstack:9
         - cpe:/a:redhat:openstack:9::el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2018-11806
@@ -31,7 +31,7 @@ Entries:
         - cpe:/a:redhat:openstack:12::el7
         - cpe:/a:redhat:openstack:13
         - cpe:/a:redhat:openstack:13::el7
-      Arch:
+      Arches:
         - ppc64le
         - x86_64
       Cves:

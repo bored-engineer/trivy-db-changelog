@@ -4,7 +4,7 @@ Entries:
         - cpe:/a:redhat:openstack-optools:13::el7
         - cpe:/a:redhat:openstack:13
         - cpe:/a:redhat:openstack:13::el7
-      Arch:
+      Arches:
         - ppc64le
         - x86_64
       Cves:

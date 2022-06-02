@@ -7,7 +7,7 @@ Entries:
         - cpe:/a:redhat:rhel_e4s:8.1::sap_hana
         - cpe:/o:redhat:rhel_e4s:8.1
         - cpe:/o:redhat:rhel_e4s:8.1::baseos
-      Arch:
+      Arches:
         - i686
         - ppc64le
         - x86_64

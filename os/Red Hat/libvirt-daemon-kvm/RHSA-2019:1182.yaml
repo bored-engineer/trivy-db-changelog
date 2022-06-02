@@ -5,7 +5,7 @@ Entries:
         - cpe:/o:redhat:rhel_eus:7.5
         - cpe:/o:redhat:rhel_eus:7.5::computenode
         - cpe:/o:redhat:rhel_eus:7.5::server
-      Arch:
+      Arches:
         - ppc64le
         - s390x
         - x86_64

@@ -14,7 +14,7 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:6::workstation
         - cpe:/o:redhat:rhel_els:6
         - cpe:/o:redhat:rhel_eus:6.0
-      Arch:
+      Arches:
         - i686
         - ppc64
         - s390x
@@ -106,7 +106,7 @@ Entries:
         - cpe:/o:redhat:rhel_tus:7.6::server
         - cpe:/o:redhat:rhel_tus:7.7
         - cpe:/o:redhat:rhel_tus:7.7::server
-      Arch:
+      Arches:
         - aarch64
         - ppc64le
         - x86_64

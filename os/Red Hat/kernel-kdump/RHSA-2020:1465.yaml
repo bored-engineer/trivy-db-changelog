@@ -13,7 +13,7 @@ Entries:
         - cpe:/o:redhat:rhel_eus:7.6::server
         - cpe:/o:redhat:rhel_tus:7.6
         - cpe:/o:redhat:rhel_tus:7.6::server
-      Arch:
+      Arches:
         - s390x
       Cves:
         - ID: CVE-2019-17666

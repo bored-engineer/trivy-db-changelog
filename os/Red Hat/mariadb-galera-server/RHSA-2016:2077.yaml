@@ -6,7 +6,7 @@ Entries:
         - cpe:/a:redhat:openstack-optools:8::el7
         - cpe:/a:redhat:openstack:8
         - cpe:/a:redhat:openstack:8::el7
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2016-6662

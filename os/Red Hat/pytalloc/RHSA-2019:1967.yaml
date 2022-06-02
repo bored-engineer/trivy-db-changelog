@@ -32,7 +32,7 @@ Entries:
         - cpe:/a:redhat:storage:3:nfs:el6
         - cpe:/a:redhat:storage:3:samba:el6
         - cpe:/a:redhat:storage:3:server:el6
-      Arch:
+      Arches:
         - x86_64
       Cves:
         - ID: CVE-2019-3880

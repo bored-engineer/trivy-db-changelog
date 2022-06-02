@@ -2,7 +2,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:openstack:16.1
         - cpe:/a:redhat:openstack:16.1::el8
-      Arch:
+      Arches:
         - ppc64le
         - x86_64
       Cves:

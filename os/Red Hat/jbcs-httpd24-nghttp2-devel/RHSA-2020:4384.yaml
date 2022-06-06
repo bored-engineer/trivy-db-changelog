@@ -1,0 +1,36 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_core_services:1
+        - cpe:/a:redhat:jboss_core_services:1::el6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2019-1551
+          Severity: LOW
+        - ID: CVE-2019-5435
+          Severity: LOW
+        - ID: CVE-2020-11984
+          Severity: MEDIUM
+        - ID: CVE-2020-11993
+          Severity: MEDIUM
+        - ID: CVE-2020-25680
+          Severity: LOW
+      FixedVersion: 0:1.39.2-34.jbcs.el6
+    - Affected:
+        - cpe:/a:redhat:jboss_core_services:1
+        - cpe:/a:redhat:jboss_core_services:1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-1551
+          Severity: LOW
+        - ID: CVE-2019-5435
+          Severity: LOW
+        - ID: CVE-2020-11984
+          Severity: MEDIUM
+        - ID: CVE-2020-11993
+          Severity: MEDIUM
+        - ID: CVE-2020-25680
+          Severity: LOW
+      FixedVersion: 0:1.39.2-34.jbcs.el7

@@ -58,4 +58,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-27385
           Severity: MEDIUM
+        - ID: CVE-2022-31621
+          Severity: MEDIUM
+        - ID: CVE-2022-31624
+          Severity: MEDIUM
       FixedVersion: 0:25.3.34-4.module+el8.4.0+15058+0c3d11c7

@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.8
+        - cpe:/a:redhat:openshift:4.8::el8
+      Cves:
+        - ID: CVE-2022-20612
+          Severity: MEDIUM
+        - ID: CVE-2022-20617
+          Severity: HIGH
+      FixedVersion: 0:4.8.1643649345-1.el8

@@ -27,6 +27,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2021-34798
           Severity: MEDIUM
+        - ID: CVE-2021-3688
+          Severity: MEDIUM
         - ID: CVE-2021-3712
           Severity: MEDIUM
       FixedVersion: 0:1.2.48-20.redhat_1.jbcs.el7
@@ -57,6 +59,8 @@ Entries:
         - ID: CVE-2021-30641
           Severity: MEDIUM
         - ID: CVE-2021-34798
+          Severity: MEDIUM
+        - ID: CVE-2021-3688
           Severity: MEDIUM
         - ID: CVE-2021-3712
           Severity: MEDIUM

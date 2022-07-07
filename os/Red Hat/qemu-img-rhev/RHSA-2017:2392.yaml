@@ -1,0 +1,53 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2016-10155
+          Severity: LOW
+        - ID: CVE-2016-4020
+          Severity: LOW
+        - ID: CVE-2016-6835
+          Severity: MEDIUM
+        - ID: CVE-2016-6888
+          Severity: LOW
+        - ID: CVE-2016-7422
+          Severity: LOW
+        - ID: CVE-2016-7466
+          Severity: LOW
+        - ID: CVE-2016-8576
+          Severity: LOW
+        - ID: CVE-2016-8669
+          Severity: LOW
+        - ID: CVE-2016-8909
+          Severity: LOW
+        - ID: CVE-2016-8910
+          Severity: LOW
+        - ID: CVE-2016-9907
+          Severity: LOW
+        - ID: CVE-2016-9911
+          Severity: LOW
+        - ID: CVE-2016-9921
+          Severity: LOW
+        - ID: CVE-2016-9922
+          Severity: LOW
+        - ID: CVE-2017-2630
+          Severity: HIGH
+        - ID: CVE-2017-5579
+          Severity: LOW
+        - ID: CVE-2017-5898
+          Severity: MEDIUM
+        - ID: CVE-2017-5973
+          Severity: LOW
+        - ID: CVE-2017-9310
+          Severity: LOW
+        - ID: CVE-2017-9373
+          Severity: LOW
+        - ID: CVE-2017-9374
+          Severity: LOW
+        - ID: CVE-2017-9375
+          Severity: LOW
+      FixedVersion: 10:2.9.0-14.el7

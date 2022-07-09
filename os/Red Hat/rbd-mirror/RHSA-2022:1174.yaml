@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:5
+        - cpe:/a:redhat:ceph_storage:5::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-3524
+          Severity: MEDIUM
+        - ID: CVE-2021-3531
+          Severity: MEDIUM
+        - ID: CVE-2021-3979
+          Severity: MEDIUM
+      FixedVersion: 2:16.2.7-98.el8cp

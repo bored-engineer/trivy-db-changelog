@@ -17,4 +17,3 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2022-1966
-          Severity: HIGH

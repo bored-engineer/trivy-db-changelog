@@ -44,7 +44,6 @@ Entries:
         - ID: CVE-2022-1729
           Severity: HIGH
         - ID: CVE-2022-1966
-          Severity: HIGH
         - ID: CVE-2022-27666
           Severity: HIGH
       FixedVersion: 0:5.14.0-70.17.1.el9_0

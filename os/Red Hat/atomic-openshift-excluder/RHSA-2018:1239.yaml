@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.3
+        - cpe:/a:redhat:openshift:3.3::el7
+      Cves:
+        - ID: CVE-2018-1102
+          Severity: CRITICAL
+      FixedVersion: 0:3.3.1.46.39-2.git.3.cc57f5b.el7

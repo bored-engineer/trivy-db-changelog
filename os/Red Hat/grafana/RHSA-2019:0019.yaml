@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:3
+        - cpe:/a:redhat:ceph_storage:3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-15727
+          Severity: MEDIUM
+        - ID: CVE-2018-18623
+          Severity: MEDIUM
+      FixedVersion: 0:5.2.4-1.el7cp

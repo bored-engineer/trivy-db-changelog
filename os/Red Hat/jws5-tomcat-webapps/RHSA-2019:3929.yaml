@@ -1,0 +1,82 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.0
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.0::el6
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.2
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.2::el6
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.3
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.3::el6
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.4
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.4::el6
+      Cves:
+        - ID: CVE-2018-5407
+          Severity: MEDIUM
+        - ID: CVE-2019-0199
+          Severity: HIGH
+        - ID: CVE-2019-0221
+          Severity: LOW
+        - ID: CVE-2019-0232
+          Severity: HIGH
+        - ID: CVE-2019-10072
+          Severity: MEDIUM
+        - ID: CVE-2019-1559
+          Severity: MEDIUM
+      FixedVersion: 0:9.0.21-10.redhat_4.1.el6jws
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.0
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.0::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.2
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.2::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.3
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.3::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.4
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.4::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.5
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.5::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.6
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.6::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.7::el7
+      Cves:
+        - ID: CVE-2018-5407
+          Severity: MEDIUM
+        - ID: CVE-2019-0199
+          Severity: HIGH
+        - ID: CVE-2019-0221
+          Severity: LOW
+        - ID: CVE-2019-0232
+          Severity: HIGH
+        - ID: CVE-2019-10072
+          Severity: MEDIUM
+        - ID: CVE-2019-1559
+          Severity: MEDIUM
+      FixedVersion: 0:9.0.21-10.redhat_4.1.el7jws
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.0
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.0::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.2
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.2::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.3
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.3::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.4
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.4::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.5
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.5::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.6
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.6::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.7::el8
+      Cves:
+        - ID: CVE-2018-5407
+          Severity: MEDIUM
+        - ID: CVE-2019-0199
+          Severity: HIGH
+        - ID: CVE-2019-0221
+          Severity: LOW
+        - ID: CVE-2019-0232
+          Severity: HIGH
+        - ID: CVE-2019-10072
+          Severity: MEDIUM
+        - ID: CVE-2019-1559
+          Severity: MEDIUM
+      FixedVersion: 0:9.0.21-10.redhat_4.1.el8jws

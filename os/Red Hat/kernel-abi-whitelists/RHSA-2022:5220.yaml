@@ -32,7 +32,7 @@ Entries:
         - cpe:/o:redhat:rhel_tus:8.2::baseos
       Cves:
         - ID: CVE-2020-29368
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2022-1012
           Severity: HIGH
         - ID: CVE-2022-1729

@@ -14,7 +14,7 @@ Entries:
         - ID: CVE-2019-10086
           Severity: HIGH
         - ID: CVE-2019-12086
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2020-10716
           Severity: LOW
       FixedVersion: 0:5.5.17-1.el7sat

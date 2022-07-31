@@ -82,7 +82,7 @@ Entries:
         - ID: CVE-2020-27777
           Severity: MEDIUM
         - ID: CVE-2020-29368
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2020-29660
           Severity: MEDIUM
         - ID: CVE-2020-36158

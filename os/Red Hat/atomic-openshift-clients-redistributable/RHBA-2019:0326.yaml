@@ -1,0 +1,40 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-1000865
+          Severity: HIGH
+        - ID: CVE-2018-1000866
+          Severity: HIGH
+        - ID: CVE-2018-20102
+          Severity: MEDIUM
+        - ID: CVE-2018-20103
+          Severity: HIGH
+        - ID: CVE-2018-20615
+          Severity: HIGH
+        - ID: CVE-2019-1003000
+          Severity: HIGH
+        - ID: CVE-2019-1003001
+          Severity: HIGH
+        - ID: CVE-2019-1003002
+          Severity: HIGH
+        - ID: CVE-2019-1003003
+          Severity: MEDIUM
+        - ID: CVE-2019-1003004
+          Severity: MEDIUM
+        - ID: CVE-2019-1003010
+          Severity: LOW
+        - ID: CVE-2019-1003011
+          Severity: MEDIUM
+        - ID: CVE-2019-1003012
+          Severity: MEDIUM
+        - ID: CVE-2019-1003013
+          Severity: MEDIUM
+        - ID: CVE-2019-1003014
+          Severity: MEDIUM
+        - ID: CVE-2019-3826
+          Severity: MEDIUM
+      FixedVersion: 0:3.11.82-1.git.0.08bc31b.el7

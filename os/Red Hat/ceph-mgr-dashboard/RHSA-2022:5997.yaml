@@ -1,6 +1,8 @@
 Entries:
     - Affected:
         - cpe:/a:redhat:ceph_storage:5
+        - cpe:/a:redhat:ceph_storage:5.3
+        - cpe:/a:redhat:ceph_storage:5.3::el8
         - cpe:/a:redhat:ceph_storage:5::el8
       Cves:
         - ID: CVE-2022-0670
@@ -8,6 +10,8 @@ Entries:
       FixedVersion: 2:16.2.8-84.el8cp
     - Affected:
         - cpe:/a:redhat:ceph_storage:5
+        - cpe:/a:redhat:ceph_storage:5.3
+        - cpe:/a:redhat:ceph_storage:5.3::el9
         - cpe:/a:redhat:ceph_storage:5::el8
         - cpe:/a:redhat:ceph_storage:5::el9
       Cves:

@@ -105,4 +105,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2020-25715
           Severity: MEDIUM
+        - ID: CVE-2022-25762
+          Severity: HIGH
       FixedVersion: 0:2.9.9-1.module+el8.1.0+3832+9784644d

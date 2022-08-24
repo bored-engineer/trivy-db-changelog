@@ -5,9 +5,15 @@ Entries:
       Arches:
         - x86_64
       Cves:
+        - ID: CVE-2022-23773
+          Severity: MEDIUM
+        - ID: CVE-2022-23806
+          Severity: MEDIUM
         - ID: CVE-2022-24675
           Severity: MEDIUM
         - ID: CVE-2022-24921
+          Severity: MEDIUM
+        - ID: CVE-2022-28327
           Severity: MEDIUM
         - ID: CVE-2022-29526
           Severity: MEDIUM
@@ -21,9 +27,15 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2022-23773
+          Severity: MEDIUM
+        - ID: CVE-2022-23806
+          Severity: MEDIUM
         - ID: CVE-2022-24675
           Severity: MEDIUM
         - ID: CVE-2022-24921
+          Severity: MEDIUM
+        - ID: CVE-2022-28327
           Severity: MEDIUM
         - ID: CVE-2022-29526
           Severity: MEDIUM

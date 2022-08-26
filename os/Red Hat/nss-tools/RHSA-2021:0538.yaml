@@ -80,6 +80,8 @@ Entries:
       Cves:
         - ID: CVE-2020-12400
           Severity: MEDIUM
+        - ID: CVE-2020-12401
+          Severity: MEDIUM
         - ID: CVE-2020-12403
           Severity: MEDIUM
         - ID: CVE-2020-6829

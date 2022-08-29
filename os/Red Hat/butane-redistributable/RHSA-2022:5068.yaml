@@ -3,6 +3,8 @@ Entries:
         - cpe:/a:redhat:openshift:4.11
         - cpe:/a:redhat:openshift:4.11::el8
       Cves:
+        - ID: CVE-2021-43565
+          Severity: MEDIUM
         - ID: CVE-2022-1706
           Severity: MEDIUM
         - ID: CVE-2022-21698

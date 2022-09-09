@@ -7,4 +7,14 @@ Entries:
         - cpe:/a:redhat:rhel_software_collections:3
         - cpe:/a:redhat:rhel_software_collections:3::el7
       Cves:
-        - Severity: MEDIUM
+        - ID: CVE-2022-32212
+          Severity: MEDIUM
+        - ID: CVE-2022-32213
+          Severity: MEDIUM
+        - ID: CVE-2022-32214
+          Severity: MEDIUM
+        - ID: CVE-2022-32215
+          Severity: MEDIUM
+        - ID: CVE-2022-33987
+          Severity: MEDIUM
+      FixedVersion: 0:14.20.0-2.el7

@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.4
+        - cpe:/o:redhat:rhel_aus:7.4::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-0492
+          Severity: HIGH
+        - ID: CVE-2022-1729
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-693.103.1.el7

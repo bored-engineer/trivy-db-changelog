@@ -10,7 +10,7 @@ Entries:
         - ID: CVE-2020-15586
           Severity: LOW
         - ID: CVE-2020-16845
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2020-28362
           Severity: MEDIUM
         - ID: CVE-2020-8564

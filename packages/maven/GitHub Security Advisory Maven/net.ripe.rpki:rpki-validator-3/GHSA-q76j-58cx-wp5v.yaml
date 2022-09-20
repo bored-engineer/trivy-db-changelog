@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 3.2-2020.10.28.23.06
+VulnerableVersions:
+    - <= 3.2-2020.10.28.22.25

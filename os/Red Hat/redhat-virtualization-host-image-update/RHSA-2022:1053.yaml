@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::hypervisor
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-25235
+          Severity: HIGH
+        - ID: CVE-2022-25236
+          Severity: HIGH
+        - ID: CVE-2022-25315
+          Severity: HIGH
+      FixedVersion: 0:4.4.10-202203211649_8.5

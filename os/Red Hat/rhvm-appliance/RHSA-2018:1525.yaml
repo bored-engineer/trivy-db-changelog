@@ -8,7 +8,7 @@ Entries:
         - ID: CVE-2018-1073
           Severity: LOW
         - ID: CVE-2018-1111
-          Severity: LOW
+          Severity: CRITICAL
         - ID: CVE-2018-5968
           Severity: MEDIUM
         - ID: CVE-2018-7750

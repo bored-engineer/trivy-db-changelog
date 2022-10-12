@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-2181
+          Severity: MEDIUM
+        - ID: CVE-2020-2182
+          Severity: LOW
+      FixedVersion: 0:3.11.248-1.git.1.bb4a1fc.el7

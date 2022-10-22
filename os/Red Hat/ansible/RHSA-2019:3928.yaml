@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ansible_engine:2
+        - cpe:/a:redhat:ansible_engine:2::el7
+      Cves:
+        - ID: CVE-2019-14864
+          Severity: MEDIUM
+      FixedVersion: 0:2.9.1-1.el7
+    - Affected:
+        - cpe:/a:redhat:ansible_engine:2
+        - cpe:/a:redhat:ansible_engine:2::el8
+      Cves:
+        - ID: CVE-2019-14864
+          Severity: MEDIUM
+      FixedVersion: 0:2.9.1-1.el8

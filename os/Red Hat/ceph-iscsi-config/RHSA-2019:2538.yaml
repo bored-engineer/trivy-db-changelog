@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:3
+        - cpe:/a:redhat:ceph_storage:3::el7
+      Cves:
+        - ID: CVE-2018-14662
+          Severity: LOW
+        - ID: CVE-2018-16846
+          Severity: MEDIUM
+        - ID: CVE-2018-16889
+          Severity: MEDIUM
+      FixedVersion: 0:2.6-19.el7cp

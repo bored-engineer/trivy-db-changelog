@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.4
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.4
+        - cpe:/o:redhat:rhel_aus:7.4
+        - cpe:/o:redhat:rhel_aus:7.4::server
+        - cpe:/o:redhat:rhel_e4s:7.4
+        - cpe:/o:redhat:rhel_e4s:7.4::server
+        - cpe:/o:redhat:rhel_tus:7.4
+        - cpe:/o:redhat:rhel_tus:7.4::server
+      Cves:
+        - ID: CVE-2020-10543
+          Severity: MEDIUM
+        - ID: CVE-2020-10878
+          Severity: MEDIUM
+        - ID: CVE-2020-12723
+          Severity: MEDIUM
+      FixedVersion: 0:1.58-292.el7_4.2

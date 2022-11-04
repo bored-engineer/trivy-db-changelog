@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.10
+        - cpe:/a:redhat:openshift:3.10::el7
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2019-0542
+          Severity: MEDIUM
+      FixedVersion: 0:3.10.163-1.git.1.c3a2131.el7

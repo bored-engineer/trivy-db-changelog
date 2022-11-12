@@ -8,7 +8,7 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_application_platform:7::el6
       Cves:
         - ID: CVE-2017-12629
-          Severity: CRITICAL
+          Severity: MEDIUM
       FixedVersion: 0:5.3.1-4.redhat_2.1.ep7.el6
     - Affected:
         - cpe:/a:redhat:jboss_enterprise_application_platform:7
@@ -21,5 +21,5 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_application_platform:7::el7
       Cves:
         - ID: CVE-2017-12629
-          Severity: CRITICAL
+          Severity: MEDIUM
       FixedVersion: 0:5.3.1-4.redhat_2.1.ep7.el7

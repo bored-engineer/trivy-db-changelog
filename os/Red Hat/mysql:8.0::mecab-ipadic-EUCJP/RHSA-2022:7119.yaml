@@ -272,4 +272,12 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-21569
           Severity: MEDIUM
+        - ID: CVE-2022-21592
+          Severity: MEDIUM
+        - ID: CVE-2022-21635
+          Severity: MEDIUM
+        - ID: CVE-2022-21638
+          Severity: MEDIUM
+        - ID: CVE-2022-21641
+          Severity: MEDIUM
       FixedVersion: 0:2.7.0.20070801-16.module+el8.0.0+3898+e09bb8de

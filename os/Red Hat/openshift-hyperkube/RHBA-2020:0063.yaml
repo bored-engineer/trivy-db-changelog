@@ -1,0 +1,43 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-10401
+          Severity: MEDIUM
+        - ID: CVE-2019-10402
+          Severity: MEDIUM
+        - ID: CVE-2019-10403
+          Severity: MEDIUM
+        - ID: CVE-2019-10404
+          Severity: MEDIUM
+        - ID: CVE-2019-10405
+          Severity: MEDIUM
+        - ID: CVE-2019-10406
+          Severity: MEDIUM
+        - ID: CVE-2019-11840
+          Severity: MEDIUM
+      FixedVersion: 0:4.3.0-202001131753.git.0.0aee6a8.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-10401
+          Severity: MEDIUM
+        - ID: CVE-2019-10402
+          Severity: MEDIUM
+        - ID: CVE-2019-10403
+          Severity: MEDIUM
+        - ID: CVE-2019-10404
+          Severity: MEDIUM
+        - ID: CVE-2019-10405
+          Severity: MEDIUM
+        - ID: CVE-2019-10406
+          Severity: MEDIUM
+        - ID: CVE-2019-11840
+          Severity: MEDIUM
+      FixedVersion: 0:4.3.0-202001131753.git.0.0aee6a8.el8

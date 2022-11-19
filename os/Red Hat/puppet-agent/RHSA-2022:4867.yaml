@@ -1,6 +1,7 @@
 Entries:
     - Affected:
-        - cpe:/a:redhat:rhel_satellite_tools:6
+        - cpe:/a:redhat:rhel_satellite_tools:6.9
+        - cpe:/a:redhat:rhel_satellite_tools:6.9::el6
       Arches:
         - i686
         - x86_64
@@ -11,7 +12,8 @@ Entries:
           Severity: MEDIUM
       FixedVersion: 0:6.26.0-1.el6sat
     - Affected:
-        - cpe:/a:redhat:rhel_satellite_tools:7
+        - cpe:/a:redhat:rhel_satellite_tools:6.9
+        - cpe:/a:redhat:rhel_satellite_tools:6.9::el7
       Arches:
         - aarch64
         - ppc64le
@@ -23,7 +25,8 @@ Entries:
           Severity: MEDIUM
       FixedVersion: 0:6.26.0-1.el7sat
     - Affected:
-        - cpe:/a:redhat:rhel_satellite_tools:7
+        - cpe:/a:redhat:rhel_satellite_tools:6.9
+        - cpe:/a:redhat:rhel_satellite_tools:6.9::el7
       Arches:
         - ppc64le
         - x86_64
@@ -36,7 +39,6 @@ Entries:
     - Affected:
         - cpe:/a:redhat:rhel_satellite_tools:6.9
         - cpe:/a:redhat:rhel_satellite_tools:6.9::el8
-        - cpe:/a:redhat:rhel_satellite_tools:8
       Arches:
         - x86_64
       Cves:

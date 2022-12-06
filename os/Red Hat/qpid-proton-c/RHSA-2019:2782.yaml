@@ -1,6 +1,7 @@
 Entries:
     - Affected:
-        - cpe:/a:redhat:rhel_satellite_tools:5
+        - cpe:/a:redhat:rhel_satellite_tools:6.4
+        - cpe:/a:redhat:rhel_satellite_tools:6.4::el5
       Arches:
         - i386
         - s390x
@@ -10,7 +11,8 @@ Entries:
           Severity: HIGH
       FixedVersion: 0:0.9-22.el5
     - Affected:
-        - cpe:/a:redhat:rhel_satellite_tools:6
+        - cpe:/a:redhat:rhel_satellite_tools:6.4
+        - cpe:/a:redhat:rhel_satellite_tools:6.4::el6
         - cpe:/a:redhat:rhel_satellite_tools:6.9
         - cpe:/a:redhat:rhel_satellite_tools:6.9::el6
       Arches:
@@ -36,7 +38,8 @@ Entries:
           Severity: HIGH
       FixedVersion: 0:0.16.0-14.el7sat
     - Affected:
-        - cpe:/a:redhat:rhel_satellite_tools:7
+        - cpe:/a:redhat:rhel_satellite_tools:6.4
+        - cpe:/a:redhat:rhel_satellite_tools:6.4::el7
       Arches:
         - ppc64le
         - x86_64

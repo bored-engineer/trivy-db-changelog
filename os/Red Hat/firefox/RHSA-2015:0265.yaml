@@ -17,7 +17,6 @@ Entries:
         - cpe:/o:redhat:rhel_aus:6.6
         - cpe:/o:redhat:rhel_aus:6.6::server
         - cpe:/o:redhat:rhel_els:6
-        - cpe:/o:redhat:rhel_eus:6.0
         - cpe:/o:redhat:rhel_eus:6.6
         - cpe:/o:redhat:rhel_eus:6.6::computenode
         - cpe:/o:redhat:rhel_eus:6.6::server
@@ -75,8 +74,6 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:7
         - cpe:/o:redhat:enterprise_linux:7::client
         - cpe:/o:redhat:enterprise_linux:7::computenode
-        - cpe:/o:redhat:enterprise_linux:7::container
-        - cpe:/o:redhat:enterprise_linux:7::containers
         - cpe:/o:redhat:enterprise_linux:7::server
         - cpe:/o:redhat:enterprise_linux:7::workstation
         - cpe:/o:redhat:rhel_aus:7.2

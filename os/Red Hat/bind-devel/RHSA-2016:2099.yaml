@@ -13,7 +13,6 @@ Entries:
       FixedVersion: 32:9.7.3-8.P3.el6_2.5
     - Affected:
         - cpe:/o:redhat:rhel_aus:6.4
-        - cpe:/o:redhat:rhel_aus:6.4::computenode
         - cpe:/o:redhat:rhel_aus:6.4::server
       Arches:
         - i686

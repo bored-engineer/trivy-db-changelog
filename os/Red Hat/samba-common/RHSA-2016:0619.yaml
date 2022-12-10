@@ -21,7 +21,6 @@ Entries:
       FixedVersion: 0:3.6.23-30.el6_2
     - Affected:
         - cpe:/o:redhat:rhel_aus:6.4
-        - cpe:/o:redhat:rhel_aus:6.4::computenode
         - cpe:/o:redhat:rhel_aus:6.4::server
       Arches:
         - i686

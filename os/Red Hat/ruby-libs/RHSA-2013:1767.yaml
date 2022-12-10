@@ -32,9 +32,7 @@ Entries:
           Severity: CRITICAL
       FixedVersion: 0:1.8.7.352-13.el6_3
     - Affected:
-        - cpe:/a:redhat:rhel_extras_sap:6
         - cpe:/o:redhat:rhel_aus:6.4
-        - cpe:/o:redhat:rhel_aus:6.4::computenode
         - cpe:/o:redhat:rhel_aus:6.4::server
         - cpe:/o:redhat:rhel_eus:6.4
         - cpe:/o:redhat:rhel_eus:6.4::computenode

@@ -19,9 +19,6 @@ Entries:
           Severity: HIGH
       FixedVersion: 0:1.0.1e-30.el6_6.12
     - Affected:
-        - cpe:/o:redhat:enterprise_linux:7
-        - cpe:/o:redhat:enterprise_linux:7::client
-        - cpe:/o:redhat:enterprise_linux:7::workstation
         - cpe:/o:redhat:rhel_eus:7.1
         - cpe:/o:redhat:rhel_eus:7.1::computenode
         - cpe:/o:redhat:rhel_eus:7.1::server

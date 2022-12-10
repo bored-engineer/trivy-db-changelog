@@ -13,7 +13,6 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:6::server
         - cpe:/o:redhat:enterprise_linux:6::workstation
         - cpe:/o:redhat:rhel_els:6
-        - cpe:/o:redhat:rhel_eus:6.0
       Cves:
         - ID: CVE-2018-2952
           Severity: MEDIUM

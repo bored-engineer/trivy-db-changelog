@@ -13,14 +13,12 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:6::server
         - cpe:/o:redhat:enterprise_linux:6::workstation
         - cpe:/o:redhat:rhel_els:6
-        - cpe:/o:redhat:rhel_eus:6.0
       Cves:
         - ID: CVE-2018-1000805
           Severity: CRITICAL
       FixedVersion: 0:1.7.5-5.el6_10
     - Affected:
         - cpe:/o:redhat:rhel_aus:6.4
-        - cpe:/o:redhat:rhel_aus:6.4::computenode
         - cpe:/o:redhat:rhel_aus:6.4::server
       Cves:
         - ID: CVE-2018-1000805

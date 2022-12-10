@@ -19,7 +19,6 @@ Entries:
         - cpe:/o:redhat:rhel_aus:6.6
         - cpe:/o:redhat:rhel_aus:6.6::server
         - cpe:/o:redhat:rhel_els:6
-        - cpe:/o:redhat:rhel_eus:6.0
         - cpe:/o:redhat:rhel_eus:6.5
         - cpe:/o:redhat:rhel_eus:6.5::computenode
         - cpe:/o:redhat:rhel_eus:6.5::server

@@ -16,8 +16,6 @@ Entries:
         - cpe:/a:redhat:rhel_aus:8.4::appstream
         - cpe:/a:redhat:rhel_aus:8.6
         - cpe:/a:redhat:rhel_aus:8.6::appstream
-        - cpe:/a:redhat:rhel_aus:8.8
-        - cpe:/a:redhat:rhel_aus:8.8::appstream
         - cpe:/a:redhat:rhel_e4s:8.0
         - cpe:/a:redhat:rhel_e4s:8.0::appstream
         - cpe:/a:redhat:rhel_e4s:8.0::highavailability
@@ -43,11 +41,6 @@ Entries:
         - cpe:/a:redhat:rhel_e4s:8.6::highavailability
         - cpe:/a:redhat:rhel_e4s:8.6::sap
         - cpe:/a:redhat:rhel_e4s:8.6::sap_hana
-        - cpe:/a:redhat:rhel_e4s:8.8
-        - cpe:/a:redhat:rhel_e4s:8.8::appstream
-        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
-        - cpe:/a:redhat:rhel_e4s:8.8::sap
-        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
         - cpe:/a:redhat:rhel_eus:8.1
         - cpe:/a:redhat:rhel_eus:8.1::appstream
         - cpe:/a:redhat:rhel_eus:8.1::crb
@@ -84,14 +77,6 @@ Entries:
         - cpe:/a:redhat:rhel_eus:8.6::sap
         - cpe:/a:redhat:rhel_eus:8.6::sap_hana
         - cpe:/a:redhat:rhel_eus:8.6::supplementary
-        - cpe:/a:redhat:rhel_eus:8.8
-        - cpe:/a:redhat:rhel_eus:8.8::appstream
-        - cpe:/a:redhat:rhel_eus:8.8::crb
-        - cpe:/a:redhat:rhel_eus:8.8::highavailability
-        - cpe:/a:redhat:rhel_eus:8.8::resilientstorage
-        - cpe:/a:redhat:rhel_eus:8.8::sap
-        - cpe:/a:redhat:rhel_eus:8.8::sap_hana
-        - cpe:/a:redhat:rhel_eus:8.8::supplementary
         - cpe:/a:redhat:rhel_tus:8.2
         - cpe:/a:redhat:rhel_tus:8.2::appstream
         - cpe:/a:redhat:rhel_tus:8.2::highavailability
@@ -106,11 +91,6 @@ Entries:
         - cpe:/a:redhat:rhel_tus:8.6::appstream
         - cpe:/a:redhat:rhel_tus:8.6::highavailability
         - cpe:/a:redhat:rhel_tus:8.6::realtime
-        - cpe:/a:redhat:rhel_tus:8.8
-        - cpe:/a:redhat:rhel_tus:8.8::appstream
-        - cpe:/a:redhat:rhel_tus:8.8::highavailability
-        - cpe:/a:redhat:rhel_tus:8.8::nfv
-        - cpe:/a:redhat:rhel_tus:8.8::realtime
         - cpe:/o:redhat:enterprise_linux:8
         - cpe:/o:redhat:enterprise_linux:8::baseos
         - cpe:/o:redhat:rhel_aus:8.2
@@ -119,8 +99,6 @@ Entries:
         - cpe:/o:redhat:rhel_aus:8.4::baseos
         - cpe:/o:redhat:rhel_aus:8.6
         - cpe:/o:redhat:rhel_aus:8.6::baseos
-        - cpe:/o:redhat:rhel_aus:8.8
-        - cpe:/o:redhat:rhel_aus:8.8::baseos
         - cpe:/o:redhat:rhel_e4s:8.0
         - cpe:/o:redhat:rhel_e4s:8.0::baseos
         - cpe:/o:redhat:rhel_e4s:8.1
@@ -131,8 +109,6 @@ Entries:
         - cpe:/o:redhat:rhel_e4s:8.4::baseos
         - cpe:/o:redhat:rhel_e4s:8.6
         - cpe:/o:redhat:rhel_e4s:8.6::baseos
-        - cpe:/o:redhat:rhel_e4s:8.8
-        - cpe:/o:redhat:rhel_e4s:8.8::baseos
         - cpe:/o:redhat:rhel_eus:8.1
         - cpe:/o:redhat:rhel_eus:8.1::baseos
         - cpe:/o:redhat:rhel_eus:8.2
@@ -141,16 +117,12 @@ Entries:
         - cpe:/o:redhat:rhel_eus:8.4::baseos
         - cpe:/o:redhat:rhel_eus:8.6
         - cpe:/o:redhat:rhel_eus:8.6::baseos
-        - cpe:/o:redhat:rhel_eus:8.8
-        - cpe:/o:redhat:rhel_eus:8.8::baseos
         - cpe:/o:redhat:rhel_tus:8.2
         - cpe:/o:redhat:rhel_tus:8.2::baseos
         - cpe:/o:redhat:rhel_tus:8.4
         - cpe:/o:redhat:rhel_tus:8.4::baseos
         - cpe:/o:redhat:rhel_tus:8.6
         - cpe:/o:redhat:rhel_tus:8.6::baseos
-        - cpe:/o:redhat:rhel_tus:8.8
-        - cpe:/o:redhat:rhel_tus:8.8::baseos
       Cves:
         - ID: CVE-2019-6471
           Severity: HIGH

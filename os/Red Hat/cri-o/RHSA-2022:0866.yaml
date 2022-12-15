@@ -5,6 +5,8 @@ Entries:
       Arches:
         - x86_64
       Cves:
+        - ID: CVE-2022-0532
+          Severity: MEDIUM
         - ID: CVE-2022-0811
           Severity: HIGH
       FixedVersion: 0:1.19.5-3.rhaos4.6.git91f8458.el7
@@ -16,6 +18,8 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2022-0532
+          Severity: MEDIUM
         - ID: CVE-2022-0811
           Severity: HIGH
       FixedVersion: 0:1.19.5-3.rhaos4.6.git91f8458.el8

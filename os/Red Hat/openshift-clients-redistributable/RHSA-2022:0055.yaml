@@ -6,10 +6,12 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2014-3577
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2021-21684
           Severity: MEDIUM
         - ID: CVE-2021-41190
+          Severity: LOW
+        - ID: CVE-2021-41772
           Severity: LOW
         - ID: CVE-2021-44716
           Severity: MEDIUM
@@ -25,10 +27,12 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2014-3577
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2021-21684
           Severity: MEDIUM
         - ID: CVE-2021-41190
+          Severity: LOW
+        - ID: CVE-2021-41772
           Severity: LOW
         - ID: CVE-2021-44716
           Severity: MEDIUM

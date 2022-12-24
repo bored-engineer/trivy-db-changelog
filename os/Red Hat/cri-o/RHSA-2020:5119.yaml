@@ -8,9 +8,9 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2020-15586
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2020-16845
-          Severity: LOW
+          Severity: MEDIUM
       FixedVersion: 0:1.18.4-4.rhaos4.5.git6dee389.el7
     - Affected:
         - cpe:/a:redhat:openshift:4.5
@@ -21,7 +21,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2020-15586
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2020-16845
-          Severity: LOW
+          Severity: MEDIUM
       FixedVersion: 0:1.18.4-4.rhaos4.5.git6dee389.el8

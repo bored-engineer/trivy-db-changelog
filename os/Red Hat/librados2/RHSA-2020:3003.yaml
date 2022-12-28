@@ -1,0 +1,26 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:4
+        - cpe:/a:redhat:ceph_storage:4::el7
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2020-10753
+          Severity: MEDIUM
+        - ID: CVE-2020-1760
+          Severity: MEDIUM
+      FixedVersion: 2:14.2.8-81.el7cp
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:4
+        - cpe:/a:redhat:ceph_storage:4::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-10753
+          Severity: MEDIUM
+        - ID: CVE-2020-1760
+          Severity: MEDIUM
+      FixedVersion: 2:14.2.8-81.el8cp

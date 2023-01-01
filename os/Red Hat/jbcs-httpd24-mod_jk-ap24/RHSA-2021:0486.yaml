@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_core_services:1
+        - cpe:/a:redhat:jboss_core_services:1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-1971
+          Severity: HIGH
+      FixedVersion: 0:1.2.48-11.redhat_1.jbcs.el7

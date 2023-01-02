@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_other:7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-3627
+          Severity: MEDIUM
+        - ID: CVE-2015-3629
+          Severity: MEDIUM
+        - ID: CVE-2015-3630
+          Severity: MEDIUM
+        - ID: CVE-2015-3631
+          Severity: MEDIUM
+      FixedVersion: 0:1.6.2-14.el7

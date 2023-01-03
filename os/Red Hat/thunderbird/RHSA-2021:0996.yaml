@@ -22,4 +22,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2021-23987
           Severity: HIGH
+        - ID: CVE-2021-4127
+          Severity: HIGH
       FixedVersion: 0:78.9.0-3.el7_9

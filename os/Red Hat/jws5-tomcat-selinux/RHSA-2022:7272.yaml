@@ -15,6 +15,8 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_web_server:5.7
         - cpe:/a:redhat:jboss_enterprise_web_server:5.7::el7
       Cves:
+        - ID: CVE-2021-43980
+          Severity: LOW
         - ID: CVE-2022-23181
           Severity: MEDIUM
       FixedVersion: 0:9.0.62-9.redhat_00005.1.el7jws
@@ -34,6 +36,8 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_web_server:5.7
         - cpe:/a:redhat:jboss_enterprise_web_server:5.7::el8
       Cves:
+        - ID: CVE-2021-43980
+          Severity: LOW
         - ID: CVE-2022-23181
           Severity: MEDIUM
       FixedVersion: 0:9.0.62-9.redhat_00005.1.el8jws
@@ -43,6 +47,8 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_web_server:5.7
         - cpe:/a:redhat:jboss_enterprise_web_server:5.7::el9
       Cves:
+        - ID: CVE-2021-43980
+          Severity: LOW
         - ID: CVE-2022-23181
           Severity: MEDIUM
       FixedVersion: 0:9.0.62-9.redhat_00005.1.el9jws

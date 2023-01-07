@@ -42,7 +42,7 @@ Entries:
         - cpe:/o:redhat:rhel_tus:8.8::baseos
       Cves:
         - ID: CVE-2022-23990
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2022-25235
           Severity: HIGH
         - ID: CVE-2022-25236

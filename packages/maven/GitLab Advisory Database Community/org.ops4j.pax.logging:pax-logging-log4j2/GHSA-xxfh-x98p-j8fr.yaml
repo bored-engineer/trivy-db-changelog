@@ -1,0 +1,5 @@
+PatchedVersions:
+    - 1.11.10
+    - 2.0.11
+VulnerableVersions:
+    - (,1.11.10),[2.0.0,2.0.11)

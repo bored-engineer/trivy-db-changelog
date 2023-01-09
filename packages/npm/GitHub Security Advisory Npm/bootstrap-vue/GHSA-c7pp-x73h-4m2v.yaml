@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 2.0.0-rc.12
+VulnerableVersions:
+    - <= 2.0.0-rc.11

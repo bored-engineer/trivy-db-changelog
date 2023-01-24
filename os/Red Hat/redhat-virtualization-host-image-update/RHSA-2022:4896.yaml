@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::hypervisor
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-25032
+          Severity: HIGH
+        - ID: CVE-2021-4028
+          Severity: HIGH
+        - ID: CVE-2021-4083
+          Severity: HIGH
+        - ID: CVE-2022-0778
+          Severity: HIGH
+        - ID: CVE-2022-1271
+          Severity: HIGH
+        - ID: CVE-2022-24903
+          Severity: HIGH
+        - ID: CVE-2022-25636
+          Severity: HIGH
+      FixedVersion: 0:4.5.0-202205291010_8.6

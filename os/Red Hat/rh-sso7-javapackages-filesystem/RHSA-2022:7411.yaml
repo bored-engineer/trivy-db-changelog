@@ -1,0 +1,28 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:red_hat_single_sign_on:7.6
+        - cpe:/a:redhat:red_hat_single_sign_on:7.6::el9
+      Cves:
+        - ID: CVE-2020-36518
+          Severity: MEDIUM
+        - ID: CVE-2021-42392
+          Severity: MEDIUM
+        - ID: CVE-2021-42575
+          Severity: MEDIUM
+        - ID: CVE-2021-43797
+          Severity: MEDIUM
+        - ID: CVE-2022-0084
+          Severity: MEDIUM
+        - ID: CVE-2022-0225
+          Severity: MEDIUM
+        - ID: CVE-2022-0853
+          Severity: LOW
+        - ID: CVE-2022-0866
+          Severity: MEDIUM
+        - ID: CVE-2022-1319
+          Severity: MEDIUM
+        - ID: CVE-2022-23913
+          Severity: MEDIUM
+        - ID: CVE-2022-2668
+          Severity: MEDIUM
+      FixedVersion: 0:6.0.0-7.el9sso

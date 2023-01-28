@@ -14,5 +14,5 @@ Entries:
         - ID: CVE-2021-25220
           Severity: MEDIUM
         - ID: CVE-2022-2795
-          Severity: LOW
+          Severity: MEDIUM
       FixedVersion: 32:9.11.4-26.P2.el7_9.13

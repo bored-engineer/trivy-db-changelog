@@ -28,7 +28,7 @@ Entries:
         - ID: CVE-2021-44533
           Severity: MEDIUM
         - ID: CVE-2021-44906
-          Severity: MEDIUM
+          Severity: CRITICAL
         - ID: CVE-2022-21824
           Severity: LOW
       FixedVersion: 0:12.22.12-2.el7

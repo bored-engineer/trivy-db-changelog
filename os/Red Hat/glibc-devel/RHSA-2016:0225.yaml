@@ -11,7 +11,6 @@ Entries:
       FixedVersion: 0:2.12-1.47.el6_2.17
     - Affected:
         - cpe:/o:redhat:rhel_aus:6.4
-        - cpe:/o:redhat:rhel_aus:6.4::computenode
         - cpe:/o:redhat:rhel_aus:6.4::server
       Arches:
         - i686
@@ -50,9 +49,6 @@ Entries:
           Severity: CRITICAL
       FixedVersion: 0:2.12-1.149.el6_6.11
     - Affected:
-        - cpe:/o:redhat:enterprise_linux:7
-        - cpe:/o:redhat:enterprise_linux:7::client
-        - cpe:/o:redhat:enterprise_linux:7::workstation
         - cpe:/o:redhat:rhel_eus:7.1
         - cpe:/o:redhat:rhel_eus:7.1::computenode
         - cpe:/o:redhat:rhel_eus:7.1::server

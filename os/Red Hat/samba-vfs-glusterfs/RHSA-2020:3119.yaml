@@ -8,5 +8,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2020-10730
-          Severity: LOW
+          Severity: MEDIUM
       FixedVersion: 0:4.11.6-107.el8rhgs

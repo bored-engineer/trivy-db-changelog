@@ -3,6 +3,8 @@ Entries:
         - cpe:/a:redhat:openstack:16
         - cpe:/a:redhat:openstack:16::el8
       Cves:
+        - ID: CVE-2019-19687
+          Severity: HIGH
         - ID: CVE-2019-3866
           Severity: MEDIUM
       FixedVersion: 0:1.12.119-1.el8ost

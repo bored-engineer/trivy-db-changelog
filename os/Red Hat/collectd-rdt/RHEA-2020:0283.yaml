@@ -5,6 +5,8 @@ Entries:
       Arches:
         - x86_64
       Cves:
+        - ID: CVE-2019-19687
+          Severity: HIGH
         - ID: CVE-2019-3866
           Severity: MEDIUM
       FixedVersion: 0:5.8.1-8.el8ost

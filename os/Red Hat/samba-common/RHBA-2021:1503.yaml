@@ -10,5 +10,5 @@ Entries:
         - ID: CVE-2020-14323
           Severity: MEDIUM
         - ID: CVE-2020-1472
-          Severity: MEDIUM
+          Severity: CRITICAL
       FixedVersion: 0:4.13.7-101.el8rhgs

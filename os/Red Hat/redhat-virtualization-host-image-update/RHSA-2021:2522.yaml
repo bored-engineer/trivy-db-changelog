@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::hypervisor
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-24489
+          Severity: HIGH
+        - ID: CVE-2021-27219
+          Severity: HIGH
+        - ID: CVE-2021-3501
+          Severity: HIGH
+        - ID: CVE-2021-3560
+          Severity: HIGH
+      FixedVersion: 0:4.4.6-20210615.0.el8_4

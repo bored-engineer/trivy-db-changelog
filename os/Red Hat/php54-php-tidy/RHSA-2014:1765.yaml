@@ -1,0 +1,64 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2013-6712
+          Severity: LOW
+        - ID: CVE-2013-7345
+          Severity: MEDIUM
+        - ID: CVE-2014-0207
+          Severity: MEDIUM
+        - ID: CVE-2014-0237
+          Severity: MEDIUM
+        - ID: CVE-2014-0238
+          Severity: MEDIUM
+        - ID: CVE-2014-1943
+          Severity: MEDIUM
+        - ID: CVE-2014-2270
+          Severity: MEDIUM
+        - ID: CVE-2014-2497
+          Severity: LOW
+        - ID: CVE-2014-3478
+          Severity: MEDIUM
+        - ID: CVE-2014-3479
+          Severity: MEDIUM
+        - ID: CVE-2014-3480
+          Severity: MEDIUM
+        - ID: CVE-2014-3487
+          Severity: MEDIUM
+        - ID: CVE-2014-3515
+          Severity: LOW
+        - ID: CVE-2014-3538
+          Severity: MEDIUM
+        - ID: CVE-2014-3587
+          Severity: MEDIUM
+        - ID: CVE-2014-3597
+          Severity: LOW
+        - ID: CVE-2014-3668
+          Severity: MEDIUM
+        - ID: CVE-2014-3669
+          Severity: MEDIUM
+        - ID: CVE-2014-3670
+          Severity: HIGH
+        - ID: CVE-2014-3710
+          Severity: MEDIUM
+        - ID: CVE-2014-4049
+          Severity: MEDIUM
+        - ID: CVE-2014-4670
+          Severity: LOW
+        - ID: CVE-2014-4698
+          Severity: LOW
+        - ID: CVE-2014-4721
+          Severity: LOW
+        - ID: CVE-2014-5120
+          Severity: MEDIUM
+      FixedVersion: 0:5.4.16-22.el6

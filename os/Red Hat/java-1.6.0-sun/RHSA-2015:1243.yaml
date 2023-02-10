@@ -1,0 +1,50 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_eus:6.6
+        - cpe:/o:redhat:rhel_eus:6.6::computenode
+        - cpe:/o:redhat:rhel_eus:6.6::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2015-2590
+          Severity: CRITICAL
+        - ID: CVE-2015-2601
+          Severity: MEDIUM
+        - ID: CVE-2015-2621
+          Severity: MEDIUM
+        - ID: CVE-2015-2625
+          Severity: LOW
+        - ID: CVE-2015-2627
+          Severity: LOW
+        - ID: CVE-2015-2628
+          Severity: CRITICAL
+        - ID: CVE-2015-2632
+          Severity: MEDIUM
+        - ID: CVE-2015-2637
+          Severity: MEDIUM
+        - ID: CVE-2015-2638
+          Severity: CRITICAL
+        - ID: CVE-2015-2664
+          Severity: MEDIUM
+        - ID: CVE-2015-2808
+          Severity: MEDIUM
+        - ID: CVE-2015-4000
+          Severity: MEDIUM
+        - ID: CVE-2015-4731
+          Severity: CRITICAL
+        - ID: CVE-2015-4732
+          Severity: CRITICAL
+        - ID: CVE-2015-4733
+          Severity: CRITICAL
+        - ID: CVE-2015-4748
+          Severity: MEDIUM
+        - ID: CVE-2015-4749
+          Severity: MEDIUM
+        - ID: CVE-2015-4760
+          Severity: CRITICAL
+      FixedVersion: 1:1.6.0.101-1jpp.1.el6_6

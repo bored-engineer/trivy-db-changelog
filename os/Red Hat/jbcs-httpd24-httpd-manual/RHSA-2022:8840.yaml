@@ -1,0 +1,79 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_core_services:1
+        - cpe:/a:redhat:jboss_core_services:1::el7
+      Cves:
+        - ID: CVE-2022-1292
+          Severity: MEDIUM
+        - ID: CVE-2022-2068
+          Severity: MEDIUM
+        - ID: CVE-2022-22721
+          Severity: MEDIUM
+        - ID: CVE-2022-23943
+          Severity: HIGH
+        - ID: CVE-2022-26377
+          Severity: MEDIUM
+        - ID: CVE-2022-27781
+          Severity: LOW
+        - ID: CVE-2022-28614
+          Severity: LOW
+        - ID: CVE-2022-28615
+          Severity: LOW
+        - ID: CVE-2022-30522
+          Severity: MEDIUM
+        - ID: CVE-2022-31813
+          Severity: MEDIUM
+        - ID: CVE-2022-32206
+          Severity: MEDIUM
+        - ID: CVE-2022-32207
+          Severity: MEDIUM
+        - ID: CVE-2022-32208
+          Severity: MEDIUM
+        - ID: CVE-2022-32221
+          Severity: MEDIUM
+        - ID: CVE-2022-35252
+          Severity: LOW
+        - ID: CVE-2022-42915
+          Severity: MEDIUM
+        - ID: CVE-2022-42916
+          Severity: MEDIUM
+      FixedVersion: 0:2.4.51-37.el7jbcs
+    - Affected:
+        - cpe:/a:redhat:jboss_core_services:1
+        - cpe:/a:redhat:jboss_core_services:1::el8
+      Cves:
+        - ID: CVE-2022-1292
+          Severity: MEDIUM
+        - ID: CVE-2022-2068
+          Severity: MEDIUM
+        - ID: CVE-2022-22721
+          Severity: MEDIUM
+        - ID: CVE-2022-23943
+          Severity: HIGH
+        - ID: CVE-2022-26377
+          Severity: MEDIUM
+        - ID: CVE-2022-27781
+          Severity: LOW
+        - ID: CVE-2022-28614
+          Severity: LOW
+        - ID: CVE-2022-28615
+          Severity: LOW
+        - ID: CVE-2022-30522
+          Severity: MEDIUM
+        - ID: CVE-2022-31813
+          Severity: MEDIUM
+        - ID: CVE-2022-32206
+          Severity: MEDIUM
+        - ID: CVE-2022-32207
+          Severity: MEDIUM
+        - ID: CVE-2022-32208
+          Severity: MEDIUM
+        - ID: CVE-2022-32221
+          Severity: MEDIUM
+        - ID: CVE-2022-35252
+          Severity: LOW
+        - ID: CVE-2022-42915
+          Severity: MEDIUM
+        - ID: CVE-2022-42916
+          Severity: MEDIUM
+      FixedVersion: 0:2.4.51-37.el8jbcs

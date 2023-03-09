@@ -10,6 +10,8 @@ Entries:
       Cves:
         - ID: CVE-2021-4235
           Severity: MEDIUM
+        - ID: CVE-2022-1705
+          Severity: MEDIUM
         - ID: CVE-2022-27664
           Severity: MEDIUM
         - ID: CVE-2022-2879
@@ -47,6 +49,8 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2021-4235
+          Severity: MEDIUM
+        - ID: CVE-2022-1705
           Severity: MEDIUM
         - ID: CVE-2022-27664
           Severity: MEDIUM

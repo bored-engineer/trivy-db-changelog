@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:satellite:6.3
+        - cpe:/a:redhat:satellite:6.3::el7
+        - cpe:/a:redhat:satellite_capsule:6.3
+        - cpe:/a:redhat:satellite_capsule:6.3::el7
+      Cves:
+        - ID: CVE-2013-6668
+          Severity: MEDIUM
+        - ID: CVE-2015-3225
+          Severity: MEDIUM
+        - ID: CVE-2016-2166
+          Severity: MEDIUM
+      FixedVersion: 0:1.7.8-2.el7sat

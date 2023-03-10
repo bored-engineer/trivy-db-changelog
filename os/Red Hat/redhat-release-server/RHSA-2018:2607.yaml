@@ -37,9 +37,9 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2018-10904
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2018-10907
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2018-10911
           Severity: MEDIUM
         - ID: CVE-2018-10913
@@ -47,15 +47,15 @@ Entries:
         - ID: CVE-2018-10914
           Severity: MEDIUM
         - ID: CVE-2018-10923
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2018-10926
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2018-10927
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2018-10928
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2018-10929
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2018-10930
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:7.5-11.el7rhgs

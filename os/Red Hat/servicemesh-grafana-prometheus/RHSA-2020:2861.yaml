@@ -12,11 +12,11 @@ Entries:
         - ID: CVE-2020-12245
           Severity: MEDIUM
         - ID: CVE-2020-13379
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2020-13430
           Severity: MEDIUM
         - ID: CVE-2020-7660
-          Severity: HIGH
-        - ID: CVE-2020-7662
           Severity: MEDIUM
+        - ID: CVE-2020-7662
+          Severity: LOW
       FixedVersion: 0:6.2.2-38.el8

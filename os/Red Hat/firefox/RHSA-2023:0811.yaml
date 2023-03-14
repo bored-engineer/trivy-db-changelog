@@ -14,8 +14,6 @@ Entries:
       Arches:
         - x86_64
       Cves:
-        - ID: CVE-2023-0767
-          Severity: HIGH
         - ID: CVE-2023-25728
           Severity: HIGH
         - ID: CVE-2023-25729
@@ -51,8 +49,6 @@ Entries:
         - ppc64le
         - x86_64
       Cves:
-        - ID: CVE-2023-0767
-          Severity: HIGH
         - ID: CVE-2023-25728
           Severity: HIGH
         - ID: CVE-2023-25729

@@ -6,6 +6,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2022-23773
+          Severity: MEDIUM
         - ID: CVE-2022-23806
           Severity: MEDIUM
         - ID: CVE-2022-24675
@@ -24,6 +25,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2022-23773
+          Severity: MEDIUM
         - ID: CVE-2022-23806
           Severity: MEDIUM
         - ID: CVE-2022-24675

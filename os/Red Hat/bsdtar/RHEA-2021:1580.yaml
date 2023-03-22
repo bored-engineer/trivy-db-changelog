@@ -103,6 +103,10 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2017-14166
+          Severity: LOW
+        - ID: CVE-2017-14501
+          Severity: LOW
         - ID: CVE-2017-14502
           Severity: MEDIUM
       FixedVersion: 0:3.3.3-1.el8

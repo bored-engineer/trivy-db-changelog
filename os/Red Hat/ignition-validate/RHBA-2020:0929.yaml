@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-8552
+          Severity: MEDIUM
+      FixedVersion: 0:0.34.0-4.rhaos4.3.git92f874c.el8

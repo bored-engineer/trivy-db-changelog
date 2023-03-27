@@ -1,4 +1,6 @@
 PatchedVersions:
     - 5.9.0
+    - 5.9.0
 VulnerableVersions:
+    - < 5.9.0
     - < 5.9.0

@@ -8,6 +8,8 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2022-41717
+          Severity: MEDIUM
         - ID: CVE-2023-25725
           Severity: MEDIUM
       FixedVersion: 0:2.2.24-3.rhaos4.12.el8

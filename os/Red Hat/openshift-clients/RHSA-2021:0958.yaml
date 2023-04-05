@@ -1,0 +1,21 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.7
+        - cpe:/a:redhat:openshift:4.7::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-3114
+          Severity: MEDIUM
+      FixedVersion: 0:4.7.0-202103191426.p0.git.3953.f3a7513.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.7
+        - cpe:/a:redhat:openshift:4.7::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-3114
+          Severity: MEDIUM
+      FixedVersion: 0:4.7.0-202103191426.p0.git.3953.f3a7513.el8

@@ -6,9 +6,9 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2020-15586
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2020-16845
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2020-8559
           Severity: MEDIUM
       FixedVersion: 0:4.6.0-202010022112.p0.git.94033.ef41184.el7
@@ -19,9 +19,9 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2020-15586
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2020-16845
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2020-8559
           Severity: MEDIUM
       FixedVersion: 0:4.6.0-202010022112.p0.git.94033.ef41184.el8

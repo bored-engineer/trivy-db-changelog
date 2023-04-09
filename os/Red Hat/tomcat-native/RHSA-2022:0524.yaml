@@ -8,11 +8,11 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2021-4104
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2022-23302
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2022-23305
-          Severity: HIGH
+          Severity: LOW
         - ID: CVE-2022-23307
-          Severity: HIGH
+          Severity: LOW
       FixedVersion: 0:1.2.23-26.redhat_26.ep7.el7

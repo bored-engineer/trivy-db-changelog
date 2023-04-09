@@ -20,17 +20,17 @@ Entries:
         - ID: CVE-2020-10693
           Severity: MEDIUM
         - ID: CVE-2020-10968
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-10969
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-11619
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-14061
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-14062
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-14195
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-14334
           Severity: HIGH
         - ID: CVE-2020-14380
@@ -54,11 +54,11 @@ Entries:
         - ID: CVE-2020-8184
           Severity: MEDIUM
         - ID: CVE-2020-8840
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-9546
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-9547
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-9548
-          Severity: LOW
+          Severity: HIGH
       FixedVersion: 0:0.3.10-1.el7sat

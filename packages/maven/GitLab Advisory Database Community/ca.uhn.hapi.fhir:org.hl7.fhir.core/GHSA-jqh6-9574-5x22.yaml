@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 5.6.92
+VulnerableVersions:
+    - (,5.6.92)

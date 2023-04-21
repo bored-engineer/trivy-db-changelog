@@ -16,4 +16,6 @@ Entries:
       Cves:
         - ID: CVE-2021-2163
           Severity: MEDIUM
+        - ID: CVE-2023-30441
+          Severity: HIGH
       FixedVersion: 1:1.8.0.7.15-1jpp.1.el7

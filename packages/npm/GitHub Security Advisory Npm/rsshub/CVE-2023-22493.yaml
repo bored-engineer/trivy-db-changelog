@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 1.0.0-master.a66cbcf
+VulnerableVersions:
+    - < 1.0.0-master.a66cbcf

@@ -18,7 +18,7 @@ Entries:
         - ID: CVE-2020-11023
           Severity: MEDIUM
         - ID: CVE-2021-35065
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2021-44906
           Severity: MEDIUM
         - ID: CVE-2022-1274

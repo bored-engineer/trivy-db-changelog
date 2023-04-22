@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 1.0.0-master.c910c4d
+VulnerableVersions:
+    - < 1.0.0-master.c910c4d

@@ -1,0 +1,125 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-0499
+          Severity: MEDIUM
+        - ID: CVE-2015-0501
+          Severity: MEDIUM
+        - ID: CVE-2015-0505
+          Severity: MEDIUM
+        - ID: CVE-2015-2571
+          Severity: MEDIUM
+        - ID: CVE-2015-2582
+          Severity: MEDIUM
+        - ID: CVE-2015-2611
+          Severity: MEDIUM
+        - ID: CVE-2015-2617
+          Severity: HIGH
+        - ID: CVE-2015-2620
+          Severity: LOW
+        - ID: CVE-2015-2639
+          Severity: MEDIUM
+        - ID: CVE-2015-2641
+          Severity: MEDIUM
+        - ID: CVE-2015-2643
+          Severity: MEDIUM
+        - ID: CVE-2015-2648
+          Severity: MEDIUM
+        - ID: CVE-2015-2661
+          Severity: MEDIUM
+        - ID: CVE-2015-3152
+          Severity: MEDIUM
+        - ID: CVE-2015-4737
+          Severity: LOW
+        - ID: CVE-2015-4752
+          Severity: MEDIUM
+        - ID: CVE-2015-4756
+          Severity: MEDIUM
+        - ID: CVE-2015-4757
+          Severity: MEDIUM
+        - ID: CVE-2015-4761
+          Severity: MEDIUM
+        - ID: CVE-2015-4767
+          Severity: MEDIUM
+        - ID: CVE-2015-4769
+          Severity: MEDIUM
+        - ID: CVE-2015-4771
+          Severity: MEDIUM
+        - ID: CVE-2015-4772
+          Severity: MEDIUM
+        - ID: CVE-2015-4864
+          Severity: MEDIUM
+        - ID: CVE-2015-4866
+          Severity: MEDIUM
+      FixedVersion: 1:10.0.20-1.el6
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-0499
+          Severity: MEDIUM
+        - ID: CVE-2015-0501
+          Severity: MEDIUM
+        - ID: CVE-2015-0505
+          Severity: MEDIUM
+        - ID: CVE-2015-2571
+          Severity: MEDIUM
+        - ID: CVE-2015-2582
+          Severity: MEDIUM
+        - ID: CVE-2015-2611
+          Severity: MEDIUM
+        - ID: CVE-2015-2617
+          Severity: HIGH
+        - ID: CVE-2015-2620
+          Severity: LOW
+        - ID: CVE-2015-2639
+          Severity: MEDIUM
+        - ID: CVE-2015-2641
+          Severity: MEDIUM
+        - ID: CVE-2015-2643
+          Severity: MEDIUM
+        - ID: CVE-2015-2648
+          Severity: MEDIUM
+        - ID: CVE-2015-2661
+          Severity: MEDIUM
+        - ID: CVE-2015-3152
+          Severity: MEDIUM
+        - ID: CVE-2015-4737
+          Severity: LOW
+        - ID: CVE-2015-4752
+          Severity: MEDIUM
+        - ID: CVE-2015-4756
+          Severity: MEDIUM
+        - ID: CVE-2015-4757
+          Severity: MEDIUM
+        - ID: CVE-2015-4761
+          Severity: MEDIUM
+        - ID: CVE-2015-4767
+          Severity: MEDIUM
+        - ID: CVE-2015-4769
+          Severity: MEDIUM
+        - ID: CVE-2015-4771
+          Severity: MEDIUM
+        - ID: CVE-2015-4772
+          Severity: MEDIUM
+        - ID: CVE-2015-4864
+          Severity: MEDIUM
+        - ID: CVE-2015-4866
+          Severity: MEDIUM
+      FixedVersion: 1:10.0.20-1.el7

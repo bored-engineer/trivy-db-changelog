@@ -81,4 +81,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-21887
           Severity: MEDIUM
+        - ID: CVE-2023-21912
+          Severity: HIGH
+        - ID: CVE-2023-21917
+          Severity: MEDIUM
       FixedVersion: 0:8.0.32-1.el7

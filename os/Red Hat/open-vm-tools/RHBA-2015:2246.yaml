@@ -88,4 +88,6 @@ Entries:
       Cves:
         - ID: CVE-2014-4199
           Severity: LOW
+        - ID: CVE-2014-4200
+          Severity: LOW
       FixedVersion: 0:9.10.2-4.el7

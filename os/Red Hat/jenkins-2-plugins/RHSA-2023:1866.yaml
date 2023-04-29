@@ -4,7 +4,7 @@ Entries:
         - cpe:/a:redhat:openshift:4.10::el8
       Cves:
         - ID: CVE-2022-42889
-          Severity: MEDIUM
+          Severity: CRITICAL
         - ID: CVE-2023-25761
           Severity: MEDIUM
         - ID: CVE-2023-25762

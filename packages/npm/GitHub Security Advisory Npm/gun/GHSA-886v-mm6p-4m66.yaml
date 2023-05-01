@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 0.2019.416
+VulnerableVersions:
+    - < 0.2019.416

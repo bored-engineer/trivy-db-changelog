@@ -1,0 +1,77 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-9147
+          Severity: HIGH
+        - ID: CVE-2017-3137
+          Severity: HIGH
+        - ID: CVE-2017-3139
+          Severity: HIGH
+      FixedVersion: 32:9.7.3-8.P3.el6_2.9
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-9147
+          Severity: HIGH
+        - ID: CVE-2017-3137
+          Severity: HIGH
+        - ID: CVE-2017-3139
+          Severity: HIGH
+      FixedVersion: 32:9.8.2-0.17.rc1.el6_4.12
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+        - cpe:/o:redhat:rhel_tus:6.5
+        - cpe:/o:redhat:rhel_tus:6.5::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-9147
+          Severity: HIGH
+        - ID: CVE-2017-3137
+          Severity: HIGH
+        - ID: CVE-2017-3139
+          Severity: HIGH
+      FixedVersion: 32:9.8.2-0.23.rc1.el6_5.7
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-9147
+          Severity: HIGH
+        - ID: CVE-2017-3137
+          Severity: HIGH
+        - ID: CVE-2017-3139
+          Severity: HIGH
+      FixedVersion: 32:9.8.2-0.30.rc1.el6_6.9
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2016-9147
+          Severity: HIGH
+        - ID: CVE-2017-3137
+          Severity: HIGH
+        - ID: CVE-2017-3139
+          Severity: HIGH
+      FixedVersion: 32:9.8.2-0.37.rc1.el6_7.11

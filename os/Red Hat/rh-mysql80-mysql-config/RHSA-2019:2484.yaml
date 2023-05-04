@@ -209,4 +209,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2019-3003
           Severity: MEDIUM
+        - ID: CVE-2022-21589
+          Severity: MEDIUM
       FixedVersion: 0:8.0.17-1.el7

@@ -50,6 +50,7 @@ Entries:
         - cpe:/a:redhat:rhel_e4s:8.4
         - cpe:/a:redhat:rhel_e4s:8.4::appstream
         - cpe:/a:redhat:rhel_e4s:8.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.4::nfv
         - cpe:/a:redhat:rhel_e4s:8.4::sap
         - cpe:/a:redhat:rhel_e4s:8.4::sap_hana
         - cpe:/a:redhat:rhel_eus:8.4

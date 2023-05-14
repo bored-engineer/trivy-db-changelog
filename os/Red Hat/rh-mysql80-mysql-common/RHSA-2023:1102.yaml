@@ -1,0 +1,92 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-21594
+          Severity: MEDIUM
+        - ID: CVE-2022-21599
+          Severity: MEDIUM
+        - ID: CVE-2022-21604
+          Severity: MEDIUM
+        - ID: CVE-2022-21608
+          Severity: MEDIUM
+        - ID: CVE-2022-21611
+          Severity: MEDIUM
+        - ID: CVE-2022-21617
+          Severity: MEDIUM
+        - ID: CVE-2022-21625
+          Severity: MEDIUM
+        - ID: CVE-2022-21632
+          Severity: MEDIUM
+        - ID: CVE-2022-21633
+          Severity: MEDIUM
+        - ID: CVE-2022-21637
+          Severity: MEDIUM
+        - ID: CVE-2022-21640
+          Severity: MEDIUM
+        - ID: CVE-2022-39400
+          Severity: MEDIUM
+        - ID: CVE-2022-39408
+          Severity: MEDIUM
+        - ID: CVE-2022-39410
+          Severity: MEDIUM
+        - ID: CVE-2023-21836
+          Severity: MEDIUM
+        - ID: CVE-2023-21863
+          Severity: MEDIUM
+        - ID: CVE-2023-21864
+          Severity: MEDIUM
+        - ID: CVE-2023-21865
+          Severity: MEDIUM
+        - ID: CVE-2023-21867
+          Severity: MEDIUM
+        - ID: CVE-2023-21868
+          Severity: MEDIUM
+        - ID: CVE-2023-21869
+          Severity: MEDIUM
+        - ID: CVE-2023-21870
+          Severity: MEDIUM
+        - ID: CVE-2023-21871
+          Severity: MEDIUM
+        - ID: CVE-2023-21873
+          Severity: MEDIUM
+        - ID: CVE-2023-21874
+          Severity: LOW
+        - ID: CVE-2023-21875
+          Severity: MEDIUM
+        - ID: CVE-2023-21876
+          Severity: MEDIUM
+        - ID: CVE-2023-21877
+          Severity: MEDIUM
+        - ID: CVE-2023-21878
+          Severity: MEDIUM
+        - ID: CVE-2023-21879
+          Severity: MEDIUM
+        - ID: CVE-2023-21880
+          Severity: MEDIUM
+        - ID: CVE-2023-21881
+          Severity: MEDIUM
+        - ID: CVE-2023-21882
+          Severity: LOW
+        - ID: CVE-2023-21883
+          Severity: MEDIUM
+        - ID: CVE-2023-21887
+          Severity: MEDIUM
+        - ID: CVE-2023-21912
+          Severity: HIGH
+        - ID: CVE-2023-21913
+          Severity: MEDIUM
+        - ID: CVE-2023-21917
+          Severity: MEDIUM
+        - ID: CVE-2023-21963
+          Severity: LOW
+      FixedVersion: 0:8.0.32-1.el7

@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 20.0.0
+VulnerableVersions:
+    - < 20.0.0

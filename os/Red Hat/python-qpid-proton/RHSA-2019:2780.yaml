@@ -1,0 +1,40 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_satellite_tools:6.5
+        - cpe:/a:redhat:rhel_satellite_tools:6.5::el5
+      Arches:
+        - i386
+        - x86_64
+      Cves:
+        - ID: CVE-2019-0223
+          Severity: HIGH
+      FixedVersion: 0:0.9-22.el5
+    - Affected:
+        - cpe:/a:redhat:rhel_satellite_tools:6.5
+        - cpe:/a:redhat:rhel_satellite_tools:6.5::el6
+        - cpe:/a:redhat:rhel_satellite_tools:6.9
+        - cpe:/a:redhat:rhel_satellite_tools:6.9::el6
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-0223
+          Severity: HIGH
+      FixedVersion: 0:0.16.0-14.el6sat
+    - Affected:
+        - cpe:/a:redhat:rhel_satellite_tools:6.5
+        - cpe:/a:redhat:rhel_satellite_tools:6.5::el7
+        - cpe:/a:redhat:rhel_satellite_tools:6.9
+        - cpe:/a:redhat:rhel_satellite_tools:6.9::el7
+      Arches:
+        - aarch64
+        - ppc64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-0223
+          Severity: HIGH
+      FixedVersion: 0:0.28.0-1.el7

@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 39.1.0
+VulnerableVersions:
+    - < 39.1.0

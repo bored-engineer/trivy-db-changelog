@@ -1,0 +1,123 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/a:redhat:rhel_aus:8.8
+        - cpe:/a:redhat:rhel_aus:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.8
+        - cpe:/a:redhat:rhel_eus:8.8::appstream
+        - cpe:/a:redhat:rhel_eus:8.8::crb
+        - cpe:/a:redhat:rhel_eus:8.8::highavailability
+        - cpe:/a:redhat:rhel_eus:8.8::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.8::sap
+        - cpe:/a:redhat:rhel_eus:8.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.8::supplementary
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+        - cpe:/o:redhat:rhel_aus:8.8
+        - cpe:/o:redhat:rhel_aus:8.8::baseos
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+        - cpe:/o:redhat:rhel_eus:8.8
+        - cpe:/o:redhat:rhel_eus:8.8::baseos
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-21594
+          Severity: MEDIUM
+        - ID: CVE-2022-21599
+          Severity: MEDIUM
+        - ID: CVE-2022-21604
+          Severity: MEDIUM
+        - ID: CVE-2022-21608
+          Severity: MEDIUM
+        - ID: CVE-2022-21611
+          Severity: MEDIUM
+        - ID: CVE-2022-21617
+          Severity: MEDIUM
+        - ID: CVE-2022-21625
+          Severity: MEDIUM
+        - ID: CVE-2022-21632
+          Severity: MEDIUM
+        - ID: CVE-2022-21633
+          Severity: MEDIUM
+        - ID: CVE-2022-21637
+          Severity: MEDIUM
+        - ID: CVE-2022-21640
+          Severity: MEDIUM
+        - ID: CVE-2022-39400
+          Severity: MEDIUM
+        - ID: CVE-2022-39408
+          Severity: MEDIUM
+        - ID: CVE-2022-39410
+          Severity: MEDIUM
+        - ID: CVE-2023-21836
+          Severity: MEDIUM
+        - ID: CVE-2023-21863
+          Severity: MEDIUM
+        - ID: CVE-2023-21864
+          Severity: MEDIUM
+        - ID: CVE-2023-21865
+          Severity: MEDIUM
+        - ID: CVE-2023-21867
+          Severity: MEDIUM
+        - ID: CVE-2023-21868
+          Severity: MEDIUM
+        - ID: CVE-2023-21869
+          Severity: MEDIUM
+        - ID: CVE-2023-21870
+          Severity: MEDIUM
+        - ID: CVE-2023-21871
+          Severity: MEDIUM
+        - ID: CVE-2023-21873
+          Severity: MEDIUM
+        - ID: CVE-2023-21874
+          Severity: LOW
+        - ID: CVE-2023-21875
+          Severity: MEDIUM
+        - ID: CVE-2023-21876
+          Severity: MEDIUM
+        - ID: CVE-2023-21877
+          Severity: MEDIUM
+        - ID: CVE-2023-21878
+          Severity: MEDIUM
+        - ID: CVE-2023-21879
+          Severity: MEDIUM
+        - ID: CVE-2023-21880
+          Severity: MEDIUM
+        - ID: CVE-2023-21881
+          Severity: MEDIUM
+        - ID: CVE-2023-21882
+          Severity: LOW
+        - ID: CVE-2023-21883
+          Severity: MEDIUM
+        - ID: CVE-2023-21887
+          Severity: MEDIUM
+        - ID: CVE-2023-21912
+          Severity: HIGH
+        - ID: CVE-2023-21917
+          Severity: MEDIUM
+      FixedVersion: 0:8.0.32-1.module+el8.8.0+18446+fca6280e

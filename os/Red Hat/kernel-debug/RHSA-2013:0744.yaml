@@ -74,4 +74,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2013-1827
           Severity: MEDIUM
+        - ID: CVE-2014-0196
+          Severity: HIGH
       FixedVersion: 0:2.6.32-358.6.1.el6

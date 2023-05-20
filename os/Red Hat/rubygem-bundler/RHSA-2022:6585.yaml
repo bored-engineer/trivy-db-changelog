@@ -1,0 +1,52 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_e4s:9.0
+        - cpe:/a:redhat:rhel_e4s:9.0::appstream
+        - cpe:/a:redhat:rhel_e4s:9.0::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.0::nfv
+        - cpe:/a:redhat:rhel_e4s:9.0::realtime
+        - cpe:/a:redhat:rhel_e4s:9.0::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.0::sap
+        - cpe:/a:redhat:rhel_e4s:9.0::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.0
+        - cpe:/a:redhat:rhel_eus:9.0::appstream
+        - cpe:/a:redhat:rhel_eus:9.0::crb
+        - cpe:/a:redhat:rhel_eus:9.0::highavailability
+        - cpe:/a:redhat:rhel_eus:9.0::nfv
+        - cpe:/a:redhat:rhel_eus:9.0::realtime
+        - cpe:/a:redhat:rhel_eus:9.0::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.0::sap
+        - cpe:/a:redhat:rhel_eus:9.0::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.0::supplementary
+        - cpe:/a:redhat:rhel_eus:9.2
+        - cpe:/a:redhat:rhel_eus:9.2::appstream
+        - cpe:/a:redhat:rhel_eus:9.2::crb
+        - cpe:/a:redhat:rhel_eus:9.2::highavailability
+        - cpe:/a:redhat:rhel_eus:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.2::sap
+        - cpe:/a:redhat:rhel_eus:9.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.2::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/o:redhat:rhel_e4s:9.0
+        - cpe:/o:redhat:rhel_e4s:9.0::baseos
+        - cpe:/o:redhat:rhel_eus:9.0
+        - cpe:/o:redhat:rhel_eus:9.0::baseos
+        - cpe:/o:redhat:rhel_eus:9.2
+        - cpe:/o:redhat:rhel_eus:9.2::baseos
+      Cves:
+        - ID: CVE-2022-28738
+          Severity: MEDIUM
+        - ID: CVE-2022-28739
+          Severity: MEDIUM
+      FixedVersion: 0:2.2.33-160.el9_0

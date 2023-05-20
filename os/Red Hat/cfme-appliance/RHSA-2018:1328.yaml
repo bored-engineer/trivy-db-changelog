@@ -10,5 +10,5 @@ Entries:
         - ID: CVE-2018-1104
           Severity: HIGH
         - ID: CVE-2018-7750
-          Severity: LOW
+          Severity: CRITICAL
       FixedVersion: 0:5.9.2.4-1.el7cf

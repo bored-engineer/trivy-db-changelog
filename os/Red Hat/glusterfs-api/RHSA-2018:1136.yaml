@@ -37,5 +37,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2018-1088
-          Severity: HIGH
+          Severity: LOW
       FixedVersion: 0:3.8.4-54.6.el7rhgs

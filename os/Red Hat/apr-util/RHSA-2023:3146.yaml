@@ -30,5 +30,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2022-25147
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:1.6.1-20.el9_0.1

@@ -1,0 +1,70 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2018-6031
+          Severity: HIGH
+        - ID: CVE-2018-6032
+          Severity: HIGH
+        - ID: CVE-2018-6033
+          Severity: HIGH
+        - ID: CVE-2018-6034
+          Severity: MEDIUM
+        - ID: CVE-2018-6035
+          Severity: MEDIUM
+        - ID: CVE-2018-6036
+          Severity: MEDIUM
+        - ID: CVE-2018-6037
+          Severity: MEDIUM
+        - ID: CVE-2018-6038
+          Severity: MEDIUM
+        - ID: CVE-2018-6039
+          Severity: MEDIUM
+        - ID: CVE-2018-6040
+          Severity: MEDIUM
+        - ID: CVE-2018-6041
+          Severity: MEDIUM
+        - ID: CVE-2018-6042
+          Severity: MEDIUM
+        - ID: CVE-2018-6043
+          Severity: MEDIUM
+        - ID: CVE-2018-6045
+          Severity: MEDIUM
+        - ID: CVE-2018-6046
+          Severity: MEDIUM
+        - ID: CVE-2018-6047
+          Severity: MEDIUM
+        - ID: CVE-2018-6048
+          Severity: LOW
+        - ID: CVE-2018-6049
+          Severity: LOW
+        - ID: CVE-2018-6050
+          Severity: LOW
+        - ID: CVE-2018-6051
+          Severity: LOW
+        - ID: CVE-2018-6052
+          Severity: LOW
+        - ID: CVE-2018-6053
+          Severity: LOW
+        - ID: CVE-2018-6054
+          Severity: LOW
+        - ID: CVE-2018-6055
+          Severity: HIGH
+        - ID: CVE-2018-6119
+          Severity: LOW
+      FixedVersion: 0:64.0.3282.119-1.el6_9

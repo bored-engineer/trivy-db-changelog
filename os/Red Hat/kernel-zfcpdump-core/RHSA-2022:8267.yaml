@@ -1,0 +1,116 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_aus:9.2
+        - cpe:/a:redhat:rhel_aus:9.2::appstream
+        - cpe:/a:redhat:rhel_e4s:9.2
+        - cpe:/a:redhat:rhel_e4s:9.2::appstream
+        - cpe:/a:redhat:rhel_e4s:9.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.2::sap
+        - cpe:/a:redhat:rhel_e4s:9.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.2
+        - cpe:/a:redhat:rhel_eus:9.2::appstream
+        - cpe:/a:redhat:rhel_eus:9.2::crb
+        - cpe:/a:redhat:rhel_eus:9.2::highavailability
+        - cpe:/a:redhat:rhel_eus:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.2::sap
+        - cpe:/a:redhat:rhel_eus:9.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.2::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/o:redhat:rhel_aus:9.2
+        - cpe:/o:redhat:rhel_aus:9.2::baseos
+        - cpe:/o:redhat:rhel_e4s:9.2
+        - cpe:/o:redhat:rhel_e4s:9.2::baseos
+        - cpe:/o:redhat:rhel_eus:9.2
+        - cpe:/o:redhat:rhel_eus:9.2::baseos
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2020-36516
+          Severity: MEDIUM
+        - ID: CVE-2021-3640
+          Severity: MEDIUM
+        - ID: CVE-2022-0168
+          Severity: MEDIUM
+        - ID: CVE-2022-0617
+          Severity: MEDIUM
+        - ID: CVE-2022-0854
+          Severity: MEDIUM
+        - ID: CVE-2022-1016
+          Severity: MEDIUM
+        - ID: CVE-2022-1048
+          Severity: MEDIUM
+        - ID: CVE-2022-1158
+          Severity: HIGH
+        - ID: CVE-2022-1184
+          Severity: MEDIUM
+        - ID: CVE-2022-1263
+          Severity: MEDIUM
+        - ID: CVE-2022-1280
+          Severity: MEDIUM
+        - ID: CVE-2022-1353
+          Severity: MEDIUM
+        - ID: CVE-2022-1679
+          Severity: MEDIUM
+        - ID: CVE-2022-1852
+          Severity: MEDIUM
+        - ID: CVE-2022-1998
+          Severity: MEDIUM
+        - ID: CVE-2022-20368
+          Severity: MEDIUM
+        - ID: CVE-2022-20572
+          Severity: MEDIUM
+        - ID: CVE-2022-21123
+          Severity: MEDIUM
+        - ID: CVE-2022-21125
+          Severity: MEDIUM
+        - ID: CVE-2022-21166
+          Severity: MEDIUM
+        - ID: CVE-2022-21499
+          Severity: MEDIUM
+        - ID: CVE-2022-2153
+          Severity: MEDIUM
+        - ID: CVE-2022-23816
+          Severity: MEDIUM
+        - ID: CVE-2022-23825
+          Severity: MEDIUM
+        - ID: CVE-2022-24448
+          Severity: LOW
+        - ID: CVE-2022-2586
+          Severity: MEDIUM
+        - ID: CVE-2022-26373
+          Severity: MEDIUM
+        - ID: CVE-2022-2639
+          Severity: HIGH
+        - ID: CVE-2022-28390
+          Severity: MEDIUM
+        - ID: CVE-2022-28893
+          Severity: MEDIUM
+        - ID: CVE-2022-29581
+          Severity: MEDIUM
+        - ID: CVE-2022-29900
+          Severity: MEDIUM
+        - ID: CVE-2022-29901
+          Severity: MEDIUM
+        - ID: CVE-2022-3239
+          Severity: MEDIUM
+        - ID: CVE-2022-36946
+          Severity: MEDIUM
+        - ID: CVE-2022-39190
+          Severity: MEDIUM
+        - ID: CVE-2023-1095
+          Severity: MEDIUM
+        - ID: CVE-2023-2008
+          Severity: HIGH
+      FixedVersion: 0:5.14.0-162.6.1.el9_1

@@ -1,0 +1,37 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6
+        - cpe:/a:redhat:rhel_e4s:8.6::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.6::sap
+        - cpe:/a:redhat:rhel_e4s:8.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.6
+        - cpe:/a:redhat:rhel_eus:8.6::appstream
+        - cpe:/a:redhat:rhel_eus:8.6::crb
+        - cpe:/a:redhat:rhel_eus:8.6::highavailability
+        - cpe:/a:redhat:rhel_eus:8.6::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.6::sap
+        - cpe:/a:redhat:rhel_eus:8.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.6::supplementary
+        - cpe:/a:redhat:rhel_tus:8.6
+        - cpe:/a:redhat:rhel_tus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6::highavailability
+        - cpe:/a:redhat:rhel_tus:8.6::realtime
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+        - cpe:/o:redhat:rhel_e4s:8.6
+        - cpe:/o:redhat:rhel_e4s:8.6::baseos
+        - cpe:/o:redhat:rhel_eus:8.6
+        - cpe:/o:redhat:rhel_eus:8.6::baseos
+        - cpe:/o:redhat:rhel_tus:8.6
+        - cpe:/o:redhat:rhel_tus:8.6::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-1017
+          Severity: MEDIUM
+        - ID: CVE-2023-1018
+          Severity: MEDIUM
+      FixedVersion: 1:1.42.0-19.module+el8.6.0+15577+2ffd6ffa

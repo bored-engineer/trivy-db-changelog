@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::hypervisor
+      Cves:
+        - ID: CVE-2021-30483
+          Severity: LOW
+        - ID: CVE-2022-45047
+          Severity: HIGH
+      FixedVersion: 0:4.50.3.6-1.el8ev

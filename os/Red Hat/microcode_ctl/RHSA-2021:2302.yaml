@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-24489
+          Severity: HIGH
+        - ID: CVE-2020-24511
+          Severity: MEDIUM
+        - ID: CVE-2020-24512
+          Severity: LOW
+        - ID: CVE-2020-24513
+          Severity: MEDIUM
+      FixedVersion: 2:2.1-16.40.el7_3

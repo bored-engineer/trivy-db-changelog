@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2020-8552
+          Severity: MEDIUM
+      FixedVersion: 0:3.11.219-1.git.0.8845382.el7

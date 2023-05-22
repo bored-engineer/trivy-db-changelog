@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_dotnet:3.1
+        - cpe:/a:redhat:rhel_dotnet:3.1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-22876
+          Severity: MEDIUM
+        - ID: CVE-2021-22924
+          Severity: MEDIUM
+        - ID: CVE-2021-22946
+          Severity: MEDIUM
+        - ID: CVE-2021-22947
+          Severity: MEDIUM
+      FixedVersion: 0:7.61.1-22.el7_9

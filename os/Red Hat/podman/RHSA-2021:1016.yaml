@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.5
+        - cpe:/a:redhat:openshift:4.5::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-15586
+          Severity: LOW
+        - ID: CVE-2020-16845
+          Severity: LOW
+      FixedVersion: 0:1.9.3-2.rhaos4.5.el8

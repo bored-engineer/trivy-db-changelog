@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 3.0.0.Final
+VulnerableVersions:
+    - '>= 1.5.7, <= 2.2.3.Final'

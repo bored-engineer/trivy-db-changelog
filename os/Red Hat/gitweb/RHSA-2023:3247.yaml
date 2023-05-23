@@ -15,12 +15,18 @@ Entries:
         - cpe:/a:redhat:rhel_eus:8.6::sap
         - cpe:/a:redhat:rhel_eus:8.6::sap_hana
         - cpe:/a:redhat:rhel_eus:8.6::supplementary
+        - cpe:/a:redhat:rhel_tus:8.6
+        - cpe:/a:redhat:rhel_tus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6::highavailability
+        - cpe:/a:redhat:rhel_tus:8.6::realtime
         - cpe:/o:redhat:rhel_aus:8.6
         - cpe:/o:redhat:rhel_aus:8.6::baseos
         - cpe:/o:redhat:rhel_e4s:8.6
         - cpe:/o:redhat:rhel_e4s:8.6::baseos
         - cpe:/o:redhat:rhel_eus:8.6
         - cpe:/o:redhat:rhel_eus:8.6::baseos
+        - cpe:/o:redhat:rhel_tus:8.6
+        - cpe:/o:redhat:rhel_tus:8.6::baseos
       Cves:
         - ID: CVE-2023-25652
           Severity: HIGH

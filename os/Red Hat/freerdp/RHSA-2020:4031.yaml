@@ -1,0 +1,69 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+      Arches:
+        - ppc64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-11018
+          Severity: LOW
+        - ID: CVE-2020-11019
+          Severity: LOW
+        - ID: CVE-2020-11038
+          Severity: LOW
+        - ID: CVE-2020-11039
+          Severity: MEDIUM
+        - ID: CVE-2020-11040
+          Severity: LOW
+        - ID: CVE-2020-11041
+          Severity: LOW
+        - ID: CVE-2020-11042
+          Severity: MEDIUM
+        - ID: CVE-2020-11043
+          Severity: LOW
+        - ID: CVE-2020-11044
+          Severity: LOW
+        - ID: CVE-2020-11045
+          Severity: LOW
+        - ID: CVE-2020-11046
+          Severity: LOW
+        - ID: CVE-2020-11047
+          Severity: MEDIUM
+        - ID: CVE-2020-11048
+          Severity: LOW
+        - ID: CVE-2020-11049
+          Severity: LOW
+        - ID: CVE-2020-11058
+          Severity: LOW
+        - ID: CVE-2020-11085
+          Severity: LOW
+        - ID: CVE-2020-11086
+          Severity: LOW
+        - ID: CVE-2020-11087
+          Severity: LOW
+        - ID: CVE-2020-11088
+          Severity: LOW
+        - ID: CVE-2020-11089
+          Severity: LOW
+        - ID: CVE-2020-11522
+          Severity: LOW
+        - ID: CVE-2020-11525
+          Severity: LOW
+        - ID: CVE-2020-11526
+          Severity: LOW
+        - ID: CVE-2020-13396
+          Severity: MEDIUM
+        - ID: CVE-2020-13397
+          Severity: MEDIUM
+      FixedVersion: 0:2.1.1-2.el7

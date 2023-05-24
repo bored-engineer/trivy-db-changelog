@@ -1,0 +1,38 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.9
+        - cpe:/a:redhat:openshift:4.9::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-28169
+          Severity: MEDIUM
+        - ID: CVE-2021-33196
+          Severity: LOW
+        - ID: CVE-2021-34428
+          Severity: LOW
+        - ID: CVE-2021-36980
+          Severity: MEDIUM
+        - ID: CVE-2021-3917
+          Severity: MEDIUM
+      FixedVersion: 0:4.9.0-202110080828.p0.git.894a78b.assembly.stream.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.9
+        - cpe:/a:redhat:openshift:4.9::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-28169
+          Severity: MEDIUM
+        - ID: CVE-2021-33196
+          Severity: LOW
+        - ID: CVE-2021-34428
+          Severity: LOW
+        - ID: CVE-2021-36980
+          Severity: MEDIUM
+        - ID: CVE-2021-3917
+          Severity: MEDIUM
+      FixedVersion: 0:4.9.0-202110080828.p0.git.894a78b.assembly.stream.el8

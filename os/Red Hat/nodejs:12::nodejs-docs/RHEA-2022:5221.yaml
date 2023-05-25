@@ -1,0 +1,52 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2
+        - cpe:/a:redhat:rhel_e4s:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.2::sap
+        - cpe:/a:redhat:rhel_e4s:8.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.2
+        - cpe:/a:redhat:rhel_eus:8.2::appstream
+        - cpe:/a:redhat:rhel_eus:8.2::crb
+        - cpe:/a:redhat:rhel_eus:8.2::highavailability
+        - cpe:/a:redhat:rhel_eus:8.2::nfv
+        - cpe:/a:redhat:rhel_eus:8.2::realtime
+        - cpe:/a:redhat:rhel_eus:8.2::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.2::sap
+        - cpe:/a:redhat:rhel_eus:8.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.2::supplementary
+        - cpe:/a:redhat:rhel_tus:8.2
+        - cpe:/a:redhat:rhel_tus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2::highavailability
+        - cpe:/a:redhat:rhel_tus:8.2::nfv
+        - cpe:/a:redhat:rhel_tus:8.2::realtime
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+        - cpe:/o:redhat:rhel_e4s:8.2
+        - cpe:/o:redhat:rhel_e4s:8.2::baseos
+        - cpe:/o:redhat:rhel_eus:8.2
+        - cpe:/o:redhat:rhel_eus:8.2::baseos
+        - cpe:/o:redhat:rhel_tus:8.2
+        - cpe:/o:redhat:rhel_tus:8.2::baseos
+      Cves:
+        - ID: CVE-2021-22959
+          Severity: LOW
+        - ID: CVE-2021-22960
+          Severity: LOW
+        - ID: CVE-2021-37701
+          Severity: MEDIUM
+        - ID: CVE-2021-37712
+          Severity: MEDIUM
+        - ID: CVE-2021-3918
+          Severity: HIGH
+        - ID: CVE-2021-44531
+          Severity: MEDIUM
+        - ID: CVE-2021-44532
+          Severity: MEDIUM
+        - ID: CVE-2021-44533
+          Severity: MEDIUM
+        - ID: CVE-2022-21824
+          Severity: LOW
+      FixedVersion: 1:12.22.12-1.module+el8.2.0+15322+a70ca0ab

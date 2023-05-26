@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2018-16881
+          Severity: MEDIUM
+      FixedVersion: 0:8.24.0-41.el7_7
+    - Affected:
+        - cpe:/a:redhat:rhev_manager:4
+        - cpe:/a:redhat:rhev_manager:4.2
+        - cpe:/a:redhat:rhev_manager:4.3
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-16881
+          Severity: MEDIUM
+      FixedVersion: 0:8.24.0-41.el7_7

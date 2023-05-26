@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-optools:10
+        - cpe:/a:redhat:openstack-optools:10::el7
+        - cpe:/a:redhat:openstack:10
+        - cpe:/a:redhat:openstack:10::el7
+      Cves:
+        - ID: CVE-2019-9735
+          Severity: HIGH
+      FixedVersion: 1:9.2.2-8.el7ost

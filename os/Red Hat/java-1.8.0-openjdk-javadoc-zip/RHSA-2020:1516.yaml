@@ -1,0 +1,31 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.0
+        - cpe:/a:redhat:rhel_e4s:8.0::appstream
+        - cpe:/a:redhat:rhel_e4s:8.0::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.0::sap
+        - cpe:/a:redhat:rhel_e4s:8.0::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.0
+        - cpe:/o:redhat:rhel_e4s:8.0::baseos
+      Cves:
+        - ID: CVE-2020-2754
+          Severity: LOW
+        - ID: CVE-2020-2755
+          Severity: LOW
+        - ID: CVE-2020-2756
+          Severity: LOW
+        - ID: CVE-2020-2757
+          Severity: LOW
+        - ID: CVE-2020-2773
+          Severity: MEDIUM
+        - ID: CVE-2020-2781
+          Severity: MEDIUM
+        - ID: CVE-2020-2800
+          Severity: MEDIUM
+        - ID: CVE-2020-2803
+          Severity: HIGH
+        - ID: CVE-2020-2805
+          Severity: HIGH
+        - ID: CVE-2020-2830
+          Severity: MEDIUM
+      FixedVersion: 1:1.8.0.252.b09-2.el8_0

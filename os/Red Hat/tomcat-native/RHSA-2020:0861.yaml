@@ -1,0 +1,36 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_web_server:3.0
+        - cpe:/a:redhat:jboss_enterprise_web_server:3.0::el6
+        - cpe:/a:redhat:jboss_enterprise_web_server:3.1
+        - cpe:/a:redhat:jboss_enterprise_web_server:3.1::el6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2019-0221
+          Severity: LOW
+        - ID: CVE-2019-12418
+          Severity: MEDIUM
+        - ID: CVE-2019-17563
+          Severity: LOW
+        - ID: CVE-2020-1938
+          Severity: HIGH
+      FixedVersion: 0:1.2.23-21.redhat_21.ep7.el6
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_web_server:3.0
+        - cpe:/a:redhat:jboss_enterprise_web_server:3.0::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:3.1
+        - cpe:/a:redhat:jboss_enterprise_web_server:3.1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-0221
+          Severity: LOW
+        - ID: CVE-2019-12418
+          Severity: MEDIUM
+        - ID: CVE-2019-17563
+          Severity: LOW
+        - ID: CVE-2020-1938
+          Severity: HIGH
+      FixedVersion: 0:1.2.23-21.redhat_21.ep7.el7

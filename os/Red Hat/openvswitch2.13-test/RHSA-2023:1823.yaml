@@ -4,5 +4,5 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:8::fastdatapath
       Cves:
         - ID: CVE-2023-1668
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 0:2.13.0-214.el8fdp

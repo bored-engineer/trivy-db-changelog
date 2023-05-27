@@ -9,7 +9,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2020-7039
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-8608
           Severity: MEDIUM
       FixedVersion: 10:2.12.0-44.el7_8.1

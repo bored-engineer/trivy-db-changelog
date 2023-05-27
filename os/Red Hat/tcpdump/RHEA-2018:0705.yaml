@@ -1,0 +1,233 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.6
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.5
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.6
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.6
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.5
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.6
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+        - cpe:/o:redhat:rhel_aus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6::server
+        - cpe:/o:redhat:rhel_aus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7::server
+        - cpe:/o:redhat:rhel_e4s:7.6
+        - cpe:/o:redhat:rhel_e4s:7.6::server
+        - cpe:/o:redhat:rhel_e4s:7.7
+        - cpe:/o:redhat:rhel_e4s:7.7::server
+        - cpe:/o:redhat:rhel_eus:7.5
+        - cpe:/o:redhat:rhel_eus:7.5::computenode
+        - cpe:/o:redhat:rhel_eus:7.5::server
+        - cpe:/o:redhat:rhel_eus:7.6
+        - cpe:/o:redhat:rhel_eus:7.6::computenode
+        - cpe:/o:redhat:rhel_eus:7.6::server
+        - cpe:/o:redhat:rhel_eus:7.7
+        - cpe:/o:redhat:rhel_eus:7.7::computenode
+        - cpe:/o:redhat:rhel_eus:7.7::server
+        - cpe:/o:redhat:rhel_tus:7.6
+        - cpe:/o:redhat:rhel_tus:7.6::server
+        - cpe:/o:redhat:rhel_tus:7.7
+        - cpe:/o:redhat:rhel_tus:7.7::server
+      Arches:
+        - aarch64
+        - ppc64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2017-11108
+          Severity: LOW
+        - ID: CVE-2017-11541
+          Severity: LOW
+        - ID: CVE-2017-11542
+          Severity: LOW
+        - ID: CVE-2017-11543
+          Severity: LOW
+        - ID: CVE-2017-11544
+          Severity: LOW
+        - ID: CVE-2017-12893
+          Severity: LOW
+        - ID: CVE-2017-12894
+          Severity: LOW
+        - ID: CVE-2017-12895
+          Severity: LOW
+        - ID: CVE-2017-12896
+          Severity: LOW
+        - ID: CVE-2017-12897
+          Severity: LOW
+        - ID: CVE-2017-12898
+          Severity: LOW
+        - ID: CVE-2017-12899
+          Severity: LOW
+        - ID: CVE-2017-12900
+          Severity: LOW
+        - ID: CVE-2017-12901
+          Severity: LOW
+        - ID: CVE-2017-12902
+          Severity: LOW
+        - ID: CVE-2017-12985
+          Severity: LOW
+        - ID: CVE-2017-12986
+          Severity: LOW
+        - ID: CVE-2017-12987
+          Severity: LOW
+        - ID: CVE-2017-12988
+          Severity: LOW
+        - ID: CVE-2017-12989
+          Severity: LOW
+        - ID: CVE-2017-12990
+          Severity: LOW
+        - ID: CVE-2017-12991
+          Severity: LOW
+        - ID: CVE-2017-12992
+          Severity: LOW
+        - ID: CVE-2017-12993
+          Severity: LOW
+        - ID: CVE-2017-12994
+          Severity: LOW
+        - ID: CVE-2017-12995
+          Severity: LOW
+        - ID: CVE-2017-12996
+          Severity: LOW
+        - ID: CVE-2017-12997
+          Severity: LOW
+        - ID: CVE-2017-12998
+          Severity: LOW
+        - ID: CVE-2017-12999
+          Severity: LOW
+        - ID: CVE-2017-13000
+          Severity: LOW
+        - ID: CVE-2017-13001
+          Severity: LOW
+        - ID: CVE-2017-13002
+          Severity: LOW
+        - ID: CVE-2017-13003
+          Severity: LOW
+        - ID: CVE-2017-13004
+          Severity: LOW
+        - ID: CVE-2017-13005
+          Severity: LOW
+        - ID: CVE-2017-13006
+          Severity: LOW
+        - ID: CVE-2017-13007
+          Severity: LOW
+        - ID: CVE-2017-13008
+          Severity: LOW
+        - ID: CVE-2017-13009
+          Severity: LOW
+        - ID: CVE-2017-13010
+          Severity: LOW
+        - ID: CVE-2017-13011
+          Severity: MEDIUM
+        - ID: CVE-2017-13012
+          Severity: LOW
+        - ID: CVE-2017-13013
+          Severity: LOW
+        - ID: CVE-2017-13014
+          Severity: LOW
+        - ID: CVE-2017-13015
+          Severity: LOW
+        - ID: CVE-2017-13016
+          Severity: LOW
+        - ID: CVE-2017-13017
+          Severity: LOW
+        - ID: CVE-2017-13018
+          Severity: LOW
+        - ID: CVE-2017-13019
+          Severity: LOW
+        - ID: CVE-2017-13020
+          Severity: LOW
+        - ID: CVE-2017-13021
+          Severity: LOW
+        - ID: CVE-2017-13022
+          Severity: LOW
+        - ID: CVE-2017-13023
+          Severity: LOW
+        - ID: CVE-2017-13024
+          Severity: LOW
+        - ID: CVE-2017-13025
+          Severity: LOW
+        - ID: CVE-2017-13026
+          Severity: LOW
+        - ID: CVE-2017-13027
+          Severity: LOW
+        - ID: CVE-2017-13028
+          Severity: LOW
+        - ID: CVE-2017-13029
+          Severity: LOW
+        - ID: CVE-2017-13030
+          Severity: LOW
+        - ID: CVE-2017-13031
+          Severity: LOW
+        - ID: CVE-2017-13032
+          Severity: LOW
+        - ID: CVE-2017-13033
+          Severity: LOW
+        - ID: CVE-2017-13034
+          Severity: LOW
+        - ID: CVE-2017-13035
+          Severity: LOW
+        - ID: CVE-2017-13036
+          Severity: LOW
+        - ID: CVE-2017-13037
+          Severity: LOW
+        - ID: CVE-2017-13038
+          Severity: LOW
+        - ID: CVE-2017-13039
+          Severity: LOW
+        - ID: CVE-2017-13040
+          Severity: LOW
+        - ID: CVE-2017-13041
+          Severity: LOW
+        - ID: CVE-2017-13042
+          Severity: LOW
+        - ID: CVE-2017-13043
+          Severity: LOW
+        - ID: CVE-2017-13044
+          Severity: LOW
+        - ID: CVE-2017-13045
+          Severity: LOW
+        - ID: CVE-2017-13046
+          Severity: LOW
+        - ID: CVE-2017-13047
+          Severity: LOW
+        - ID: CVE-2017-13048
+          Severity: LOW
+        - ID: CVE-2017-13049
+          Severity: LOW
+        - ID: CVE-2017-13050
+          Severity: LOW
+        - ID: CVE-2017-13051
+          Severity: LOW
+        - ID: CVE-2017-13052
+          Severity: LOW
+        - ID: CVE-2017-13053
+          Severity: LOW
+        - ID: CVE-2017-13054
+          Severity: LOW
+        - ID: CVE-2017-13055
+          Severity: LOW
+        - ID: CVE-2017-13687
+          Severity: LOW
+        - ID: CVE-2017-13688
+          Severity: LOW
+        - ID: CVE-2017-13689
+          Severity: LOW
+        - ID: CVE-2017-13690
+          Severity: LOW
+        - ID: CVE-2017-13725
+          Severity: LOW
+      FixedVersion: 14:4.9.2-3.el7

@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:3
+        - cpe:/a:redhat:ceph_storage:3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-10222
+          Severity: HIGH
+      FixedVersion: 2:12.2.12-48.el7cp

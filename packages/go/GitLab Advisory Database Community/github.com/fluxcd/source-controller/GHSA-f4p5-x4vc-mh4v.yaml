@@ -1,4 +1,0 @@
-PatchedVersions:
-    - v0.30.0
-VulnerableVersions:
-    - '>=v0.0.1-alpha-1 <v0.30.0'

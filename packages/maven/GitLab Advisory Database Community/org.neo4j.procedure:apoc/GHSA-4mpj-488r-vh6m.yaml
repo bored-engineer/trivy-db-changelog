@@ -1,7 +1,0 @@
-PatchedVersions:
-    - 3.5.17
-    - 4.2.10
-    - 4.3.0.4
-    - 4.4.0.1
-VulnerableVersions:
-    - (,0)

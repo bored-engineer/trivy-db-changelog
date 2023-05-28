@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-optools:13
+        - cpe:/a:redhat:openstack-optools:13::el7
+        - cpe:/a:redhat:openstack:13
+        - cpe:/a:redhat:openstack:13::el7
+      Cves:
+        - ID: CVE-2022-3596
+          Severity: HIGH
+      FixedVersion: 0:8.4.9-13.el7ost

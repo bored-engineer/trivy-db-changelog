@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:15
+        - cpe:/a:redhat:openstack:15::el8
+      Cves:
+        - ID: CVE-2019-19687
+          Severity: HIGH
+      FixedVersion: 1:15.0.1-0.20190720060412.5f27c4b.1.el8ost

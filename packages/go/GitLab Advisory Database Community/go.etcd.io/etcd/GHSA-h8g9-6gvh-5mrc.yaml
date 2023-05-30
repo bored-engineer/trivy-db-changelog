@@ -1,5 +1,0 @@
-PatchedVersions:
-    - 3.3.23
-    - 3.4.10
-VulnerableVersions:
-    - <3.3.23||>=3.4.0 <3.4.10

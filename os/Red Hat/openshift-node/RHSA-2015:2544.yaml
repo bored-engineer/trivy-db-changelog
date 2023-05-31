@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.0
+        - cpe:/a:redhat:openshift:3.0::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-7528
+          Severity: MEDIUM
+      FixedVersion: 0:3.0.2.0-0.git.38.7576bc5.el7ose

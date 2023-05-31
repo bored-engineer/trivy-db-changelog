@@ -9,5 +9,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2023-25725
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 0:2.2.24-3.rhaos4.11.el8

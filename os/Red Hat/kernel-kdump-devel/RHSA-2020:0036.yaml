@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.5
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.5
+        - cpe:/o:redhat:rhel_eus:7.5
+        - cpe:/o:redhat:rhel_eus:7.5::computenode
+        - cpe:/o:redhat:rhel_eus:7.5::server
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2017-0861
+          Severity: MEDIUM
+        - ID: CVE-2017-10661
+          Severity: MEDIUM
+        - ID: CVE-2018-10853
+          Severity: MEDIUM
+        - ID: CVE-2018-18281
+          Severity: MEDIUM
+        - ID: CVE-2019-11810
+          Severity: MEDIUM
+        - ID: CVE-2019-11811
+          Severity: MEDIUM
+      FixedVersion: 0:3.10.0-862.46.1.el7

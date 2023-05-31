@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:17.0
+        - cpe:/a:redhat:openstack:17.0::el9
+      Cves:
+        - ID: CVE-2022-3277
+          Severity: MEDIUM
+      FixedVersion: 1:18.4.1-0.20221128170741.5258354.el9ost

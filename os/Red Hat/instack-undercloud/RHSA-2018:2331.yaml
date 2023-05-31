@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-optools:12
+        - cpe:/a:redhat:openstack-optools:12::el7
+        - cpe:/a:redhat:openstack:12
+        - cpe:/a:redhat:openstack:12::el7
+      Cves:
+        - ID: CVE-2018-1000115
+          Severity: MEDIUM
+      FixedVersion: 0:7.4.12-1.el7ost

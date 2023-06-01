@@ -1,0 +1,17 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el6
+      Arches:
+        - i386
+        - x86_64
+      Cves:
+        - ID: CVE-2012-4529
+          Severity: LOW
+        - ID: CVE-2012-4572
+          Severity: LOW
+        - ID: CVE-2012-5575
+          Severity: HIGH
+        - ID: CVE-2013-2067
+          Severity: MEDIUM
+      FixedVersion: 0:2.3.1-1.Final_redhat_1.ep6.el6

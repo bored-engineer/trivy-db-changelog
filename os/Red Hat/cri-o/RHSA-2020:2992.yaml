@@ -1,0 +1,21 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2019-14891
+          Severity: MEDIUM
+        - ID: CVE-2020-10715
+          Severity: LOW
+        - ID: CVE-2020-7598
+          Severity: MEDIUM
+        - ID: CVE-2020-8552
+          Severity: MEDIUM
+        - ID: CVE-2020-8558
+          Severity: MEDIUM
+        - ID: CVE-2020-8945
+          Severity: MEDIUM
+      FixedVersion: 0:1.11.16-0.10.dev.rhaos3.11.git1eee681.el7

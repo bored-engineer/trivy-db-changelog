@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:2
+        - cpe:/a:redhat:ceph_storage:2::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-8779
+          Severity: HIGH
+      FixedVersion: 0:1.2.1-0.2.20170104.git3d33566.el7cp

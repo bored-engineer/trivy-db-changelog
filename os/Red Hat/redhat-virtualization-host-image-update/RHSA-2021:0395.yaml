@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Cves:
+        - ID: CVE-2020-25684
+          Severity: MEDIUM
+        - ID: CVE-2020-25685
+          Severity: MEDIUM
+        - ID: CVE-2020-25686
+          Severity: MEDIUM
+        - ID: CVE-2021-3156
+          Severity: HIGH
+      FixedVersion: 0:4.3.13-20210127.0.el7_9

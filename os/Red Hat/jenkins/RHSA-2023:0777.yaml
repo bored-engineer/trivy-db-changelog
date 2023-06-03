@@ -4,7 +4,7 @@ Entries:
         - cpe:/a:redhat:openshift:4.9::el8
       Cves:
         - ID: CVE-2020-7692
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2022-1471
           Severity: HIGH
         - ID: CVE-2022-2048

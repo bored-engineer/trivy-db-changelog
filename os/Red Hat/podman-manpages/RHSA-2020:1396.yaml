@@ -4,7 +4,7 @@ Entries:
         - cpe:/a:redhat:openshift:4.3::el8
       Cves:
         - ID: CVE-2020-10696
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-8945
           Severity: MEDIUM
       FixedVersion: 0:1.6.4-10.rhaos4.3.el8

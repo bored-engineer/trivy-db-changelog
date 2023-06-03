@@ -6,7 +6,7 @@ Entries:
         - cpe:/a:redhat:satellite_capsule:6.7::el7
       Cves:
         - ID: CVE-2019-20330
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2020-10968
           Severity: HIGH
         - ID: CVE-2020-10969

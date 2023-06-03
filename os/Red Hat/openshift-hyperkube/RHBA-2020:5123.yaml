@@ -10,7 +10,7 @@ Entries:
         - ID: CVE-2020-15586
           Severity: MEDIUM
         - ID: CVE-2020-16845
-          Severity: MEDIUM
+          Severity: LOW
       FixedVersion: 0:4.4.0-202011130111.p0.git.0.4861dfa.el7
     - Affected:
         - cpe:/a:redhat:openshift:4.4
@@ -21,5 +21,5 @@ Entries:
         - ID: CVE-2020-15586
           Severity: MEDIUM
         - ID: CVE-2020-16845
-          Severity: MEDIUM
+          Severity: LOW
       FixedVersion: 0:4.4.0-202011130111.p0.git.0.4861dfa.el8

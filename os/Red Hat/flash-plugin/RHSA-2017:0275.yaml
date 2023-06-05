@@ -1,0 +1,43 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+      Cves:
+        - ID: CVE-2017-2982
+          Severity: CRITICAL
+        - ID: CVE-2017-2984
+          Severity: CRITICAL
+        - ID: CVE-2017-2985
+          Severity: CRITICAL
+        - ID: CVE-2017-2986
+          Severity: CRITICAL
+        - ID: CVE-2017-2987
+          Severity: CRITICAL
+        - ID: CVE-2017-2988
+          Severity: CRITICAL
+        - ID: CVE-2017-2990
+          Severity: CRITICAL
+        - ID: CVE-2017-2991
+          Severity: CRITICAL
+        - ID: CVE-2017-2992
+          Severity: CRITICAL
+        - ID: CVE-2017-2993
+          Severity: CRITICAL
+        - ID: CVE-2017-2995
+          Severity: CRITICAL
+        - ID: CVE-2017-2996
+          Severity: CRITICAL
+      FixedVersion: 0:24.0.0.221-1.el6_8

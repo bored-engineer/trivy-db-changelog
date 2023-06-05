@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.6
+        - cpe:/a:redhat:openshift:4.6::el8
+      Cves:
+        - ID: CVE-2020-27216
+          Severity: MEDIUM
+        - ID: CVE-2020-27218
+          Severity: MEDIUM
+        - ID: CVE-2020-27223
+          Severity: MEDIUM
+      FixedVersion: 0:2.277.3.1623853726-1.el8

@@ -1,0 +1,52 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-0293
+          Severity: MEDIUM
+        - ID: CVE-2015-3197
+          Severity: LOW
+        - ID: CVE-2016-0703
+          Severity: MEDIUM
+        - ID: CVE-2016-0704
+          Severity: MEDIUM
+        - ID: CVE-2016-0800
+          Severity: HIGH
+      FixedVersion: 0:1.0.0-20.el6_2.8
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-0293
+          Severity: MEDIUM
+        - ID: CVE-2015-3197
+          Severity: LOW
+        - ID: CVE-2016-0703
+          Severity: MEDIUM
+        - ID: CVE-2016-0704
+          Severity: MEDIUM
+        - ID: CVE-2016-0800
+          Severity: HIGH
+      FixedVersion: 0:1.0.0-27.el6_4.5
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-0293
+          Severity: MEDIUM
+        - ID: CVE-2015-3197
+          Severity: LOW
+        - ID: CVE-2016-0703
+          Severity: MEDIUM
+        - ID: CVE-2016-0704
+          Severity: MEDIUM
+        - ID: CVE-2016-0800
+          Severity: HIGH
+      FixedVersion: 0:1.0.1e-16.el6_5.16

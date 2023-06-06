@@ -1,0 +1,63 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6
+        - cpe:/a:redhat:rhel_e4s:8.6::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.6::sap
+        - cpe:/a:redhat:rhel_e4s:8.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.6
+        - cpe:/a:redhat:rhel_eus:8.6::appstream
+        - cpe:/a:redhat:rhel_eus:8.6::crb
+        - cpe:/a:redhat:rhel_eus:8.6::highavailability
+        - cpe:/a:redhat:rhel_eus:8.6::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.6::sap
+        - cpe:/a:redhat:rhel_eus:8.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.6::supplementary
+        - cpe:/a:redhat:rhel_tus:8.6
+        - cpe:/a:redhat:rhel_tus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6::highavailability
+        - cpe:/a:redhat:rhel_tus:8.6::realtime
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+        - cpe:/o:redhat:rhel_e4s:8.6
+        - cpe:/o:redhat:rhel_e4s:8.6::baseos
+        - cpe:/o:redhat:rhel_eus:8.6
+        - cpe:/o:redhat:rhel_eus:8.6::baseos
+        - cpe:/o:redhat:rhel_tus:8.6
+        - cpe:/o:redhat:rhel_tus:8.6::baseos
+      Cves:
+        - ID: CVE-2021-35065
+          Severity: MEDIUM
+        - ID: CVE-2021-44531
+          Severity: MEDIUM
+        - ID: CVE-2021-44532
+          Severity: MEDIUM
+        - ID: CVE-2021-44533
+          Severity: MEDIUM
+        - ID: CVE-2021-44906
+          Severity: MEDIUM
+        - ID: CVE-2022-0235
+          Severity: MEDIUM
+        - ID: CVE-2022-21824
+          Severity: LOW
+        - ID: CVE-2022-24999
+          Severity: MEDIUM
+        - ID: CVE-2022-25881
+          Severity: MEDIUM
+        - ID: CVE-2022-3517
+          Severity: MEDIUM
+        - ID: CVE-2022-35256
+          Severity: MEDIUM
+        - ID: CVE-2022-38900
+          Severity: HIGH
+        - ID: CVE-2022-43548
+          Severity: MEDIUM
+        - ID: CVE-2022-4904
+          Severity: MEDIUM
+        - ID: CVE-2023-23918
+          Severity: MEDIUM
+        - ID: CVE-2023-23920
+          Severity: LOW
+      FixedVersion: 0:23-3.module+el8.3.0+6519+9f98ed83

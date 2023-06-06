@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.4
+        - cpe:/o:redhat:rhel_aus:7.4::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2021-4034
+          Severity: HIGH
+      FixedVersion: 0:0.112-12.el7_4.2

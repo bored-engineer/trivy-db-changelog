@@ -1,0 +1,6 @@
+PatchedVersions:
+    - "10.6"
+    - "9.10"
+VulnerableVersions:
+    - '>= 10.0, < 10.6'
+    - < 9.10

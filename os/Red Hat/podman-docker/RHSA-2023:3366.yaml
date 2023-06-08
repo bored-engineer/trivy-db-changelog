@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.13
+        - cpe:/a:redhat:openshift:4.13::el9
+      Cves:
+        - ID: CVE-2022-27191
+          Severity: MEDIUM
+        - ID: CVE-2022-41722
+          Severity: MEDIUM
+        - ID: CVE-2022-41724
+          Severity: MEDIUM
+        - ID: CVE-2023-24540
+          Severity: HIGH
+      FixedVersion: 3:4.4.1-4.1.rhaos4.13.el9

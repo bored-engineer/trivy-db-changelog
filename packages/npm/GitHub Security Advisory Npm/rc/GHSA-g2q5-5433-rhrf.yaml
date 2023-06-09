@@ -1,0 +1,4 @@
+VulnerableVersions:
+    - = 2.3.9
+    - = 1.3.9
+    - = 1.2.9

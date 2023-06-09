@@ -1,0 +1,104 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+      Cves:
+        - ID: CVE-2017-18551
+          Severity: MEDIUM
+        - ID: CVE-2018-20836
+          Severity: MEDIUM
+        - ID: CVE-2019-15217
+          Severity: LOW
+        - ID: CVE-2019-15807
+          Severity: LOW
+        - ID: CVE-2019-15917
+          Severity: MEDIUM
+        - ID: CVE-2019-16231
+          Severity: LOW
+        - ID: CVE-2019-16233
+          Severity: LOW
+        - ID: CVE-2019-16994
+          Severity: LOW
+        - ID: CVE-2019-17053
+          Severity: MEDIUM
+        - ID: CVE-2019-17055
+          Severity: MEDIUM
+        - ID: CVE-2019-18808
+          Severity: MEDIUM
+        - ID: CVE-2019-19046
+          Severity: MEDIUM
+        - ID: CVE-2019-19055
+          Severity: MEDIUM
+        - ID: CVE-2019-19058
+          Severity: LOW
+        - ID: CVE-2019-19059
+          Severity: LOW
+        - ID: CVE-2019-19062
+          Severity: LOW
+        - ID: CVE-2019-19063
+          Severity: LOW
+        - ID: CVE-2019-19332
+          Severity: MEDIUM
+        - ID: CVE-2019-19447
+          Severity: MEDIUM
+        - ID: CVE-2019-19523
+          Severity: MEDIUM
+        - ID: CVE-2019-19524
+          Severity: MEDIUM
+        - ID: CVE-2019-19530
+          Severity: MEDIUM
+        - ID: CVE-2019-19534
+          Severity: MEDIUM
+        - ID: CVE-2019-19537
+          Severity: MEDIUM
+        - ID: CVE-2019-19767
+          Severity: MEDIUM
+        - ID: CVE-2019-19807
+          Severity: HIGH
+        - ID: CVE-2019-20054
+          Severity: LOW
+        - ID: CVE-2019-20095
+          Severity: LOW
+        - ID: CVE-2019-20636
+          Severity: MEDIUM
+        - ID: CVE-2019-9454
+          Severity: MEDIUM
+        - ID: CVE-2019-9458
+          Severity: MEDIUM
+        - ID: CVE-2020-10690
+          Severity: LOW
+        - ID: CVE-2020-10732
+          Severity: MEDIUM
+        - ID: CVE-2020-10742
+          Severity: MEDIUM
+        - ID: CVE-2020-10751
+          Severity: MEDIUM
+        - ID: CVE-2020-10942
+          Severity: LOW
+        - ID: CVE-2020-11565
+          Severity: MEDIUM
+        - ID: CVE-2020-12770
+          Severity: MEDIUM
+        - ID: CVE-2020-12826
+          Severity: MEDIUM
+        - ID: CVE-2020-14305
+          Severity: MEDIUM
+        - ID: CVE-2020-1749
+          Severity: MEDIUM
+        - ID: CVE-2020-2732
+          Severity: MEDIUM
+        - ID: CVE-2020-8647
+          Severity: MEDIUM
+        - ID: CVE-2020-8649
+          Severity: MEDIUM
+        - ID: CVE-2020-9383
+          Severity: MEDIUM
+      FixedVersion: 0:3.10.0-1160.rt56.1131.el7

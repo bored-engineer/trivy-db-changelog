@@ -1,0 +1,8 @@
+Entries:
+    - Arches:
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2017-7514
+          Severity: MEDIUM
+      FixedVersion: 0:1.4.0-5.el6sat

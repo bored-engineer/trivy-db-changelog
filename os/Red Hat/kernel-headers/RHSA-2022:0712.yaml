@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.7
+        - cpe:/o:redhat:rhel_aus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7::server
+        - cpe:/o:redhat:rhel_e4s:7.7
+        - cpe:/o:redhat:rhel_e4s:7.7::server
+        - cpe:/o:redhat:rhel_tus:7.7
+        - cpe:/o:redhat:rhel_tus:7.7::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-0466
+          Severity: HIGH
+        - ID: CVE-2021-4155
+          Severity: HIGH
+        - ID: CVE-2022-0330
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-1062.63.1.el7

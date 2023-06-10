@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Cves:
+        - ID: CVE-2020-27827
+          Severity: MEDIUM
+      FixedVersion: 0:4.3.14-20210322.0.el7_9

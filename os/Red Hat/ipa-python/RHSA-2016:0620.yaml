@@ -1,0 +1,78 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-5370
+          Severity: CRITICAL
+        - ID: CVE-2016-2110
+          Severity: MEDIUM
+        - ID: CVE-2016-2111
+          Severity: MEDIUM
+        - ID: CVE-2016-2112
+          Severity: MEDIUM
+        - ID: CVE-2016-2113
+          Severity: MEDIUM
+        - ID: CVE-2016-2114
+          Severity: MEDIUM
+        - ID: CVE-2016-2115
+          Severity: MEDIUM
+        - ID: CVE-2016-2118
+          Severity: HIGH
+      FixedVersion: 0:3.0.0-26.el6_4.5
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-5370
+          Severity: CRITICAL
+        - ID: CVE-2016-2110
+          Severity: MEDIUM
+        - ID: CVE-2016-2111
+          Severity: MEDIUM
+        - ID: CVE-2016-2112
+          Severity: MEDIUM
+        - ID: CVE-2016-2113
+          Severity: MEDIUM
+        - ID: CVE-2016-2114
+          Severity: MEDIUM
+        - ID: CVE-2016-2115
+          Severity: MEDIUM
+        - ID: CVE-2016-2118
+          Severity: HIGH
+      FixedVersion: 0:3.0.0-37.el6_5.1
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_eus:6.6
+        - cpe:/o:redhat:rhel_eus:6.6::computenode
+        - cpe:/o:redhat:rhel_eus:6.6::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2015-5370
+          Severity: CRITICAL
+        - ID: CVE-2016-2110
+          Severity: MEDIUM
+        - ID: CVE-2016-2111
+          Severity: MEDIUM
+        - ID: CVE-2016-2112
+          Severity: MEDIUM
+        - ID: CVE-2016-2113
+          Severity: MEDIUM
+        - ID: CVE-2016-2114
+          Severity: MEDIUM
+        - ID: CVE-2016-2115
+          Severity: MEDIUM
+        - ID: CVE-2016-2118
+          Severity: HIGH
+      FixedVersion: 0:3.0.0-42.el6_6.1

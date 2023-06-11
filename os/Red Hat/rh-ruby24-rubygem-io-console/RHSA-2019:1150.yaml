@@ -1,0 +1,49 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-8320
+          Severity: MEDIUM
+        - ID: CVE-2019-8321
+          Severity: LOW
+        - ID: CVE-2019-8322
+          Severity: LOW
+        - ID: CVE-2019-8323
+          Severity: LOW
+        - ID: CVE-2019-8324
+          Severity: HIGH
+        - ID: CVE-2019-8325
+          Severity: LOW
+      FixedVersion: 0:0.4.6-92.el6
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-8320
+          Severity: MEDIUM
+        - ID: CVE-2019-8321
+          Severity: LOW
+        - ID: CVE-2019-8322
+          Severity: LOW
+        - ID: CVE-2019-8323
+          Severity: LOW
+        - ID: CVE-2019-8324
+          Severity: HIGH
+        - ID: CVE-2019-8325
+          Severity: LOW
+      FixedVersion: 0:0.4.6-92.el7

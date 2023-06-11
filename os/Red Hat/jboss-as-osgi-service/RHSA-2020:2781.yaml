@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el5
+      Cves:
+        - ID: CVE-2019-14885
+          Severity: MEDIUM
+        - ID: CVE-2020-1938
+          Severity: HIGH
+      FixedVersion: 0:7.5.23-3.Final_redhat_00002.1.ep6.el5

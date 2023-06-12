@@ -1,0 +1,44 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.1
+        - cpe:/a:redhat:rhel_e4s:8.1::appstream
+        - cpe:/a:redhat:rhel_e4s:8.1::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.1::sap
+        - cpe:/a:redhat:rhel_e4s:8.1::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.1
+        - cpe:/o:redhat:rhel_e4s:8.1::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2022-21248
+          Severity: MEDIUM
+        - ID: CVE-2022-21277
+          Severity: MEDIUM
+        - ID: CVE-2022-21282
+          Severity: MEDIUM
+        - ID: CVE-2022-21283
+          Severity: MEDIUM
+        - ID: CVE-2022-21291
+          Severity: MEDIUM
+        - ID: CVE-2022-21293
+          Severity: MEDIUM
+        - ID: CVE-2022-21294
+          Severity: MEDIUM
+        - ID: CVE-2022-21296
+          Severity: MEDIUM
+        - ID: CVE-2022-21299
+          Severity: MEDIUM
+        - ID: CVE-2022-21305
+          Severity: MEDIUM
+        - ID: CVE-2022-21340
+          Severity: MEDIUM
+        - ID: CVE-2022-21341
+          Severity: MEDIUM
+        - ID: CVE-2022-21360
+          Severity: MEDIUM
+        - ID: CVE-2022-21365
+          Severity: MEDIUM
+        - ID: CVE-2022-21366
+          Severity: MEDIUM
+      FixedVersion: 1:11.0.14.0.9-1.el8_1

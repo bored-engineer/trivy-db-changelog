@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2020-2167
+          Severity: HIGH
+      FixedVersion: 0:2.204.2.1585048146-1.el7

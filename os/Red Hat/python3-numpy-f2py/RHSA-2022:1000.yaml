@@ -1,0 +1,13 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16.2
+        - cpe:/a:redhat:openstack:16.2::el8
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2021-33430
+          Severity: MEDIUM
+        - ID: CVE-2021-41496
+          Severity: MEDIUM
+      FixedVersion: 1:1.17.0-8.el8ost

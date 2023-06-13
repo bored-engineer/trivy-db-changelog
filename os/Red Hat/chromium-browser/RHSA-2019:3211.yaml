@@ -1,0 +1,112 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2019-13659
+          Severity: MEDIUM
+        - ID: CVE-2019-13660
+          Severity: MEDIUM
+        - ID: CVE-2019-13661
+          Severity: MEDIUM
+        - ID: CVE-2019-13662
+          Severity: MEDIUM
+        - ID: CVE-2019-13663
+          Severity: MEDIUM
+        - ID: CVE-2019-13664
+          Severity: MEDIUM
+        - ID: CVE-2019-13665
+          Severity: MEDIUM
+        - ID: CVE-2019-13666
+          Severity: MEDIUM
+        - ID: CVE-2019-13667
+          Severity: MEDIUM
+        - ID: CVE-2019-13668
+          Severity: MEDIUM
+        - ID: CVE-2019-13669
+          Severity: MEDIUM
+        - ID: CVE-2019-13670
+          Severity: MEDIUM
+        - ID: CVE-2019-13671
+          Severity: MEDIUM
+        - ID: CVE-2019-13673
+          Severity: MEDIUM
+        - ID: CVE-2019-13674
+          Severity: LOW
+        - ID: CVE-2019-13675
+          Severity: LOW
+        - ID: CVE-2019-13676
+          Severity: LOW
+        - ID: CVE-2019-13677
+          Severity: LOW
+        - ID: CVE-2019-13678
+          Severity: LOW
+        - ID: CVE-2019-13679
+          Severity: LOW
+        - ID: CVE-2019-13680
+          Severity: LOW
+        - ID: CVE-2019-13681
+          Severity: LOW
+        - ID: CVE-2019-13682
+          Severity: LOW
+        - ID: CVE-2019-13683
+          Severity: LOW
+        - ID: CVE-2019-13685
+          Severity: CRITICAL
+        - ID: CVE-2019-13686
+          Severity: HIGH
+        - ID: CVE-2019-13687
+          Severity: HIGH
+        - ID: CVE-2019-13688
+          Severity: HIGH
+        - ID: CVE-2019-13691
+          Severity: HIGH
+        - ID: CVE-2019-13692
+          Severity: HIGH
+        - ID: CVE-2019-13693
+          Severity: HIGH
+        - ID: CVE-2019-13694
+          Severity: HIGH
+        - ID: CVE-2019-13695
+          Severity: HIGH
+        - ID: CVE-2019-13696
+          Severity: HIGH
+        - ID: CVE-2019-13697
+          Severity: HIGH
+        - ID: CVE-2019-5870
+          Severity: CRITICAL
+        - ID: CVE-2019-5871
+          Severity: HIGH
+        - ID: CVE-2019-5872
+          Severity: HIGH
+        - ID: CVE-2019-5874
+          Severity: HIGH
+        - ID: CVE-2019-5875
+          Severity: HIGH
+        - ID: CVE-2019-5876
+          Severity: HIGH
+        - ID: CVE-2019-5877
+          Severity: HIGH
+        - ID: CVE-2019-5878
+          Severity: HIGH
+        - ID: CVE-2019-5879
+          Severity: MEDIUM
+        - ID: CVE-2019-5880
+          Severity: MEDIUM
+        - ID: CVE-2019-5881
+          Severity: MEDIUM
+      FixedVersion: 0:77.0.3865.120-2.el6_10

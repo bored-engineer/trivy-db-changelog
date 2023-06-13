@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:4
+        - cpe:/a:redhat:ceph_storage:4::el7
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2020-27839
+          Severity: MEDIUM
+        - ID: CVE-2021-20288
+          Severity: HIGH
+        - ID: CVE-2021-3509
+          Severity: MEDIUM
+      FixedVersion: 2:14.2.11-181.el7cp

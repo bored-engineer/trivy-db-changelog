@@ -1,0 +1,58 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2
+        - cpe:/a:redhat:rhel_e4s:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.2::sap
+        - cpe:/a:redhat:rhel_e4s:8.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.2
+        - cpe:/a:redhat:rhel_eus:8.2::appstream
+        - cpe:/a:redhat:rhel_eus:8.2::crb
+        - cpe:/a:redhat:rhel_eus:8.2::highavailability
+        - cpe:/a:redhat:rhel_eus:8.2::nfv
+        - cpe:/a:redhat:rhel_eus:8.2::realtime
+        - cpe:/a:redhat:rhel_eus:8.2::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.2::sap
+        - cpe:/a:redhat:rhel_eus:8.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.2::supplementary
+        - cpe:/a:redhat:rhel_tus:8.2
+        - cpe:/a:redhat:rhel_tus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2::highavailability
+        - cpe:/a:redhat:rhel_tus:8.2::nfv
+        - cpe:/a:redhat:rhel_tus:8.2::realtime
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+        - cpe:/o:redhat:rhel_e4s:8.2
+        - cpe:/o:redhat:rhel_e4s:8.2::baseos
+        - cpe:/o:redhat:rhel_eus:8.2
+        - cpe:/o:redhat:rhel_eus:8.2::baseos
+        - cpe:/o:redhat:rhel_tus:8.2
+        - cpe:/o:redhat:rhel_tus:8.2::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2020-16012
+          Severity: MEDIUM
+        - ID: CVE-2020-26951
+          Severity: HIGH
+        - ID: CVE-2020-26953
+          Severity: MEDIUM
+        - ID: CVE-2020-26956
+          Severity: MEDIUM
+        - ID: CVE-2020-26958
+          Severity: MEDIUM
+        - ID: CVE-2020-26959
+          Severity: MEDIUM
+        - ID: CVE-2020-26960
+          Severity: MEDIUM
+        - ID: CVE-2020-26961
+          Severity: MEDIUM
+        - ID: CVE-2020-26965
+          Severity: LOW
+        - ID: CVE-2020-26968
+          Severity: HIGH
+      FixedVersion: 0:78.5.0-1.el8_2

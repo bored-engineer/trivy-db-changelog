@@ -1,0 +1,268 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+        - cpe:/o:redhat:rhel_eus:6.5
+        - cpe:/o:redhat:rhel_eus:6.5::computenode
+        - cpe:/o:redhat:rhel_eus:6.5::server
+        - cpe:/o:redhat:rhel_tus:6.5
+        - cpe:/o:redhat:rhel_tus:6.5::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2013-1500
+          Severity: LOW
+        - ID: CVE-2013-1571
+          Severity: MEDIUM
+        - ID: CVE-2013-2407
+          Severity: MEDIUM
+        - ID: CVE-2013-2412
+          Severity: MEDIUM
+        - ID: CVE-2013-2437
+          Severity: MEDIUM
+        - ID: CVE-2013-2442
+          Severity: HIGH
+        - ID: CVE-2013-2443
+          Severity: MEDIUM
+        - ID: CVE-2013-2444
+          Severity: MEDIUM
+        - ID: CVE-2013-2445
+          Severity: MEDIUM
+        - ID: CVE-2013-2446
+          Severity: MEDIUM
+        - ID: CVE-2013-2447
+          Severity: MEDIUM
+        - ID: CVE-2013-2448
+          Severity: MEDIUM
+        - ID: CVE-2013-2450
+          Severity: MEDIUM
+        - ID: CVE-2013-2451
+          Severity: LOW
+        - ID: CVE-2013-2452
+          Severity: MEDIUM
+        - ID: CVE-2013-2453
+          Severity: MEDIUM
+        - ID: CVE-2013-2454
+          Severity: MEDIUM
+        - ID: CVE-2013-2455
+          Severity: MEDIUM
+        - ID: CVE-2013-2456
+          Severity: MEDIUM
+        - ID: CVE-2013-2457
+          Severity: MEDIUM
+        - ID: CVE-2013-2459
+          Severity: CRITICAL
+        - ID: CVE-2013-2461
+          Severity: HIGH
+        - ID: CVE-2013-2463
+          Severity: CRITICAL
+        - ID: CVE-2013-2464
+          Severity: CRITICAL
+        - ID: CVE-2013-2465
+          Severity: CRITICAL
+        - ID: CVE-2013-2466
+          Severity: CRITICAL
+        - ID: CVE-2013-2468
+          Severity: CRITICAL
+        - ID: CVE-2013-2469
+          Severity: CRITICAL
+        - ID: CVE-2013-2470
+          Severity: CRITICAL
+        - ID: CVE-2013-2471
+          Severity: CRITICAL
+        - ID: CVE-2013-2472
+          Severity: CRITICAL
+        - ID: CVE-2013-2473
+          Severity: CRITICAL
+        - ID: CVE-2013-3743
+          Severity: CRITICAL
+        - ID: CVE-2013-3829
+          Severity: MEDIUM
+        - ID: CVE-2013-4002
+          Severity: MEDIUM
+        - ID: CVE-2013-4578
+          Severity: LOW
+        - ID: CVE-2013-5772
+          Severity: LOW
+        - ID: CVE-2013-5774
+          Severity: MEDIUM
+        - ID: CVE-2013-5776
+          Severity: MEDIUM
+        - ID: CVE-2013-5778
+          Severity: MEDIUM
+        - ID: CVE-2013-5780
+          Severity: MEDIUM
+        - ID: CVE-2013-5782
+          Severity: CRITICAL
+        - ID: CVE-2013-5783
+          Severity: MEDIUM
+        - ID: CVE-2013-5784
+          Severity: MEDIUM
+        - ID: CVE-2013-5787
+          Severity: CRITICAL
+        - ID: CVE-2013-5789
+          Severity: CRITICAL
+        - ID: CVE-2013-5790
+          Severity: MEDIUM
+        - ID: CVE-2013-5797
+          Severity: LOW
+        - ID: CVE-2013-5801
+          Severity: MEDIUM
+        - ID: CVE-2013-5802
+          Severity: HIGH
+        - ID: CVE-2013-5803
+          Severity: LOW
+        - ID: CVE-2013-5804
+          Severity: MEDIUM
+        - ID: CVE-2013-5809
+          Severity: CRITICAL
+        - ID: CVE-2013-5812
+          Severity: MEDIUM
+        - ID: CVE-2013-5814
+          Severity: CRITICAL
+        - ID: CVE-2013-5817
+          Severity: CRITICAL
+        - ID: CVE-2013-5818
+          Severity: MEDIUM
+        - ID: CVE-2013-5819
+          Severity: MEDIUM
+        - ID: CVE-2013-5820
+          Severity: MEDIUM
+        - ID: CVE-2013-5823
+          Severity: MEDIUM
+        - ID: CVE-2013-5824
+          Severity: CRITICAL
+        - ID: CVE-2013-5825
+          Severity: MEDIUM
+        - ID: CVE-2013-5829
+          Severity: CRITICAL
+        - ID: CVE-2013-5830
+          Severity: CRITICAL
+        - ID: CVE-2013-5831
+          Severity: MEDIUM
+        - ID: CVE-2013-5832
+          Severity: CRITICAL
+        - ID: CVE-2013-5840
+          Severity: MEDIUM
+        - ID: CVE-2013-5842
+          Severity: CRITICAL
+        - ID: CVE-2013-5843
+          Severity: CRITICAL
+        - ID: CVE-2013-5848
+          Severity: MEDIUM
+        - ID: CVE-2013-5849
+          Severity: MEDIUM
+        - ID: CVE-2013-5850
+          Severity: CRITICAL
+        - ID: CVE-2013-5852
+          Severity: MEDIUM
+        - ID: CVE-2013-5878
+          Severity: HIGH
+        - ID: CVE-2013-5884
+          Severity: MEDIUM
+        - ID: CVE-2013-5887
+          Severity: MEDIUM
+        - ID: CVE-2013-5888
+          Severity: MEDIUM
+        - ID: CVE-2013-5889
+          Severity: CRITICAL
+        - ID: CVE-2013-5896
+          Severity: MEDIUM
+        - ID: CVE-2013-5898
+          Severity: MEDIUM
+        - ID: CVE-2013-5899
+          Severity: MEDIUM
+        - ID: CVE-2013-5902
+          Severity: MEDIUM
+        - ID: CVE-2013-5905
+          Severity: MEDIUM
+        - ID: CVE-2013-5906
+          Severity: MEDIUM
+        - ID: CVE-2013-5907
+          Severity: CRITICAL
+        - ID: CVE-2013-5910
+          Severity: MEDIUM
+        - ID: CVE-2013-6629
+          Severity: MEDIUM
+        - ID: CVE-2013-6954
+          Severity: LOW
+        - ID: CVE-2014-0368
+          Severity: MEDIUM
+        - ID: CVE-2014-0373
+          Severity: HIGH
+        - ID: CVE-2014-0375
+          Severity: MEDIUM
+        - ID: CVE-2014-0376
+          Severity: MEDIUM
+        - ID: CVE-2014-0387
+          Severity: HIGH
+        - ID: CVE-2014-0403
+          Severity: MEDIUM
+        - ID: CVE-2014-0410
+          Severity: CRITICAL
+        - ID: CVE-2014-0411
+          Severity: MEDIUM
+        - ID: CVE-2014-0415
+          Severity: CRITICAL
+        - ID: CVE-2014-0416
+          Severity: MEDIUM
+        - ID: CVE-2014-0417
+          Severity: CRITICAL
+        - ID: CVE-2014-0418
+          Severity: MEDIUM
+        - ID: CVE-2014-0422
+          Severity: CRITICAL
+        - ID: CVE-2014-0423
+          Severity: MEDIUM
+        - ID: CVE-2014-0424
+          Severity: HIGH
+        - ID: CVE-2014-0428
+          Severity: CRITICAL
+        - ID: CVE-2014-0429
+          Severity: CRITICAL
+        - ID: CVE-2014-0446
+          Severity: HIGH
+        - ID: CVE-2014-0449
+          Severity: MEDIUM
+        - ID: CVE-2014-0451
+          Severity: HIGH
+        - ID: CVE-2014-0452
+          Severity: HIGH
+        - ID: CVE-2014-0453
+          Severity: MEDIUM
+        - ID: CVE-2014-0456
+          Severity: CRITICAL
+        - ID: CVE-2014-0457
+          Severity: CRITICAL
+        - ID: CVE-2014-0458
+          Severity: HIGH
+        - ID: CVE-2014-0460
+          Severity: MEDIUM
+        - ID: CVE-2014-0461
+          Severity: CRITICAL
+        - ID: CVE-2014-1876
+          Severity: LOW
+        - ID: CVE-2014-2398
+          Severity: LOW
+        - ID: CVE-2014-2401
+          Severity: MEDIUM
+        - ID: CVE-2014-2403
+          Severity: MEDIUM
+        - ID: CVE-2014-2409
+          Severity: MEDIUM
+        - ID: CVE-2014-2412
+          Severity: HIGH
+        - ID: CVE-2014-2414
+          Severity: HIGH
+        - ID: CVE-2014-2420
+          Severity: LOW
+        - ID: CVE-2014-2421
+          Severity: CRITICAL
+        - ID: CVE-2014-2423
+          Severity: HIGH
+        - ID: CVE-2014-2427
+          Severity: HIGH
+        - ID: CVE-2014-2428
+          Severity: HIGH
+      FixedVersion: 1:1.6.0.75-1jpp.1.el6_5

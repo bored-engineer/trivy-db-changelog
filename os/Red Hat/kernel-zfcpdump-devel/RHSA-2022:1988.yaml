@@ -148,4 +148,10 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-1011
           Severity: MEDIUM
+        - ID: CVE-2022-3105
+          Severity: LOW
+        - ID: CVE-2022-3106
+          Severity: LOW
+        - ID: CVE-2022-3108
+          Severity: LOW
       FixedVersion: 0:4.18.0-372.9.1.el8

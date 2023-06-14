@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_web_server:2
+        - cpe:/a:redhat:jboss_enterprise_web_server:2::el6
+      Cves:
+        - ID: CVE-2016-2183
+          Severity: MEDIUM
+        - ID: CVE-2017-12615
+          Severity: HIGH
+        - ID: CVE-2017-12617
+          Severity: HIGH
+        - ID: CVE-2017-9788
+          Severity: HIGH
+        - ID: CVE-2017-9798
+          Severity: MEDIUM
+      FixedVersion: 0:7.0.54-28_patch_05.ep6.el6

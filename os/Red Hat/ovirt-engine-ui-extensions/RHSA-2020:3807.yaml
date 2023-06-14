@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhev_manager:4.4
+        - cpe:/a:redhat:rhev_manager:4.4:el8
+      Cves:
+        - ID: CVE-2020-11022
+          Severity: MEDIUM
+        - ID: CVE-2020-11023
+          Severity: MEDIUM
+        - ID: CVE-2020-14333
+          Severity: MEDIUM
+        - ID: CVE-2020-8203
+          Severity: LOW
+      FixedVersion: 0:1.2.3-1.el8ev

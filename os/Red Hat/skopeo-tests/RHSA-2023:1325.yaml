@@ -29,5 +29,5 @@ Entries:
         - ID: CVE-2023-25577
           Severity: HIGH
         - ID: CVE-2023-25725
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 2:1.10.0-1.rhaos4.13.el9

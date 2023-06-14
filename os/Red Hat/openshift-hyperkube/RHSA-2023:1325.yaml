@@ -29,7 +29,7 @@ Entries:
         - ID: CVE-2023-25577
           Severity: HIGH
         - ID: CVE-2023-25725
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 0:4.13.0-202304211155.p0.gb404935.assembly.stream.el8
     - Affected:
         - cpe:/a:redhat:openshift:4.13
@@ -61,5 +61,5 @@ Entries:
         - ID: CVE-2023-25577
           Severity: HIGH
         - ID: CVE-2023-25725
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 0:4.13.0-202304211155.p0.gb404935.assembly.stream.el9

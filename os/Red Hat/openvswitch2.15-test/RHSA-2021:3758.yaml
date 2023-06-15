@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.9
+        - cpe:/a:redhat:openshift:4.9::el8
+      Cves:
+        - ID: CVE-2021-28169
+          Severity: MEDIUM
+        - ID: CVE-2021-33196
+          Severity: LOW
+        - ID: CVE-2021-34428
+          Severity: LOW
+        - ID: CVE-2021-36980
+          Severity: MEDIUM
+        - ID: CVE-2021-3917
+          Severity: MEDIUM
+      FixedVersion: 0:2.15.0-28.el8fdp

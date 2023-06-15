@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.9
+        - cpe:/a:redhat:openshift:3.9::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-20102
+          Severity: MEDIUM
+        - ID: CVE-2018-20615
+          Severity: MEDIUM
+      FixedVersion: 0:1.8.17-3.el7

@@ -1,0 +1,361 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/a:redhat:rhel_aus:8.4
+        - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/a:redhat:rhel_aus:8.8
+        - cpe:/a:redhat:rhel_aus:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.0
+        - cpe:/a:redhat:rhel_e4s:8.0::appstream
+        - cpe:/a:redhat:rhel_e4s:8.0::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.0::sap
+        - cpe:/a:redhat:rhel_e4s:8.0::sap_hana
+        - cpe:/a:redhat:rhel_e4s:8.1
+        - cpe:/a:redhat:rhel_e4s:8.1::appstream
+        - cpe:/a:redhat:rhel_e4s:8.1::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.1::sap
+        - cpe:/a:redhat:rhel_e4s:8.1::sap_hana
+        - cpe:/a:redhat:rhel_e4s:8.2
+        - cpe:/a:redhat:rhel_e4s:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.2::sap
+        - cpe:/a:redhat:rhel_e4s:8.2::sap_hana
+        - cpe:/a:redhat:rhel_e4s:8.4
+        - cpe:/a:redhat:rhel_e4s:8.4::appstream
+        - cpe:/a:redhat:rhel_e4s:8.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.4::nfv
+        - cpe:/a:redhat:rhel_e4s:8.4::sap
+        - cpe:/a:redhat:rhel_e4s:8.4::sap_hana
+        - cpe:/a:redhat:rhel_e4s:8.6
+        - cpe:/a:redhat:rhel_e4s:8.6::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.6::sap
+        - cpe:/a:redhat:rhel_e4s:8.6::sap_hana
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.1
+        - cpe:/a:redhat:rhel_eus:8.1::appstream
+        - cpe:/a:redhat:rhel_eus:8.1::crb
+        - cpe:/a:redhat:rhel_eus:8.1::highavailability
+        - cpe:/a:redhat:rhel_eus:8.1::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.1::sap
+        - cpe:/a:redhat:rhel_eus:8.1::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.1::supplementary
+        - cpe:/a:redhat:rhel_eus:8.2
+        - cpe:/a:redhat:rhel_eus:8.2::appstream
+        - cpe:/a:redhat:rhel_eus:8.2::crb
+        - cpe:/a:redhat:rhel_eus:8.2::highavailability
+        - cpe:/a:redhat:rhel_eus:8.2::nfv
+        - cpe:/a:redhat:rhel_eus:8.2::realtime
+        - cpe:/a:redhat:rhel_eus:8.2::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.2::sap
+        - cpe:/a:redhat:rhel_eus:8.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.2::supplementary
+        - cpe:/a:redhat:rhel_eus:8.4
+        - cpe:/a:redhat:rhel_eus:8.4::appstream
+        - cpe:/a:redhat:rhel_eus:8.4::crb
+        - cpe:/a:redhat:rhel_eus:8.4::highavailability
+        - cpe:/a:redhat:rhel_eus:8.4::nfv
+        - cpe:/a:redhat:rhel_eus:8.4::realtime
+        - cpe:/a:redhat:rhel_eus:8.4::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.4::sap
+        - cpe:/a:redhat:rhel_eus:8.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.4::supplementary
+        - cpe:/a:redhat:rhel_eus:8.6
+        - cpe:/a:redhat:rhel_eus:8.6::appstream
+        - cpe:/a:redhat:rhel_eus:8.6::crb
+        - cpe:/a:redhat:rhel_eus:8.6::highavailability
+        - cpe:/a:redhat:rhel_eus:8.6::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.6::sap
+        - cpe:/a:redhat:rhel_eus:8.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.6::supplementary
+        - cpe:/a:redhat:rhel_eus:8.8
+        - cpe:/a:redhat:rhel_eus:8.8::appstream
+        - cpe:/a:redhat:rhel_eus:8.8::crb
+        - cpe:/a:redhat:rhel_eus:8.8::highavailability
+        - cpe:/a:redhat:rhel_eus:8.8::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.8::sap
+        - cpe:/a:redhat:rhel_eus:8.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.8::supplementary
+        - cpe:/a:redhat:rhel_tus:8.2
+        - cpe:/a:redhat:rhel_tus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2::highavailability
+        - cpe:/a:redhat:rhel_tus:8.2::nfv
+        - cpe:/a:redhat:rhel_tus:8.2::realtime
+        - cpe:/a:redhat:rhel_tus:8.4
+        - cpe:/a:redhat:rhel_tus:8.4::appstream
+        - cpe:/a:redhat:rhel_tus:8.4::highavailability
+        - cpe:/a:redhat:rhel_tus:8.4::nfv
+        - cpe:/a:redhat:rhel_tus:8.4::realtime
+        - cpe:/a:redhat:rhel_tus:8.6
+        - cpe:/a:redhat:rhel_tus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6::highavailability
+        - cpe:/a:redhat:rhel_tus:8.6::realtime
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+        - cpe:/o:redhat:rhel_aus:8.4
+        - cpe:/o:redhat:rhel_aus:8.4::baseos
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+        - cpe:/o:redhat:rhel_aus:8.8
+        - cpe:/o:redhat:rhel_aus:8.8::baseos
+        - cpe:/o:redhat:rhel_e4s:8.0
+        - cpe:/o:redhat:rhel_e4s:8.0::baseos
+        - cpe:/o:redhat:rhel_e4s:8.1
+        - cpe:/o:redhat:rhel_e4s:8.1::baseos
+        - cpe:/o:redhat:rhel_e4s:8.2
+        - cpe:/o:redhat:rhel_e4s:8.2::baseos
+        - cpe:/o:redhat:rhel_e4s:8.4
+        - cpe:/o:redhat:rhel_e4s:8.4::baseos
+        - cpe:/o:redhat:rhel_e4s:8.6
+        - cpe:/o:redhat:rhel_e4s:8.6::baseos
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+        - cpe:/o:redhat:rhel_eus:8.1
+        - cpe:/o:redhat:rhel_eus:8.1::baseos
+        - cpe:/o:redhat:rhel_eus:8.2
+        - cpe:/o:redhat:rhel_eus:8.2::baseos
+        - cpe:/o:redhat:rhel_eus:8.4
+        - cpe:/o:redhat:rhel_eus:8.4::baseos
+        - cpe:/o:redhat:rhel_eus:8.6
+        - cpe:/o:redhat:rhel_eus:8.6::baseos
+        - cpe:/o:redhat:rhel_eus:8.8
+        - cpe:/o:redhat:rhel_eus:8.8::baseos
+        - cpe:/o:redhat:rhel_tus:8.2
+        - cpe:/o:redhat:rhel_tus:8.2::baseos
+        - cpe:/o:redhat:rhel_tus:8.4
+        - cpe:/o:redhat:rhel_tus:8.4::baseos
+        - cpe:/o:redhat:rhel_tus:8.6
+        - cpe:/o:redhat:rhel_tus:8.6::baseos
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-2420
+          Severity: MEDIUM
+        - ID: CVE-2019-2434
+          Severity: MEDIUM
+        - ID: CVE-2019-2436
+          Severity: MEDIUM
+        - ID: CVE-2019-2455
+          Severity: MEDIUM
+        - ID: CVE-2019-2481
+          Severity: MEDIUM
+        - ID: CVE-2019-2482
+          Severity: MEDIUM
+        - ID: CVE-2019-2486
+          Severity: MEDIUM
+        - ID: CVE-2019-2494
+          Severity: MEDIUM
+        - ID: CVE-2019-2495
+          Severity: MEDIUM
+        - ID: CVE-2019-2502
+          Severity: MEDIUM
+        - ID: CVE-2019-2503
+          Severity: MEDIUM
+        - ID: CVE-2019-2507
+          Severity: MEDIUM
+        - ID: CVE-2019-2510
+          Severity: MEDIUM
+        - ID: CVE-2019-2528
+          Severity: MEDIUM
+        - ID: CVE-2019-2529
+          Severity: MEDIUM
+        - ID: CVE-2019-2530
+          Severity: MEDIUM
+        - ID: CVE-2019-2531
+          Severity: MEDIUM
+        - ID: CVE-2019-2532
+          Severity: MEDIUM
+        - ID: CVE-2019-2533
+          Severity: MEDIUM
+        - ID: CVE-2019-2534
+          Severity: MEDIUM
+        - ID: CVE-2019-2535
+          Severity: MEDIUM
+        - ID: CVE-2019-2536
+          Severity: MEDIUM
+        - ID: CVE-2019-2537
+          Severity: MEDIUM
+        - ID: CVE-2019-2539
+          Severity: MEDIUM
+        - ID: CVE-2019-2580
+          Severity: MEDIUM
+        - ID: CVE-2019-2581
+          Severity: MEDIUM
+        - ID: CVE-2019-2584
+          Severity: MEDIUM
+        - ID: CVE-2019-2585
+          Severity: MEDIUM
+        - ID: CVE-2019-2587
+          Severity: MEDIUM
+        - ID: CVE-2019-2589
+          Severity: MEDIUM
+        - ID: CVE-2019-2592
+          Severity: MEDIUM
+        - ID: CVE-2019-2593
+          Severity: MEDIUM
+        - ID: CVE-2019-2596
+          Severity: MEDIUM
+        - ID: CVE-2019-2606
+          Severity: MEDIUM
+        - ID: CVE-2019-2607
+          Severity: MEDIUM
+        - ID: CVE-2019-2614
+          Severity: MEDIUM
+        - ID: CVE-2019-2617
+          Severity: MEDIUM
+        - ID: CVE-2019-2620
+          Severity: MEDIUM
+        - ID: CVE-2019-2623
+          Severity: MEDIUM
+        - ID: CVE-2019-2624
+          Severity: MEDIUM
+        - ID: CVE-2019-2625
+          Severity: MEDIUM
+        - ID: CVE-2019-2626
+          Severity: MEDIUM
+        - ID: CVE-2019-2627
+          Severity: MEDIUM
+        - ID: CVE-2019-2628
+          Severity: MEDIUM
+        - ID: CVE-2019-2630
+          Severity: MEDIUM
+        - ID: CVE-2019-2631
+          Severity: MEDIUM
+        - ID: CVE-2019-2634
+          Severity: MEDIUM
+        - ID: CVE-2019-2635
+          Severity: MEDIUM
+        - ID: CVE-2019-2636
+          Severity: MEDIUM
+        - ID: CVE-2019-2644
+          Severity: MEDIUM
+        - ID: CVE-2019-2681
+          Severity: MEDIUM
+        - ID: CVE-2019-2683
+          Severity: MEDIUM
+        - ID: CVE-2019-2685
+          Severity: MEDIUM
+        - ID: CVE-2019-2686
+          Severity: MEDIUM
+        - ID: CVE-2019-2687
+          Severity: MEDIUM
+        - ID: CVE-2019-2688
+          Severity: MEDIUM
+        - ID: CVE-2019-2689
+          Severity: MEDIUM
+        - ID: CVE-2019-2691
+          Severity: MEDIUM
+        - ID: CVE-2019-2693
+          Severity: MEDIUM
+        - ID: CVE-2019-2694
+          Severity: MEDIUM
+        - ID: CVE-2019-2695
+          Severity: MEDIUM
+        - ID: CVE-2019-2737
+          Severity: MEDIUM
+        - ID: CVE-2019-2738
+          Severity: LOW
+        - ID: CVE-2019-2739
+          Severity: MEDIUM
+        - ID: CVE-2019-2740
+          Severity: MEDIUM
+        - ID: CVE-2019-2752
+          Severity: MEDIUM
+        - ID: CVE-2019-2755
+          Severity: MEDIUM
+        - ID: CVE-2019-2757
+          Severity: MEDIUM
+        - ID: CVE-2019-2758
+          Severity: MEDIUM
+        - ID: CVE-2019-2774
+          Severity: MEDIUM
+        - ID: CVE-2019-2778
+          Severity: MEDIUM
+        - ID: CVE-2019-2780
+          Severity: MEDIUM
+        - ID: CVE-2019-2784
+          Severity: MEDIUM
+        - ID: CVE-2019-2785
+          Severity: MEDIUM
+        - ID: CVE-2019-2789
+          Severity: LOW
+        - ID: CVE-2019-2795
+          Severity: MEDIUM
+        - ID: CVE-2019-2796
+          Severity: MEDIUM
+        - ID: CVE-2019-2797
+          Severity: MEDIUM
+        - ID: CVE-2019-2798
+          Severity: MEDIUM
+        - ID: CVE-2019-2800
+          Severity: HIGH
+        - ID: CVE-2019-2801
+          Severity: MEDIUM
+        - ID: CVE-2019-2802
+          Severity: MEDIUM
+        - ID: CVE-2019-2803
+          Severity: MEDIUM
+        - ID: CVE-2019-2805
+          Severity: MEDIUM
+        - ID: CVE-2019-2808
+          Severity: MEDIUM
+        - ID: CVE-2019-2810
+          Severity: MEDIUM
+        - ID: CVE-2019-2811
+          Severity: MEDIUM
+        - ID: CVE-2019-2812
+          Severity: MEDIUM
+        - ID: CVE-2019-2814
+          Severity: LOW
+        - ID: CVE-2019-2815
+          Severity: MEDIUM
+        - ID: CVE-2019-2819
+          Severity: MEDIUM
+        - ID: CVE-2019-2826
+          Severity: MEDIUM
+        - ID: CVE-2019-2830
+          Severity: MEDIUM
+        - ID: CVE-2019-2834
+          Severity: MEDIUM
+        - ID: CVE-2019-2879
+          Severity: MEDIUM
+        - ID: CVE-2019-2948
+          Severity: MEDIUM
+        - ID: CVE-2019-2950
+          Severity: MEDIUM
+        - ID: CVE-2019-2969
+          Severity: MEDIUM
+        - ID: CVE-2019-3003
+          Severity: MEDIUM
+        - ID: CVE-2022-21589
+          Severity: MEDIUM
+      FixedVersion: 0:2.7.0.20070801-16.module+el8.0.0+3898+e09bb8de

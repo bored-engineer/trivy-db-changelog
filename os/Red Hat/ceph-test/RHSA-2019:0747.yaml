@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:2
+        - cpe:/a:redhat:ceph_storage:2::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-19039
+          Severity: MEDIUM
+      FixedVersion: 2:10.2.10-49.el7cp

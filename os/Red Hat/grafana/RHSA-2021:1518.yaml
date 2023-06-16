@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:3
+        - cpe:/a:redhat:ceph_storage:3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-12059
+          Severity: MEDIUM
+        - ID: CVE-2020-13379
+          Severity: HIGH
+        - ID: CVE-2020-27781
+          Severity: HIGH
+        - ID: CVE-2021-3139
+          Severity: HIGH
+      FixedVersion: 0:5.2.4-3.el7cp

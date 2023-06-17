@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_other:7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2014-6407
+          Severity: LOW
+        - ID: CVE-2014-9358
+          Severity: LOW
+      FixedVersion: 0:1.3.2-4.el7

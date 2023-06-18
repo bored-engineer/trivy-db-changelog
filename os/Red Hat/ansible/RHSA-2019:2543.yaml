@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ansible_engine:2
+        - cpe:/a:redhat:ansible_engine:2::el7
+      Cves:
+        - ID: CVE-2019-10206
+          Severity: MEDIUM
+        - ID: CVE-2019-10217
+          Severity: MEDIUM
+      FixedVersion: 0:2.8.4-1.el7ae
+    - Affected:
+        - cpe:/a:redhat:ansible_engine:2
+        - cpe:/a:redhat:ansible_engine:2::el8
+      Cves:
+        - ID: CVE-2019-10206
+          Severity: MEDIUM
+        - ID: CVE-2019-10217
+          Severity: MEDIUM
+      FixedVersion: 0:2.8.4-1.el8ae

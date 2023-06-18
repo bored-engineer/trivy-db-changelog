@@ -1,0 +1,50 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7::el7
+      Cves:
+        - ID: CVE-2015-9251
+          Severity: MEDIUM
+        - ID: CVE-2016-10735
+          Severity: MEDIUM
+        - ID: CVE-2017-18214
+          Severity: MEDIUM
+        - ID: CVE-2018-14040
+          Severity: MEDIUM
+        - ID: CVE-2018-14041
+          Severity: MEDIUM
+        - ID: CVE-2018-14042
+          Severity: MEDIUM
+        - ID: CVE-2019-11358
+          Severity: MEDIUM
+        - ID: CVE-2019-8331
+          Severity: MEDIUM
+        - ID: CVE-2020-11022
+          Severity: MEDIUM
+        - ID: CVE-2020-11023
+          Severity: MEDIUM
+        - ID: CVE-2022-3143
+          Severity: MEDIUM
+        - ID: CVE-2022-40149
+          Severity: MEDIUM
+        - ID: CVE-2022-40150
+          Severity: LOW
+        - ID: CVE-2022-40152
+          Severity: MEDIUM
+        - ID: CVE-2022-42003
+          Severity: MEDIUM
+        - ID: CVE-2022-42004
+          Severity: MEDIUM
+        - ID: CVE-2022-45047
+          Severity: MEDIUM
+        - ID: CVE-2022-45693
+          Severity: MEDIUM
+        - ID: CVE-2022-46364
+          Severity: HIGH
+      FixedVersion: 0:1.5.2-1.redhat_00002.1.el7eap

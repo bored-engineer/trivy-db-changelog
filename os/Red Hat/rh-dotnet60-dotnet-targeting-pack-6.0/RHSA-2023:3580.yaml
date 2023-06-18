@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_dotnet:6.0
+        - cpe:/a:redhat:rhel_dotnet:6.0::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-24936
+          Severity: MEDIUM
+        - ID: CVE-2023-29331
+          Severity: HIGH
+        - ID: CVE-2023-29337
+          Severity: HIGH
+        - ID: CVE-2023-33128
+          Severity: HIGH
+      FixedVersion: 0:6.0.18-1.el7_9

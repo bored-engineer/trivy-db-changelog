@@ -1,0 +1,29 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Cves:
+        - ID: CVE-2016-2097
+          Severity: HIGH
+        - ID: CVE-2016-2098
+          Severity: HIGH
+      FixedVersion: 0:4.1.5-5.el6
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Cves:
+        - ID: CVE-2016-2097
+          Severity: HIGH
+        - ID: CVE-2016-2098
+          Severity: HIGH
+      FixedVersion: 0:4.1.5-5.el7

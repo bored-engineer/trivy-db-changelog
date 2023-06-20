@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.9
+        - cpe:/a:redhat:openshift:3.9::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-1070
+          Severity: HIGH
+        - ID: CVE-2018-10843
+          Severity: HIGH
+        - ID: CVE-2018-1085
+          Severity: HIGH
+      FixedVersion: 0:3.9.13-1.git.167.5d6b0d4.el7

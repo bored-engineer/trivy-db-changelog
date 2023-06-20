@@ -35,6 +35,8 @@ Entries:
         - cpe:/o:redhat:rhel_eus:9.2
         - cpe:/o:redhat:rhel_eus:9.2::baseos
       Cves:
+        - ID: CVE-2021-35065
+          Severity: MEDIUM
         - ID: CVE-2022-25881
           Severity: MEDIUM
         - ID: CVE-2022-4904

@@ -1,0 +1,24 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.3
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.3
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.3
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3::server
+        - cpe:/o:redhat:rhel_e4s:7.3
+        - cpe:/o:redhat:rhel_e4s:7.3::server
+        - cpe:/o:redhat:rhel_eus:7.3
+        - cpe:/o:redhat:rhel_eus:7.3::computenode
+        - cpe:/o:redhat:rhel_eus:7.3::server
+        - cpe:/o:redhat:rhel_tus:7.3
+        - cpe:/o:redhat:rhel_tus:7.3::server
+      Arches:
+        - ppc64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2018-1000156
+          Severity: HIGH
+      FixedVersion: 0:2.7.1-10.el7_3

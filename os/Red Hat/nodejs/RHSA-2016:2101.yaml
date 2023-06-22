@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.1
+        - cpe:/a:redhat:openshift:3.1::el7
+        - cpe:/a:redhat:openshift:3.2
+        - cpe:/a:redhat:openshift:3.2::el7
+        - cpe:/a:redhat:openshift:3.3
+        - cpe:/a:redhat:openshift:3.3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-1000232
+          Severity: MEDIUM
+        - ID: CVE-2016-5325
+          Severity: LOW
+      FixedVersion: 0:0.10.47-2.el7

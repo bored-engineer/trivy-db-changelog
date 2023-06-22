@@ -1,0 +1,5 @@
+Entries:
+    - Cves:
+        - ID: CVE-2017-7514
+          Severity: MEDIUM
+      FixedVersion: 0:1.0.2-4.el6sat

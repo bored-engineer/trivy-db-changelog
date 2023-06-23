@@ -1,0 +1,186 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+      Arches:
+        - i686
+        - ppc
+        - ppc64
+        - ppc64le
+        - s390
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2017-1000476
+          Severity: LOW
+        - ID: CVE-2017-11166
+          Severity: LOW
+        - ID: CVE-2017-12805
+          Severity: LOW
+        - ID: CVE-2017-12806
+          Severity: LOW
+        - ID: CVE-2017-18251
+          Severity: LOW
+        - ID: CVE-2017-18252
+          Severity: LOW
+        - ID: CVE-2017-18254
+          Severity: LOW
+        - ID: CVE-2017-18271
+          Severity: LOW
+        - ID: CVE-2017-18273
+          Severity: LOW
+        - ID: CVE-2018-10177
+          Severity: LOW
+        - ID: CVE-2018-10804
+          Severity: LOW
+        - ID: CVE-2018-10805
+          Severity: LOW
+        - ID: CVE-2018-11656
+          Severity: LOW
+        - ID: CVE-2018-12599
+          Severity: MEDIUM
+        - ID: CVE-2018-12600
+          Severity: MEDIUM
+        - ID: CVE-2018-13153
+          Severity: LOW
+        - ID: CVE-2018-14434
+          Severity: LOW
+        - ID: CVE-2018-14435
+          Severity: LOW
+        - ID: CVE-2018-14436
+          Severity: LOW
+        - ID: CVE-2018-14437
+          Severity: LOW
+        - ID: CVE-2018-15607
+          Severity: LOW
+        - ID: CVE-2018-16328
+          Severity: LOW
+        - ID: CVE-2018-16640
+          Severity: LOW
+        - ID: CVE-2018-16642
+          Severity: MEDIUM
+        - ID: CVE-2018-16643
+          Severity: LOW
+        - ID: CVE-2018-16644
+          Severity: LOW
+        - ID: CVE-2018-16645
+          Severity: LOW
+        - ID: CVE-2018-16749
+          Severity: LOW
+        - ID: CVE-2018-16750
+          Severity: LOW
+        - ID: CVE-2018-17966
+          Severity: LOW
+        - ID: CVE-2018-17967
+          Severity: LOW
+        - ID: CVE-2018-18016
+          Severity: LOW
+        - ID: CVE-2018-18024
+          Severity: LOW
+        - ID: CVE-2018-18544
+          Severity: LOW
+        - ID: CVE-2018-20467
+          Severity: LOW
+        - ID: CVE-2018-8804
+          Severity: LOW
+        - ID: CVE-2018-9133
+          Severity: LOW
+        - ID: CVE-2019-10131
+          Severity: LOW
+        - ID: CVE-2019-10650
+          Severity: LOW
+        - ID: CVE-2019-11470
+          Severity: LOW
+        - ID: CVE-2019-11472
+          Severity: LOW
+        - ID: CVE-2019-11597
+          Severity: MEDIUM
+        - ID: CVE-2019-11598
+          Severity: MEDIUM
+        - ID: CVE-2019-12974
+          Severity: MEDIUM
+        - ID: CVE-2019-12975
+          Severity: LOW
+        - ID: CVE-2019-12976
+          Severity: LOW
+        - ID: CVE-2019-12978
+          Severity: MEDIUM
+        - ID: CVE-2019-12979
+          Severity: MEDIUM
+        - ID: CVE-2019-13133
+          Severity: LOW
+        - ID: CVE-2019-13134
+          Severity: LOW
+        - ID: CVE-2019-13135
+          Severity: MEDIUM
+        - ID: CVE-2019-13295
+          Severity: MEDIUM
+        - ID: CVE-2019-13297
+          Severity: MEDIUM
+        - ID: CVE-2019-13300
+          Severity: MEDIUM
+        - ID: CVE-2019-13301
+          Severity: MEDIUM
+        - ID: CVE-2019-13304
+          Severity: MEDIUM
+        - ID: CVE-2019-13305
+          Severity: MEDIUM
+        - ID: CVE-2019-13306
+          Severity: MEDIUM
+        - ID: CVE-2019-13307
+          Severity: MEDIUM
+        - ID: CVE-2019-13309
+          Severity: LOW
+        - ID: CVE-2019-13310
+          Severity: LOW
+        - ID: CVE-2019-13311
+          Severity: LOW
+        - ID: CVE-2019-13454
+          Severity: LOW
+        - ID: CVE-2019-14980
+          Severity: LOW
+        - ID: CVE-2019-14981
+          Severity: LOW
+        - ID: CVE-2019-15139
+          Severity: MEDIUM
+        - ID: CVE-2019-15140
+          Severity: MEDIUM
+        - ID: CVE-2019-15141
+          Severity: MEDIUM
+        - ID: CVE-2019-16708
+          Severity: LOW
+        - ID: CVE-2019-16709
+          Severity: LOW
+        - ID: CVE-2019-16710
+          Severity: LOW
+        - ID: CVE-2019-16711
+          Severity: LOW
+        - ID: CVE-2019-16712
+          Severity: LOW
+        - ID: CVE-2019-16713
+          Severity: LOW
+        - ID: CVE-2019-17540
+          Severity: MEDIUM
+        - ID: CVE-2019-17541
+          Severity: MEDIUM
+        - ID: CVE-2019-19948
+          Severity: MEDIUM
+        - ID: CVE-2019-19949
+          Severity: LOW
+        - ID: CVE-2019-7175
+          Severity: LOW
+        - ID: CVE-2019-7397
+          Severity: LOW
+        - ID: CVE-2019-7398
+          Severity: LOW
+        - ID: CVE-2019-9956
+          Severity: MEDIUM
+      FixedVersion: 0:6.9.10.68-3.el7

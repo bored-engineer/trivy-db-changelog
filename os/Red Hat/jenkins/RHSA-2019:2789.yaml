@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.1
+        - cpe:/a:redhat:openshift:4.1::el7
+      Cves:
+        - ID: CVE-2019-10383
+          Severity: MEDIUM
+        - ID: CVE-2019-10384
+          Severity: HIGH
+      FixedVersion: 0:2.176.3.1568229898-1.el7

@@ -1,0 +1,38 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2019-19532
+          Severity: MEDIUM
+        - ID: CVE-2020-0427
+          Severity: MEDIUM
+        - ID: CVE-2020-14351
+          Severity: MEDIUM
+        - ID: CVE-2020-25211
+          Severity: MEDIUM
+        - ID: CVE-2020-25645
+          Severity: MEDIUM
+        - ID: CVE-2020-25656
+          Severity: MEDIUM
+        - ID: CVE-2020-25705
+          Severity: MEDIUM
+        - ID: CVE-2020-28374
+          Severity: MEDIUM
+        - ID: CVE-2020-29661
+          Severity: HIGH
+        - ID: CVE-2020-7053
+          Severity: MEDIUM
+        - ID: CVE-2021-20265
+          Severity: MEDIUM
+      FixedVersion: 0:3.10.0-1160.21.1.el7

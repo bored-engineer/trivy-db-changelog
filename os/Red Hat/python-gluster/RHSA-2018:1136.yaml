@@ -35,5 +35,5 @@ Entries:
         - cpe:/a:redhat:storage:3:client:el7
       Cves:
         - ID: CVE-2018-1088
-          Severity: LOW
+          Severity: HIGH
       FixedVersion: 0:3.8.4-54.6.el7rhgs

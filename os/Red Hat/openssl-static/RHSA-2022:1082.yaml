@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2022-0778
+          Severity: HIGH
+      FixedVersion: 1:1.0.1e-62.el7_3

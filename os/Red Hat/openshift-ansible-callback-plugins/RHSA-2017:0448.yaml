@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.3
+        - cpe:/a:redhat:openshift:3.3::el7
+      Cves:
+        - ID: CVE-2016-9587
+          Severity: HIGH
+      FixedVersion: 0:3.3.67-1.git.0.7c5da0c.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:3.4
+        - cpe:/a:redhat:openshift:3.4::el7
+      Cves:
+        - ID: CVE-2016-9587
+          Severity: HIGH
+      FixedVersion: 0:3.4.67-1.git.0.14a0b4d.el7

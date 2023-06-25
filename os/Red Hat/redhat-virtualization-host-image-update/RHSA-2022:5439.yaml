@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Cves:
+        - ID: CVE-2018-25032
+          Severity: HIGH
+        - ID: CVE-2022-1271
+          Severity: HIGH
+        - ID: CVE-2022-1966
+        - ID: CVE-2022-24903
+          Severity: HIGH
+        - ID: CVE-2022-32250
+          Severity: HIGH
+      FixedVersion: 0:4.3.23-20220622.0.el7_9

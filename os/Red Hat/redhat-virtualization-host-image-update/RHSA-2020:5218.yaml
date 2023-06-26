@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::hypervisor
+      Cves:
+        - ID: CVE-2020-1730
+          Severity: MEDIUM
+      FixedVersion: 0:4.4.3-20201116.0.el8_3

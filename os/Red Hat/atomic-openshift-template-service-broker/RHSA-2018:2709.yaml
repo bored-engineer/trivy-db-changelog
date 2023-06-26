@@ -1,0 +1,13 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.10
+        - cpe:/a:redhat:openshift:3.10::el7
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2018-14632
+          Severity: HIGH
+        - ID: CVE-2018-14645
+          Severity: MEDIUM
+      FixedVersion: 0:3.10.66-1.git.0.91d1e89.el7

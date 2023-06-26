@@ -1,0 +1,9 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:6.3
+        - cpe:/o:redhat:rhel_eus:6.3::computenode
+        - cpe:/o:redhat:rhel_eus:6.3::server
+      Cves:
+        - ID: CVE-2013-2094
+          Severity: HIGH
+      FixedVersion: 0:2.6.32-279.25.2.el6

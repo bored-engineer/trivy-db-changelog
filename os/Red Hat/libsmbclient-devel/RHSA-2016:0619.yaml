@@ -1,0 +1,90 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2015-5370
+          Severity: CRITICAL
+        - ID: CVE-2016-2110
+          Severity: MEDIUM
+        - ID: CVE-2016-2111
+          Severity: MEDIUM
+        - ID: CVE-2016-2112
+          Severity: MEDIUM
+        - ID: CVE-2016-2115
+          Severity: MEDIUM
+        - ID: CVE-2016-2118
+          Severity: HIGH
+      FixedVersion: 0:3.6.23-30.el6_2
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2015-5370
+          Severity: CRITICAL
+        - ID: CVE-2016-2110
+          Severity: MEDIUM
+        - ID: CVE-2016-2111
+          Severity: MEDIUM
+        - ID: CVE-2016-2112
+          Severity: MEDIUM
+        - ID: CVE-2016-2115
+          Severity: MEDIUM
+        - ID: CVE-2016-2118
+          Severity: HIGH
+      FixedVersion: 0:3.6.23-30.el6_4
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2015-5370
+          Severity: CRITICAL
+        - ID: CVE-2016-2110
+          Severity: MEDIUM
+        - ID: CVE-2016-2111
+          Severity: MEDIUM
+        - ID: CVE-2016-2112
+          Severity: MEDIUM
+        - ID: CVE-2016-2115
+          Severity: MEDIUM
+        - ID: CVE-2016-2118
+          Severity: HIGH
+      FixedVersion: 0:3.6.23-30.el6_5
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_eus:6.6
+        - cpe:/o:redhat:rhel_eus:6.6::computenode
+        - cpe:/o:redhat:rhel_eus:6.6::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - i686
+        - ppc
+        - ppc64
+        - s390
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2015-5370
+          Severity: CRITICAL
+        - ID: CVE-2016-2110
+          Severity: MEDIUM
+        - ID: CVE-2016-2111
+          Severity: MEDIUM
+        - ID: CVE-2016-2112
+          Severity: MEDIUM
+        - ID: CVE-2016-2115
+          Severity: MEDIUM
+        - ID: CVE-2016-2118
+          Severity: HIGH
+      FixedVersion: 0:3.6.23-30.el6_6

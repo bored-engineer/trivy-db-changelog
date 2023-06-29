@@ -1,0 +1,42 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.0
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.0::el6
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.2
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.2::el6
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.3
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.3::el6
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.4
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.4::el6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2018-8014
+          Severity: MEDIUM
+        - ID: CVE-2018-8034
+          Severity: LOW
+      FixedVersion: 0:1.2.17-26.redhat_26.el6jws
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.0
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.0::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.2
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.2::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.3
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.3::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.4
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.4::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.5
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.5::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.6
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.6::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.7::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-8014
+          Severity: MEDIUM
+        - ID: CVE-2018-8034
+          Severity: LOW
+      FixedVersion: 0:1.2.17-26.redhat_26.el7jws

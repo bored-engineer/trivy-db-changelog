@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Cves:
+        - ID: CVE-2017-15095
+          Severity: HIGH
+        - ID: CVE-2017-17485
+          Severity: HIGH
+        - ID: CVE-2017-7525
+          Severity: HIGH
+      FixedVersion: 0:2.7.6-2.4.el7

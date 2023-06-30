@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:3
+        - cpe:/a:redhat:ceph_storage:3::el7
+      Cves:
+        - ID: CVE-2019-19337
+          Severity: MEDIUM
+      FixedVersion: 0:3.2.38-1.el7cp

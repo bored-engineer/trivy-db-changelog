@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Cves:
+        - ID: CVE-2018-3639
+          Severity: HIGH
+      FixedVersion: 0:4.2-20180518.2.el7_5

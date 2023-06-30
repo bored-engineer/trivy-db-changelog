@@ -1,0 +1,64 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_els:6
+        - cpe:/o:redhat:rhel_eus:6.6
+        - cpe:/o:redhat:rhel_eus:6.6::computenode
+        - cpe:/o:redhat:rhel_eus:6.6::server
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - i686
+      Cves:
+        - ID: CVE-2015-3077
+          Severity: CRITICAL
+        - ID: CVE-2015-3078
+          Severity: CRITICAL
+        - ID: CVE-2015-3079
+          Severity: MEDIUM
+        - ID: CVE-2015-3080
+          Severity: CRITICAL
+        - ID: CVE-2015-3082
+          Severity: CRITICAL
+        - ID: CVE-2015-3083
+          Severity: CRITICAL
+        - ID: CVE-2015-3084
+          Severity: CRITICAL
+        - ID: CVE-2015-3085
+          Severity: CRITICAL
+        - ID: CVE-2015-3086
+          Severity: CRITICAL
+        - ID: CVE-2015-3087
+          Severity: CRITICAL
+        - ID: CVE-2015-3088
+          Severity: CRITICAL
+        - ID: CVE-2015-3089
+          Severity: CRITICAL
+        - ID: CVE-2015-3090
+          Severity: CRITICAL
+        - ID: CVE-2015-3091
+          Severity: LOW
+        - ID: CVE-2015-3092
+          Severity: LOW
+        - ID: CVE-2015-3093
+          Severity: CRITICAL
+      FixedVersion: 0:11.2.202.460-1.el6_6

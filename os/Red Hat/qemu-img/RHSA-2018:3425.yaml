@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-3639
+          Severity: HIGH
+      FixedVersion: 2:0.12.1.2-2.448.el6_6.7

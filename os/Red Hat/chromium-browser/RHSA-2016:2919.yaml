@@ -1,0 +1,74 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2016-5203
+          Severity: HIGH
+        - ID: CVE-2016-5204
+          Severity: HIGH
+        - ID: CVE-2016-5205
+          Severity: HIGH
+        - ID: CVE-2016-5206
+          Severity: HIGH
+        - ID: CVE-2016-5207
+          Severity: HIGH
+        - ID: CVE-2016-5208
+          Severity: HIGH
+        - ID: CVE-2016-5209
+          Severity: HIGH
+        - ID: CVE-2016-5210
+          Severity: HIGH
+        - ID: CVE-2016-5211
+          Severity: HIGH
+        - ID: CVE-2016-5212
+          Severity: HIGH
+        - ID: CVE-2016-5213
+          Severity: HIGH
+        - ID: CVE-2016-5214
+          Severity: MEDIUM
+        - ID: CVE-2016-5215
+          Severity: MEDIUM
+        - ID: CVE-2016-5216
+          Severity: MEDIUM
+        - ID: CVE-2016-5217
+          Severity: MEDIUM
+        - ID: CVE-2016-5218
+          Severity: MEDIUM
+        - ID: CVE-2016-5219
+          Severity: MEDIUM
+        - ID: CVE-2016-5220
+          Severity: MEDIUM
+        - ID: CVE-2016-5221
+          Severity: MEDIUM
+        - ID: CVE-2016-5222
+          Severity: MEDIUM
+        - ID: CVE-2016-5223
+          Severity: LOW
+        - ID: CVE-2016-5224
+          Severity: LOW
+        - ID: CVE-2016-5225
+          Severity: LOW
+        - ID: CVE-2016-5226
+          Severity: LOW
+        - ID: CVE-2016-9650
+          Severity: LOW
+        - ID: CVE-2016-9651
+          Severity: HIGH
+        - ID: CVE-2016-9652
+          Severity: HIGH
+      FixedVersion: 0:55.0.2883.75-1.el6

@@ -1,0 +1,84 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2020-6510
+          Severity: CRITICAL
+        - ID: CVE-2020-6511
+          Severity: HIGH
+        - ID: CVE-2020-6512
+          Severity: HIGH
+        - ID: CVE-2020-6513
+          Severity: HIGH
+        - ID: CVE-2020-6514
+          Severity: HIGH
+        - ID: CVE-2020-6515
+          Severity: HIGH
+        - ID: CVE-2020-6516
+          Severity: HIGH
+        - ID: CVE-2020-6517
+          Severity: HIGH
+        - ID: CVE-2020-6518
+          Severity: MEDIUM
+        - ID: CVE-2020-6519
+          Severity: MEDIUM
+        - ID: CVE-2020-6520
+          Severity: MEDIUM
+        - ID: CVE-2020-6521
+          Severity: MEDIUM
+        - ID: CVE-2020-6522
+          Severity: MEDIUM
+        - ID: CVE-2020-6523
+          Severity: MEDIUM
+        - ID: CVE-2020-6524
+          Severity: MEDIUM
+        - ID: CVE-2020-6525
+          Severity: MEDIUM
+        - ID: CVE-2020-6526
+          Severity: LOW
+        - ID: CVE-2020-6527
+          Severity: LOW
+        - ID: CVE-2020-6528
+          Severity: LOW
+        - ID: CVE-2020-6529
+          Severity: LOW
+        - ID: CVE-2020-6530
+          Severity: LOW
+        - ID: CVE-2020-6531
+          Severity: LOW
+        - ID: CVE-2020-6532
+          Severity: HIGH
+        - ID: CVE-2020-6533
+          Severity: LOW
+        - ID: CVE-2020-6534
+          Severity: LOW
+        - ID: CVE-2020-6535
+          Severity: LOW
+        - ID: CVE-2020-6536
+          Severity: LOW
+        - ID: CVE-2020-6537
+          Severity: HIGH
+        - ID: CVE-2020-6538
+          Severity: HIGH
+        - ID: CVE-2020-6539
+          Severity: HIGH
+        - ID: CVE-2020-6540
+          Severity: HIGH
+        - ID: CVE-2020-6541
+          Severity: HIGH
+      FixedVersion: 0:84.0.4147.105-2.el6_10

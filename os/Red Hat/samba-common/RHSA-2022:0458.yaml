@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:storage:3.5
+        - cpe:/a:redhat:storage:3.5:nfs:el8
+        - cpe:/a:redhat:storage:3.5:samba:el8
+        - cpe:/a:redhat:storage:3.5:server:el8
+      Cves:
+        - ID: CVE-2021-44142
+          Severity: CRITICAL
+      FixedVersion: 0:4.14.5-206.el8rhgs

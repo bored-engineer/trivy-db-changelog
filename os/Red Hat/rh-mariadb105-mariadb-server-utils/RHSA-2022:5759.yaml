@@ -1,0 +1,98 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-46659
+          Severity: LOW
+        - ID: CVE-2021-46661
+          Severity: LOW
+        - ID: CVE-2021-46663
+          Severity: LOW
+        - ID: CVE-2021-46664
+          Severity: LOW
+        - ID: CVE-2021-46665
+          Severity: LOW
+        - ID: CVE-2021-46668
+          Severity: LOW
+        - ID: CVE-2021-46669
+          Severity: MEDIUM
+        - ID: CVE-2022-21595
+          Severity: MEDIUM
+        - ID: CVE-2022-24048
+          Severity: MEDIUM
+        - ID: CVE-2022-24050
+          Severity: MEDIUM
+        - ID: CVE-2022-24051
+          Severity: MEDIUM
+        - ID: CVE-2022-24052
+          Severity: MEDIUM
+        - ID: CVE-2022-27376
+          Severity: MEDIUM
+        - ID: CVE-2022-27377
+          Severity: MEDIUM
+        - ID: CVE-2022-27378
+          Severity: MEDIUM
+        - ID: CVE-2022-27379
+          Severity: MEDIUM
+        - ID: CVE-2022-27380
+          Severity: MEDIUM
+        - ID: CVE-2022-27381
+          Severity: MEDIUM
+        - ID: CVE-2022-27382
+          Severity: MEDIUM
+        - ID: CVE-2022-27383
+          Severity: MEDIUM
+        - ID: CVE-2022-27384
+          Severity: MEDIUM
+        - ID: CVE-2022-27386
+          Severity: MEDIUM
+        - ID: CVE-2022-27387
+          Severity: MEDIUM
+        - ID: CVE-2022-27444
+          Severity: MEDIUM
+        - ID: CVE-2022-27445
+          Severity: MEDIUM
+        - ID: CVE-2022-27446
+          Severity: MEDIUM
+        - ID: CVE-2022-27447
+          Severity: MEDIUM
+        - ID: CVE-2022-27448
+          Severity: MEDIUM
+        - ID: CVE-2022-27449
+          Severity: MEDIUM
+        - ID: CVE-2022-27451
+          Severity: MEDIUM
+        - ID: CVE-2022-27452
+          Severity: MEDIUM
+        - ID: CVE-2022-27455
+          Severity: MEDIUM
+        - ID: CVE-2022-27456
+          Severity: MEDIUM
+        - ID: CVE-2022-27457
+          Severity: MEDIUM
+        - ID: CVE-2022-27458
+          Severity: MEDIUM
+        - ID: CVE-2022-31622
+          Severity: MEDIUM
+        - ID: CVE-2022-31623
+          Severity: MEDIUM
+        - ID: CVE-2022-32083
+          Severity: MEDIUM
+        - ID: CVE-2022-32085
+          Severity: MEDIUM
+        - ID: CVE-2022-32086
+          Severity: MEDIUM
+        - ID: CVE-2022-32087
+          Severity: MEDIUM
+        - ID: CVE-2022-32088
+          Severity: MEDIUM
+      FixedVersion: 3:10.5.16-2.el7

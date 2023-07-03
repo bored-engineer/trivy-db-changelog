@@ -1,0 +1,230 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+      Arches:
+        - i686
+        - ppc
+        - ppc64
+        - ppc64le
+        - s390
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-11070
+          Severity: MEDIUM
+        - ID: CVE-2019-6237
+          Severity: MEDIUM
+        - ID: CVE-2019-6251
+          Severity: MEDIUM
+        - ID: CVE-2019-8506
+          Severity: MEDIUM
+        - ID: CVE-2019-8524
+          Severity: MEDIUM
+        - ID: CVE-2019-8535
+          Severity: MEDIUM
+        - ID: CVE-2019-8536
+          Severity: MEDIUM
+        - ID: CVE-2019-8544
+          Severity: MEDIUM
+        - ID: CVE-2019-8551
+          Severity: MEDIUM
+        - ID: CVE-2019-8558
+          Severity: MEDIUM
+        - ID: CVE-2019-8559
+          Severity: MEDIUM
+        - ID: CVE-2019-8563
+          Severity: MEDIUM
+        - ID: CVE-2019-8571
+          Severity: MEDIUM
+        - ID: CVE-2019-8583
+          Severity: MEDIUM
+        - ID: CVE-2019-8584
+          Severity: MEDIUM
+        - ID: CVE-2019-8586
+          Severity: MEDIUM
+        - ID: CVE-2019-8587
+          Severity: MEDIUM
+        - ID: CVE-2019-8594
+          Severity: MEDIUM
+        - ID: CVE-2019-8595
+          Severity: MEDIUM
+        - ID: CVE-2019-8596
+          Severity: MEDIUM
+        - ID: CVE-2019-8597
+          Severity: MEDIUM
+        - ID: CVE-2019-8601
+          Severity: MEDIUM
+        - ID: CVE-2019-8607
+          Severity: MEDIUM
+        - ID: CVE-2019-8608
+          Severity: MEDIUM
+        - ID: CVE-2019-8609
+          Severity: MEDIUM
+        - ID: CVE-2019-8610
+          Severity: MEDIUM
+        - ID: CVE-2019-8611
+          Severity: MEDIUM
+        - ID: CVE-2019-8615
+          Severity: MEDIUM
+        - ID: CVE-2019-8619
+          Severity: MEDIUM
+        - ID: CVE-2019-8622
+          Severity: MEDIUM
+        - ID: CVE-2019-8623
+          Severity: MEDIUM
+        - ID: CVE-2019-8625
+          Severity: MEDIUM
+        - ID: CVE-2019-8644
+          Severity: MEDIUM
+        - ID: CVE-2019-8649
+          Severity: MEDIUM
+        - ID: CVE-2019-8658
+          Severity: MEDIUM
+        - ID: CVE-2019-8666
+          Severity: MEDIUM
+        - ID: CVE-2019-8669
+          Severity: MEDIUM
+        - ID: CVE-2019-8671
+          Severity: MEDIUM
+        - ID: CVE-2019-8672
+          Severity: MEDIUM
+        - ID: CVE-2019-8673
+          Severity: MEDIUM
+        - ID: CVE-2019-8674
+          Severity: MEDIUM
+        - ID: CVE-2019-8676
+          Severity: MEDIUM
+        - ID: CVE-2019-8677
+          Severity: MEDIUM
+        - ID: CVE-2019-8678
+          Severity: MEDIUM
+        - ID: CVE-2019-8679
+          Severity: MEDIUM
+        - ID: CVE-2019-8680
+          Severity: MEDIUM
+        - ID: CVE-2019-8681
+          Severity: MEDIUM
+        - ID: CVE-2019-8683
+          Severity: MEDIUM
+        - ID: CVE-2019-8684
+          Severity: MEDIUM
+        - ID: CVE-2019-8686
+          Severity: MEDIUM
+        - ID: CVE-2019-8687
+          Severity: MEDIUM
+        - ID: CVE-2019-8688
+          Severity: MEDIUM
+        - ID: CVE-2019-8689
+          Severity: MEDIUM
+        - ID: CVE-2019-8690
+          Severity: MEDIUM
+        - ID: CVE-2019-8707
+          Severity: MEDIUM
+        - ID: CVE-2019-8710
+          Severity: MEDIUM
+        - ID: CVE-2019-8719
+          Severity: MEDIUM
+        - ID: CVE-2019-8720
+          Severity: MEDIUM
+        - ID: CVE-2019-8726
+          Severity: MEDIUM
+        - ID: CVE-2019-8733
+          Severity: MEDIUM
+        - ID: CVE-2019-8735
+          Severity: MEDIUM
+        - ID: CVE-2019-8743
+          Severity: MEDIUM
+        - ID: CVE-2019-8763
+          Severity: MEDIUM
+        - ID: CVE-2019-8764
+          Severity: MEDIUM
+        - ID: CVE-2019-8765
+          Severity: MEDIUM
+        - ID: CVE-2019-8766
+          Severity: MEDIUM
+        - ID: CVE-2019-8768
+          Severity: LOW
+        - ID: CVE-2019-8769
+          Severity: MEDIUM
+        - ID: CVE-2019-8771
+          Severity: MEDIUM
+        - ID: CVE-2019-8782
+          Severity: MEDIUM
+        - ID: CVE-2019-8783
+          Severity: MEDIUM
+        - ID: CVE-2019-8808
+          Severity: MEDIUM
+        - ID: CVE-2019-8811
+          Severity: MEDIUM
+        - ID: CVE-2019-8812
+          Severity: MEDIUM
+        - ID: CVE-2019-8813
+          Severity: MEDIUM
+        - ID: CVE-2019-8814
+          Severity: MEDIUM
+        - ID: CVE-2019-8815
+          Severity: MEDIUM
+        - ID: CVE-2019-8816
+          Severity: MEDIUM
+        - ID: CVE-2019-8819
+          Severity: MEDIUM
+        - ID: CVE-2019-8820
+          Severity: MEDIUM
+        - ID: CVE-2019-8821
+          Severity: MEDIUM
+        - ID: CVE-2019-8822
+          Severity: MEDIUM
+        - ID: CVE-2019-8823
+          Severity: MEDIUM
+        - ID: CVE-2019-8835
+          Severity: MEDIUM
+        - ID: CVE-2019-8844
+          Severity: MEDIUM
+        - ID: CVE-2019-8846
+          Severity: MEDIUM
+        - ID: CVE-2020-10018
+          Severity: MEDIUM
+        - ID: CVE-2020-11793
+          Severity: MEDIUM
+        - ID: CVE-2020-3862
+          Severity: LOW
+        - ID: CVE-2020-3864
+          Severity: MEDIUM
+        - ID: CVE-2020-3865
+          Severity: MEDIUM
+        - ID: CVE-2020-3867
+          Severity: MEDIUM
+        - ID: CVE-2020-3868
+          Severity: MEDIUM
+        - ID: CVE-2020-3885
+          Severity: LOW
+        - ID: CVE-2020-3894
+          Severity: LOW
+        - ID: CVE-2020-3895
+          Severity: MEDIUM
+        - ID: CVE-2020-3897
+          Severity: MEDIUM
+        - ID: CVE-2020-3899
+          Severity: MEDIUM
+        - ID: CVE-2020-3900
+          Severity: MEDIUM
+        - ID: CVE-2020-3901
+          Severity: MEDIUM
+        - ID: CVE-2020-3902
+          Severity: MEDIUM
+        - ID: CVE-2021-30666
+          Severity: MEDIUM
+        - ID: CVE-2021-30761
+          Severity: MEDIUM
+        - ID: CVE-2021-30762
+          Severity: MEDIUM
+      FixedVersion: 0:2.28.2-2.el7

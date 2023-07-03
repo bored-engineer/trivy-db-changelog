@@ -1,0 +1,42 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-0240
+          Severity: CRITICAL
+      FixedVersion: 0:3.5.10-119.el6_2
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+        - cpe:/o:redhat:rhel_eus:6.4
+        - cpe:/o:redhat:rhel_eus:6.4::computenode
+        - cpe:/o:redhat:rhel_eus:6.4::server
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2015-0240
+          Severity: CRITICAL
+      FixedVersion: 0:3.6.9-151.el6_4.3
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+        - cpe:/o:redhat:rhel_eus:6.5
+        - cpe:/o:redhat:rhel_eus:6.5::computenode
+        - cpe:/o:redhat:rhel_eus:6.5::server
+        - cpe:/o:redhat:rhel_tus:6.5
+        - cpe:/o:redhat:rhel_tus:6.5::server
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2015-0240
+          Severity: CRITICAL
+      FixedVersion: 0:3.6.9-171.el6_5

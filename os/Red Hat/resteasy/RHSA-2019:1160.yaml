@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el6
+      Cves:
+        - ID: CVE-2018-1000632
+          Severity: MEDIUM
+        - ID: CVE-2018-10934
+          Severity: MEDIUM
+        - ID: CVE-2018-8034
+          Severity: LOW
+      FixedVersion: 0:2.3.23-1.Final_redhat_1.1.ep6.el6

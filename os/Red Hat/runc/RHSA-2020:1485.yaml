@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-19921
+          Severity: MEDIUM
+      FixedVersion: 0:1.0.0-66.rc10.rhaos4.3.el7_8

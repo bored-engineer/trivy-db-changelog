@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_mrg:2
+        - cpe:/a:redhat:enterprise_mrg:2:computenode:el6
+        - cpe:/a:redhat:enterprise_mrg:2:server:el6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2013-1892
+          Severity: HIGH
+        - ID: CVE-2013-2132
+          Severity: MEDIUM
+      FixedVersion: 0:1.6.4-6.el6

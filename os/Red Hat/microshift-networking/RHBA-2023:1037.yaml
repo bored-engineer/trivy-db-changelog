@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.12
+        - cpe:/a:redhat:openshift:4.12::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-0229
+          Severity: MEDIUM
+      FixedVersion: 0:4.12.6-202303012057.p0.g50997a2.assembly.4.12.6.el8

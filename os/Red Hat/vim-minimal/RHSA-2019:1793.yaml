@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.5
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.5
+        - cpe:/o:redhat:rhel_eus:7.5
+        - cpe:/o:redhat:rhel_eus:7.5::computenode
+        - cpe:/o:redhat:rhel_eus:7.5::server
+      Arches:
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-12735
+          Severity: HIGH
+      FixedVersion: 2:7.4.160-4.el7_5.1

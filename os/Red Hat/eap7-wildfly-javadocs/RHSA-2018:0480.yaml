@@ -1,0 +1,28 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7::el7
+      Cves:
+        - ID: CVE-2017-12174
+          Severity: HIGH
+        - ID: CVE-2017-12196
+          Severity: MEDIUM
+        - ID: CVE-2017-15089
+          Severity: HIGH
+        - ID: CVE-2017-15095
+          Severity: HIGH
+        - ID: CVE-2017-17485
+          Severity: HIGH
+        - ID: CVE-2017-7561
+          Severity: MEDIUM
+        - ID: CVE-2018-1048
+          Severity: MEDIUM
+        - ID: CVE-2018-5968
+          Severity: MEDIUM
+      FixedVersion: 0:7.1.1-3.GA_redhat_2.1.ep7.el7

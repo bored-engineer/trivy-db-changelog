@@ -1,0 +1,21 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.6
+        - cpe:/a:redhat:openshift:4.6::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-8563
+          Severity: MEDIUM
+      FixedVersion: 0:4.6.0-202012051246.p0.git.94231.efc9027.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.6
+        - cpe:/a:redhat:openshift:4.6::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-8563
+          Severity: MEDIUM
+      FixedVersion: 0:4.6.0-202012051246.p0.git.94231.efc9027.el8

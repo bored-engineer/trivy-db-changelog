@@ -1,0 +1,13 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2018-1111
+          Severity: CRITICAL
+      FixedVersion: 12:4.1.1-43.P1.el6_6.2

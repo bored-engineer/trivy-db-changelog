@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:5.0
+        - cpe:/a:redhat:ceph_storage:5.0::el8
+        - cpe:/a:redhat:ceph_storage:5.1
+        - cpe:/a:redhat:ceph_storage:5.1::el8
+        - cpe:/a:redhat:ceph_storage:5.2
+        - cpe:/a:redhat:ceph_storage:5.2::el8
+        - cpe:/a:redhat:ceph_storage:5.3
+        - cpe:/a:redhat:ceph_storage:5.3::el8
+      Cves:
+        - ID: CVE-2022-24785
+          Severity: MEDIUM
+      FixedVersion: 2:16.2.10-94.el8cp

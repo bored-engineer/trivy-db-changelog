@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-16864
+          Severity: MEDIUM
+        - ID: CVE-2018-16865
+          Severity: MEDIUM
+      FixedVersion: 0:4.2-8.1.el7

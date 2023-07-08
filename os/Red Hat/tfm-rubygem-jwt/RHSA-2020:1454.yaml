@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:satellite:6.7
+        - cpe:/a:redhat:satellite:6.7::el7
+        - cpe:/a:redhat:satellite_capsule:6.7
+        - cpe:/a:redhat:satellite_capsule:6.7::el7
+      Cves:
+        - ID: CVE-2017-17718
+          Severity: MEDIUM
+        - ID: CVE-2019-0231
+          Severity: MEDIUM
+        - ID: CVE-2019-10086
+          Severity: HIGH
+        - ID: CVE-2019-12086
+          Severity: LOW
+        - ID: CVE-2020-10716
+          Severity: LOW
+      FixedVersion: 0:2.2.1-1.el7sat

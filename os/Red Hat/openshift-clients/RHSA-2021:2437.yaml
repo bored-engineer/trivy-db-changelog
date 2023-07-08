@@ -1,0 +1,57 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.8
+        - cpe:/a:redhat:openshift:4.8::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-21419
+          Severity: MEDIUM
+        - ID: CVE-2021-21623
+          Severity: MEDIUM
+        - ID: CVE-2021-21639
+          Severity: LOW
+        - ID: CVE-2021-21640
+          Severity: LOW
+        - ID: CVE-2021-21648
+          Severity: MEDIUM
+        - ID: CVE-2021-25735
+          Severity: MEDIUM
+        - ID: CVE-2021-25737
+          Severity: LOW
+        - ID: CVE-2021-3114
+          Severity: MEDIUM
+        - ID: CVE-2021-3121
+          Severity: MEDIUM
+        - ID: CVE-2021-3636
+          Severity: MEDIUM
+      FixedVersion: 0:4.8.0-202106281541.p0.git.1077b05.assembly.stream.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.8
+        - cpe:/a:redhat:openshift:4.8::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-21419
+          Severity: MEDIUM
+        - ID: CVE-2021-21623
+          Severity: MEDIUM
+        - ID: CVE-2021-21639
+          Severity: LOW
+        - ID: CVE-2021-21640
+          Severity: LOW
+        - ID: CVE-2021-21648
+          Severity: MEDIUM
+        - ID: CVE-2021-25735
+          Severity: MEDIUM
+        - ID: CVE-2021-25737
+          Severity: LOW
+        - ID: CVE-2021-3114
+          Severity: MEDIUM
+        - ID: CVE-2021-3121
+          Severity: MEDIUM
+        - ID: CVE-2021-3636
+          Severity: MEDIUM
+      FixedVersion: 0:4.8.0-202106281541.p0.git.1077b05.assembly.stream.el8

@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:a_mq_clients:2
+        - cpe:/a:redhat:a_mq_clients:2::el6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2020-11612
+          Severity: LOW
+      FixedVersion: 0:0.31.0-3.el6_10
+    - Affected:
+        - cpe:/a:redhat:a_mq_clients:2
+        - cpe:/a:redhat:a_mq_clients:2.9
+        - cpe:/a:redhat:a_mq_clients:2.9::el7
+        - cpe:/a:redhat:a_mq_clients:2::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-11612
+          Severity: LOW
+      FixedVersion: 0:0.31.0-3.el7

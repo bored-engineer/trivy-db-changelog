@@ -1,0 +1,9 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_other:7
+      Cves:
+        - ID: CVE-2020-10696
+          Severity: HIGH
+        - ID: CVE-2020-8945
+          Severity: MEDIUM
+      FixedVersion: 0:1.6.4-18.el7_8

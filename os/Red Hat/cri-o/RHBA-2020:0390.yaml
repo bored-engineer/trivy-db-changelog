@@ -1,0 +1,27 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-17596
+          Severity: MEDIUM
+        - ID: CVE-2020-7039
+          Severity: HIGH
+        - ID: CVE-2020-7211
+          Severity: LOW
+      FixedVersion: 0:1.16.2-13.dev.rhaos4.3.gita83f883.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-17596
+          Severity: MEDIUM
+        - ID: CVE-2020-7039
+          Severity: HIGH
+        - ID: CVE-2020-7211
+          Severity: LOW
+      FixedVersion: 0:1.16.2-15.dev.rhaos4.3.gita83f883.el8

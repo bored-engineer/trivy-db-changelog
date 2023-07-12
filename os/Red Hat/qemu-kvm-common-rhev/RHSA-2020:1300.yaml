@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-optools:10
+        - cpe:/a:redhat:openstack-optools:10::el7
+        - cpe:/a:redhat:openstack:10
+        - cpe:/a:redhat:openstack:10::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-1711
+          Severity: HIGH
+        - ID: CVE-2020-7039
+          Severity: LOW
+        - ID: CVE-2020-8608
+          Severity: MEDIUM
+      FixedVersion: 10:2.12.0-33.el7_7.10

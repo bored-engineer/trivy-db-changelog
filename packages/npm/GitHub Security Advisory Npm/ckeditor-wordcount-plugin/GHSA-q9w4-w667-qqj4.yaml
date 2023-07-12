@@ -1,4 +1,4 @@
 PatchedVersions:
-    - 1.17.11
+    - 1.17.12
 VulnerableVersions:
-    - <= 1.17.10
+    - <= 1.17.11

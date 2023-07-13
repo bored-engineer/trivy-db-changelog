@@ -1,0 +1,31 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:a_mq_clients:2
+        - cpe:/a:redhat:a_mq_clients:2.9
+        - cpe:/a:redhat:a_mq_clients:2.9::el7
+        - cpe:/a:redhat:a_mq_clients:2::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-20444
+          Severity: HIGH
+        - ID: CVE-2019-20445
+          Severity: HIGH
+        - ID: CVE-2020-7238
+          Severity: HIGH
+      FixedVersion: 0:0.30.0-1.el7
+    - Affected:
+        - cpe:/a:redhat:a_mq_clients:2
+        - cpe:/a:redhat:a_mq_clients:2.9
+        - cpe:/a:redhat:a_mq_clients:2.9::el8
+        - cpe:/a:redhat:a_mq_clients:2::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-20444
+          Severity: HIGH
+        - ID: CVE-2019-20445
+          Severity: HIGH
+        - ID: CVE-2020-7238
+          Severity: HIGH
+      FixedVersion: 0:0.30.0-1.el8

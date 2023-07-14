@@ -1,0 +1,40 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+      Arches:
+        - i686
+        - ppc64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-4129
+          Severity: HIGH
+        - ID: CVE-2021-43536
+          Severity: HIGH
+        - ID: CVE-2021-43537
+          Severity: HIGH
+        - ID: CVE-2021-43538
+          Severity: HIGH
+        - ID: CVE-2021-43539
+          Severity: HIGH
+        - ID: CVE-2021-43541
+          Severity: MEDIUM
+        - ID: CVE-2021-43542
+          Severity: MEDIUM
+        - ID: CVE-2021-43543
+          Severity: MEDIUM
+        - ID: CVE-2021-43545
+          Severity: LOW
+        - ID: CVE-2021-43546
+          Severity: LOW
+      FixedVersion: 0:91.4.0-1.el7_9

@@ -1,4 +1,0 @@
-PatchedVersions:
-    - 15.10.1
-VulnerableVersions:
-    - '>= 8.0.0, < 15.10.1'

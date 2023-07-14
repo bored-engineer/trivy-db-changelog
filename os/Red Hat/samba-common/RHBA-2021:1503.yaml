@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:storage:3.5
+        - cpe:/a:redhat:storage:3.5:nfs:el8
+        - cpe:/a:redhat:storage:3.5:samba:el8
+        - cpe:/a:redhat:storage:3.5:server:el8
+      Cves:
+        - ID: CVE-2020-14318
+          Severity: MEDIUM
+        - ID: CVE-2020-14323
+          Severity: MEDIUM
+        - ID: CVE-2020-1472
+          Severity: CRITICAL
+      FixedVersion: 0:4.13.7-101.el8rhgs

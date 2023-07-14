@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-8551
+          Severity: MEDIUM
+      FixedVersion: 0:4.3.10-202003300855.git.0.da48c1d.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-8551
+          Severity: MEDIUM
+      FixedVersion: 0:4.3.10-202003300855.git.0.da48c1d.el8

@@ -20,7 +20,7 @@ Entries:
         - ID: CVE-2020-1740
           Severity: LOW
         - ID: CVE-2020-1746
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2020-1753
           Severity: MEDIUM
       FixedVersion: 0:2.9.7-1.el7ae
@@ -45,7 +45,7 @@ Entries:
         - ID: CVE-2020-1740
           Severity: LOW
         - ID: CVE-2020-1746
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2020-1753
           Severity: MEDIUM
       FixedVersion: 0:2.9.7-1.el8ae

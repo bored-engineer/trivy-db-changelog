@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.1
+        - cpe:/a:redhat:openshift:3.1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-2142
+          Severity: MEDIUM
+      FixedVersion: 0:3.1.1.6-6.git.43.f583589.el7aos

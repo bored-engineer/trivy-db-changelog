@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_mrg:2
+        - cpe:/a:redhat:enterprise_mrg:2:computenode:el6
+        - cpe:/a:redhat:enterprise_mrg:2:server:el6
+      Cves:
+        - ID: CVE-2014-4652
+          Severity: LOW
+        - ID: CVE-2014-4653
+          Severity: MEDIUM
+        - ID: CVE-2014-4654
+          Severity: MEDIUM
+        - ID: CVE-2014-4655
+          Severity: MEDIUM
+        - ID: CVE-2014-4656
+          Severity: MEDIUM
+        - ID: CVE-2014-5077
+          Severity: HIGH
+      FixedVersion: 0:3.10.33-rt32.45.el6rt

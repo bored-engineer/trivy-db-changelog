@@ -1,0 +1,80 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2020-6465
+          Severity: HIGH
+        - ID: CVE-2020-6466
+          Severity: HIGH
+        - ID: CVE-2020-6467
+          Severity: HIGH
+        - ID: CVE-2020-6468
+          Severity: HIGH
+        - ID: CVE-2020-6469
+          Severity: HIGH
+        - ID: CVE-2020-6470
+          Severity: MEDIUM
+        - ID: CVE-2020-6471
+          Severity: MEDIUM
+        - ID: CVE-2020-6472
+          Severity: MEDIUM
+        - ID: CVE-2020-6473
+          Severity: MEDIUM
+        - ID: CVE-2020-6474
+          Severity: MEDIUM
+        - ID: CVE-2020-6475
+          Severity: MEDIUM
+        - ID: CVE-2020-6476
+          Severity: MEDIUM
+        - ID: CVE-2020-6478
+          Severity: MEDIUM
+        - ID: CVE-2020-6479
+          Severity: MEDIUM
+        - ID: CVE-2020-6480
+          Severity: MEDIUM
+        - ID: CVE-2020-6481
+          Severity: MEDIUM
+        - ID: CVE-2020-6482
+          Severity: MEDIUM
+        - ID: CVE-2020-6483
+          Severity: MEDIUM
+        - ID: CVE-2020-6484
+          Severity: MEDIUM
+        - ID: CVE-2020-6485
+          Severity: MEDIUM
+        - ID: CVE-2020-6486
+          Severity: MEDIUM
+        - ID: CVE-2020-6487
+          Severity: LOW
+        - ID: CVE-2020-6488
+          Severity: LOW
+        - ID: CVE-2020-6489
+          Severity: LOW
+        - ID: CVE-2020-6490
+          Severity: LOW
+        - ID: CVE-2020-6491
+          Severity: LOW
+        - ID: CVE-2020-6493
+          Severity: HIGH
+        - ID: CVE-2020-6494
+          Severity: HIGH
+        - ID: CVE-2020-6495
+          Severity: HIGH
+        - ID: CVE-2020-6496
+          Severity: HIGH
+      FixedVersion: 0:83.0.4103.97-1.el6_10

@@ -1,0 +1,34 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el5
+      Cves:
+        - ID: CVE-2012-6153
+          Severity: HIGH
+        - ID: CVE-2014-3577
+          Severity: HIGH
+        - ID: CVE-2014-3623
+          Severity: MEDIUM
+      FixedVersion: 0:1.6.16-2.redhat_3.1.ep6.el5
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el6
+      Cves:
+        - ID: CVE-2012-6153
+          Severity: HIGH
+        - ID: CVE-2014-3577
+          Severity: HIGH
+        - ID: CVE-2014-3623
+          Severity: MEDIUM
+      FixedVersion: 0:1.6.16-2.redhat_3.1.ep6.el6
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el7
+      Cves:
+        - ID: CVE-2012-6153
+          Severity: HIGH
+        - ID: CVE-2014-3577
+          Severity: HIGH
+        - ID: CVE-2014-3623
+          Severity: MEDIUM
+      FixedVersion: 0:1.6.16-2.redhat_3.1.ep6.el7

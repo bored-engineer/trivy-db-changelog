@@ -29,6 +29,10 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-25690
           Severity: HIGH
+        - ID: CVE-2023-27533
+          Severity: LOW
+        - ID: CVE-2023-27534
+          Severity: LOW
       FixedVersion: 1:1.1.1k-14.el7jbcs
     - Affected:
         - cpe:/a:redhat:jboss_core_services:1
@@ -60,4 +64,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-25690
           Severity: HIGH
+        - ID: CVE-2023-27533
+          Severity: LOW
+        - ID: CVE-2023-27534
+          Severity: LOW
       FixedVersion: 1:1.1.1k-14.el8jbcs

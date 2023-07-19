@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2019-1002100
+          Severity: MEDIUM
+        - ID: CVE-2019-10337
+          Severity: MEDIUM
+        - ID: CVE-2019-3876
+          Severity: MEDIUM
+      FixedVersion: 0:3.11.129-1.git.0.bd4f2d5.el7

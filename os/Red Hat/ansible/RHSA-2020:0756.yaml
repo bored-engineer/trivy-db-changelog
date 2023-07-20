@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-optools:13
+        - cpe:/a:redhat:openstack-optools:13::el7
+        - cpe:/a:redhat:openstack:13
+        - cpe:/a:redhat:openstack:13::el7
+      Cves:
+        - ID: CVE-2019-14846
+          Severity: MEDIUM
+        - ID: CVE-2019-14856
+          Severity: MEDIUM
+        - ID: CVE-2019-14858
+          Severity: MEDIUM
+      FixedVersion: 0:2.6.20-1.el7ae

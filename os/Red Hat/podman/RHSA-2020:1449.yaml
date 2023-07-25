@@ -6,5 +6,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2020-10696
-          Severity: HIGH
+          Severity: LOW
       FixedVersion: 0:1.0.2-4.dev.git96ccc2e.rhaos4.1.el8

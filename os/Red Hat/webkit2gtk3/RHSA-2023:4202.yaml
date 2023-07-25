@@ -51,4 +51,6 @@ Entries:
           Severity: HIGH
         - ID: CVE-2023-32439
           Severity: HIGH
+        - ID: CVE-2023-37450
+          Severity: HIGH
       FixedVersion: 0:2.38.5-1.el8_8.5

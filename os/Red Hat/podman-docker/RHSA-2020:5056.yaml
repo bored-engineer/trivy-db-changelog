@@ -1,0 +1,9 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_other:7
+      Cves:
+        - ID: CVE-2020-14040
+          Severity: MEDIUM
+        - ID: CVE-2020-14370
+          Severity: MEDIUM
+      FixedVersion: 0:1.6.4-26.el7_9

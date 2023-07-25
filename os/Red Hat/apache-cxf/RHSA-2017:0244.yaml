@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el6
+      Cves:
+        - ID: CVE-2016-6816
+          Severity: MEDIUM
+        - ID: CVE-2016-7061
+          Severity: LOW
+        - ID: CVE-2016-8627
+          Severity: MEDIUM
+        - ID: CVE-2016-8656
+          Severity: HIGH
+      FixedVersion: 0:2.7.18-5.SP4_redhat_1.1.ep6.el6

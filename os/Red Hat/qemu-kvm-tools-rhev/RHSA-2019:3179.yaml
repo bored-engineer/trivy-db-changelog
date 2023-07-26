@@ -1,0 +1,27 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2019-12155
+          Severity: LOW
+        - ID: CVE-2019-14378
+          Severity: HIGH
+      FixedVersion: 10:2.12.0-33.el7_7.4
+    - Affected:
+        - cpe:/a:redhat:rhev_manager:4
+        - cpe:/a:redhat:rhev_manager:4.2
+        - cpe:/a:redhat:rhev_manager:4.3
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-12155
+          Severity: LOW
+        - ID: CVE-2019-14378
+          Severity: HIGH
+      FixedVersion: 10:2.12.0-33.el7_7.4

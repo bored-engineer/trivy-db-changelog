@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:a_mq_clients:2
+        - cpe:/a:redhat:a_mq_clients:2::el6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2019-0223
+          Severity: MEDIUM
+      FixedVersion: 0:0.27.0-3.el6
+    - Affected:
+        - cpe:/a:redhat:a_mq_clients:2
+        - cpe:/a:redhat:a_mq_clients:2.9
+        - cpe:/a:redhat:a_mq_clients:2.9::el7
+        - cpe:/a:redhat:a_mq_clients:2::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-0223
+          Severity: MEDIUM
+      FixedVersion: 0:0.27.0-3.el7

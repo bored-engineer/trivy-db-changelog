@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:2
+        - cpe:/a:redhat:ceph_storage:2::el7
+      Cves:
+        - ID: CVE-2016-8626
+          Severity: MEDIUM
+      FixedVersion: 0:1.1-1.el7cp

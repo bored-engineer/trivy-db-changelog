@@ -1,4 +1,2 @@
-PatchedVersions:
-    - 0.1.0
 VulnerableVersions:
     - = 0.1.1

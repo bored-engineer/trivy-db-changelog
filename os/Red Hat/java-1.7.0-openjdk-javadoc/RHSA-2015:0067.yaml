@@ -1,0 +1,164 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_els:6
+        - cpe:/o:redhat:rhel_eus:6.6
+        - cpe:/o:redhat:rhel_eus:6.6::computenode
+        - cpe:/o:redhat:rhel_eus:6.6::server
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Cves:
+        - ID: CVE-2014-3566
+          Severity: HIGH
+        - ID: CVE-2014-6585
+          Severity: LOW
+        - ID: CVE-2014-6587
+          Severity: LOW
+        - ID: CVE-2014-6591
+          Severity: LOW
+        - ID: CVE-2014-6593
+          Severity: MEDIUM
+        - ID: CVE-2014-6601
+          Severity: CRITICAL
+        - ID: CVE-2015-0383
+          Severity: LOW
+        - ID: CVE-2015-0395
+          Severity: CRITICAL
+        - ID: CVE-2015-0407
+          Severity: MEDIUM
+        - ID: CVE-2015-0408
+          Severity: CRITICAL
+        - ID: CVE-2015-0410
+          Severity: MEDIUM
+        - ID: CVE-2015-0412
+          Severity: CRITICAL
+      FixedVersion: 1:1.7.0.75-2.5.4.0.el6_6
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.2
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.3
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.4
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.6
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.2
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.3
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.4
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.5
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.6
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.2
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.3
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.4
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.6
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.2
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.3
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.4
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.5
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.6
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+        - cpe:/o:redhat:rhel_aus:7.2
+        - cpe:/o:redhat:rhel_aus:7.2::server
+        - cpe:/o:redhat:rhel_aus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3::server
+        - cpe:/o:redhat:rhel_aus:7.4
+        - cpe:/o:redhat:rhel_aus:7.4::server
+        - cpe:/o:redhat:rhel_aus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6::server
+        - cpe:/o:redhat:rhel_aus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7::server
+        - cpe:/o:redhat:rhel_e4s:7.2
+        - cpe:/o:redhat:rhel_e4s:7.2::server
+        - cpe:/o:redhat:rhel_e4s:7.3
+        - cpe:/o:redhat:rhel_e4s:7.3::server
+        - cpe:/o:redhat:rhel_e4s:7.4
+        - cpe:/o:redhat:rhel_e4s:7.4::server
+        - cpe:/o:redhat:rhel_e4s:7.6
+        - cpe:/o:redhat:rhel_e4s:7.6::server
+        - cpe:/o:redhat:rhel_e4s:7.7
+        - cpe:/o:redhat:rhel_e4s:7.7::server
+        - cpe:/o:redhat:rhel_eus:7.1
+        - cpe:/o:redhat:rhel_eus:7.1::computenode
+        - cpe:/o:redhat:rhel_eus:7.1::server
+        - cpe:/o:redhat:rhel_eus:7.2
+        - cpe:/o:redhat:rhel_eus:7.2::computenode
+        - cpe:/o:redhat:rhel_eus:7.2::server
+        - cpe:/o:redhat:rhel_eus:7.3
+        - cpe:/o:redhat:rhel_eus:7.3::computenode
+        - cpe:/o:redhat:rhel_eus:7.3::server
+        - cpe:/o:redhat:rhel_eus:7.4
+        - cpe:/o:redhat:rhel_eus:7.4::computenode
+        - cpe:/o:redhat:rhel_eus:7.4::server
+        - cpe:/o:redhat:rhel_eus:7.5
+        - cpe:/o:redhat:rhel_eus:7.5::computenode
+        - cpe:/o:redhat:rhel_eus:7.5::server
+        - cpe:/o:redhat:rhel_eus:7.6
+        - cpe:/o:redhat:rhel_eus:7.6::computenode
+        - cpe:/o:redhat:rhel_eus:7.6::server
+        - cpe:/o:redhat:rhel_eus:7.7
+        - cpe:/o:redhat:rhel_eus:7.7::computenode
+        - cpe:/o:redhat:rhel_eus:7.7::server
+        - cpe:/o:redhat:rhel_tus:7.2
+        - cpe:/o:redhat:rhel_tus:7.2::server
+        - cpe:/o:redhat:rhel_tus:7.3
+        - cpe:/o:redhat:rhel_tus:7.3::server
+        - cpe:/o:redhat:rhel_tus:7.4
+        - cpe:/o:redhat:rhel_tus:7.4::server
+        - cpe:/o:redhat:rhel_tus:7.6
+        - cpe:/o:redhat:rhel_tus:7.6::server
+        - cpe:/o:redhat:rhel_tus:7.7
+        - cpe:/o:redhat:rhel_tus:7.7::server
+      Cves:
+        - ID: CVE-2014-3566
+          Severity: HIGH
+        - ID: CVE-2014-6585
+          Severity: LOW
+        - ID: CVE-2014-6587
+          Severity: LOW
+        - ID: CVE-2014-6591
+          Severity: LOW
+        - ID: CVE-2014-6593
+          Severity: MEDIUM
+        - ID: CVE-2014-6601
+          Severity: CRITICAL
+        - ID: CVE-2015-0383
+          Severity: LOW
+        - ID: CVE-2015-0395
+          Severity: CRITICAL
+        - ID: CVE-2015-0407
+          Severity: MEDIUM
+        - ID: CVE-2015-0408
+          Severity: CRITICAL
+        - ID: CVE-2015-0410
+          Severity: MEDIUM
+        - ID: CVE-2015-0412
+          Severity: CRITICAL
+      FixedVersion: 1:1.7.0.75-2.5.4.2.el7_0

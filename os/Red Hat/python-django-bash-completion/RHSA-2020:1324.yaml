@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:15
+        - cpe:/a:redhat:openstack:15::el8
+      Cves:
+        - ID: CVE-2019-12781
+          Severity: MEDIUM
+        - ID: CVE-2019-14232
+          Severity: MEDIUM
+        - ID: CVE-2019-14233
+          Severity: MEDIUM
+        - ID: CVE-2019-14234
+          Severity: MEDIUM
+        - ID: CVE-2019-14235
+          Severity: MEDIUM
+      FixedVersion: 0:2.1.11-1.el8ost

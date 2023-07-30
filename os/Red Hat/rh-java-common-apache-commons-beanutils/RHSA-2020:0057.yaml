@@ -1,0 +1,25 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Cves:
+        - ID: CVE-2019-10086
+          Severity: HIGH
+      FixedVersion: 0:1.8.3-14.14.el6
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Cves:
+        - ID: CVE-2019-10086
+          Severity: HIGH
+      FixedVersion: 0:1.8.3-14.15.el7

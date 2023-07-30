@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:7.1
+        - cpe:/o:redhat:rhel_eus:7.1::computenode
+        - cpe:/o:redhat:rhel_eus:7.1::server
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2017-6074
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-229.49.1.el7

@@ -1,0 +1,176 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/a:redhat:rhel_aus:8.4
+        - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/a:redhat:rhel_aus:8.8
+        - cpe:/a:redhat:rhel_aus:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2
+        - cpe:/a:redhat:rhel_e4s:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.2::sap
+        - cpe:/a:redhat:rhel_e4s:8.2::sap_hana
+        - cpe:/a:redhat:rhel_e4s:8.4
+        - cpe:/a:redhat:rhel_e4s:8.4::appstream
+        - cpe:/a:redhat:rhel_e4s:8.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.4::nfv
+        - cpe:/a:redhat:rhel_e4s:8.4::sap
+        - cpe:/a:redhat:rhel_e4s:8.4::sap_hana
+        - cpe:/a:redhat:rhel_e4s:8.6
+        - cpe:/a:redhat:rhel_e4s:8.6::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.6::sap
+        - cpe:/a:redhat:rhel_e4s:8.6::sap_hana
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.2
+        - cpe:/a:redhat:rhel_eus:8.2::appstream
+        - cpe:/a:redhat:rhel_eus:8.2::crb
+        - cpe:/a:redhat:rhel_eus:8.2::highavailability
+        - cpe:/a:redhat:rhel_eus:8.2::nfv
+        - cpe:/a:redhat:rhel_eus:8.2::realtime
+        - cpe:/a:redhat:rhel_eus:8.2::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.2::sap
+        - cpe:/a:redhat:rhel_eus:8.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.2::supplementary
+        - cpe:/a:redhat:rhel_eus:8.4
+        - cpe:/a:redhat:rhel_eus:8.4::appstream
+        - cpe:/a:redhat:rhel_eus:8.4::crb
+        - cpe:/a:redhat:rhel_eus:8.4::highavailability
+        - cpe:/a:redhat:rhel_eus:8.4::nfv
+        - cpe:/a:redhat:rhel_eus:8.4::realtime
+        - cpe:/a:redhat:rhel_eus:8.4::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.4::sap
+        - cpe:/a:redhat:rhel_eus:8.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.4::supplementary
+        - cpe:/a:redhat:rhel_eus:8.6
+        - cpe:/a:redhat:rhel_eus:8.6::appstream
+        - cpe:/a:redhat:rhel_eus:8.6::crb
+        - cpe:/a:redhat:rhel_eus:8.6::highavailability
+        - cpe:/a:redhat:rhel_eus:8.6::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.6::sap
+        - cpe:/a:redhat:rhel_eus:8.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.6::supplementary
+        - cpe:/a:redhat:rhel_eus:8.8
+        - cpe:/a:redhat:rhel_eus:8.8::appstream
+        - cpe:/a:redhat:rhel_eus:8.8::crb
+        - cpe:/a:redhat:rhel_eus:8.8::highavailability
+        - cpe:/a:redhat:rhel_eus:8.8::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.8::sap
+        - cpe:/a:redhat:rhel_eus:8.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.8::supplementary
+        - cpe:/a:redhat:rhel_tus:8.2
+        - cpe:/a:redhat:rhel_tus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2::highavailability
+        - cpe:/a:redhat:rhel_tus:8.2::nfv
+        - cpe:/a:redhat:rhel_tus:8.2::realtime
+        - cpe:/a:redhat:rhel_tus:8.4
+        - cpe:/a:redhat:rhel_tus:8.4::appstream
+        - cpe:/a:redhat:rhel_tus:8.4::highavailability
+        - cpe:/a:redhat:rhel_tus:8.4::nfv
+        - cpe:/a:redhat:rhel_tus:8.4::realtime
+        - cpe:/a:redhat:rhel_tus:8.6
+        - cpe:/a:redhat:rhel_tus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6::highavailability
+        - cpe:/a:redhat:rhel_tus:8.6::realtime
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+        - cpe:/o:redhat:rhel_aus:8.4
+        - cpe:/o:redhat:rhel_aus:8.4::baseos
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+        - cpe:/o:redhat:rhel_aus:8.8
+        - cpe:/o:redhat:rhel_aus:8.8::baseos
+        - cpe:/o:redhat:rhel_e4s:8.2
+        - cpe:/o:redhat:rhel_e4s:8.2::baseos
+        - cpe:/o:redhat:rhel_e4s:8.4
+        - cpe:/o:redhat:rhel_e4s:8.4::baseos
+        - cpe:/o:redhat:rhel_e4s:8.6
+        - cpe:/o:redhat:rhel_e4s:8.6::baseos
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+        - cpe:/o:redhat:rhel_eus:8.2
+        - cpe:/o:redhat:rhel_eus:8.2::baseos
+        - cpe:/o:redhat:rhel_eus:8.4
+        - cpe:/o:redhat:rhel_eus:8.4::baseos
+        - cpe:/o:redhat:rhel_eus:8.6
+        - cpe:/o:redhat:rhel_eus:8.6::baseos
+        - cpe:/o:redhat:rhel_eus:8.8
+        - cpe:/o:redhat:rhel_eus:8.8::baseos
+        - cpe:/o:redhat:rhel_tus:8.2
+        - cpe:/o:redhat:rhel_tus:8.2::baseos
+        - cpe:/o:redhat:rhel_tus:8.4
+        - cpe:/o:redhat:rhel_tus:8.4::baseos
+        - cpe:/o:redhat:rhel_tus:8.6
+        - cpe:/o:redhat:rhel_tus:8.6::baseos
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Cves:
+        - ID: CVE-2019-11039
+          Severity: MEDIUM
+        - ID: CVE-2019-11040
+          Severity: MEDIUM
+        - ID: CVE-2019-11041
+          Severity: LOW
+        - ID: CVE-2019-11042
+          Severity: LOW
+        - ID: CVE-2019-11045
+          Severity: MEDIUM
+        - ID: CVE-2019-11047
+          Severity: MEDIUM
+        - ID: CVE-2019-11048
+          Severity: MEDIUM
+        - ID: CVE-2019-11050
+          Severity: LOW
+        - ID: CVE-2019-13224
+          Severity: MEDIUM
+        - ID: CVE-2019-13225
+          Severity: MEDIUM
+        - ID: CVE-2019-16163
+          Severity: MEDIUM
+        - ID: CVE-2019-19203
+          Severity: MEDIUM
+        - ID: CVE-2019-19204
+          Severity: MEDIUM
+        - ID: CVE-2019-19246
+          Severity: LOW
+        - ID: CVE-2019-20454
+          Severity: MEDIUM
+        - ID: CVE-2020-7059
+          Severity: MEDIUM
+        - ID: CVE-2020-7060
+          Severity: MEDIUM
+        - ID: CVE-2020-7062
+          Severity: MEDIUM
+        - ID: CVE-2020-7063
+          Severity: MEDIUM
+        - ID: CVE-2020-7064
+          Severity: MEDIUM
+        - ID: CVE-2020-7065
+          Severity: MEDIUM
+        - ID: CVE-2020-7066
+          Severity: LOW
+      FixedVersion: 1:1.10.9-1.module+el8.1.0+3189+a1bff096

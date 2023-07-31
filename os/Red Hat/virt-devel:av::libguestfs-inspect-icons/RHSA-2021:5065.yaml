@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:advanced_virtualization:8
+        - cpe:/a:redhat:advanced_virtualization:8.0
+        - cpe:/a:redhat:advanced_virtualization:8.0::el8
+        - cpe:/a:redhat:advanced_virtualization:8.1
+        - cpe:/a:redhat:advanced_virtualization:8.1::el8
+        - cpe:/a:redhat:advanced_virtualization:8.2
+        - cpe:/a:redhat:advanced_virtualization:8.2::el8
+        - cpe:/a:redhat:advanced_virtualization:8.3
+        - cpe:/a:redhat:advanced_virtualization:8.3::el8
+        - cpe:/a:redhat:advanced_virtualization:8.4
+        - cpe:/a:redhat:advanced_virtualization:8.4::el8
+        - cpe:/a:redhat:advanced_virtualization:8.5
+        - cpe:/a:redhat:advanced_virtualization:8.5::el8
+        - cpe:/a:redhat:advanced_virtualization:8.6
+        - cpe:/a:redhat:advanced_virtualization:8.6::el8
+        - cpe:/a:redhat:advanced_virtualization:8::el8
+      Cves:
+        - ID: CVE-2021-3930
+          Severity: LOW
+      FixedVersion: 1:1.44.0-2.module+el8.4.0+10146+75917d2f

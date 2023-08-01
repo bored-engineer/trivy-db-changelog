@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.2
+        - cpe:/o:redhat:rhel_aus:7.2::server
+      Cves:
+        - ID: CVE-2017-18595
+          Severity: HIGH
+        - ID: CVE-2019-19768
+          Severity: HIGH
+        - ID: CVE-2020-10711
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-327.88.1.el7

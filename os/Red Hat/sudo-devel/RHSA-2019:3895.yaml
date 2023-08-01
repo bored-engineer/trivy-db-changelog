@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2019-14287
+          Severity: HIGH
+      FixedVersion: 0:1.8.6p3-12.el6_5.2

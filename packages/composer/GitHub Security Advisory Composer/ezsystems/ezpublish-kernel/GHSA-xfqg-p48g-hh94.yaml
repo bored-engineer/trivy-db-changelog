@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 7.5.29
+VulnerableVersions:
+    - '>= 7.5.0, < 7.5.29'

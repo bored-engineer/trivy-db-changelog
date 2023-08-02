@@ -1,0 +1,24 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7::server
+        - cpe:/o:redhat:rhel_tus:7.7
+        - cpe:/o:redhat:rhel_tus:7.7::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-42574
+          Severity: MEDIUM
+      FixedVersion: 0:2.27-41.base.el7_7.4
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.7
+        - cpe:/o:redhat:rhel_e4s:7.7
+        - cpe:/o:redhat:rhel_e4s:7.7::server
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2021-42574
+          Severity: MEDIUM
+      FixedVersion: 0:2.27-41.base.el7_7.4

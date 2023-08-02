@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-director:9
+        - cpe:/a:redhat:openstack-director:9::el7
+        - cpe:/a:redhat:openstack-optools:9
+        - cpe:/a:redhat:openstack-optools:9::el7
+        - cpe:/a:redhat:openstack:9
+        - cpe:/a:redhat:openstack:9::el7
+      Cves:
+        - ID: CVE-2018-1000115
+          Severity: MEDIUM
+      FixedVersion: 0:2.0.0-65.el7ost

@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_mrg:2
+        - cpe:/a:redhat:enterprise_mrg:2:computenode:el6
+        - cpe:/a:redhat:enterprise_mrg:2:server:el6
+      Cves:
+        - ID: CVE-2012-0957
+          Severity: LOW
+        - ID: CVE-2012-2133
+          Severity: MEDIUM
+        - ID: CVE-2012-3400
+          Severity: LOW
+        - ID: CVE-2012-3430
+          Severity: LOW
+        - ID: CVE-2012-3511
+          Severity: MEDIUM
+        - ID: CVE-2012-3520
+          Severity: HIGH
+        - ID: CVE-2012-4508
+          Severity: HIGH
+        - ID: CVE-2012-4565
+          Severity: MEDIUM
+      FixedVersion: 0:3.2.33-rt50.66.el6rt

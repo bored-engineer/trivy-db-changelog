@@ -37,5 +37,5 @@ Entries:
         - ID: CVE-2016-9565
           Severity: HIGH
         - ID: CVE-2016-9566
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:3.5.1-9.el6

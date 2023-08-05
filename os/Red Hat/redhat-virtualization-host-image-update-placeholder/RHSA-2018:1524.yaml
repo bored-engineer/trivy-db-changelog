@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Cves:
+        - ID: CVE-2018-1087
+          Severity: HIGH
+        - ID: CVE-2018-1088
+          Severity: HIGH
+        - ID: CVE-2018-1111
+          Severity: CRITICAL
+        - ID: CVE-2018-8897
+          Severity: MEDIUM
+      FixedVersion: 0:4.2-3.0.el7

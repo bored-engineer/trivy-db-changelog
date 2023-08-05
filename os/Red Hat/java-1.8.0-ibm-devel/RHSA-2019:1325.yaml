@@ -1,0 +1,16 @@
+Entries:
+    - Arches:
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-10245
+          Severity: MEDIUM
+        - ID: CVE-2019-2602
+          Severity: MEDIUM
+        - ID: CVE-2019-2684
+          Severity: MEDIUM
+        - ID: CVE-2019-2697
+          Severity: HIGH
+        - ID: CVE-2019-2698
+          Severity: HIGH
+      FixedVersion: 1:1.8.0.5.35-1jpp.1.el6_10

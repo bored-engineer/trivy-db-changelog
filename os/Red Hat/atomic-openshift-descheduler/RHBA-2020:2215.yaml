@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2020-8552
+          Severity: MEDIUM
+      FixedVersion: 0:3.11.219-1.git.1.7e5b9ee.el7

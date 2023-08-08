@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.10
+        - cpe:/a:redhat:openshift:4.10::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-0811
+          Severity: HIGH
+      FixedVersion: 0:1.23.1-12.rhaos4.10.git1607c6e.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.10
+        - cpe:/a:redhat:openshift:4.10::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-0811
+          Severity: HIGH
+      FixedVersion: 0:1.23.1-12.rhaos4.10.git1607c6e.el8

@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2018-1002105
+          Severity: CRITICAL
+        - ID: CVE-2018-12115
+          Severity: HIGH
+        - ID: CVE-2018-3830
+          Severity: MEDIUM
+      FixedVersion: 0:3.11.43-1.git.0.647ac05.el7

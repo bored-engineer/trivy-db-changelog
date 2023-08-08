@@ -1,0 +1,48 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2015-1291
+          Severity: HIGH
+        - ID: CVE-2015-1292
+          Severity: HIGH
+        - ID: CVE-2015-1293
+          Severity: HIGH
+        - ID: CVE-2015-1294
+          Severity: HIGH
+        - ID: CVE-2015-1295
+          Severity: HIGH
+        - ID: CVE-2015-1296
+          Severity: HIGH
+        - ID: CVE-2015-1297
+          Severity: MEDIUM
+        - ID: CVE-2015-1298
+          Severity: MEDIUM
+        - ID: CVE-2015-1299
+          Severity: MEDIUM
+        - ID: CVE-2015-1300
+          Severity: MEDIUM
+        - ID: CVE-2015-1301
+          Severity: MEDIUM
+      FixedVersion: 0:45.0.2454.85-2.el6

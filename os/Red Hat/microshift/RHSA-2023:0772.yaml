@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.12
+        - cpe:/a:redhat:openshift:4.12::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-3162
+          Severity: MEDIUM
+      FixedVersion: 0:4.12.4-202302151633.p0.gb9fe8ac.assembly.4.12.4.el8

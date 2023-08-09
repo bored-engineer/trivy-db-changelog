@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.13
+        - cpe:/a:redhat:openshift:4.13::el9
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2023-24539
+          Severity: MEDIUM
+        - ID: CVE-2023-29400
+          Severity: MEDIUM
+      FixedVersion: 0:1.26.0-3.el9

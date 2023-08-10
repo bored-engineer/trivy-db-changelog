@@ -1,0 +1,31 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:a_mq_clients:2
+        - cpe:/a:redhat:a_mq_clients:2.9
+        - cpe:/a:redhat:a_mq_clients:2.9::el7
+        - cpe:/a:redhat:a_mq_clients:2::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-21290
+          Severity: LOW
+        - ID: CVE-2021-21295
+          Severity: MEDIUM
+        - ID: CVE-2021-21409
+          Severity: MEDIUM
+      FixedVersion: 0:0.33.0-6.el7_9
+    - Affected:
+        - cpe:/a:redhat:a_mq_clients:2
+        - cpe:/a:redhat:a_mq_clients:2.9
+        - cpe:/a:redhat:a_mq_clients:2.9::el8
+        - cpe:/a:redhat:a_mq_clients:2::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-21290
+          Severity: LOW
+        - ID: CVE-2021-21295
+          Severity: MEDIUM
+        - ID: CVE-2021-21409
+          Severity: MEDIUM
+      FixedVersion: 0:0.33.0-8.el8

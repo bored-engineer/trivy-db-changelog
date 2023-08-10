@@ -1,0 +1,24 @@
+Entries:
+    - Arches:
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2016-0705
+          Severity: LOW
+        - ID: CVE-2017-3732
+          Severity: MEDIUM
+        - ID: CVE-2017-3736
+          Severity: MEDIUM
+        - ID: CVE-2018-12539
+          Severity: MEDIUM
+        - ID: CVE-2018-1517
+          Severity: MEDIUM
+        - ID: CVE-2018-1656
+          Severity: MEDIUM
+        - ID: CVE-2018-2940
+          Severity: MEDIUM
+        - ID: CVE-2018-2952
+          Severity: MEDIUM
+        - ID: CVE-2018-2973
+          Severity: MEDIUM
+      FixedVersion: 1:1.8.0.5.20-1jpp.1.el6_10

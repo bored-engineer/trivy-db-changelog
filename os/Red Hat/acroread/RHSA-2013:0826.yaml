@@ -1,0 +1,96 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_els:6
+        - cpe:/o:redhat:rhel_eus:6.4
+        - cpe:/o:redhat:rhel_eus:6.4::computenode
+        - cpe:/o:redhat:rhel_eus:6.4::server
+        - cpe:/o:redhat:rhel_eus:6.5
+        - cpe:/o:redhat:rhel_eus:6.5::computenode
+        - cpe:/o:redhat:rhel_eus:6.5::server
+        - cpe:/o:redhat:rhel_eus:6.6
+        - cpe:/o:redhat:rhel_eus:6.6::computenode
+        - cpe:/o:redhat:rhel_eus:6.6::server
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+        - cpe:/o:redhat:rhel_tus:6.5
+        - cpe:/o:redhat:rhel_tus:6.5::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - i686
+      Cves:
+        - ID: CVE-2013-2549
+          Severity: CRITICAL
+        - ID: CVE-2013-2718
+          Severity: CRITICAL
+        - ID: CVE-2013-2719
+          Severity: CRITICAL
+        - ID: CVE-2013-2720
+          Severity: CRITICAL
+        - ID: CVE-2013-2721
+          Severity: CRITICAL
+        - ID: CVE-2013-2722
+          Severity: CRITICAL
+        - ID: CVE-2013-2723
+          Severity: CRITICAL
+        - ID: CVE-2013-2724
+          Severity: CRITICAL
+        - ID: CVE-2013-2725
+          Severity: CRITICAL
+        - ID: CVE-2013-2726
+          Severity: CRITICAL
+        - ID: CVE-2013-2727
+          Severity: CRITICAL
+        - ID: CVE-2013-2729
+          Severity: CRITICAL
+        - ID: CVE-2013-2730
+          Severity: CRITICAL
+        - ID: CVE-2013-2731
+          Severity: CRITICAL
+        - ID: CVE-2013-2732
+          Severity: CRITICAL
+        - ID: CVE-2013-2733
+          Severity: CRITICAL
+        - ID: CVE-2013-2734
+          Severity: CRITICAL
+        - ID: CVE-2013-2735
+          Severity: CRITICAL
+        - ID: CVE-2013-2736
+          Severity: CRITICAL
+        - ID: CVE-2013-2737
+          Severity: MEDIUM
+        - ID: CVE-2013-3337
+          Severity: CRITICAL
+        - ID: CVE-2013-3338
+          Severity: CRITICAL
+        - ID: CVE-2013-3339
+          Severity: CRITICAL
+        - ID: CVE-2013-3340
+          Severity: CRITICAL
+        - ID: CVE-2013-3341
+          Severity: CRITICAL
+        - ID: CVE-2013-3346
+          Severity: CRITICAL
+      FixedVersion: 0:9.5.5-1.el6_4

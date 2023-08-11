@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:6.0
+        - cpe:/a:redhat:ceph_storage:6.0::el9
+        - cpe:/a:redhat:ceph_storage:6.1
+        - cpe:/a:redhat:ceph_storage:6.1::el9
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-4231
+          Severity: LOW
+        - ID: CVE-2022-31129
+          Severity: HIGH
+      FixedVersion: 2:17.2.6-70.el9cp

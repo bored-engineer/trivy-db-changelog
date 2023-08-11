@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.2
+        - cpe:/o:redhat:rhel_aus:7.2::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2021-42574
+          Severity: MEDIUM
+      FixedVersion: 0:2.23.52.0.1-55.el7_2.4

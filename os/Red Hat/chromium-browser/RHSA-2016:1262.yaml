@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2016-1704
+          Severity: HIGH
+      FixedVersion: 0:51.0.2704.103-1.el6

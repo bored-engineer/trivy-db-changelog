@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3::server
+      Cves:
+        - ID: CVE-2020-8625
+          Severity: HIGH
+      FixedVersion: 32:9.9.4-50.el7_3.5

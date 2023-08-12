@@ -1,0 +1,21 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.8
+        - cpe:/a:redhat:openshift:4.8::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-1708
+          Severity: MEDIUM
+      FixedVersion: 0:1.21.8-3.rhaos4.8.gitd7fbb0d.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.8
+        - cpe:/a:redhat:openshift:4.8::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-1708
+          Severity: MEDIUM
+      FixedVersion: 0:1.21.8-3.rhaos4.8.gitd7fbb0d.el8

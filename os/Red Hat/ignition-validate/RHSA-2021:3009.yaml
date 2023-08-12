@@ -14,5 +14,5 @@ Entries:
         - ID: CVE-2021-33198
           Severity: MEDIUM
         - ID: CVE-2021-34558
-          Severity: LOW
+          Severity: MEDIUM
       FixedVersion: 0:2.6.0-8.rhaos4.6.git947598e.el8

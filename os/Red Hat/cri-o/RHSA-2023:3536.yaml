@@ -10,6 +10,8 @@ Entries:
       Cves:
         - ID: CVE-2023-24534
           Severity: MEDIUM
+        - ID: CVE-2023-24536
+          Severity: MEDIUM
         - ID: CVE-2023-30861
           Severity: HIGH
       FixedVersion: 0:1.26.3-8.rhaos4.13.git9232b13.el8
@@ -23,6 +25,8 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2023-24534
+          Severity: MEDIUM
+        - ID: CVE-2023-24536
           Severity: MEDIUM
         - ID: CVE-2023-30861
           Severity: HIGH

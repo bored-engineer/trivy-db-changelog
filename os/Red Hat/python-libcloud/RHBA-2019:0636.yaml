@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2019-1002101
+          Severity: MEDIUM
+      FixedVersion: 0:2.2.1-20180102gitd701bf9.el7

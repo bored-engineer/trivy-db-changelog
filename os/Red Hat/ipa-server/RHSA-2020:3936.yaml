@@ -1,0 +1,36 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-9251
+          Severity: MEDIUM
+        - ID: CVE-2016-10735
+          Severity: MEDIUM
+        - ID: CVE-2018-14040
+          Severity: MEDIUM
+        - ID: CVE-2018-14042
+          Severity: MEDIUM
+        - ID: CVE-2018-20676
+          Severity: MEDIUM
+        - ID: CVE-2018-20677
+          Severity: MEDIUM
+        - ID: CVE-2019-11358
+          Severity: MEDIUM
+        - ID: CVE-2019-8331
+          Severity: MEDIUM
+        - ID: CVE-2020-11022
+          Severity: MEDIUM
+        - ID: CVE-2020-1722
+          Severity: LOW
+      FixedVersion: 0:4.6.8-5.el7

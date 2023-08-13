@@ -1,0 +1,9 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:6.1
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2012-2313
+          Severity: LOW
+      FixedVersion: 0:2.6.32-131.36.1.el6

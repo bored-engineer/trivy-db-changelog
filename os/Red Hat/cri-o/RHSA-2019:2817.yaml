@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2019-10214
+          Severity: MEDIUM
+        - ID: CVE-2019-9512
+          Severity: HIGH
+        - ID: CVE-2019-9514
+          Severity: HIGH
+      FixedVersion: 0:1.11.16-0.2.dev.rhaos3.11.git3f89eba.el7

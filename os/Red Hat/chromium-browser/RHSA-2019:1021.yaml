@@ -1,0 +1,60 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2019-5805
+          Severity: HIGH
+        - ID: CVE-2019-5806
+          Severity: HIGH
+        - ID: CVE-2019-5807
+          Severity: HIGH
+        - ID: CVE-2019-5808
+          Severity: HIGH
+        - ID: CVE-2019-5809
+          Severity: HIGH
+        - ID: CVE-2019-5810
+          Severity: MEDIUM
+        - ID: CVE-2019-5811
+          Severity: MEDIUM
+        - ID: CVE-2019-5813
+          Severity: MEDIUM
+        - ID: CVE-2019-5814
+          Severity: MEDIUM
+        - ID: CVE-2019-5815
+          Severity: MEDIUM
+        - ID: CVE-2019-5818
+          Severity: MEDIUM
+        - ID: CVE-2019-5819
+          Severity: MEDIUM
+        - ID: CVE-2019-5820
+          Severity: MEDIUM
+        - ID: CVE-2019-5821
+          Severity: MEDIUM
+        - ID: CVE-2019-5822
+          Severity: LOW
+        - ID: CVE-2019-5823
+          Severity: LOW
+        - ID: CVE-2019-5825
+          Severity: HIGH
+        - ID: CVE-2019-5826
+          Severity: HIGH
+        - ID: CVE-2020-6503
+          Severity: MEDIUM
+        - ID: CVE-2020-6504
+          Severity: LOW
+      FixedVersion: 0:74.0.3729.108-1.el6_10

@@ -321,4 +321,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-21872
           Severity: MEDIUM
+        - ID: CVE-2023-21950
+          Severity: MEDIUM
       FixedVersion: 0:2.7.0.20070801-16.module+el8.0.0+3898+e09bb8de

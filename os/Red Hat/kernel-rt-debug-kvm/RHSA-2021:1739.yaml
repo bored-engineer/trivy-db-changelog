@@ -145,6 +145,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2020-35508
           Severity: MEDIUM
+        - ID: CVE-2020-36694
+          Severity: MEDIUM
         - ID: CVE-2021-0342
           Severity: MEDIUM
         - ID: CVE-2021-0605

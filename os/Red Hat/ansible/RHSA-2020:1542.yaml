@@ -1,0 +1,51 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ansible_engine:2
+        - cpe:/a:redhat:ansible_engine:2::el7
+      Cves:
+        - ID: CVE-2020-10684
+          Severity: HIGH
+        - ID: CVE-2020-10685
+          Severity: MEDIUM
+        - ID: CVE-2020-10691
+          Severity: MEDIUM
+        - ID: CVE-2020-1733
+          Severity: MEDIUM
+        - ID: CVE-2020-1735
+          Severity: MEDIUM
+        - ID: CVE-2020-1737
+          Severity: MEDIUM
+        - ID: CVE-2020-1739
+          Severity: LOW
+        - ID: CVE-2020-1740
+          Severity: LOW
+        - ID: CVE-2020-1746
+          Severity: MEDIUM
+        - ID: CVE-2020-1753
+          Severity: MEDIUM
+      FixedVersion: 0:2.9.7-1.el7ae
+    - Affected:
+        - cpe:/a:redhat:ansible_engine:2
+        - cpe:/a:redhat:ansible_engine:2::el8
+      Cves:
+        - ID: CVE-2020-10684
+          Severity: HIGH
+        - ID: CVE-2020-10685
+          Severity: MEDIUM
+        - ID: CVE-2020-10691
+          Severity: MEDIUM
+        - ID: CVE-2020-1733
+          Severity: MEDIUM
+        - ID: CVE-2020-1735
+          Severity: MEDIUM
+        - ID: CVE-2020-1737
+          Severity: MEDIUM
+        - ID: CVE-2020-1739
+          Severity: LOW
+        - ID: CVE-2020-1740
+          Severity: LOW
+        - ID: CVE-2020-1746
+          Severity: MEDIUM
+        - ID: CVE-2020-1753
+          Severity: MEDIUM
+      FixedVersion: 0:2.9.7-1.el8ae

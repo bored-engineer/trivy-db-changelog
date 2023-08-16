@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:17.0
+        - cpe:/a:redhat:openstack:17.0::el9
+      Cves:
+        - ID: CVE-2022-47950
+          Severity: HIGH
+      FixedVersion: 0:2.27.1-0.20230201120900.6a1a8ce.el9ost

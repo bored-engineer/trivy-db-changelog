@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_other:7
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-13139
+          Severity: MEDIUM
+      FixedVersion: 2:1.13.1-104.git4ef4b30.el7

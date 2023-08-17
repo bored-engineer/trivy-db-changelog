@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 0.3.7-beta
+VulnerableVersions:
+    - <= 0.3.6-beta

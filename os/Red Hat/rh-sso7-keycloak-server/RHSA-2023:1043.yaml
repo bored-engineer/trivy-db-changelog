@@ -1,0 +1,72 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:red_hat_single_sign_on:7
+        - cpe:/a:redhat:red_hat_single_sign_on:7.5
+        - cpe:/a:redhat:red_hat_single_sign_on:7.5::el7
+        - cpe:/a:redhat:red_hat_single_sign_on:7.6
+        - cpe:/a:redhat:red_hat_single_sign_on:7.6::el7
+        - cpe:/a:redhat:red_hat_single_sign_on:7::el7
+      Cves:
+        - ID: CVE-2018-14040
+          Severity: MEDIUM
+        - ID: CVE-2018-14042
+          Severity: MEDIUM
+        - ID: CVE-2019-11358
+          Severity: MEDIUM
+        - ID: CVE-2020-11022
+          Severity: MEDIUM
+        - ID: CVE-2020-11023
+          Severity: MEDIUM
+        - ID: CVE-2021-35065
+          Severity: MEDIUM
+        - ID: CVE-2021-44906
+          Severity: MEDIUM
+        - ID: CVE-2022-1274
+          Severity: MEDIUM
+        - ID: CVE-2022-1438
+          Severity: MEDIUM
+        - ID: CVE-2022-1471
+          Severity: HIGH
+        - ID: CVE-2022-24785
+          Severity: MEDIUM
+        - ID: CVE-2022-25857
+          Severity: HIGH
+        - ID: CVE-2022-2764
+          Severity: LOW
+        - ID: CVE-2022-31129
+          Severity: HIGH
+        - ID: CVE-2022-37603
+          Severity: MEDIUM
+        - ID: CVE-2022-38749
+          Severity: MEDIUM
+        - ID: CVE-2022-38750
+          Severity: MEDIUM
+        - ID: CVE-2022-38751
+          Severity: MEDIUM
+        - ID: CVE-2022-3916
+          Severity: MEDIUM
+        - ID: CVE-2022-40149
+          Severity: MEDIUM
+        - ID: CVE-2022-40150
+          Severity: LOW
+        - ID: CVE-2022-4137
+          Severity: HIGH
+        - ID: CVE-2022-42003
+          Severity: MEDIUM
+        - ID: CVE-2022-42004
+          Severity: MEDIUM
+        - ID: CVE-2022-45047
+          Severity: HIGH
+        - ID: CVE-2022-45693
+          Severity: MEDIUM
+        - ID: CVE-2022-46175
+          Severity: MEDIUM
+        - ID: CVE-2022-46363
+          Severity: MEDIUM
+        - ID: CVE-2022-46364
+          Severity: HIGH
+        - ID: CVE-2023-0091
+          Severity: LOW
+        - ID: CVE-2023-0264
+          Severity: MEDIUM
+      FixedVersion: 0:18.0.6-1.redhat_00001.1.el7sso

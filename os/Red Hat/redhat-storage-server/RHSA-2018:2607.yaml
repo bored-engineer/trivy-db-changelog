@@ -35,9 +35,9 @@ Entries:
         - cpe:/a:redhat:storage:3:client:el7
       Cves:
         - ID: CVE-2018-10904
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2018-10907
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2018-10911
           Severity: MEDIUM
         - ID: CVE-2018-10913
@@ -45,15 +45,15 @@ Entries:
         - ID: CVE-2018-10914
           Severity: MEDIUM
         - ID: CVE-2018-10923
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2018-10926
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2018-10927
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2018-10928
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2018-10929
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2018-10930
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 0:3.4.0.0-1.el7rhgs

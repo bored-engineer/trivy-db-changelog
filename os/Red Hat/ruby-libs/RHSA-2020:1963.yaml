@@ -1,0 +1,21 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.5
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.5
+        - cpe:/o:redhat:rhel_eus:7.5
+        - cpe:/o:redhat:rhel_eus:7.5::computenode
+        - cpe:/o:redhat:rhel_eus:7.5::server
+      Arches:
+        - i686
+        - ppc
+        - ppc64
+        - ppc64le
+        - s390
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2017-17742
+          Severity: MEDIUM
+        - ID: CVE-2018-8778
+          Severity: MEDIUM
+      FixedVersion: 0:2.0.0.648-36.el7_5

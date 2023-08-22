@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6::server
+        - cpe:/o:redhat:rhel_tus:7.6
+        - cpe:/o:redhat:rhel_tus:7.6::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-44142
+          Severity: CRITICAL
+      FixedVersion: 0:4.8.3-7.el7_6

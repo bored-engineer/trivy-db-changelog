@@ -1,0 +1,24 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.4
+        - cpe:/o:redhat:rhel_aus:7.4::server
+        - cpe:/o:redhat:rhel_tus:7.4
+        - cpe:/o:redhat:rhel_tus:7.4::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-14287
+          Severity: HIGH
+      FixedVersion: 0:1.8.19p2-12.el7_4.1
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.4
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.4
+        - cpe:/o:redhat:rhel_e4s:7.4
+        - cpe:/o:redhat:rhel_e4s:7.4::server
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2019-14287
+          Severity: HIGH
+      FixedVersion: 0:1.8.19p2-12.el7_4.1

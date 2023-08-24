@@ -1,0 +1,161 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/a:redhat:rhel_aus:8.8
+        - cpe:/a:redhat:rhel_aus:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6
+        - cpe:/a:redhat:rhel_e4s:8.6::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.6::sap
+        - cpe:/a:redhat:rhel_e4s:8.6::sap_hana
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.6
+        - cpe:/a:redhat:rhel_eus:8.6::appstream
+        - cpe:/a:redhat:rhel_eus:8.6::crb
+        - cpe:/a:redhat:rhel_eus:8.6::highavailability
+        - cpe:/a:redhat:rhel_eus:8.6::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.6::sap
+        - cpe:/a:redhat:rhel_eus:8.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.6::supplementary
+        - cpe:/a:redhat:rhel_eus:8.8
+        - cpe:/a:redhat:rhel_eus:8.8::appstream
+        - cpe:/a:redhat:rhel_eus:8.8::crb
+        - cpe:/a:redhat:rhel_eus:8.8::highavailability
+        - cpe:/a:redhat:rhel_eus:8.8::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.8::sap
+        - cpe:/a:redhat:rhel_eus:8.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.8::supplementary
+        - cpe:/a:redhat:rhel_tus:8.6
+        - cpe:/a:redhat:rhel_tus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6::highavailability
+        - cpe:/a:redhat:rhel_tus:8.6::realtime
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+        - cpe:/o:redhat:rhel_aus:8.8
+        - cpe:/o:redhat:rhel_aus:8.8::baseos
+        - cpe:/o:redhat:rhel_e4s:8.6
+        - cpe:/o:redhat:rhel_e4s:8.6::baseos
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+        - cpe:/o:redhat:rhel_eus:8.6
+        - cpe:/o:redhat:rhel_eus:8.6::baseos
+        - cpe:/o:redhat:rhel_eus:8.8
+        - cpe:/o:redhat:rhel_eus:8.8::baseos
+        - cpe:/o:redhat:rhel_tus:8.6
+        - cpe:/o:redhat:rhel_tus:8.6::baseos
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2020-0404
+          Severity: MEDIUM
+        - ID: CVE-2020-13974
+          Severity: MEDIUM
+        - ID: CVE-2020-27820
+          Severity: LOW
+        - ID: CVE-2020-4788
+          Severity: MEDIUM
+        - ID: CVE-2021-0941
+          Severity: MEDIUM
+        - ID: CVE-2021-20322
+          Severity: MEDIUM
+        - ID: CVE-2021-21781
+          Severity: MEDIUM
+        - ID: CVE-2021-26401
+          Severity: MEDIUM
+        - ID: CVE-2021-29154
+          Severity: MEDIUM
+        - ID: CVE-2021-3612
+          Severity: MEDIUM
+        - ID: CVE-2021-3669
+          Severity: MEDIUM
+        - ID: CVE-2021-37159
+          Severity: MEDIUM
+        - ID: CVE-2021-3743
+          Severity: MEDIUM
+        - ID: CVE-2021-3744
+          Severity: MEDIUM
+        - ID: CVE-2021-3752
+          Severity: MEDIUM
+        - ID: CVE-2021-3759
+          Severity: MEDIUM
+        - ID: CVE-2021-3764
+          Severity: MEDIUM
+        - ID: CVE-2021-3772
+          Severity: MEDIUM
+        - ID: CVE-2021-3773
+          Severity: MEDIUM
+        - ID: CVE-2021-4002
+          Severity: MEDIUM
+        - ID: CVE-2021-4037
+          Severity: MEDIUM
+        - ID: CVE-2021-4083
+          Severity: HIGH
+        - ID: CVE-2021-4093
+          Severity: MEDIUM
+        - ID: CVE-2021-4157
+          Severity: MEDIUM
+        - ID: CVE-2021-41864
+          Severity: MEDIUM
+        - ID: CVE-2021-4197
+          Severity: MEDIUM
+        - ID: CVE-2021-4203
+          Severity: MEDIUM
+        - ID: CVE-2021-42739
+          Severity: MEDIUM
+        - ID: CVE-2021-43056
+          Severity: MEDIUM
+        - ID: CVE-2021-43389
+          Severity: MEDIUM
+        - ID: CVE-2021-43976
+          Severity: MEDIUM
+        - ID: CVE-2021-44733
+          Severity: MEDIUM
+        - ID: CVE-2021-45485
+          Severity: MEDIUM
+        - ID: CVE-2021-45486
+          Severity: MEDIUM
+        - ID: CVE-2022-0001
+          Severity: MEDIUM
+        - ID: CVE-2022-0002
+          Severity: MEDIUM
+        - ID: CVE-2022-0286
+          Severity: MEDIUM
+        - ID: CVE-2022-0322
+          Severity: MEDIUM
+        - ID: CVE-2022-0850
+          Severity: MEDIUM
+        - ID: CVE-2022-1011
+          Severity: MEDIUM
+        - ID: CVE-2022-3105
+          Severity: LOW
+        - ID: CVE-2022-3106
+          Severity: LOW
+        - ID: CVE-2022-3108
+          Severity: LOW
+      FixedVersion: 0:4.18.0-372.9.1.el8

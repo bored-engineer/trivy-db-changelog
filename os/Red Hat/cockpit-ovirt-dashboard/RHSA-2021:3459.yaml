@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::hypervisor
+      Cves:
+        - ID: CVE-2020-28500
+          Severity: MEDIUM
+        - ID: CVE-2021-23337
+          Severity: MEDIUM
+      FixedVersion: 0:0.15.1-2.el8ev

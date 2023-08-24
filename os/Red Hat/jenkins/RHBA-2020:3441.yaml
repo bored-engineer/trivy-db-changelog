@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.4
+        - cpe:/a:redhat:openshift:4.4::el7
+      Cves:
+        - ID: CVE-2020-2220
+          Severity: HIGH
+        - ID: CVE-2020-2221
+          Severity: HIGH
+        - ID: CVE-2020-2222
+          Severity: HIGH
+        - ID: CVE-2020-2223
+          Severity: HIGH
+      FixedVersion: 0:2.235.2.1597312065-1.el7

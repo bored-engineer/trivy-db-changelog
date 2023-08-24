@@ -1,0 +1,46 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2
+        - cpe:/a:redhat:rhel_tus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2::highavailability
+        - cpe:/a:redhat:rhel_tus:8.2::nfv
+        - cpe:/a:redhat:rhel_tus:8.2::realtime
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+        - cpe:/o:redhat:rhel_tus:8.2
+        - cpe:/o:redhat:rhel_tus:8.2::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-21123
+          Severity: MEDIUM
+        - ID: CVE-2022-21125
+          Severity: MEDIUM
+        - ID: CVE-2022-21166
+          Severity: MEDIUM
+        - ID: CVE-2022-2588
+          Severity: HIGH
+      FixedVersion: 0:4.18.0-193.93.1.el8_2
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.2
+        - cpe:/a:redhat:rhel_e4s:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.2::sap
+        - cpe:/a:redhat:rhel_e4s:8.2::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.2
+        - cpe:/o:redhat:rhel_e4s:8.2::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2022-21123
+          Severity: MEDIUM
+        - ID: CVE-2022-21125
+          Severity: MEDIUM
+        - ID: CVE-2022-21166
+          Severity: MEDIUM
+        - ID: CVE-2022-2588
+          Severity: HIGH
+      FixedVersion: 0:4.18.0-193.93.1.el8_2

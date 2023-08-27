@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2018-1124
+          Severity: HIGH
+        - ID: CVE-2018-1126
+          Severity: MEDIUM
+      FixedVersion: 0:3.2.8-30.el6_6.1

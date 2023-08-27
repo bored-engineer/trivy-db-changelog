@@ -1,0 +1,39 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.6
+        - cpe:/a:redhat:openshift:4.6::el7
+      Cves:
+        - ID: CVE-2020-2304
+          Severity: HIGH
+        - ID: CVE-2020-2305
+          Severity: HIGH
+        - ID: CVE-2020-2306
+          Severity: MEDIUM
+        - ID: CVE-2020-2307
+          Severity: MEDIUM
+        - ID: CVE-2020-2308
+          Severity: MEDIUM
+        - ID: CVE-2020-2309
+          Severity: MEDIUM
+        - ID: CVE-2020-28362
+          Severity: MEDIUM
+      FixedVersion: 0:4.6.1608634578-1.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.6
+        - cpe:/a:redhat:openshift:4.6::el8
+      Cves:
+        - ID: CVE-2020-2304
+          Severity: HIGH
+        - ID: CVE-2020-2305
+          Severity: HIGH
+        - ID: CVE-2020-2306
+          Severity: MEDIUM
+        - ID: CVE-2020-2307
+          Severity: MEDIUM
+        - ID: CVE-2020-2308
+          Severity: MEDIUM
+        - ID: CVE-2020-2309
+          Severity: MEDIUM
+        - ID: CVE-2020-28362
+          Severity: MEDIUM
+      FixedVersion: 0:4.6.1609853716-1.el8

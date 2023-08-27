@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el6
+      Arches:
+        - i686
+        - ppc64
+        - x86_64
+      Cves:
+        - ID: CVE-2015-3183
+          Severity: MEDIUM
+        - ID: CVE-2016-3110
+          Severity: MEDIUM
+        - ID: CVE-2016-4459
+          Severity: LOW
+      FixedVersion: 1:1.0.2h-4.jbcs.el6

@@ -1,0 +1,12 @@
+Entries:
+    - Arches:
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2017-7484
+          Severity: MEDIUM
+        - ID: CVE-2017-7485
+          Severity: MEDIUM
+        - ID: CVE-2017-7486
+          Severity: MEDIUM
+      FixedVersion: 0:9.5.7-2.el6

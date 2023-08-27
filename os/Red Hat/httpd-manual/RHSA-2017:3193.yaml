@@ -1,0 +1,31 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.2
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.2
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.2
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.2
+        - cpe:/o:redhat:rhel_aus:7.2
+        - cpe:/o:redhat:rhel_aus:7.2::server
+        - cpe:/o:redhat:rhel_e4s:7.2
+        - cpe:/o:redhat:rhel_e4s:7.2::server
+        - cpe:/o:redhat:rhel_eus:7.1
+        - cpe:/o:redhat:rhel_eus:7.1::server
+        - cpe:/o:redhat:rhel_eus:7.2
+        - cpe:/o:redhat:rhel_eus:7.2::computenode
+        - cpe:/o:redhat:rhel_eus:7.2::server
+        - cpe:/o:redhat:rhel_tus:7.2
+        - cpe:/o:redhat:rhel_tus:7.2::server
+      Cves:
+        - ID: CVE-2017-3167
+          Severity: MEDIUM
+        - ID: CVE-2017-3169
+          Severity: MEDIUM
+        - ID: CVE-2017-7668
+          Severity: MEDIUM
+        - ID: CVE-2017-7679
+          Severity: MEDIUM
+        - ID: CVE-2017-9788
+          Severity: HIGH
+        - ID: CVE-2017-9798
+          Severity: MEDIUM
+      FixedVersion: 0:2.4.6-40.el7_2.6

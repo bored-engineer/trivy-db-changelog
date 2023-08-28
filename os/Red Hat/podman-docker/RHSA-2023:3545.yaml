@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.12
+        - cpe:/a:redhat:openshift:4.12::el8
+      Cves:
+        - ID: CVE-2023-24540
+          Severity: HIGH
+        - ID: CVE-2023-30861
+          Severity: HIGH
+      FixedVersion: 3:4.2.0-4.1.rhaos4.12.el8

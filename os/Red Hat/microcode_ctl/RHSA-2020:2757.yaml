@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.0
+        - cpe:/a:redhat:rhel_e4s:8.0::appstream
+        - cpe:/a:redhat:rhel_e4s:8.0::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.0::sap
+        - cpe:/a:redhat:rhel_e4s:8.0::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.0
+        - cpe:/o:redhat:rhel_e4s:8.0::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-0543
+          Severity: MEDIUM
+        - ID: CVE-2020-0548
+          Severity: LOW
+        - ID: CVE-2020-0549
+          Severity: MEDIUM
+      FixedVersion: 4:20180807a-2.20200609.1.el8_0

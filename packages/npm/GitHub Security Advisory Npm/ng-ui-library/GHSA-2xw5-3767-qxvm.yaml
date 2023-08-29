@@ -1,4 +1,4 @@
 PatchedVersions:
     - 1.0.990
 VulnerableVersions:
-    - = 1.0.987
+    - '>=1.0.987, <1.0.990'

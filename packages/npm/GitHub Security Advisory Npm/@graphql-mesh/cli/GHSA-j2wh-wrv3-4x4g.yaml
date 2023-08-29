@@ -1,4 +1,4 @@
 PatchedVersions:
     - 0.82.22
 VulnerableVersions:
-    - '>= 0.78.0, < 0.82.22'
+    - '>=0.78.0, <0.82.22'

@@ -1,4 +1,4 @@
 PatchedVersions:
     - 8.2.3
 VulnerableVersions:
-    - < 8.2.3
+    - '>=0, <8.2.3'

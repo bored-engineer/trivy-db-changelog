@@ -1,4 +1,4 @@
 PatchedVersions:
     - "12.4"
 VulnerableVersions:
-    - < 12.4
+    - '>=0, <12.4'

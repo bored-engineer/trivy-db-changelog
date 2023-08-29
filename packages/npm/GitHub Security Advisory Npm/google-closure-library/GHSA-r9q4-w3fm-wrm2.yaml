@@ -1,4 +1,4 @@
 PatchedVersions:
     - 20190301.0.0
 VulnerableVersions:
-    - < 20190301.0.0
+    - '>=0, <20190301.0.0'

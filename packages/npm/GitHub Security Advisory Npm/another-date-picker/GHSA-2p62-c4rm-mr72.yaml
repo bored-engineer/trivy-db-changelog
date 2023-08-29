@@ -1,4 +1,4 @@
 PatchedVersions:
     - 2.0.45
 VulnerableVersions:
-    - = 2.0.43
+    - '>=2.0.43, <2.0.45'

@@ -1,4 +1,4 @@
 PatchedVersions:
     - 0.1.0-beta.13.2
 VulnerableVersions:
-    - <= 0.1.0-beta.13
+    - '>=0, <0.1.0-beta.13.2'

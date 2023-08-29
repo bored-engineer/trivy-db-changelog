@@ -1,4 +1,4 @@
 PatchedVersions:
     - 7.5.30
 VulnerableVersions:
-    - '>= 7.5.0, < 7.5.30'
+    - '>=7.5.0, <7.5.30'

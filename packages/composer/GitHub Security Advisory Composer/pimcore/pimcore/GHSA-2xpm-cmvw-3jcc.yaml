@@ -1,4 +1,4 @@
 PatchedVersions:
     - 10.5.19
 VulnerableVersions:
-    - < 10.5.19
+    - '>=0, <10.5.19'

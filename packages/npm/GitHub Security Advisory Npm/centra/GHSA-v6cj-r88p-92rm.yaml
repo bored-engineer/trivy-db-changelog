@@ -1,4 +1,4 @@
 PatchedVersions:
     - 2.4.0
 VulnerableVersions:
-    - < 2.4.0
+    - '>=0, <2.4.0'

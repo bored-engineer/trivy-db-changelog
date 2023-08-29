@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:6.1
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2011-4347
+          Severity: MEDIUM
+        - ID: CVE-2012-0038
+          Severity: MEDIUM
+        - ID: CVE-2012-0044
+          Severity: HIGH
+        - ID: CVE-2012-1097
+          Severity: MEDIUM
+        - ID: CVE-2012-1179
+          Severity: MEDIUM
+      FixedVersion: 0:2.6.32-131.29.1.el6

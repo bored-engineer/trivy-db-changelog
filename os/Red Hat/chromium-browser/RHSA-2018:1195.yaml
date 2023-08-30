@@ -1,0 +1,84 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2018-6085
+          Severity: CRITICAL
+        - ID: CVE-2018-6086
+          Severity: CRITICAL
+        - ID: CVE-2018-6087
+          Severity: HIGH
+        - ID: CVE-2018-6088
+          Severity: HIGH
+        - ID: CVE-2018-6089
+          Severity: HIGH
+        - ID: CVE-2018-6090
+          Severity: HIGH
+        - ID: CVE-2018-6091
+          Severity: HIGH
+        - ID: CVE-2018-6092
+          Severity: HIGH
+        - ID: CVE-2018-6093
+          Severity: MEDIUM
+        - ID: CVE-2018-6094
+          Severity: MEDIUM
+        - ID: CVE-2018-6095
+          Severity: MEDIUM
+        - ID: CVE-2018-6096
+          Severity: MEDIUM
+        - ID: CVE-2018-6097
+          Severity: MEDIUM
+        - ID: CVE-2018-6098
+          Severity: MEDIUM
+        - ID: CVE-2018-6099
+          Severity: MEDIUM
+        - ID: CVE-2018-6100
+          Severity: MEDIUM
+        - ID: CVE-2018-6101
+          Severity: MEDIUM
+        - ID: CVE-2018-6102
+          Severity: MEDIUM
+        - ID: CVE-2018-6103
+          Severity: MEDIUM
+        - ID: CVE-2018-6104
+          Severity: MEDIUM
+        - ID: CVE-2018-6105
+          Severity: MEDIUM
+        - ID: CVE-2018-6106
+          Severity: MEDIUM
+        - ID: CVE-2018-6107
+          Severity: MEDIUM
+        - ID: CVE-2018-6108
+          Severity: MEDIUM
+        - ID: CVE-2018-6109
+          Severity: LOW
+        - ID: CVE-2018-6110
+          Severity: LOW
+        - ID: CVE-2018-6111
+          Severity: LOW
+        - ID: CVE-2018-6112
+          Severity: LOW
+        - ID: CVE-2018-6113
+          Severity: LOW
+        - ID: CVE-2018-6114
+          Severity: LOW
+        - ID: CVE-2018-6116
+          Severity: LOW
+        - ID: CVE-2018-6117
+          Severity: LOW
+      FixedVersion: 0:66.0.3359.117-1.el6_9

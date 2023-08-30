@@ -1,0 +1,26 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:7.1
+        - cpe:/o:redhat:rhel_eus:7.1::computenode
+        - cpe:/o:redhat:rhel_eus:7.1::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2015-5370
+          Severity: CRITICAL
+        - ID: CVE-2016-2110
+          Severity: MEDIUM
+        - ID: CVE-2016-2111
+          Severity: MEDIUM
+        - ID: CVE-2016-2112
+          Severity: MEDIUM
+        - ID: CVE-2016-2113
+          Severity: MEDIUM
+        - ID: CVE-2016-2114
+          Severity: MEDIUM
+        - ID: CVE-2016-2115
+          Severity: MEDIUM
+        - ID: CVE-2016-2118
+          Severity: HIGH
+      FixedVersion: 0:2.0-4.el7_1.1

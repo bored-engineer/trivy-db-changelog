@@ -1,0 +1,41 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-3477
+          Severity: HIGH
+        - ID: CVE-2016-3521
+          Severity: MEDIUM
+        - ID: CVE-2016-3615
+          Severity: MEDIUM
+        - ID: CVE-2016-5440
+          Severity: MEDIUM
+      FixedVersion: 1:10.0.26-2.el6
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-3477
+          Severity: HIGH
+        - ID: CVE-2016-3521
+          Severity: MEDIUM
+        - ID: CVE-2016-3615
+          Severity: MEDIUM
+        - ID: CVE-2016-5440
+          Severity: MEDIUM
+      FixedVersion: 1:10.0.26-2.el7

@@ -1,1 +1,2 @@
-{}
+VulnerableVersions:
+    - =2.0.2

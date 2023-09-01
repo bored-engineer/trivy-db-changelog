@@ -1,0 +1,52 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2017-5070
+          Severity: HIGH
+        - ID: CVE-2017-5071
+          Severity: HIGH
+        - ID: CVE-2017-5072
+          Severity: HIGH
+        - ID: CVE-2017-5073
+          Severity: HIGH
+        - ID: CVE-2017-5074
+          Severity: HIGH
+        - ID: CVE-2017-5075
+          Severity: MEDIUM
+        - ID: CVE-2017-5076
+          Severity: MEDIUM
+        - ID: CVE-2017-5077
+          Severity: MEDIUM
+        - ID: CVE-2017-5078
+          Severity: MEDIUM
+        - ID: CVE-2017-5079
+          Severity: MEDIUM
+        - ID: CVE-2017-5080
+          Severity: MEDIUM
+        - ID: CVE-2017-5081
+          Severity: MEDIUM
+        - ID: CVE-2017-5082
+          Severity: LOW
+        - ID: CVE-2017-5083
+          Severity: LOW
+        - ID: CVE-2017-5085
+          Severity: LOW
+        - ID: CVE-2017-5086
+          Severity: MEDIUM
+      FixedVersion: 0:59.0.3071.86-1.el6_9

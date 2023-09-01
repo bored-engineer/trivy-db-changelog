@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:satellite:6.10
+        - cpe:/a:redhat:satellite:6.10::el7
+        - cpe:/a:redhat:satellite_capsule:6.10
+        - cpe:/a:redhat:satellite_capsule:6.10::el7
+      Cves:
+        - ID: CVE-2021-27023
+          Severity: HIGH
+        - ID: CVE-2021-27025
+          Severity: MEDIUM
+      FixedVersion: 0:6.18.0-1.el7sat

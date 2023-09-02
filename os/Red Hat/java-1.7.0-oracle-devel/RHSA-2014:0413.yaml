@@ -1,0 +1,82 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+        - cpe:/o:redhat:rhel_eus:6.5
+        - cpe:/o:redhat:rhel_eus:6.5::computenode
+        - cpe:/o:redhat:rhel_eus:6.5::server
+        - cpe:/o:redhat:rhel_tus:6.5
+        - cpe:/o:redhat:rhel_tus:6.5::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2013-6629
+          Severity: MEDIUM
+        - ID: CVE-2013-6954
+          Severity: LOW
+        - ID: CVE-2014-0429
+          Severity: CRITICAL
+        - ID: CVE-2014-0432
+          Severity: CRITICAL
+        - ID: CVE-2014-0446
+          Severity: HIGH
+        - ID: CVE-2014-0448
+          Severity: HIGH
+        - ID: CVE-2014-0449
+          Severity: MEDIUM
+        - ID: CVE-2014-0451
+          Severity: HIGH
+        - ID: CVE-2014-0452
+          Severity: HIGH
+        - ID: CVE-2014-0453
+          Severity: MEDIUM
+        - ID: CVE-2014-0454
+          Severity: HIGH
+        - ID: CVE-2014-0455
+          Severity: CRITICAL
+        - ID: CVE-2014-0456
+          Severity: CRITICAL
+        - ID: CVE-2014-0457
+          Severity: CRITICAL
+        - ID: CVE-2014-0458
+          Severity: HIGH
+        - ID: CVE-2014-0459
+          Severity: MEDIUM
+        - ID: CVE-2014-0460
+          Severity: MEDIUM
+        - ID: CVE-2014-0461
+          Severity: CRITICAL
+        - ID: CVE-2014-1876
+          Severity: LOW
+        - ID: CVE-2014-2397
+          Severity: CRITICAL
+        - ID: CVE-2014-2398
+          Severity: LOW
+        - ID: CVE-2014-2401
+          Severity: MEDIUM
+        - ID: CVE-2014-2402
+          Severity: HIGH
+        - ID: CVE-2014-2403
+          Severity: MEDIUM
+        - ID: CVE-2014-2409
+          Severity: MEDIUM
+        - ID: CVE-2014-2412
+          Severity: HIGH
+        - ID: CVE-2014-2413
+          Severity: MEDIUM
+        - ID: CVE-2014-2414
+          Severity: HIGH
+        - ID: CVE-2014-2420
+          Severity: LOW
+        - ID: CVE-2014-2421
+          Severity: CRITICAL
+        - ID: CVE-2014-2422
+          Severity: HIGH
+        - ID: CVE-2014-2423
+          Severity: HIGH
+        - ID: CVE-2014-2427
+          Severity: HIGH
+        - ID: CVE-2014-2428
+          Severity: HIGH
+      FixedVersion: 1:1.7.0.55-1jpp.1.el6_5

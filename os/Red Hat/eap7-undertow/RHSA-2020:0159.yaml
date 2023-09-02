@@ -30,5 +30,5 @@ Entries:
         - ID: CVE-2019-17267
           Severity: MEDIUM
         - ID: CVE-2019-17531
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:2.0.28-2.SP1_redhat_00001.1.el6eap

@@ -16,7 +16,7 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_web_server:5.7::el7
       Cves:
         - ID: CVE-2022-42252
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2022-45143
           Severity: LOW
       FixedVersion: 0:9.0.62-13.redhat_00011.1.el7jws
@@ -37,7 +37,7 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_web_server:5.7::el8
       Cves:
         - ID: CVE-2022-42252
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2022-45143
           Severity: LOW
       FixedVersion: 0:9.0.62-13.redhat_00011.1.el8jws
@@ -48,7 +48,7 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_web_server:5.7::el9
       Cves:
         - ID: CVE-2022-42252
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2022-45143
           Severity: LOW
       FixedVersion: 0:9.0.62-13.redhat_00011.1.el9jws

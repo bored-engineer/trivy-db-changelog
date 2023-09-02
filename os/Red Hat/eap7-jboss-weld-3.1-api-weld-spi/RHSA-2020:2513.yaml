@@ -42,11 +42,11 @@ Entries:
         - ID: CVE-2020-7226
           Severity: MEDIUM
         - ID: CVE-2020-8840
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2020-9546
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2020-9547
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2020-9548
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:3.1.0-6.SP2_redhat_00001.1.el8eap

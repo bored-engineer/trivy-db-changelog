@@ -16,7 +16,7 @@ Entries:
         - ID: CVE-2020-35452
           Severity: LOW
         - ID: CVE-2021-23840
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2021-23841
           Severity: MEDIUM
         - ID: CVE-2021-26690
@@ -49,7 +49,7 @@ Entries:
         - ID: CVE-2020-35452
           Severity: LOW
         - ID: CVE-2021-23840
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2021-23841
           Severity: MEDIUM
         - ID: CVE-2021-26690

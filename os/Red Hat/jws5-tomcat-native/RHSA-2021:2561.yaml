@@ -18,7 +18,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2020-25638
-          Severity: HIGH
+          Severity: LOW
         - ID: CVE-2021-25122
           Severity: MEDIUM
         - ID: CVE-2021-25329
@@ -43,7 +43,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2020-25638
-          Severity: HIGH
+          Severity: LOW
         - ID: CVE-2021-25122
           Severity: MEDIUM
         - ID: CVE-2021-25329

@@ -10,5 +10,5 @@ Entries:
         - ID: CVE-2022-24785
           Severity: MEDIUM
         - ID: CVE-2022-31129
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 0:2.14.0-18.el8.1

@@ -8,15 +8,15 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2020-28851
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2020-28852
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2021-29482
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2021-29923
           Severity: MEDIUM
         - ID: CVE-2021-3121
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2021-36221
           Severity: MEDIUM
         - ID: CVE-2021-3749

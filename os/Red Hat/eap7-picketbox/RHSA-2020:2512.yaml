@@ -44,11 +44,11 @@ Entries:
         - ID: CVE-2020-7226
           Severity: MEDIUM
         - ID: CVE-2020-8840
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2020-9546
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2020-9547
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2020-9548
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:5.0.3-7.Final_redhat_00006.1.el7eap

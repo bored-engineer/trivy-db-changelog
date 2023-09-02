@@ -10,9 +10,9 @@ Entries:
         - ID: CVE-2019-14900
           Severity: MEDIUM
         - ID: CVE-2020-10672
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2020-10673
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2020-10683
           Severity: MEDIUM
         - ID: CVE-2020-10687
@@ -38,11 +38,11 @@ Entries:
         - ID: CVE-2020-6950
           Severity: MEDIUM
         - ID: CVE-2020-8840
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2020-9546
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2020-9547
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2020-9548
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:2.0.6-1.Final_redhat_00001.1.el8eap

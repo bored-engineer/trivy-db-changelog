@@ -8,17 +8,17 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el8
       Cves:
         - ID: CVE-2021-4104
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2021-44832
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2021-45046
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2021-45105
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2022-23302
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2022-23305
-          Severity: HIGH
+          Severity: LOW
         - ID: CVE-2022-23307
-          Severity: HIGH
+          Severity: LOW
       FixedVersion: 0:2.17.1-1.redhat_00001.1.el8eap

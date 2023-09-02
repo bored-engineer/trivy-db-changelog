@@ -37,7 +37,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2018-14651
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2018-14652
           Severity: MEDIUM
         - ID: CVE-2018-14653

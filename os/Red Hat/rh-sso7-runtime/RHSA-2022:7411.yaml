@@ -8,11 +8,11 @@ Entries:
         - ID: CVE-2020-36518
           Severity: MEDIUM
         - ID: CVE-2021-42392
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2021-42575
           Severity: MEDIUM
         - ID: CVE-2021-43797
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2022-0084
           Severity: MEDIUM
         - ID: CVE-2022-0225

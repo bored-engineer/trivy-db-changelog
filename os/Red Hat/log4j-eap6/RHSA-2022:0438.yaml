@@ -4,24 +4,24 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_application_platform:6::el6
       Cves:
         - ID: CVE-2021-4104
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2022-23302
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2022-23305
-          Severity: HIGH
+          Severity: LOW
         - ID: CVE-2022-23307
-          Severity: HIGH
+          Severity: LOW
       FixedVersion: 0:1.2.17-3.redhat_00008.1.ep6.el6
     - Affected:
         - cpe:/a:redhat:jboss_enterprise_application_platform:6
         - cpe:/a:redhat:jboss_enterprise_application_platform:6::el7
       Cves:
         - ID: CVE-2021-4104
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2022-23302
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2022-23305
-          Severity: HIGH
+          Severity: LOW
         - ID: CVE-2022-23307
-          Severity: HIGH
+          Severity: LOW
       FixedVersion: 0:1.2.17-3.redhat_00008.1.ep6.el7

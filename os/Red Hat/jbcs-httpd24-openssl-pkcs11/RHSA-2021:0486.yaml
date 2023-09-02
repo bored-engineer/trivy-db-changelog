@@ -6,5 +6,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2020-1971
-          Severity: HIGH
+          Severity: LOW
       FixedVersion: 0:0.4.10-18.jbcs.el7

@@ -35,5 +35,5 @@ Entries:
         - cpe:/a:redhat:storage:3:client:el7
       Cves:
         - ID: CVE-2020-10730
-          Severity: MEDIUM
+          Severity: LOW
       FixedVersion: 0:4.11.6-107.el7rhgs

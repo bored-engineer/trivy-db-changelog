@@ -12,7 +12,7 @@ Entries:
         - ID: CVE-2018-5968
           Severity: MEDIUM
         - ID: CVE-2018-7750
-          Severity: CRITICAL
+          Severity: LOW
         - ID: CVE-2018-8088
           Severity: HIGH
       FixedVersion: 2:4.2-20180504.0.el7

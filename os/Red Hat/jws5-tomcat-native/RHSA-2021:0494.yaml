@@ -22,7 +22,7 @@ Entries:
         - ID: CVE-2020-17527
           Severity: MEDIUM
         - ID: CVE-2020-1971
-          Severity: HIGH
+          Severity: LOW
         - ID: CVE-2021-24122
           Severity: MEDIUM
       FixedVersion: 0:1.2.25-3.redhat_3.el7jws
@@ -49,7 +49,7 @@ Entries:
         - ID: CVE-2020-17527
           Severity: MEDIUM
         - ID: CVE-2020-1971
-          Severity: HIGH
+          Severity: LOW
         - ID: CVE-2021-24122
           Severity: MEDIUM
       FixedVersion: 0:1.2.25-3.redhat_3.el8jws

@@ -33,13 +33,13 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2015-2708
-          Severity: HIGH
+          Severity: CRITICAL
         - ID: CVE-2015-2710
-          Severity: HIGH
+          Severity: CRITICAL
         - ID: CVE-2015-2713
-          Severity: HIGH
+          Severity: CRITICAL
         - ID: CVE-2015-2716
-          Severity: HIGH
+          Severity: CRITICAL
       FixedVersion: 0:31.7.0-1.el6_6
     - Affected:
         - cpe:/a:redhat:rhel_extras:7
@@ -129,11 +129,11 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2015-2708
-          Severity: HIGH
+          Severity: CRITICAL
         - ID: CVE-2015-2710
-          Severity: HIGH
+          Severity: CRITICAL
         - ID: CVE-2015-2713
-          Severity: HIGH
+          Severity: CRITICAL
         - ID: CVE-2015-2716
-          Severity: HIGH
+          Severity: CRITICAL
       FixedVersion: 0:31.7.0-1.el7_1

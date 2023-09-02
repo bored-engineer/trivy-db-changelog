@@ -27,6 +27,7 @@ Entries:
         - cpe:/a:redhat:storage:3:bigdata:el6
         - cpe:/a:redhat:storage:3:client:el6
         - cpe:/a:redhat:storage:3:console:el6
+        - cpe:/a:redhat:storage:3:nagios:el6
         - cpe:/a:redhat:storage:3:nfs:el6
         - cpe:/a:redhat:storage:3:samba:el6
         - cpe:/a:redhat:storage:3:server:el6

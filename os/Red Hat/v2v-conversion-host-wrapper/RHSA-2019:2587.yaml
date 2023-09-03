@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:cloudforms_managementengine:5.10
+        - cpe:/a:redhat:cloudforms_managementengine:5.10::el7
+      Cves:
+        - ID: CVE-2018-10854
+          Severity: MEDIUM
+        - ID: CVE-2019-11358
+          Severity: MEDIUM
+      FixedVersion: 0:1.14.2-1.el7ev

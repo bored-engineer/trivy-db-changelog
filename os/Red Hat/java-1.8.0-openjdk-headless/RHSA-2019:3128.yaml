@@ -1,0 +1,61 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+        - cpe:/o:redhat:rhel_aus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7::server
+        - cpe:/o:redhat:rhel_e4s:7.7
+        - cpe:/o:redhat:rhel_e4s:7.7::server
+        - cpe:/o:redhat:rhel_eus:7.7
+        - cpe:/o:redhat:rhel_eus:7.7::computenode
+        - cpe:/o:redhat:rhel_eus:7.7::server
+        - cpe:/o:redhat:rhel_tus:7.7
+        - cpe:/o:redhat:rhel_tus:7.7::server
+      Arches:
+        - i686
+        - ppc64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-2945
+          Severity: LOW
+        - ID: CVE-2019-2949
+          Severity: HIGH
+        - ID: CVE-2019-2962
+          Severity: LOW
+        - ID: CVE-2019-2964
+          Severity: LOW
+        - ID: CVE-2019-2973
+          Severity: LOW
+        - ID: CVE-2019-2975
+          Severity: MEDIUM
+        - ID: CVE-2019-2978
+          Severity: MEDIUM
+        - ID: CVE-2019-2981
+          Severity: LOW
+        - ID: CVE-2019-2983
+          Severity: LOW
+        - ID: CVE-2019-2987
+          Severity: LOW
+        - ID: CVE-2019-2988
+          Severity: LOW
+        - ID: CVE-2019-2989
+          Severity: MEDIUM
+        - ID: CVE-2019-2992
+          Severity: LOW
+        - ID: CVE-2019-2999
+          Severity: LOW
+      FixedVersion: 1:1.8.0.232.b09-0.el7_7

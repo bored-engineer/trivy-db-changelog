@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Cves:
+        - ID: CVE-2019-10161
+          Severity: HIGH
+        - ID: CVE-2019-10166
+          Severity: HIGH
+        - ID: CVE-2019-10167
+          Severity: HIGH
+        - ID: CVE-2019-10168
+          Severity: HIGH
+        - ID: CVE-2019-11477
+          Severity: HIGH
+        - ID: CVE-2019-11478
+          Severity: MEDIUM
+        - ID: CVE-2019-11479
+          Severity: MEDIUM
+      FixedVersion: 0:4.3.4-20190620.3.el7_6

@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_dotnet:3.1
+        - cpe:/a:redhat:rhel_dotnet:3.1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-1721
+          Severity: HIGH
+      FixedVersion: 0:3.1.112-1.el7_9

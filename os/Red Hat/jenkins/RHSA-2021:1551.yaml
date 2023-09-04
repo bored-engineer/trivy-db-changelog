@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.7
+        - cpe:/a:redhat:openshift:4.7::el8
+      Cves:
+        - ID: CVE-2020-28362
+          Severity: MEDIUM
+        - ID: CVE-2021-21639
+          Severity: LOW
+        - ID: CVE-2021-21640
+          Severity: LOW
+        - ID: CVE-2021-28163
+          Severity: MEDIUM
+        - ID: CVE-2021-28165
+          Severity: MEDIUM
+        - ID: CVE-2021-3114
+          Severity: MEDIUM
+      FixedVersion: 0:2.277.3.1620393611-1.el8

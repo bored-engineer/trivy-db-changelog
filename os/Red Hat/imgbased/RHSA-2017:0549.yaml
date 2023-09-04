@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Cves:
+        - ID: CVE-2016-9577
+          Severity: MEDIUM
+        - ID: CVE-2016-9578
+          Severity: MEDIUM
+      FixedVersion: 0:0.8.16-0.1.el7ev

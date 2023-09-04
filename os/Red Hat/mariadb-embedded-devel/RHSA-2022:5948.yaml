@@ -1,0 +1,139 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_aus:9.2
+        - cpe:/a:redhat:rhel_aus:9.2::appstream
+        - cpe:/a:redhat:rhel_e4s:9.0
+        - cpe:/a:redhat:rhel_e4s:9.0::appstream
+        - cpe:/a:redhat:rhel_e4s:9.0::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.0::nfv
+        - cpe:/a:redhat:rhel_e4s:9.0::realtime
+        - cpe:/a:redhat:rhel_e4s:9.0::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.0::sap
+        - cpe:/a:redhat:rhel_e4s:9.0::sap_hana
+        - cpe:/a:redhat:rhel_e4s:9.2
+        - cpe:/a:redhat:rhel_e4s:9.2::appstream
+        - cpe:/a:redhat:rhel_e4s:9.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.2::sap
+        - cpe:/a:redhat:rhel_e4s:9.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.0
+        - cpe:/a:redhat:rhel_eus:9.0::appstream
+        - cpe:/a:redhat:rhel_eus:9.0::crb
+        - cpe:/a:redhat:rhel_eus:9.0::highavailability
+        - cpe:/a:redhat:rhel_eus:9.0::nfv
+        - cpe:/a:redhat:rhel_eus:9.0::realtime
+        - cpe:/a:redhat:rhel_eus:9.0::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.0::sap
+        - cpe:/a:redhat:rhel_eus:9.0::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.0::supplementary
+        - cpe:/a:redhat:rhel_eus:9.2
+        - cpe:/a:redhat:rhel_eus:9.2::appstream
+        - cpe:/a:redhat:rhel_eus:9.2::crb
+        - cpe:/a:redhat:rhel_eus:9.2::highavailability
+        - cpe:/a:redhat:rhel_eus:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.2::sap
+        - cpe:/a:redhat:rhel_eus:9.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.2::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/o:redhat:rhel_aus:9.2
+        - cpe:/o:redhat:rhel_aus:9.2::baseos
+        - cpe:/o:redhat:rhel_e4s:9.0
+        - cpe:/o:redhat:rhel_e4s:9.0::baseos
+        - cpe:/o:redhat:rhel_e4s:9.2
+        - cpe:/o:redhat:rhel_e4s:9.2::baseos
+        - cpe:/o:redhat:rhel_eus:9.0
+        - cpe:/o:redhat:rhel_eus:9.0::baseos
+        - cpe:/o:redhat:rhel_eus:9.2
+        - cpe:/o:redhat:rhel_eus:9.2::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-46659
+          Severity: LOW
+        - ID: CVE-2021-46661
+          Severity: LOW
+        - ID: CVE-2021-46663
+          Severity: LOW
+        - ID: CVE-2021-46664
+          Severity: LOW
+        - ID: CVE-2021-46665
+          Severity: LOW
+        - ID: CVE-2021-46668
+          Severity: LOW
+        - ID: CVE-2021-46669
+          Severity: MEDIUM
+        - ID: CVE-2022-21595
+          Severity: MEDIUM
+        - ID: CVE-2022-24048
+          Severity: MEDIUM
+        - ID: CVE-2022-24050
+          Severity: MEDIUM
+        - ID: CVE-2022-24051
+          Severity: MEDIUM
+        - ID: CVE-2022-24052
+          Severity: MEDIUM
+        - ID: CVE-2022-27376
+          Severity: MEDIUM
+        - ID: CVE-2022-27377
+          Severity: MEDIUM
+        - ID: CVE-2022-27378
+          Severity: MEDIUM
+        - ID: CVE-2022-27379
+          Severity: MEDIUM
+        - ID: CVE-2022-27380
+          Severity: MEDIUM
+        - ID: CVE-2022-27381
+          Severity: MEDIUM
+        - ID: CVE-2022-27382
+          Severity: MEDIUM
+        - ID: CVE-2022-27383
+          Severity: MEDIUM
+        - ID: CVE-2022-27384
+          Severity: MEDIUM
+        - ID: CVE-2022-27386
+          Severity: MEDIUM
+        - ID: CVE-2022-27387
+          Severity: MEDIUM
+        - ID: CVE-2022-27444
+          Severity: MEDIUM
+        - ID: CVE-2022-27445
+          Severity: MEDIUM
+        - ID: CVE-2022-27446
+          Severity: MEDIUM
+        - ID: CVE-2022-27447
+          Severity: MEDIUM
+        - ID: CVE-2022-27448
+          Severity: MEDIUM
+        - ID: CVE-2022-27449
+          Severity: MEDIUM
+        - ID: CVE-2022-27451
+          Severity: MEDIUM
+        - ID: CVE-2022-27452
+          Severity: MEDIUM
+        - ID: CVE-2022-27455
+          Severity: MEDIUM
+        - ID: CVE-2022-27456
+          Severity: MEDIUM
+        - ID: CVE-2022-27457
+          Severity: MEDIUM
+        - ID: CVE-2022-27458
+          Severity: MEDIUM
+        - ID: CVE-2022-31622
+          Severity: MEDIUM
+        - ID: CVE-2022-31623
+          Severity: MEDIUM
+      FixedVersion: 3:10.5.16-2.el9_0

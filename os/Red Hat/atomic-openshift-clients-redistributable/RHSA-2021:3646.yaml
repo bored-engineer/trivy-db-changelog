@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-25741
+          Severity: HIGH
+      FixedVersion: 0:3.11.524-1.git.0.2dffce7.el7

@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_dotnet:3.1
+        - cpe:/a:redhat:rhel_dotnet:3.1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-1108
+          Severity: HIGH
+        - ID: CVE-2020-1161
+          Severity: HIGH
+      FixedVersion: 0:3.1.4-2.el7

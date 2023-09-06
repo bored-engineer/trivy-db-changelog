@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.2
+        - cpe:/a:redhat:openshift:3.2::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-3703
+          Severity: MEDIUM
+        - ID: CVE-2016-3708
+          Severity: MEDIUM
+        - ID: CVE-2016-3738
+          Severity: HIGH
+      FixedVersion: 0:3.2.0.44-1.git.0.a4463d9.el7

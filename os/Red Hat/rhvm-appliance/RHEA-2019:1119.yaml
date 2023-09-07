@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-1000632
+          Severity: MEDIUM
+        - ID: CVE-2018-14642
+          Severity: MEDIUM
+      FixedVersion: 2:4.3-20190502.0.el7

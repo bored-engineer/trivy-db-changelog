@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.12
+        - cpe:/a:redhat:openshift:4.12::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-27664
+          Severity: MEDIUM
+      FixedVersion: 0:4.12.0-202308151125.p0.gf61957e.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.12
+        - cpe:/a:redhat:openshift:4.12::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-27664
+          Severity: MEDIUM
+      FixedVersion: 0:4.12.0-202308151125.p0.gf61957e.assembly.stream.el9

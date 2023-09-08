@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.2
+        - cpe:/a:redhat:openshift:3.2::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-8851
+          Severity: MEDIUM
+      FixedVersion: 0:3.2.1.1-1.git.0.96f9555.el7

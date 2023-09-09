@@ -1,0 +1,29 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7::server
+        - cpe:/o:redhat:rhel_e4s:7.7
+        - cpe:/o:redhat:rhel_e4s:7.7::server
+        - cpe:/o:redhat:rhel_eus:7.7
+        - cpe:/o:redhat:rhel_eus:7.7::computenode
+        - cpe:/o:redhat:rhel_eus:7.7::server
+        - cpe:/o:redhat:rhel_tus:7.7
+        - cpe:/o:redhat:rhel_tus:7.7::server
+      Cves:
+        - ID: CVE-2019-10146
+          Severity: LOW
+        - ID: CVE-2019-10179
+          Severity: LOW
+        - ID: CVE-2019-10221
+          Severity: LOW
+        - ID: CVE-2020-1721
+          Severity: LOW
+        - ID: CVE-2020-25715
+          Severity: MEDIUM
+        - ID: CVE-2021-20179
+          Severity: HIGH
+      FixedVersion: 0:10.5.16-7.el7_7

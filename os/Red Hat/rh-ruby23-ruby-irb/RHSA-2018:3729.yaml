@@ -1,0 +1,81 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Cves:
+        - ID: CVE-2017-17742
+          Severity: MEDIUM
+        - ID: CVE-2018-1000073
+          Severity: MEDIUM
+        - ID: CVE-2018-1000074
+          Severity: MEDIUM
+        - ID: CVE-2018-1000075
+          Severity: LOW
+        - ID: CVE-2018-1000076
+          Severity: MEDIUM
+        - ID: CVE-2018-1000077
+          Severity: MEDIUM
+        - ID: CVE-2018-1000078
+          Severity: MEDIUM
+        - ID: CVE-2018-1000079
+          Severity: MEDIUM
+        - ID: CVE-2018-16395
+          Severity: HIGH
+        - ID: CVE-2018-16396
+          Severity: MEDIUM
+        - ID: CVE-2018-6914
+          Severity: LOW
+        - ID: CVE-2018-8777
+          Severity: MEDIUM
+        - ID: CVE-2018-8778
+          Severity: MEDIUM
+        - ID: CVE-2018-8779
+          Severity: LOW
+        - ID: CVE-2018-8780
+          Severity: MEDIUM
+      FixedVersion: 0:2.3.8-69.el6
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Cves:
+        - ID: CVE-2017-17742
+          Severity: MEDIUM
+        - ID: CVE-2018-1000073
+          Severity: MEDIUM
+        - ID: CVE-2018-1000074
+          Severity: MEDIUM
+        - ID: CVE-2018-1000075
+          Severity: LOW
+        - ID: CVE-2018-1000076
+          Severity: MEDIUM
+        - ID: CVE-2018-1000077
+          Severity: MEDIUM
+        - ID: CVE-2018-1000078
+          Severity: MEDIUM
+        - ID: CVE-2018-1000079
+          Severity: MEDIUM
+        - ID: CVE-2018-16395
+          Severity: HIGH
+        - ID: CVE-2018-16396
+          Severity: MEDIUM
+        - ID: CVE-2018-6914
+          Severity: LOW
+        - ID: CVE-2018-8777
+          Severity: MEDIUM
+        - ID: CVE-2018-8778
+          Severity: MEDIUM
+        - ID: CVE-2018-8779
+          Severity: LOW
+        - ID: CVE-2018-8780
+          Severity: MEDIUM
+      FixedVersion: 0:2.3.8-69.el7

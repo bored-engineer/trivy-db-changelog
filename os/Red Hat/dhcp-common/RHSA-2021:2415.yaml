@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-25217
+          Severity: HIGH
+      FixedVersion: 12:4.2.5-47.el7_3.2

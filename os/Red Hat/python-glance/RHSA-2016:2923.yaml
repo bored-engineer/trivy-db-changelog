@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-director:9
+        - cpe:/a:redhat:openstack-director:9::el7
+        - cpe:/a:redhat:openstack-optools:9
+        - cpe:/a:redhat:openstack-optools:9::el7
+        - cpe:/a:redhat:openstack:9
+        - cpe:/a:redhat:openstack:9::el7
+      Cves:
+        - ID: CVE-2015-5162
+          Severity: MEDIUM
+      FixedVersion: 1:12.0.0-2.el7ost

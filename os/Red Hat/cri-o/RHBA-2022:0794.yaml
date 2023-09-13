@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.9
+        - cpe:/a:redhat:openshift:4.9::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-0532
+          Severity: MEDIUM
+      FixedVersion: 0:1.22.2-2.rhaos4.9.gitb030be8.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.9
+        - cpe:/a:redhat:openshift:4.9::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-0532
+          Severity: MEDIUM
+      FixedVersion: 0:1.22.2-2.rhaos4.9.gitb030be8.el8

@@ -1,0 +1,21 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:7.1
+        - cpe:/o:redhat:rhel_eus:7.1::computenode
+        - cpe:/o:redhat:rhel_eus:7.1::server
+      Arches:
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2013-7423
+          Severity: MEDIUM
+        - ID: CVE-2015-1472
+          Severity: LOW
+        - ID: CVE-2015-1473
+          Severity: LOW
+        - ID: CVE-2015-1781
+          Severity: MEDIUM
+        - ID: CVE-2015-5277
+          Severity: HIGH
+      FixedVersion: 0:2.17-79.el7_1

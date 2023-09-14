@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el6
+      Cves:
+        - ID: CVE-2016-9606
+          Severity: MEDIUM
+      FixedVersion: 0:1.0.38-3.Final_redhat_3.1.ep6.el6

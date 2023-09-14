@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16.2
+        - cpe:/a:redhat:openstack:16.2::el8
+      Cves:
+        - ID: CVE-2021-3281
+          Severity: MEDIUM
+        - ID: CVE-2021-33203
+          Severity: MEDIUM
+        - ID: CVE-2021-33571
+          Severity: MEDIUM
+      FixedVersion: 0:2.0.13-16.el8ost.1

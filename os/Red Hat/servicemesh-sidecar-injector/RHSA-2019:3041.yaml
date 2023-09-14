@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:service_mesh:1.0
+        - cpe:/a:redhat:service_mesh:1.0::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-9511
+          Severity: HIGH
+        - ID: CVE-2019-9513
+          Severity: HIGH
+      FixedVersion: 0:1.0.1-8.el8

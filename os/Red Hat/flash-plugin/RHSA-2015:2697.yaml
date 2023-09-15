@@ -1,0 +1,65 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+      Arches:
+        - i686
+      Cves:
+        - ID: CVE-2015-8459
+          Severity: CRITICAL
+        - ID: CVE-2015-8460
+          Severity: CRITICAL
+        - ID: CVE-2015-8634
+          Severity: CRITICAL
+        - ID: CVE-2015-8635
+          Severity: CRITICAL
+        - ID: CVE-2015-8636
+          Severity: CRITICAL
+        - ID: CVE-2015-8638
+          Severity: CRITICAL
+        - ID: CVE-2015-8639
+          Severity: CRITICAL
+        - ID: CVE-2015-8640
+          Severity: CRITICAL
+        - ID: CVE-2015-8641
+          Severity: CRITICAL
+        - ID: CVE-2015-8642
+          Severity: CRITICAL
+        - ID: CVE-2015-8643
+          Severity: CRITICAL
+        - ID: CVE-2015-8644
+          Severity: CRITICAL
+        - ID: CVE-2015-8645
+          Severity: CRITICAL
+        - ID: CVE-2015-8646
+          Severity: CRITICAL
+        - ID: CVE-2015-8647
+          Severity: CRITICAL
+        - ID: CVE-2015-8648
+          Severity: CRITICAL
+        - ID: CVE-2015-8649
+          Severity: CRITICAL
+        - ID: CVE-2015-8650
+          Severity: CRITICAL
+        - ID: CVE-2015-8651
+          Severity: CRITICAL
+        - ID: CVE-2016-0959
+          Severity: CRITICAL
+      FixedVersion: 0:11.2.202.559-1.el6_7

@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el7
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-9283
+          Severity: LOW
+      FixedVersion: 0:4.3.31-202007250052.p0.git.3329.59998b9.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-9283
+          Severity: LOW
+      FixedVersion: 0:4.3.31-202007250052.p0.git.3329.59998b9.el8

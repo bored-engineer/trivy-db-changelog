@@ -69,6 +69,10 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-30293
           Severity: MEDIUM
+        - ID: CVE-2022-32792
+          Severity: MEDIUM
+        - ID: CVE-2022-32816
+          Severity: MEDIUM
         - ID: CVE-2022-32891
           Severity: MEDIUM
       FixedVersion: 0:2.56.4-159.el8

@@ -1,0 +1,42 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - ppc
+        - ppc64
+        - s390
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2018-5150
+          Severity: CRITICAL
+        - ID: CVE-2018-5154
+          Severity: HIGH
+        - ID: CVE-2018-5155
+          Severity: HIGH
+        - ID: CVE-2018-5157
+          Severity: HIGH
+        - ID: CVE-2018-5158
+          Severity: HIGH
+        - ID: CVE-2018-5159
+          Severity: HIGH
+        - ID: CVE-2018-5168
+          Severity: MEDIUM
+        - ID: CVE-2018-5178
+          Severity: MEDIUM
+        - ID: CVE-2018-5183
+          Severity: CRITICAL
+      FixedVersion: 0:52.8.0-1.el6_9

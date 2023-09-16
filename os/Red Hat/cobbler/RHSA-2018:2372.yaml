@@ -1,0 +1,5 @@
+Entries:
+    - Cves:
+        - ID: CVE-2018-10931
+          Severity: CRITICAL
+      FixedVersion: 0:2.0.7-73.el6sat

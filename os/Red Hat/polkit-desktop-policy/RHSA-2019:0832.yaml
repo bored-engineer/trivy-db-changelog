@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+      Cves:
+        - ID: CVE-2019-6133
+          Severity: HIGH
+      FixedVersion: 0:0.96-7.el6_6.1

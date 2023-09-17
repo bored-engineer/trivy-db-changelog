@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:storage:3.5
+        - cpe:/a:redhat:storage:3.5:nfs:el8
+        - cpe:/a:redhat:storage:3.5:samba:el8
+        - cpe:/a:redhat:storage:3.5:server:el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-20254
+          Severity: MEDIUM
+      FixedVersion: 0:4.14.5-201.el8rhgs

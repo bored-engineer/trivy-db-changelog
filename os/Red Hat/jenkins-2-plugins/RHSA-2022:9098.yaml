@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.10
+        - cpe:/a:redhat:openshift:4.10::el8
+      Cves:
+        - ID: CVE-2022-29599
+          Severity: HIGH
+      FixedVersion: 0:4.10.1670851835-1.el8

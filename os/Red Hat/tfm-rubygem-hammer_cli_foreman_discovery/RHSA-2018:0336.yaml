@@ -1,0 +1,52 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:satellite:6.3
+        - cpe:/a:redhat:satellite:6.3::el7
+        - cpe:/a:redhat:satellite_capsule:6.3
+        - cpe:/a:redhat:satellite_capsule:6.3::el7
+      Cves:
+        - ID: CVE-2013-6459
+          Severity: MEDIUM
+        - ID: CVE-2014-8183
+          Severity: MEDIUM
+        - ID: CVE-2016-1669
+          Severity: HIGH
+        - ID: CVE-2016-3693
+          Severity: MEDIUM
+        - ID: CVE-2016-3696
+          Severity: LOW
+        - ID: CVE-2016-3704
+          Severity: MEDIUM
+        - ID: CVE-2016-4451
+          Severity: MEDIUM
+        - ID: CVE-2016-4995
+          Severity: LOW
+        - ID: CVE-2016-4996
+          Severity: MEDIUM
+        - ID: CVE-2016-6319
+          Severity: MEDIUM
+        - ID: CVE-2016-7077
+          Severity: LOW
+        - ID: CVE-2016-7078
+          Severity: LOW
+        - ID: CVE-2016-8613
+          Severity: MEDIUM
+        - ID: CVE-2016-8634
+          Severity: MEDIUM
+        - ID: CVE-2016-8639
+          Severity: MEDIUM
+        - ID: CVE-2016-9593
+          Severity: LOW
+        - ID: CVE-2016-9595
+          Severity: MEDIUM
+        - ID: CVE-2017-15699
+          Severity: MEDIUM
+        - ID: CVE-2017-2295
+          Severity: HIGH
+        - ID: CVE-2017-2667
+          Severity: MEDIUM
+        - ID: CVE-2017-2672
+          Severity: MEDIUM
+        - ID: CVE-2018-14623
+          Severity: LOW
+      FixedVersion: 0:1.0.0-1.el7sat

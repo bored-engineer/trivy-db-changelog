@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2019-11840
+          Severity: MEDIUM
+        - ID: CVE-2020-26137
+          Severity: MEDIUM
+        - ID: CVE-2020-8554
+          Severity: MEDIUM
+      FixedVersion: 0:1.26.2-1.el7

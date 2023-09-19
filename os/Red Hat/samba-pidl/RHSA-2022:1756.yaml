@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:storage:3.5
+        - cpe:/a:redhat:storage:3.5:nfs:el8
+        - cpe:/a:redhat:storage:3.5:samba:el8
+        - cpe:/a:redhat:storage:3.5:server:el8
+      Cves:
+        - ID: CVE-2021-20316
+          Severity: MEDIUM
+        - ID: CVE-2021-44141
+          Severity: MEDIUM
+      FixedVersion: 0:4.15.5-100.el8rhgs

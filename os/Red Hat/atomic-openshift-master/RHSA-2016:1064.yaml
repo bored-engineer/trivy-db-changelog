@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.2
+        - cpe:/a:redhat:openshift:3.2::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-2149
+          Severity: LOW
+        - ID: CVE-2016-2160
+          Severity: HIGH
+        - ID: CVE-2016-3711
+          Severity: LOW
+      FixedVersion: 0:3.2.0.20-1.git.0.f44746c.el7

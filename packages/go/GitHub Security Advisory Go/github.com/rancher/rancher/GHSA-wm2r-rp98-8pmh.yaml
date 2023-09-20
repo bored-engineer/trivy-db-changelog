@@ -2,5 +2,5 @@ PatchedVersions:
     - 2.5.13
     - 2.6.4
 VulnerableVersions:
-    - '>=0, <2.5.13'
+    - <2.5.13
     - '>=2.6.0, <2.6.4'

@@ -1,4 +1,4 @@
 PatchedVersions:
     - 5.6.0
 VulnerableVersions:
-    - '>=0, <5.6.0'
+    - <5.6.0

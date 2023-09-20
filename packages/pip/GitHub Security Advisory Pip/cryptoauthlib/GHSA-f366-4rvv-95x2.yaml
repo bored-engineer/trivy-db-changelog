@@ -1,4 +1,4 @@
 PatchedVersions:
     - "20200912"
 VulnerableVersions:
-    - '>=0, <20200912'
+    - <20200912

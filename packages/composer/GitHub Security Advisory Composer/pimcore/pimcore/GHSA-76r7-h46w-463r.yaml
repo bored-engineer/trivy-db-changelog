@@ -1,4 +1,4 @@
 PatchedVersions:
     - 10.5.17
 VulnerableVersions:
-    - '>=0, <10.5.17'
+    - <10.5.17

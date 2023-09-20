@@ -2,3 +2,4 @@ PatchedVersions:
     - 0.0.13
 VulnerableVersions:
     - '>=0.0.14, <0.0.13'
+    - =0.0.14

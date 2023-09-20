@@ -1,4 +1,4 @@
 PatchedVersions:
     - 21.11.29.1
 VulnerableVersions:
-    - '>=0, <21.11.29.1'
+    - <21.11.29.1

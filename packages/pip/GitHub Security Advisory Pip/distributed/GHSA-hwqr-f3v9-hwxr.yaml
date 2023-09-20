@@ -1,4 +1,4 @@
 PatchedVersions:
     - 2021.10.0
 VulnerableVersions:
-    - '>=0, <2021.10.0'
+    - <2021.10.0

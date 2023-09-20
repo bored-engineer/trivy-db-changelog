@@ -1,4 +1,4 @@
 PatchedVersions:
     - 1.6.8
 VulnerableVersions:
-    - '>=0, <1.6.8'
+    - <1.6.8

@@ -2,5 +2,5 @@ PatchedVersions:
     - "9.10"
     - "10.6"
 VulnerableVersions:
-    - '>=0, <9.10'
+    - <9.10
     - '>=10.0, <10.6'

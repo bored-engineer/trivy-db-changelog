@@ -1,0 +1,44 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-33193
+          Severity: MEDIUM
+        - ID: CVE-2021-34798
+          Severity: MEDIUM
+        - ID: CVE-2021-36160
+          Severity: MEDIUM
+        - ID: CVE-2021-39275
+          Severity: MEDIUM
+        - ID: CVE-2021-44224
+          Severity: MEDIUM
+        - ID: CVE-2022-22719
+          Severity: MEDIUM
+        - ID: CVE-2022-22721
+          Severity: MEDIUM
+        - ID: CVE-2022-23943
+          Severity: MEDIUM
+        - ID: CVE-2022-26377
+          Severity: MEDIUM
+        - ID: CVE-2022-28614
+          Severity: LOW
+        - ID: CVE-2022-28615
+          Severity: LOW
+        - ID: CVE-2022-29404
+          Severity: MEDIUM
+        - ID: CVE-2022-30522
+          Severity: MEDIUM
+        - ID: CVE-2022-30556
+          Severity: LOW
+        - ID: CVE-2022-31813
+          Severity: MEDIUM
+      FixedVersion: 1:2.4.34-23.el7.5

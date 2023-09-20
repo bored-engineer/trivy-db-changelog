@@ -1,0 +1,77 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.8
+        - cpe:/a:redhat:openshift:4.8::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-0811
+          Severity: HIGH
+        - ID: CVE-2022-25173
+          Severity: HIGH
+        - ID: CVE-2022-25174
+          Severity: HIGH
+        - ID: CVE-2022-25175
+          Severity: HIGH
+        - ID: CVE-2022-25176
+          Severity: MEDIUM
+        - ID: CVE-2022-25177
+          Severity: MEDIUM
+        - ID: CVE-2022-25178
+          Severity: MEDIUM
+        - ID: CVE-2022-25179
+          Severity: MEDIUM
+        - ID: CVE-2022-25180
+          Severity: MEDIUM
+        - ID: CVE-2022-25181
+          Severity: HIGH
+        - ID: CVE-2022-25182
+          Severity: HIGH
+        - ID: CVE-2022-25183
+          Severity: HIGH
+        - ID: CVE-2022-25184
+          Severity: MEDIUM
+        - ID: CVE-2022-29036
+          Severity: HIGH
+        - ID: CVE-2022-29046
+          Severity: HIGH
+      FixedVersion: 0:1.21.5-3.rhaos4.8.gitaf64931.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.8
+        - cpe:/a:redhat:openshift:4.8::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-0811
+          Severity: HIGH
+        - ID: CVE-2022-25173
+          Severity: HIGH
+        - ID: CVE-2022-25174
+          Severity: HIGH
+        - ID: CVE-2022-25175
+          Severity: HIGH
+        - ID: CVE-2022-25176
+          Severity: MEDIUM
+        - ID: CVE-2022-25177
+          Severity: MEDIUM
+        - ID: CVE-2022-25178
+          Severity: MEDIUM
+        - ID: CVE-2022-25179
+          Severity: MEDIUM
+        - ID: CVE-2022-25180
+          Severity: MEDIUM
+        - ID: CVE-2022-25181
+          Severity: HIGH
+        - ID: CVE-2022-25182
+          Severity: HIGH
+        - ID: CVE-2022-25183
+          Severity: HIGH
+        - ID: CVE-2022-25184
+          Severity: MEDIUM
+        - ID: CVE-2022-29036
+          Severity: HIGH
+        - ID: CVE-2022-29046
+          Severity: HIGH
+      FixedVersion: 0:1.21.5-3.rhaos4.8.gitaf64931.el8

@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.7
+        - cpe:/o:redhat:rhel_e4s:7.7
+        - cpe:/o:redhat:rhel_e4s:7.7::server
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2021-0920
+          Severity: HIGH
+        - ID: CVE-2021-4028
+          Severity: HIGH
+        - ID: CVE-2021-4083
+          Severity: HIGH
+        - ID: CVE-2022-22942
+          Severity: HIGH

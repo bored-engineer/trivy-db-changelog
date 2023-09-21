@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-10130
+          Severity: LOW
+        - ID: CVE-2019-10164
+          Severity: MEDIUM
+        - ID: CVE-2019-10208
+          Severity: MEDIUM
+        - ID: CVE-2020-1720
+          Severity: LOW
+      FixedVersion: 0:10.12-2.el7

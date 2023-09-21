@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 1.2.3-0.20210314221642-a826c77dc9d2
+VulnerableVersions:
+    - <1.2.3-0.20210314221642-a826c77dc9d2

@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Cves:
+        - ID: CVE-2022-25881
+          Severity: MEDIUM
+        - ID: CVE-2022-38900
+          Severity: HIGH
+        - ID: CVE-2022-4904
+          Severity: MEDIUM
+        - ID: CVE-2023-23918
+          Severity: MEDIUM
+        - ID: CVE-2023-23920
+          Severity: LOW
+      FixedVersion: 0:14.21.3-2.el7

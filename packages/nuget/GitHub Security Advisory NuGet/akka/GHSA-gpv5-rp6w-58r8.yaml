@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 1.4.46
+    - 1.5.0-alpha3
+VulnerableVersions:
+    - <1.4.46
+    - '>=1.5.0-alpha1, <1.5.0-alpha3'

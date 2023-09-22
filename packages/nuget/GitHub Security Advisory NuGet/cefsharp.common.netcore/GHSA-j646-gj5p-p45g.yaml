@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 116.0.230
+VulnerableVersions:
+    - <116.0.230

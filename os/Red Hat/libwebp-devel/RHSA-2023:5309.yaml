@@ -49,4 +49,5 @@ Entries:
       Cves:
         - ID: CVE-2023-4863
           Severity: HIGH
+        - ID: CVE-2023-5129
       FixedVersion: 0:1.0.0-8.el8_8.1

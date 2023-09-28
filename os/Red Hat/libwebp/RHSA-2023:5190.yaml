@@ -17,6 +17,7 @@ Entries:
       Cves:
         - ID: CVE-2023-4863
           Severity: HIGH
+        - ID: CVE-2023-5129
       FixedVersion: 0:1.0.0-7.el8_2.1
     - Affected:
         - cpe:/a:redhat:rhel_e4s:8.2
@@ -33,4 +34,5 @@ Entries:
       Cves:
         - ID: CVE-2023-4863
           Severity: HIGH
+        - ID: CVE-2023-5129
       FixedVersion: 0:1.0.0-7.el8_2.1

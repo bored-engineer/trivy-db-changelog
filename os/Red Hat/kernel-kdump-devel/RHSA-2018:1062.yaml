@@ -1,0 +1,113 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.6
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.5
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.6
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.6
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.5
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.6
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+        - cpe:/o:redhat:rhel_aus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6::server
+        - cpe:/o:redhat:rhel_aus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7::server
+        - cpe:/o:redhat:rhel_e4s:7.6
+        - cpe:/o:redhat:rhel_e4s:7.6::server
+        - cpe:/o:redhat:rhel_e4s:7.7
+        - cpe:/o:redhat:rhel_e4s:7.7::server
+        - cpe:/o:redhat:rhel_eus:7.5
+        - cpe:/o:redhat:rhel_eus:7.5::computenode
+        - cpe:/o:redhat:rhel_eus:7.5::server
+        - cpe:/o:redhat:rhel_eus:7.6
+        - cpe:/o:redhat:rhel_eus:7.6::computenode
+        - cpe:/o:redhat:rhel_eus:7.6::server
+        - cpe:/o:redhat:rhel_eus:7.7
+        - cpe:/o:redhat:rhel_eus:7.7::computenode
+        - cpe:/o:redhat:rhel_eus:7.7::server
+        - cpe:/o:redhat:rhel_tus:7.6
+        - cpe:/o:redhat:rhel_tus:7.6::server
+        - cpe:/o:redhat:rhel_tus:7.7
+        - cpe:/o:redhat:rhel_tus:7.7::server
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2016-3672
+          Severity: LOW
+        - ID: CVE-2016-7913
+          Severity: MEDIUM
+        - ID: CVE-2016-8633
+          Severity: HIGH
+        - ID: CVE-2017-1000252
+          Severity: MEDIUM
+        - ID: CVE-2017-1000407
+          Severity: MEDIUM
+        - ID: CVE-2017-1000410
+          Severity: MEDIUM
+        - ID: CVE-2017-12154
+          Severity: HIGH
+        - ID: CVE-2017-12190
+          Severity: MEDIUM
+        - ID: CVE-2017-13166
+          Severity: HIGH
+        - ID: CVE-2017-13305
+          Severity: MEDIUM
+        - ID: CVE-2017-14140
+          Severity: LOW
+        - ID: CVE-2017-15116
+          Severity: LOW
+        - ID: CVE-2017-15121
+          Severity: MEDIUM
+        - ID: CVE-2017-15126
+          Severity: MEDIUM
+        - ID: CVE-2017-15127
+          Severity: LOW
+        - ID: CVE-2017-15129
+          Severity: MEDIUM
+        - ID: CVE-2017-15265
+          Severity: MEDIUM
+        - ID: CVE-2017-15274
+          Severity: MEDIUM
+        - ID: CVE-2017-17448
+          Severity: MEDIUM
+        - ID: CVE-2017-17449
+          Severity: MEDIUM
+        - ID: CVE-2017-17558
+          Severity: MEDIUM
+        - ID: CVE-2017-18017
+          Severity: MEDIUM
+        - ID: CVE-2017-18203
+          Severity: MEDIUM
+        - ID: CVE-2017-18270
+          Severity: MEDIUM
+        - ID: CVE-2017-5715
+          Severity: HIGH
+        - ID: CVE-2017-5754
+          Severity: HIGH
+        - ID: CVE-2017-7294
+          Severity: MEDIUM
+        - ID: CVE-2017-8824
+          Severity: HIGH
+        - ID: CVE-2017-9725
+          Severity: MEDIUM
+        - ID: CVE-2018-1000004
+          Severity: MEDIUM
+        - ID: CVE-2018-1066
+          Severity: MEDIUM
+        - ID: CVE-2018-5750
+          Severity: MEDIUM
+        - ID: CVE-2018-6927
+          Severity: LOW
+      FixedVersion: 0:3.10.0-862.el7

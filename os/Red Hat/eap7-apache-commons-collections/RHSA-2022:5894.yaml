@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el9
+      Cves:
+        - ID: CVE-2021-44906
+          Severity: MEDIUM
+        - ID: CVE-2022-24823
+          Severity: MEDIUM
+        - ID: CVE-2022-25647
+          Severity: MEDIUM
+      FixedVersion: 0:3.2.2-9.redhat_2.1.el9eap

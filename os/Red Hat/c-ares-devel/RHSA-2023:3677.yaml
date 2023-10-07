@@ -28,10 +28,8 @@ Entries:
         - cpe:/o:redhat:rhel_e4s:8.4
         - cpe:/o:redhat:rhel_e4s:8.4::baseos
       Arches:
-        - aarch64
         - i686
         - ppc64le
-        - s390x
         - x86_64
       Cves:
         - ID: CVE-2023-32067

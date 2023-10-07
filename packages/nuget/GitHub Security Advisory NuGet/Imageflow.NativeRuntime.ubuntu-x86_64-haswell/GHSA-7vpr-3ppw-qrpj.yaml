@@ -1,4 +1,4 @@
 PatchedVersions:
-    - 2.0.0-preview8
+    - 2.0.0-preview6
 VulnerableVersions:
-    - <2.0.0-preview8
+    - <2.0.0-preview6

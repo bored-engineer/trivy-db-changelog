@@ -1,0 +1,17 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.4
+        - cpe:/a:redhat:openshift:3.4::el7
+      Cves:
+        - ID: CVE-2017-12195
+          Severity: MEDIUM
+      FixedVersion: 0:2.4.1.11__redhat_1-3.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:3.5
+        - cpe:/a:redhat:openshift:3.5::el7
+        - cpe:/a:redhat:openshift:3.6
+        - cpe:/a:redhat:openshift:3.6::el7
+      Cves:
+        - ID: CVE-2017-12195
+          Severity: MEDIUM
+      FixedVersion: 0:2.4.4.17__redhat_1-3.el7

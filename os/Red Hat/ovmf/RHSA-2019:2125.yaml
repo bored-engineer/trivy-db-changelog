@@ -1,0 +1,47 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.7
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+        - cpe:/o:redhat:rhel_aus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7::server
+        - cpe:/o:redhat:rhel_e4s:7.7
+        - cpe:/o:redhat:rhel_e4s:7.7::server
+        - cpe:/o:redhat:rhel_eus:7.7
+        - cpe:/o:redhat:rhel_eus:7.7::computenode
+        - cpe:/o:redhat:rhel_eus:7.7::server
+        - cpe:/o:redhat:rhel_tus:7.7
+        - cpe:/o:redhat:rhel_tus:7.7::server
+      Cves:
+        - ID: CVE-2017-5731
+          Severity: MEDIUM
+        - ID: CVE-2017-5732
+          Severity: MEDIUM
+        - ID: CVE-2017-5733
+          Severity: MEDIUM
+        - ID: CVE-2017-5734
+          Severity: MEDIUM
+        - ID: CVE-2017-5735
+          Severity: MEDIUM
+        - ID: CVE-2018-12181
+          Severity: MEDIUM
+        - ID: CVE-2018-3613
+          Severity: MEDIUM
+        - ID: CVE-2018-5407
+          Severity: MEDIUM
+        - ID: CVE-2019-0160
+          Severity: MEDIUM
+        - ID: CVE-2019-0161
+          Severity: MEDIUM
+      FixedVersion: 0:20180508-6.gitee3198e672e2.el7

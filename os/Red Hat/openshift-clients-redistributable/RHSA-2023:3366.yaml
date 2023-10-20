@@ -1,0 +1,31 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.13
+        - cpe:/a:redhat:openshift:4.13::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-27191
+          Severity: MEDIUM
+        - ID: CVE-2022-41722
+          Severity: MEDIUM
+        - ID: CVE-2022-41724
+          Severity: MEDIUM
+        - ID: CVE-2023-24540
+          Severity: HIGH
+      FixedVersion: 0:4.13.0-202305291355.p0.g1024efc.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.13
+        - cpe:/a:redhat:openshift:4.13::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-27191
+          Severity: MEDIUM
+        - ID: CVE-2022-41722
+          Severity: MEDIUM
+        - ID: CVE-2022-41724
+          Severity: MEDIUM
+        - ID: CVE-2023-24540
+          Severity: HIGH
+      FixedVersion: 0:4.13.0-202305291355.p0.g1024efc.assembly.stream.el9

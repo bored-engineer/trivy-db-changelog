@@ -22,4 +22,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-21166
           Severity: MEDIUM
+        - ID: CVE-2022-21233
+          Severity: MEDIUM
       FixedVersion: 0:3.10.0-1160.76.1.el7

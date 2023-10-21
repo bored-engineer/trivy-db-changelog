@@ -41,6 +41,8 @@ Entries:
         - cpe:/o:redhat:rhel_tus:8.8
         - cpe:/o:redhat:rhel_tus:8.8::baseos
       Cves:
+        - ID: CVE-2022-41723
+          Severity: MEDIUM
         - ID: CVE-2022-41724
           Severity: MEDIUM
         - ID: CVE-2022-41725

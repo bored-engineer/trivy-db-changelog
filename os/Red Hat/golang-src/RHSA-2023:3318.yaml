@@ -35,6 +35,18 @@ Entries:
         - cpe:/o:redhat:rhel_eus:9.2
         - cpe:/o:redhat:rhel_eus:9.2::baseos
       Cves:
+        - ID: CVE-2023-24534
+          Severity: MEDIUM
+        - ID: CVE-2023-24536
+          Severity: MEDIUM
+        - ID: CVE-2023-24537
+          Severity: MEDIUM
+        - ID: CVE-2023-24538
+          Severity: MEDIUM
+        - ID: CVE-2023-24539
+          Severity: MEDIUM
         - ID: CVE-2023-24540
           Severity: HIGH
+        - ID: CVE-2023-29400
+          Severity: MEDIUM
       FixedVersion: 0:1.19.9-2.el9_2

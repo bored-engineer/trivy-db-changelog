@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:a_mq_clients:2
+        - cpe:/a:redhat:a_mq_clients:2.9
+        - cpe:/a:redhat:a_mq_clients:2.9::el8
+        - cpe:/a:redhat:a_mq_clients:2::el8
+      Cves:
+        - ID: CVE-2020-11113
+          Severity: MEDIUM
+        - ID: CVE-2020-14297
+          Severity: MEDIUM
+        - ID: CVE-2020-14307
+          Severity: LOW
+        - ID: CVE-2020-9488
+          Severity: LOW
+      FixedVersion: 0:1.0.24-1.el8

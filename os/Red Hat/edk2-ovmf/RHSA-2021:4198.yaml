@@ -68,8 +68,12 @@ Entries:
         - cpe:/o:redhat:rhel_tus:8.8
         - cpe:/o:redhat:rhel_tus:8.8::baseos
       Cves:
+        - ID: CVE-2019-14584
+          Severity: MEDIUM
         - ID: CVE-2021-23840
           Severity: MEDIUM
         - ID: CVE-2021-23841
+          Severity: MEDIUM
+        - ID: CVE-2021-28210
           Severity: MEDIUM
       FixedVersion: 0:20210527gite1999b264f1f-3.el8

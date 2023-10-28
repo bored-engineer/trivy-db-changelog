@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-11244
+          Severity: LOW
+      FixedVersion: 0:3.11.161-1.git.0.4ccbe25.el7

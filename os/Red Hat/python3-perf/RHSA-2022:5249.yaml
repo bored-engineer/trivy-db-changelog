@@ -63,7 +63,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2022-1012
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2022-1729
           Severity: HIGH
         - ID: CVE-2022-1966

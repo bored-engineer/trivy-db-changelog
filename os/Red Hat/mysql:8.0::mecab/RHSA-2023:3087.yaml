@@ -118,6 +118,16 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-21912
           Severity: HIGH
+        - ID: CVE-2023-21913
+          Severity: MEDIUM
         - ID: CVE-2023-21917
+          Severity: MEDIUM
+        - ID: CVE-2023-21963
+          Severity: LOW
+        - ID: CVE-2023-22015
+          Severity: MEDIUM
+        - ID: CVE-2023-22026
+          Severity: MEDIUM
+        - ID: CVE-2023-22028
           Severity: MEDIUM
       FixedVersion: 0:0.996-2.module+el8.8.0+18436+8918dd75

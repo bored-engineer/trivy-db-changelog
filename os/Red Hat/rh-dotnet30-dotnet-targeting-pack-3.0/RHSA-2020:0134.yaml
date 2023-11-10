@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_dotnet:3.0
+        - cpe:/a:redhat:rhel_dotnet:3.0::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-0602
+          Severity: HIGH
+        - ID: CVE-2020-0603
+          Severity: CRITICAL
+      FixedVersion: 0:3.0.2-3.el7

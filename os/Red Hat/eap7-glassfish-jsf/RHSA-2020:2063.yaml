@@ -27,16 +27,3 @@ Entries:
         - ID: CVE-2019-10174
           Severity: HIGH
       FixedVersion: 0:2.3.5-11.SP3_redhat_00009.1.el7eap
-    - Affected:
-        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2
-        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2::el8
-        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3
-        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el8
-        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
-        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el8
-      Cves:
-        - ID: CVE-2018-14371
-          Severity: MEDIUM
-        - ID: CVE-2019-10174
-          Severity: HIGH
-      FixedVersion: 0:2.3.5-11.SP3_redhat_00009.1.el8eap

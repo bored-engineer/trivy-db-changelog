@@ -1,0 +1,37 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.9
+        - cpe:/a:redhat:openshift:4.9::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-0711
+          Severity: HIGH
+        - ID: CVE-2022-25173
+          Severity: HIGH
+        - ID: CVE-2022-25174
+          Severity: HIGH
+        - ID: CVE-2022-25175
+          Severity: HIGH
+        - ID: CVE-2022-25176
+          Severity: MEDIUM
+        - ID: CVE-2022-25177
+          Severity: MEDIUM
+        - ID: CVE-2022-25178
+          Severity: MEDIUM
+        - ID: CVE-2022-25179
+          Severity: MEDIUM
+        - ID: CVE-2022-25180
+          Severity: MEDIUM
+        - ID: CVE-2022-25181
+          Severity: HIGH
+        - ID: CVE-2022-25182
+          Severity: HIGH
+        - ID: CVE-2022-25183
+          Severity: HIGH
+        - ID: CVE-2022-25184
+          Severity: MEDIUM
+      FixedVersion: 0:2.2.15-4.el8

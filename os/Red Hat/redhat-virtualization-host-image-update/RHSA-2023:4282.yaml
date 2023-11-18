@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::hypervisor
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-24329
+          Severity: HIGH
+      FixedVersion: 0:4.5.3-202307191258_8.6

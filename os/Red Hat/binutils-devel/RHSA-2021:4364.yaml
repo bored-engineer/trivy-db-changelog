@@ -82,5 +82,4 @@ Entries:
         - ID: CVE-2021-20284
           Severity: LOW
         - ID: CVE-2021-3487
-          Severity: MEDIUM
       FixedVersion: 0:2.30-108.el8

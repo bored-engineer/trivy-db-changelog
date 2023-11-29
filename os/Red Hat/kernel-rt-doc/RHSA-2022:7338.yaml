@@ -1,0 +1,28 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+      Cves:
+        - ID: CVE-2022-23816
+          Severity: MEDIUM
+        - ID: CVE-2022-23825
+          Severity: MEDIUM
+        - ID: CVE-2022-2588
+          Severity: HIGH
+        - ID: CVE-2022-26373
+          Severity: MEDIUM
+        - ID: CVE-2022-28693
+          Severity: MEDIUM
+        - ID: CVE-2022-29900
+          Severity: MEDIUM
+        - ID: CVE-2022-29901
+          Severity: MEDIUM
+      FixedVersion: 0:3.10.0-1160.80.1.rt56.1225.el7

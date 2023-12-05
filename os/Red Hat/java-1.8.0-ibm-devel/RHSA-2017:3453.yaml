@@ -1,0 +1,90 @@
+Entries:
+    - Arches:
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2016-10165
+          Severity: MEDIUM
+        - ID: CVE-2016-9840
+          Severity: LOW
+        - ID: CVE-2016-9841
+          Severity: LOW
+        - ID: CVE-2016-9842
+          Severity: LOW
+        - ID: CVE-2016-9843
+          Severity: LOW
+        - ID: CVE-2017-10053
+          Severity: LOW
+        - ID: CVE-2017-10067
+          Severity: HIGH
+        - ID: CVE-2017-10078
+          Severity: HIGH
+        - ID: CVE-2017-10087
+          Severity: CRITICAL
+        - ID: CVE-2017-10089
+          Severity: CRITICAL
+        - ID: CVE-2017-10090
+          Severity: CRITICAL
+        - ID: CVE-2017-10096
+          Severity: CRITICAL
+        - ID: CVE-2017-10101
+          Severity: CRITICAL
+        - ID: CVE-2017-10102
+          Severity: CRITICAL
+        - ID: CVE-2017-10105
+          Severity: MEDIUM
+        - ID: CVE-2017-10107
+          Severity: CRITICAL
+        - ID: CVE-2017-10108
+          Severity: MEDIUM
+        - ID: CVE-2017-10109
+          Severity: MEDIUM
+        - ID: CVE-2017-10110
+          Severity: CRITICAL
+        - ID: CVE-2017-10115
+          Severity: MEDIUM
+        - ID: CVE-2017-10116
+          Severity: HIGH
+        - ID: CVE-2017-10243
+          Severity: MEDIUM
+        - ID: CVE-2017-10281
+          Severity: MEDIUM
+        - ID: CVE-2017-10285
+          Severity: CRITICAL
+        - ID: CVE-2017-10295
+          Severity: MEDIUM
+        - ID: CVE-2017-10309
+          Severity: HIGH
+        - ID: CVE-2017-10345
+          Severity: LOW
+        - ID: CVE-2017-10346
+          Severity: CRITICAL
+        - ID: CVE-2017-10347
+          Severity: MEDIUM
+        - ID: CVE-2017-10348
+          Severity: MEDIUM
+        - ID: CVE-2017-10349
+          Severity: MEDIUM
+        - ID: CVE-2017-10350
+          Severity: MEDIUM
+        - ID: CVE-2017-10355
+          Severity: MEDIUM
+        - ID: CVE-2017-10356
+          Severity: MEDIUM
+        - ID: CVE-2017-10357
+          Severity: MEDIUM
+        - ID: CVE-2017-10388
+          Severity: HIGH
+        - ID: CVE-2017-1289
+          Severity: MEDIUM
+        - ID: CVE-2017-3509
+          Severity: MEDIUM
+        - ID: CVE-2017-3511
+          Severity: MEDIUM
+        - ID: CVE-2017-3533
+          Severity: LOW
+        - ID: CVE-2017-3539
+          Severity: MEDIUM
+        - ID: CVE-2017-3544
+          Severity: LOW
+      FixedVersion: 1:1.8.0.5.5-1jpp.1.el6_9

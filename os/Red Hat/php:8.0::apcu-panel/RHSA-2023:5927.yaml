@@ -50,7 +50,7 @@ Entries:
         - ID: CVE-2023-3247
           Severity: MEDIUM
         - ID: CVE-2023-3823
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2023-3824
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:5.1.20-1.module+el8.6.0+13671+84712317

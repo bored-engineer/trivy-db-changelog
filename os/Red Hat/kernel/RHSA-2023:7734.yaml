@@ -12,6 +12,11 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:9::supplementary
         - cpe:/o:redhat:enterprise_linux:9
         - cpe:/o:redhat:enterprise_linux:9::baseos
+      Arches:
+        - ppc64le
+        - x86_64
       Cves:
-        - Severity: MEDIUM
-      Status: affected
+        - ID: CVE-2023-45871
+          Severity: HIGH
+        - ID: CVE-2023-5345
+          Severity: HIGH

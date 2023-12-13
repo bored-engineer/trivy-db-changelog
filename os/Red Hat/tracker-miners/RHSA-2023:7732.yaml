@@ -12,6 +12,13 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:8::supplementary
         - cpe:/o:redhat:enterprise_linux:8
         - cpe:/o:redhat:enterprise_linux:8::baseos
+      Arches:
+        - aarch64
+        - i686
+        - ppc64le
+        - s390x
+        - x86_64
       Cves:
-        - Severity: HIGH
-      Status: affected
+        - ID: CVE-2023-5557
+          Severity: HIGH
+      FixedVersion: 0:2.1.5-2.el8_9.1

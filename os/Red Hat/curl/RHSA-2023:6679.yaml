@@ -25,5 +25,5 @@ Entries:
         - ID: CVE-2023-27536
           Severity: MEDIUM
         - ID: CVE-2023-27538
-          Severity: LOW
+          Severity: MEDIUM
       FixedVersion: 0:7.76.1-26.el9

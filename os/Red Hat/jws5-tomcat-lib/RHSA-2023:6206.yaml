@@ -41,3 +41,14 @@ Entries:
         - ID: CVE-2023-45648
           Severity: MEDIUM
       FixedVersion: 0:9.0.62-18.redhat_00016.1.el8jws
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.6
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.6::el9
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.7::el9
+      Cves:
+        - ID: CVE-2023-42795
+          Severity: MEDIUM
+        - ID: CVE-2023-45648
+          Severity: MEDIUM
+      FixedVersion: 0:9.0.62-18.redhat_00016.1.el9jws

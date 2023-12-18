@@ -23,3 +23,10 @@ Entries:
         - ID: CVE-2022-46364
           Severity: HIGH
       FixedVersion: 0:3.4.10-1.redhat_00001.1.el8eap
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el9
+      Cves:
+        - ID: CVE-2022-46364
+          Severity: HIGH
+      FixedVersion: 0:3.4.10-1.redhat_00001.1.el9eap

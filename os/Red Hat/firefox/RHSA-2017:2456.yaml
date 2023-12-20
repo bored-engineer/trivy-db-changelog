@@ -1,0 +1,54 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - ppc
+        - ppc64
+        - s390
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2017-7753
+          Severity: HIGH
+        - ID: CVE-2017-7779
+          Severity: CRITICAL
+        - ID: CVE-2017-7784
+          Severity: HIGH
+        - ID: CVE-2017-7785
+          Severity: HIGH
+        - ID: CVE-2017-7786
+          Severity: HIGH
+        - ID: CVE-2017-7787
+          Severity: HIGH
+        - ID: CVE-2017-7791
+          Severity: MEDIUM
+        - ID: CVE-2017-7792
+          Severity: HIGH
+        - ID: CVE-2017-7798
+          Severity: CRITICAL
+        - ID: CVE-2017-7800
+          Severity: CRITICAL
+        - ID: CVE-2017-7801
+          Severity: CRITICAL
+        - ID: CVE-2017-7802
+          Severity: HIGH
+        - ID: CVE-2017-7803
+          Severity: MEDIUM
+        - ID: CVE-2017-7807
+          Severity: HIGH
+        - ID: CVE-2017-7809
+          Severity: HIGH
+      FixedVersion: 0:52.3.0-3.el6_9

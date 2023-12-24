@@ -1,0 +1,13 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_mrg:2
+        - cpe:/a:redhat:enterprise_mrg:2:computenode:el6
+        - cpe:/a:redhat:enterprise_mrg:2:server:el6
+      Cves:
+        - ID: CVE-2012-4446
+          Severity: MEDIUM
+        - ID: CVE-2012-4458
+          Severity: MEDIUM
+        - ID: CVE-2012-4459
+          Severity: MEDIUM
+      FixedVersion: 0:2.2.3-8.el6

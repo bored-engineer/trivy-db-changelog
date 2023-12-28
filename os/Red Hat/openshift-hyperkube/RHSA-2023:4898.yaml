@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.10
+        - cpe:/a:redhat:openshift:4.10::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-1260
+          Severity: HIGH
+      FixedVersion: 0:4.10.0-202308291228.p0.g26fdcdf.assembly.stream.el7

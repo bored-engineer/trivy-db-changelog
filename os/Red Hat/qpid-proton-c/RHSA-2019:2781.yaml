@@ -31,26 +31,3 @@ Entries:
         - ID: CVE-2019-0223
           Severity: HIGH
       FixedVersion: 0:0.16.0-14.el6sat
-    - Affected:
-        - cpe:/a:redhat:rhel_satellite_tools:6.9
-        - cpe:/a:redhat:rhel_satellite_tools:6.9::el7
-      Arches:
-        - aarch64
-        - ppc64
-        - ppc64le
-        - s390x
-        - x86_64
-      Cves:
-        - ID: CVE-2019-0223
-          Severity: HIGH
-      FixedVersion: 0:0.16.0-14.el7sat
-    - Affected:
-        - cpe:/a:redhat:rhel_satellite_tools:6.3
-        - cpe:/a:redhat:rhel_satellite_tools:6.3::el7
-      Arches:
-        - ppc64le
-        - x86_64
-      Cves:
-        - ID: CVE-2019-0223
-          Severity: HIGH
-      FixedVersion: 0:0.16.0-14.el7sat

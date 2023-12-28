@@ -10,14 +10,3 @@ Entries:
         - ID: CVE-2019-3845
           Severity: HIGH
       FixedVersion: 0:1.36.0-6.el6sat
-    - Affected:
-        - cpe:/a:redhat:satellite:6.2
-        - cpe:/a:redhat:satellite:6.2::el7
-        - cpe:/a:redhat:satellite_capsule:6.2
-        - cpe:/a:redhat:satellite_capsule:6.2::el7
-      Arches:
-        - x86_64
-      Cves:
-        - ID: CVE-2019-3845
-          Severity: HIGH
-      FixedVersion: 0:1.36.0-6.el7sat

@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_other:7
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2018-10892
+          Severity: MEDIUM
+      FixedVersion: 0:0.9.2-5.git37a2afe.el7_5

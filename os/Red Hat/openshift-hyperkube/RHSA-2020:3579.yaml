@@ -10,3 +10,12 @@ Entries:
         - ID: CVE-2020-8557
           Severity: MEDIUM
       FixedVersion: 0:4.4.0-202008250319.p0.git.0.d653415.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.4
+        - cpe:/a:redhat:openshift:4.4::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-8557
+          Severity: MEDIUM
+      FixedVersion: 0:4.4.0-202008250319.p0.git.0.d653415.el8

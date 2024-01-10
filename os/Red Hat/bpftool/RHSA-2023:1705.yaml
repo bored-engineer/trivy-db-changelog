@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-4378
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-957.100.1.el7

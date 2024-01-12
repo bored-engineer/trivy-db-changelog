@@ -1,0 +1,78 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2015-6764
+          Severity: LOW
+        - ID: CVE-2015-6765
+          Severity: CRITICAL
+        - ID: CVE-2015-6766
+          Severity: HIGH
+        - ID: CVE-2015-6767
+          Severity: HIGH
+        - ID: CVE-2015-6768
+          Severity: HIGH
+        - ID: CVE-2015-6769
+          Severity: HIGH
+        - ID: CVE-2015-6770
+          Severity: HIGH
+        - ID: CVE-2015-6771
+          Severity: HIGH
+        - ID: CVE-2015-6772
+          Severity: HIGH
+        - ID: CVE-2015-6773
+          Severity: HIGH
+        - ID: CVE-2015-6774
+          Severity: HIGH
+        - ID: CVE-2015-6775
+          Severity: HIGH
+        - ID: CVE-2015-6776
+          Severity: HIGH
+        - ID: CVE-2015-6777
+          Severity: HIGH
+        - ID: CVE-2015-6778
+          Severity: MEDIUM
+        - ID: CVE-2015-6779
+          Severity: MEDIUM
+        - ID: CVE-2015-6780
+          Severity: MEDIUM
+        - ID: CVE-2015-6781
+          Severity: MEDIUM
+        - ID: CVE-2015-6782
+          Severity: MEDIUM
+        - ID: CVE-2015-6784
+          Severity: LOW
+        - ID: CVE-2015-6785
+          Severity: LOW
+        - ID: CVE-2015-6786
+          Severity: LOW
+        - ID: CVE-2015-6787
+          Severity: MEDIUM
+        - ID: CVE-2015-8478
+          Severity: MEDIUM
+        - ID: CVE-2015-8479
+          Severity: MEDIUM
+        - ID: CVE-2015-8480
+          Severity: MEDIUM
+      FixedVersion: 0:47.0.2526.73-1.el6

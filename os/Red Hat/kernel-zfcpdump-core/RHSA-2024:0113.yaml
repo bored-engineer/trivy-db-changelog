@@ -15,6 +15,8 @@ Entries:
       Arches:
         - s390x
       Cves:
+        - ID: CVE-2022-36402
+          Severity: MEDIUM
         - ID: CVE-2023-20569
           Severity: MEDIUM
         - ID: CVE-2023-2162

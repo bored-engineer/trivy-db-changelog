@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2019-18277
+          Severity: MEDIUM
+        - ID: CVE-2019-19330
+          Severity: MEDIUM
+        - ID: CVE-2020-11100
+          Severity: CRITICAL
+      FixedVersion: 0:1.8.23-3.el7

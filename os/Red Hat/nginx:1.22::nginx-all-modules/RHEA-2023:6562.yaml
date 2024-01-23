@@ -14,5 +14,5 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:9::baseos
       Cves:
         - ID: CVE-2023-44487
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 1:1.22.1-5.module+el9.3.0.z+20438+032561a0

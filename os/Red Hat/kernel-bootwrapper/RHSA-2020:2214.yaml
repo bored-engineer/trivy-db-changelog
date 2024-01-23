@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.4
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.4
+        - cpe:/o:redhat:rhel_e4s:7.4
+        - cpe:/o:redhat:rhel_e4s:7.4::server
+      Arches:
+        - ppc64le
+      Cves:
+        - ID: CVE-2017-18595
+          Severity: HIGH
+        - ID: CVE-2019-19768
+          Severity: HIGH
+        - ID: CVE-2020-10711
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-693.67.1.el7

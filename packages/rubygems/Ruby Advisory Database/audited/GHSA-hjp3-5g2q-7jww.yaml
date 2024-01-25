@@ -1,4 +1,0 @@
-PatchedVersions:
-    - '>= 5.3.3'
-UnaffectedVersions:
-    - < 4.0.0

@@ -1,0 +1,27 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+      Arches:
+        - i686
+        - ppc
+        - ppc64
+        - s390
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2017-3167
+          Severity: MEDIUM
+        - ID: CVE-2017-3169
+          Severity: MEDIUM
+        - ID: CVE-2017-7679
+          Severity: MEDIUM
+        - ID: CVE-2017-9788
+          Severity: HIGH
+        - ID: CVE-2017-9798
+          Severity: MEDIUM
+      FixedVersion: 0:2.2.15-47.el6_7.5

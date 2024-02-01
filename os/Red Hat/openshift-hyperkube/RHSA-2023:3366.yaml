@@ -14,6 +14,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-41724
           Severity: MEDIUM
+        - ID: CVE-2023-24538
+          Severity: MEDIUM
         - ID: CVE-2023-24540
           Severity: HIGH
       FixedVersion: 0:4.13.0-202305301919.p0.g0001a21.assembly.stream.el8
@@ -31,6 +33,8 @@ Entries:
         - ID: CVE-2022-41722
           Severity: MEDIUM
         - ID: CVE-2022-41724
+          Severity: MEDIUM
+        - ID: CVE-2023-24538
           Severity: MEDIUM
         - ID: CVE-2023-24540
           Severity: HIGH

@@ -201,4 +201,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2020-7053
           Severity: MEDIUM
+        - ID: CVE-2021-33630
+          Severity: MEDIUM
       FixedVersion: 0:4.18.0-193.el8

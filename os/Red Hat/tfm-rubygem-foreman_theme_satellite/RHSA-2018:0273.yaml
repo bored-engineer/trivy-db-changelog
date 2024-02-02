@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:satellite:6.1
+        - cpe:/a:redhat:satellite:6.1::el6
+        - cpe:/a:redhat:satellite_capsule:6.1
+        - cpe:/a:redhat:satellite_capsule:6.1::el6
+      Cves:
+        - ID: CVE-2016-1000111
+          Severity: HIGH
+      FixedVersion: 0:0.1.47.2-1.el6sat

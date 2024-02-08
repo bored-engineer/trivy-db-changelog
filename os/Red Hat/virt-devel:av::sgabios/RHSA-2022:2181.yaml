@@ -1,0 +1,24 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:advanced_virtualization:8
+        - cpe:/a:redhat:advanced_virtualization:8.0
+        - cpe:/a:redhat:advanced_virtualization:8.0::el8
+        - cpe:/a:redhat:advanced_virtualization:8.1
+        - cpe:/a:redhat:advanced_virtualization:8.1::el8
+        - cpe:/a:redhat:advanced_virtualization:8.2
+        - cpe:/a:redhat:advanced_virtualization:8.2::el8
+        - cpe:/a:redhat:advanced_virtualization:8.3
+        - cpe:/a:redhat:advanced_virtualization:8.3::el8
+        - cpe:/a:redhat:advanced_virtualization:8.4
+        - cpe:/a:redhat:advanced_virtualization:8.4::el8
+        - cpe:/a:redhat:advanced_virtualization:8.5
+        - cpe:/a:redhat:advanced_virtualization:8.5::el8
+        - cpe:/a:redhat:advanced_virtualization:8.6
+        - cpe:/a:redhat:advanced_virtualization:8.6::el8
+        - cpe:/a:redhat:advanced_virtualization:8::el8
+      Arches:
+        - i686
+      Cves:
+        - ID: CVE-2022-0485
+          Severity: MEDIUM
+      FixedVersion: 1:0.20170427git-3.module+el8.4.0+8855+a9e237a9

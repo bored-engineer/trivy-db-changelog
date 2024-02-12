@@ -5,6 +5,8 @@ Entries:
       Arches:
         - x86_64
       Cves:
+        - ID: CVE-2023-31436
+          Severity: HIGH
         - ID: CVE-2023-3611
           Severity: HIGH
         - ID: CVE-2023-4128

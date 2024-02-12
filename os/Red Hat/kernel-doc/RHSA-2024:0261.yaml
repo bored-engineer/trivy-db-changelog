@@ -3,6 +3,8 @@ Entries:
         - cpe:/o:redhat:rhel_aus:7.6
         - cpe:/o:redhat:rhel_aus:7.6::server
       Cves:
+        - ID: CVE-2023-31436
+          Severity: HIGH
         - ID: CVE-2023-3611
           Severity: HIGH
         - ID: CVE-2023-4128

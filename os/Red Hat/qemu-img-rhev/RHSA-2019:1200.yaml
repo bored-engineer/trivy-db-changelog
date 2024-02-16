@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-optools:10
+        - cpe:/a:redhat:openstack-optools:10::el7
+        - cpe:/a:redhat:openstack:10
+        - cpe:/a:redhat:openstack:10::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-12126
+          Severity: MEDIUM
+        - ID: CVE-2018-12127
+          Severity: MEDIUM
+        - ID: CVE-2018-12130
+          Severity: HIGH
+        - ID: CVE-2019-11091
+          Severity: MEDIUM
+      FixedVersion: 10:2.12.0-18.el7_6.5

@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.2
+        - cpe:/a:redhat:openshift:4.2::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-10392
+          Severity: HIGH
+      FixedVersion: 0:4.2.20-202002170402.git.1.43218bc.el7

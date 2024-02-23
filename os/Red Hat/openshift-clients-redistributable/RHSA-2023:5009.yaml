@@ -7,6 +7,10 @@ Entries:
       Cves:
         - ID: CVE-2022-27664
           Severity: MEDIUM
+        - ID: CVE-2023-2727
+          Severity: MEDIUM
+        - ID: CVE-2023-2728
+          Severity: MEDIUM
         - ID: CVE-2023-29824
           Severity: MEDIUM
         - ID: CVE-2023-3089
@@ -37,6 +41,10 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2022-27664
+          Severity: MEDIUM
+        - ID: CVE-2023-2727
+          Severity: MEDIUM
+        - ID: CVE-2023-2728
           Severity: MEDIUM
         - ID: CVE-2023-29824
           Severity: MEDIUM

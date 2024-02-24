@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.13
+        - cpe:/a:redhat:openshift:4.13::el9
+      Arches:
+        - aarch64
+        - x86_64
+      Cves:
+        - ID: CVE-2022-41717
+          Severity: MEDIUM
+      FixedVersion: 0:4.13.0-202305161335.p0.g17cae44.assembly.4.13.0.el9

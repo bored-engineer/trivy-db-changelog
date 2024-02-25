@@ -1,0 +1,24 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.6
+        - cpe:/a:redhat:openshift:4.6::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-2304
+          Severity: HIGH
+        - ID: CVE-2020-2305
+          Severity: HIGH
+        - ID: CVE-2020-2306
+          Severity: MEDIUM
+        - ID: CVE-2020-2307
+          Severity: MEDIUM
+        - ID: CVE-2020-2308
+          Severity: MEDIUM
+        - ID: CVE-2020-2309
+          Severity: MEDIUM
+        - ID: CVE-2020-28362
+          Severity: MEDIUM
+      FixedVersion: 0:1.19.1-2.rhaos4.6.git2af9ecf.el8

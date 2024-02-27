@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16.2
+        - cpe:/a:redhat:openstack:16.2::el8
+      Cves:
+        - ID: CVE-2021-3654
+          Severity: MEDIUM
+      FixedVersion: 1:20.6.2-2.20220112164912.8906554.el8ost

@@ -5,6 +5,8 @@ Entries:
       Cves:
         - ID: CVE-2022-41717
           Severity: MEDIUM
+        - ID: CVE-2022-41723
+          Severity: MEDIUM
         - ID: CVE-2022-41724
           Severity: MEDIUM
         - ID: CVE-2022-41725
@@ -27,6 +29,8 @@ Entries:
         - cpe:/a:redhat:openshift:4.13::el9
       Cves:
         - ID: CVE-2022-41717
+          Severity: MEDIUM
+        - ID: CVE-2022-41723
           Severity: MEDIUM
         - ID: CVE-2022-41724
           Severity: MEDIUM

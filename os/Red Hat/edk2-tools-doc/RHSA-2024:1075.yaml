@@ -13,5 +13,8 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:9
         - cpe:/o:redhat:enterprise_linux:9::baseos
       Cves:
-        - Severity: HIGH
-      Status: affected
+        - ID: CVE-2023-45230
+          Severity: HIGH
+        - ID: CVE-2023-45234
+          Severity: HIGH
+      FixedVersion: 0:20230524-4.el9_3.2

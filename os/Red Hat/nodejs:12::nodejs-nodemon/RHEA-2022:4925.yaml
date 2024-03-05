@@ -1,0 +1,29 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.1
+        - cpe:/a:redhat:rhel_e4s:8.1::appstream
+        - cpe:/a:redhat:rhel_e4s:8.1::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.1::sap
+        - cpe:/a:redhat:rhel_e4s:8.1::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.1
+        - cpe:/o:redhat:rhel_e4s:8.1::baseos
+      Cves:
+        - ID: CVE-2021-22959
+          Severity: LOW
+        - ID: CVE-2021-22960
+          Severity: LOW
+        - ID: CVE-2021-37701
+          Severity: MEDIUM
+        - ID: CVE-2021-37712
+          Severity: MEDIUM
+        - ID: CVE-2021-3918
+          Severity: HIGH
+        - ID: CVE-2021-44531
+          Severity: MEDIUM
+        - ID: CVE-2021-44532
+          Severity: MEDIUM
+        - ID: CVE-2021-44533
+          Severity: MEDIUM
+        - ID: CVE-2022-21824
+          Severity: LOW
+      FixedVersion: 0:1.18.3-1.module+el8.1.0+3369+37ae6a45

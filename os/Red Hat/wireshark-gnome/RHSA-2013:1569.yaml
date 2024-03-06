@@ -1,0 +1,81 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2012-2392
+          Severity: LOW
+        - ID: CVE-2012-3825
+          Severity: LOW
+        - ID: CVE-2012-4285
+          Severity: LOW
+        - ID: CVE-2012-4288
+          Severity: LOW
+        - ID: CVE-2012-4289
+          Severity: LOW
+        - ID: CVE-2012-4290
+          Severity: LOW
+        - ID: CVE-2012-4291
+          Severity: LOW
+        - ID: CVE-2012-4292
+          Severity: LOW
+        - ID: CVE-2012-5595
+          Severity: LOW
+        - ID: CVE-2012-5597
+          Severity: LOW
+        - ID: CVE-2012-5598
+          Severity: LOW
+        - ID: CVE-2012-5599
+          Severity: LOW
+        - ID: CVE-2012-5600
+          Severity: LOW
+        - ID: CVE-2012-6056
+          Severity: LOW
+        - ID: CVE-2012-6059
+          Severity: LOW
+        - ID: CVE-2012-6060
+          Severity: LOW
+        - ID: CVE-2012-6061
+          Severity: LOW
+        - ID: CVE-2012-6062
+          Severity: LOW
+        - ID: CVE-2013-3557
+          Severity: LOW
+        - ID: CVE-2013-3559
+          Severity: MEDIUM
+        - ID: CVE-2013-3561
+          Severity: LOW
+        - ID: CVE-2013-4081
+          Severity: LOW
+        - ID: CVE-2013-4083
+          Severity: MEDIUM
+        - ID: CVE-2013-4927
+          Severity: LOW
+        - ID: CVE-2013-4931
+          Severity: LOW
+        - ID: CVE-2013-4932
+          Severity: LOW
+        - ID: CVE-2013-4933
+          Severity: LOW
+        - ID: CVE-2013-4934
+          Severity: LOW
+        - ID: CVE-2013-4935
+          Severity: LOW
+        - ID: CVE-2013-4936
+          Severity: LOW
+        - ID: CVE-2013-5721
+          Severity: LOW
+      FixedVersion: 0:1.8.10-4.el6

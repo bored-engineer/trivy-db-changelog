@@ -1,0 +1,28 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+      Cves:
+        - ID: CVE-2014-9585
+          Severity: LOW
+        - ID: CVE-2015-0275
+          Severity: MEDIUM
+        - ID: CVE-2015-1333
+          Severity: MEDIUM
+        - ID: CVE-2015-3212
+          Severity: MEDIUM
+        - ID: CVE-2015-4700
+          Severity: HIGH
+        - ID: CVE-2015-5364
+          Severity: HIGH
+        - ID: CVE-2015-5366
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-229.14.1.el7

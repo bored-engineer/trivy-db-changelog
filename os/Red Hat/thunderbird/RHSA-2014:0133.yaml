@@ -1,0 +1,31 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2014-1477
+          Severity: CRITICAL
+        - ID: CVE-2014-1479
+          Severity: MEDIUM
+        - ID: CVE-2014-1481
+          Severity: MEDIUM
+        - ID: CVE-2014-1482
+          Severity: CRITICAL
+        - ID: CVE-2014-1486
+          Severity: CRITICAL
+        - ID: CVE-2014-1487
+          Severity: MEDIUM
+      FixedVersion: 0:24.3.0-2.el6_5

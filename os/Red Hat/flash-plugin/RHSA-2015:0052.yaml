@@ -1,0 +1,34 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+      Arches:
+        - i686
+      Cves:
+        - ID: CVE-2015-0301
+          Severity: MEDIUM
+        - ID: CVE-2015-0302
+          Severity: MEDIUM
+        - ID: CVE-2015-0303
+          Severity: CRITICAL
+        - ID: CVE-2015-0304
+          Severity: CRITICAL
+        - ID: CVE-2015-0305
+          Severity: CRITICAL
+        - ID: CVE-2015-0306
+          Severity: CRITICAL
+        - ID: CVE-2015-0307
+          Severity: MEDIUM
+        - ID: CVE-2015-0308
+          Severity: CRITICAL
+        - ID: CVE-2015-0309
+          Severity: CRITICAL
+      FixedVersion: 0:11.2.202.429-1.el6

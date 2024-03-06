@@ -1,0 +1,28 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+      Cves:
+        - ID: CVE-2015-7575
+          Severity: MEDIUM
+        - ID: CVE-2016-0402
+          Severity: MEDIUM
+        - ID: CVE-2016-0448
+          Severity: MEDIUM
+        - ID: CVE-2016-0466
+          Severity: MEDIUM
+        - ID: CVE-2016-0475
+          Severity: MEDIUM
+        - ID: CVE-2016-0483
+          Severity: CRITICAL
+        - ID: CVE-2016-0494
+          Severity: CRITICAL
+      FixedVersion: 1:1.8.0.71-1.b15.el6_7

@@ -1,0 +1,24 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+      Cves:
+        - ID: CVE-2023-38552
+          Severity: MEDIUM
+        - ID: CVE-2023-39333
+          Severity: LOW
+        - ID: CVE-2023-44487
+          Severity: HIGH
+        - ID: CVE-2023-45143
+          Severity: LOW
+      FixedVersion: 0:2021.06-4.module+el9.1.0+15718+e52ec601

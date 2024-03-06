@@ -1,0 +1,36 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2016-10088
+          Severity: MEDIUM
+        - ID: CVE-2016-10142
+          Severity: MEDIUM
+        - ID: CVE-2016-2069
+          Severity: MEDIUM
+        - ID: CVE-2016-2384
+          Severity: LOW
+        - ID: CVE-2016-6480
+          Severity: MEDIUM
+        - ID: CVE-2016-7042
+          Severity: MEDIUM
+        - ID: CVE-2016-7097
+          Severity: MEDIUM
+        - ID: CVE-2016-8399
+          Severity: MEDIUM
+        - ID: CVE-2016-9576
+          Severity: MEDIUM
+        - ID: CVE-2017-5551
+          Severity: MEDIUM
+      FixedVersion: 0:2.6.32-696.el6

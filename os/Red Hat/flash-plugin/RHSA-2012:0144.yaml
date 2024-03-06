@@ -1,0 +1,28 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+      Arches:
+        - i686
+      Cves:
+        - ID: CVE-2012-0752
+          Severity: CRITICAL
+        - ID: CVE-2012-0753
+          Severity: CRITICAL
+        - ID: CVE-2012-0754
+          Severity: CRITICAL
+        - ID: CVE-2012-0755
+          Severity: CRITICAL
+        - ID: CVE-2012-0756
+          Severity: CRITICAL
+        - ID: CVE-2012-0767
+          Severity: MEDIUM
+      FixedVersion: 0:10.3.183.15-1.el6

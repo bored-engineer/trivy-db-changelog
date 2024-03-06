@@ -1,0 +1,41 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-11947
+          Severity: LOW
+        - ID: CVE-2020-16092
+          Severity: LOW
+        - ID: CVE-2020-25637
+          Severity: MEDIUM
+        - ID: CVE-2020-25707
+          Severity: LOW
+        - ID: CVE-2020-25723
+          Severity: LOW
+        - ID: CVE-2020-27821
+          Severity: MEDIUM
+        - ID: CVE-2020-28916
+          Severity: LOW
+        - ID: CVE-2020-29129
+          Severity: LOW
+        - ID: CVE-2020-29130
+          Severity: LOW
+        - ID: CVE-2020-29443
+          Severity: MEDIUM
+      FixedVersion: 15:4.2.0-48.module+el8.4.0+10368+630e803b

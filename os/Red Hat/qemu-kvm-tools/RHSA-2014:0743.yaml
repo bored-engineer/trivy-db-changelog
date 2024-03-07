@@ -1,0 +1,36 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2013-4148
+          Severity: MEDIUM
+        - ID: CVE-2013-4151
+          Severity: MEDIUM
+        - ID: CVE-2013-4535
+          Severity: MEDIUM
+        - ID: CVE-2013-4536
+          Severity: MEDIUM
+        - ID: CVE-2013-4541
+          Severity: MEDIUM
+        - ID: CVE-2013-4542
+          Severity: MEDIUM
+        - ID: CVE-2013-6399
+          Severity: MEDIUM
+        - ID: CVE-2014-0182
+          Severity: MEDIUM
+        - ID: CVE-2014-2894
+          Severity: MEDIUM
+        - ID: CVE-2014-3461
+          Severity: MEDIUM
+      FixedVersion: 2:0.12.1.2-2.415.el6_5.10

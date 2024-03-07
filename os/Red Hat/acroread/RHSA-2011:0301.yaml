@@ -1,0 +1,62 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+      Arches:
+        - i686
+      Cves:
+        - ID: CVE-2011-0562
+          Severity: CRITICAL
+        - ID: CVE-2011-0563
+          Severity: CRITICAL
+        - ID: CVE-2011-0565
+          Severity: CRITICAL
+        - ID: CVE-2011-0566
+          Severity: CRITICAL
+        - ID: CVE-2011-0567
+          Severity: CRITICAL
+        - ID: CVE-2011-0585
+          Severity: CRITICAL
+        - ID: CVE-2011-0586
+          Severity: CRITICAL
+        - ID: CVE-2011-0587
+          Severity: MEDIUM
+        - ID: CVE-2011-0589
+          Severity: CRITICAL
+        - ID: CVE-2011-0590
+          Severity: CRITICAL
+        - ID: CVE-2011-0591
+          Severity: CRITICAL
+        - ID: CVE-2011-0592
+          Severity: CRITICAL
+        - ID: CVE-2011-0593
+          Severity: CRITICAL
+        - ID: CVE-2011-0594
+          Severity: CRITICAL
+        - ID: CVE-2011-0595
+          Severity: CRITICAL
+        - ID: CVE-2011-0596
+          Severity: CRITICAL
+        - ID: CVE-2011-0598
+          Severity: CRITICAL
+        - ID: CVE-2011-0599
+          Severity: CRITICAL
+        - ID: CVE-2011-0600
+          Severity: CRITICAL
+        - ID: CVE-2011-0602
+          Severity: CRITICAL
+        - ID: CVE-2011-0603
+          Severity: CRITICAL
+        - ID: CVE-2011-0604
+          Severity: MEDIUM
+        - ID: CVE-2011-0606
+          Severity: CRITICAL
+      FixedVersion: 0:9.4.2-3.el6_0

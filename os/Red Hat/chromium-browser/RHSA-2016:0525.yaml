@@ -1,0 +1,29 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2016-1646
+          Severity: HIGH
+        - ID: CVE-2016-1647
+          Severity: HIGH
+        - ID: CVE-2016-1648
+          Severity: HIGH
+        - ID: CVE-2016-1649
+          Severity: HIGH
+        - ID: CVE-2016-1650
+          Severity: HIGH
+        - ID: CVE-2016-3679
+          Severity: HIGH
+      FixedVersion: 0:49.0.2623.108-1.el6

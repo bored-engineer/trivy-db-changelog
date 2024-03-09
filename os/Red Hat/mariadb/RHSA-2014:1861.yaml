@@ -1,0 +1,56 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+      Arches:
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2012-5615
+          Severity: LOW
+        - ID: CVE-2014-2494
+          Severity: LOW
+        - ID: CVE-2014-4207
+          Severity: LOW
+        - ID: CVE-2014-4243
+          Severity: LOW
+        - ID: CVE-2014-4258
+          Severity: MEDIUM
+        - ID: CVE-2014-4260
+          Severity: MEDIUM
+        - ID: CVE-2014-4274
+          Severity: MEDIUM
+        - ID: CVE-2014-4287
+          Severity: MEDIUM
+        - ID: CVE-2014-6463
+          Severity: MEDIUM
+        - ID: CVE-2014-6464
+          Severity: MEDIUM
+        - ID: CVE-2014-6469
+          Severity: MEDIUM
+        - ID: CVE-2014-6484
+          Severity: MEDIUM
+        - ID: CVE-2014-6505
+          Severity: MEDIUM
+        - ID: CVE-2014-6507
+          Severity: HIGH
+        - ID: CVE-2014-6520
+          Severity: MEDIUM
+        - ID: CVE-2014-6530
+          Severity: HIGH
+        - ID: CVE-2014-6551
+          Severity: LOW
+        - ID: CVE-2014-6555
+          Severity: HIGH
+        - ID: CVE-2014-6559
+          Severity: MEDIUM
+      FixedVersion: 1:5.5.40-1.el7_0

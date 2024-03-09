@@ -13,3 +13,10 @@ Entries:
         - ID: CVE-2022-3100
           Severity: HIGH
       FixedVersion: 0:9.0.2-2.20220122185349.c718783.el8ost
+    - Affected:
+        - cpe:/a:redhat:openstack:17.0
+        - cpe:/a:redhat:openstack:17.0::el9
+      Cves:
+        - ID: CVE-2022-3100
+          Severity: HIGH
+      FixedVersion: 0:12.0.1-0.20220614210405.486e607.el9ost

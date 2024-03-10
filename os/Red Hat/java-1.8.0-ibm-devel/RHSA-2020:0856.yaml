@@ -1,0 +1,14 @@
+Entries:
+    - Arches:
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-2583
+          Severity: LOW
+        - ID: CVE-2020-2593
+          Severity: MEDIUM
+        - ID: CVE-2020-2604
+          Severity: HIGH
+        - ID: CVE-2020-2659
+          Severity: LOW
+      FixedVersion: 1:1.8.0.6.5-1jpp.1.el6_10

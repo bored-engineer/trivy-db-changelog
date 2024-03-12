@@ -1,0 +1,35 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16.1
+        - cpe:/a:redhat:openstack:16.1::el8
+        - cpe:/a:redhat:openstack:16.2
+        - cpe:/a:redhat:openstack:16.2::el8
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2022-1705
+          Severity: MEDIUM
+        - ID: CVE-2022-27664
+          Severity: MEDIUM
+        - ID: CVE-2022-2880
+          Severity: MEDIUM
+        - ID: CVE-2022-30629
+          Severity: LOW
+        - ID: CVE-2022-30630
+          Severity: MEDIUM
+        - ID: CVE-2022-30632
+          Severity: MEDIUM
+        - ID: CVE-2022-30635
+          Severity: MEDIUM
+        - ID: CVE-2022-3064
+          Severity: HIGH
+        - ID: CVE-2022-32148
+          Severity: MEDIUM
+        - ID: CVE-2022-32189
+          Severity: LOW
+        - ID: CVE-2022-41715
+          Severity: MEDIUM
+        - ID: CVE-2022-41717
+          Severity: MEDIUM
+      FixedVersion: 0:3.3.23-12.el8ost

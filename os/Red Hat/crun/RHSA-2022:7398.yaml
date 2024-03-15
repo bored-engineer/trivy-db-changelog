@@ -40,8 +40,6 @@ Entries:
           Severity: LOW
         - ID: CVE-2022-41715
           Severity: MEDIUM
-        - ID: CVE-2022-41717
-          Severity: MEDIUM
       FixedVersion: 0:1.4.2-1.rhaos4.11.el8
     - Affected:
         - cpe:/a:redhat:openshift:4.12
@@ -83,7 +81,5 @@ Entries:
         - ID: CVE-2022-3466
           Severity: LOW
         - ID: CVE-2022-41715
-          Severity: MEDIUM
-        - ID: CVE-2022-41717
           Severity: MEDIUM
       FixedVersion: 0:1.4.2-2.rhaos4.12.el9

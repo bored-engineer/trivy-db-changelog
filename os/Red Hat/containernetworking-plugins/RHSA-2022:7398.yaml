@@ -40,6 +40,4 @@ Entries:
           Severity: LOW
         - ID: CVE-2022-41715
           Severity: MEDIUM
-        - ID: CVE-2022-41717
-          Severity: MEDIUM
       FixedVersion: 0:1.0.1-5.rhaos4.11.el8

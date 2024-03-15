@@ -40,6 +40,4 @@ Entries:
           Severity: LOW
         - ID: CVE-2022-41715
           Severity: MEDIUM
-        - ID: CVE-2022-41717
-          Severity: MEDIUM
       FixedVersion: 0:0.16.1-1.el8ar

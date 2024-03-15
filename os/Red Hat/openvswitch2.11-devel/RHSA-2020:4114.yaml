@@ -1,0 +1,27 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2020-10722
+          Severity: MEDIUM
+        - ID: CVE-2020-10723
+          Severity: MEDIUM
+      FixedVersion: 0:2.11.0-54.20200327gita4efc59.el7fdp
+    - Affected:
+        - cpe:/a:redhat:rhev_manager:4
+        - cpe:/a:redhat:rhev_manager:4.2
+        - cpe:/a:redhat:rhev_manager:4.3
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-10722
+          Severity: MEDIUM
+        - ID: CVE-2020-10723
+          Severity: MEDIUM
+      FixedVersion: 0:2.11.0-54.20200327gita4efc59.el7fdp

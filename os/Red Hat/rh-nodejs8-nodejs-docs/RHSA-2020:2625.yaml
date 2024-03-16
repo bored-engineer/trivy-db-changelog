@@ -1,0 +1,24 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Cves:
+        - ID: CVE-2017-18077
+          Severity: MEDIUM
+        - ID: CVE-2017-18869
+          Severity: MEDIUM
+        - ID: CVE-2018-3737
+          Severity: MEDIUM
+        - ID: CVE-2018-3750
+          Severity: LOW
+        - ID: CVE-2019-16775
+          Severity: LOW
+        - ID: CVE-2019-16776
+          Severity: LOW
+        - ID: CVE-2019-16777
+          Severity: LOW
+      FixedVersion: 0:8.17.0-2.el7

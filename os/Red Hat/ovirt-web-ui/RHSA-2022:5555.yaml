@@ -1,0 +1,24 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhev_manager:4.4
+        - cpe:/a:redhat:rhev_manager:4.4:el8
+      Cves:
+        - ID: CVE-2021-22096
+          Severity: LOW
+        - ID: CVE-2021-33623
+          Severity: LOW
+        - ID: CVE-2021-35515
+          Severity: MEDIUM
+        - ID: CVE-2021-35516
+          Severity: MEDIUM
+        - ID: CVE-2021-35517
+          Severity: MEDIUM
+        - ID: CVE-2021-36090
+          Severity: MEDIUM
+        - ID: CVE-2021-3807
+          Severity: MEDIUM
+        - ID: CVE-2022-22950
+          Severity: MEDIUM
+        - ID: CVE-2022-31051
+          Severity: MEDIUM
+      FixedVersion: 0:1.9.0-1.el8ev

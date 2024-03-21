@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:6.2
+        - cpe:/o:redhat:rhel_eus:6.2::computenode
+        - cpe:/o:redhat:rhel_eus:6.2::server
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arches:
+        - i686
+        - ppc
+        - ppc64
+        - s390
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2011-4600
+          Severity: LOW
+      FixedVersion: 0:0.9.4-23.el6_2.4

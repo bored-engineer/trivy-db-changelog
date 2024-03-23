@@ -1,0 +1,74 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2018-17480
+          Severity: HIGH
+        - ID: CVE-2018-17481
+          Severity: HIGH
+        - ID: CVE-2018-18335
+          Severity: HIGH
+        - ID: CVE-2018-18336
+          Severity: HIGH
+        - ID: CVE-2018-18337
+          Severity: HIGH
+        - ID: CVE-2018-18338
+          Severity: HIGH
+        - ID: CVE-2018-18339
+          Severity: HIGH
+        - ID: CVE-2018-18340
+          Severity: HIGH
+        - ID: CVE-2018-18341
+          Severity: HIGH
+        - ID: CVE-2018-18342
+          Severity: HIGH
+        - ID: CVE-2018-18343
+          Severity: HIGH
+        - ID: CVE-2018-18344
+          Severity: HIGH
+        - ID: CVE-2018-18345
+          Severity: MEDIUM
+        - ID: CVE-2018-18346
+          Severity: MEDIUM
+        - ID: CVE-2018-18347
+          Severity: MEDIUM
+        - ID: CVE-2018-18348
+          Severity: MEDIUM
+        - ID: CVE-2018-18349
+          Severity: MEDIUM
+        - ID: CVE-2018-18350
+          Severity: MEDIUM
+        - ID: CVE-2018-18351
+          Severity: MEDIUM
+        - ID: CVE-2018-18352
+          Severity: MEDIUM
+        - ID: CVE-2018-18353
+          Severity: MEDIUM
+        - ID: CVE-2018-18354
+          Severity: MEDIUM
+        - ID: CVE-2018-18355
+          Severity: MEDIUM
+        - ID: CVE-2018-18356
+          Severity: HIGH
+        - ID: CVE-2018-18357
+          Severity: MEDIUM
+        - ID: CVE-2018-18358
+          Severity: MEDIUM
+        - ID: CVE-2018-18359
+          Severity: MEDIUM
+      FixedVersion: 0:71.0.3578.80-1.el6_10

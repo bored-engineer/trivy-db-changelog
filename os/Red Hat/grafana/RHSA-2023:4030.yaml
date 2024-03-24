@@ -45,5 +45,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2023-3128
-          Severity: CRITICAL
+          Severity: MEDIUM
       FixedVersion: 0:9.0.9-3.el9_2

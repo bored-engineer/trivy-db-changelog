@@ -1,0 +1,62 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2
+        - cpe:/a:redhat:rhel_tus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2::highavailability
+        - cpe:/a:redhat:rhel_tus:8.2::nfv
+        - cpe:/a:redhat:rhel_tus:8.2::realtime
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+        - cpe:/o:redhat:rhel_tus:8.2
+        - cpe:/o:redhat:rhel_tus:8.2::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-2625
+          Severity: MEDIUM
+        - ID: CVE-2022-41862
+          Severity: LOW
+        - ID: CVE-2023-2454
+          Severity: HIGH
+        - ID: CVE-2023-2455
+          Severity: MEDIUM
+        - ID: CVE-2023-39417
+          Severity: MEDIUM
+        - ID: CVE-2023-5868
+          Severity: MEDIUM
+        - ID: CVE-2023-5869
+          Severity: HIGH
+        - ID: CVE-2023-5870
+          Severity: LOW
+      FixedVersion: 0:0.10.0-2.module+el8.2.0+9043+1dbb5661
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.2
+        - cpe:/a:redhat:rhel_e4s:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.2::sap
+        - cpe:/a:redhat:rhel_e4s:8.2::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.2
+        - cpe:/o:redhat:rhel_e4s:8.2::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2022-2625
+          Severity: MEDIUM
+        - ID: CVE-2022-41862
+          Severity: LOW
+        - ID: CVE-2023-2454
+          Severity: HIGH
+        - ID: CVE-2023-2455
+          Severity: MEDIUM
+        - ID: CVE-2023-39417
+          Severity: MEDIUM
+        - ID: CVE-2023-5868
+          Severity: MEDIUM
+        - ID: CVE-2023-5869
+          Severity: HIGH
+        - ID: CVE-2023-5870
+          Severity: LOW
+      FixedVersion: 0:0.10.0-2.module+el8.2.0+9043+1dbb5661

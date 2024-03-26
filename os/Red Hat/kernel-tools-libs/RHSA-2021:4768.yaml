@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-36385
+          Severity: HIGH
+        - ID: CVE-2021-3653
+          Severity: MEDIUM
+      FixedVersion: 0:3.10.0-514.95.1.el7

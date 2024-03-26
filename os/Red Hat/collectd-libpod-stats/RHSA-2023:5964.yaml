@@ -1,0 +1,27 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16.2
+        - cpe:/a:redhat:openstack:16.2::el8
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2022-41724
+          Severity: MEDIUM
+        - ID: CVE-2022-41725
+          Severity: MEDIUM
+        - ID: CVE-2023-24534
+          Severity: MEDIUM
+        - ID: CVE-2023-24536
+          Severity: MEDIUM
+        - ID: CVE-2023-24537
+          Severity: MEDIUM
+        - ID: CVE-2023-24538
+          Severity: MEDIUM
+        - ID: CVE-2023-29409
+          Severity: MEDIUM
+        - ID: CVE-2023-39325
+          Severity: HIGH
+        - ID: CVE-2023-44487
+          Severity: HIGH
+      FixedVersion: 0:1.0.4-5.el8ost

@@ -20,6 +20,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-24540
           Severity: HIGH
+        - ID: CVE-2023-29400
+          Severity: MEDIUM
       FixedVersion: 0:1.26.3-7.rhaos4.13.gitec064c9.el8
     - Affected:
         - cpe:/a:redhat:openshift:4.13
@@ -42,4 +44,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-24540
           Severity: HIGH
+        - ID: CVE-2023-29400
+          Severity: MEDIUM
       FixedVersion: 0:1.26.3-8.rhaos4.13.gitec064c9.el9

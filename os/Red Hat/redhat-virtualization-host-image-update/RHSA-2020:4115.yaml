@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Cves:
+        - ID: CVE-2020-10713
+          Severity: MEDIUM
+        - ID: CVE-2020-14364
+          Severity: HIGH
+      FixedVersion: 0:4.3.11-20200922.0.el7_9

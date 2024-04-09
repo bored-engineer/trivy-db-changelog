@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6::server
+      Cves:
+        - ID: CVE-2023-20592
+          Severity: MEDIUM
+      FixedVersion: 1:39.31.5.1-69.3.el7_6

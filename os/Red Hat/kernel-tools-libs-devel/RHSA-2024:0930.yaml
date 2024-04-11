@@ -68,5 +68,5 @@ Entries:
         - ID: CVE-2023-6931
           Severity: MEDIUM
         - ID: CVE-2024-1086
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 0:4.18.0-372.93.1.el8_6

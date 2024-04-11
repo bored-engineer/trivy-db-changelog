@@ -20,7 +20,7 @@ Entries:
         - ID: CVE-2023-4921
           Severity: HIGH
         - ID: CVE-2024-1086
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2024-26602
           Severity: MEDIUM
       FixedVersion: 0:3.10.0-1160.114.2.rt56.1266.el7

@@ -58,4 +58,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-37454
           Severity: MEDIUM
+        - ID: CVE-2022-4900
+          Severity: LOW
       FixedVersion: 0:8.0.27-1.module+el8.7.0+17863+0ad92cd2

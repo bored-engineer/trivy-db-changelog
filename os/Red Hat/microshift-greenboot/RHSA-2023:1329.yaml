@@ -5,4 +5,6 @@ Entries:
       Cves:
         - ID: CVE-2022-41717
           Severity: MEDIUM
+        - ID: CVE-2022-41724
+          Severity: MEDIUM
       FixedVersion: 0:4.13.0-202305161335.p0.g17cae44.assembly.4.13.0.el9

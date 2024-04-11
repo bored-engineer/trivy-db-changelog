@@ -48,5 +48,5 @@ Entries:
         - ID: CVE-2024-1085
           Severity: MEDIUM
         - ID: CVE-2024-1086
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 0:5.14.0-284.55.1.rt14.340.el9_2

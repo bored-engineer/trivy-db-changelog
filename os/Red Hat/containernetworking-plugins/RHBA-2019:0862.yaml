@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_other:7
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-9946
+          Severity: MEDIUM
+      FixedVersion: 0:0.7.5-2.el7

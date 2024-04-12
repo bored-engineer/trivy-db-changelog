@@ -1,0 +1,80 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2016-10166
+          Severity: MEDIUM
+        - ID: CVE-2017-12932
+          Severity: MEDIUM
+        - ID: CVE-2017-16642
+          Severity: LOW
+        - ID: CVE-2017-9118
+          Severity: MEDIUM
+        - ID: CVE-2017-9120
+          Severity: MEDIUM
+        - ID: CVE-2018-10545
+          Severity: LOW
+        - ID: CVE-2018-10546
+          Severity: MEDIUM
+        - ID: CVE-2018-10547
+          Severity: MEDIUM
+        - ID: CVE-2018-10548
+          Severity: MEDIUM
+        - ID: CVE-2018-10549
+          Severity: LOW
+        - ID: CVE-2018-14851
+          Severity: LOW
+        - ID: CVE-2018-14884
+          Severity: MEDIUM
+        - ID: CVE-2018-17082
+          Severity: MEDIUM
+        - ID: CVE-2018-20783
+          Severity: LOW
+        - ID: CVE-2018-5711
+          Severity: LOW
+        - ID: CVE-2018-5712
+          Severity: MEDIUM
+        - ID: CVE-2018-7584
+          Severity: MEDIUM
+        - ID: CVE-2019-11034
+          Severity: LOW
+        - ID: CVE-2019-11035
+          Severity: LOW
+        - ID: CVE-2019-11036
+          Severity: LOW
+        - ID: CVE-2019-11038
+          Severity: LOW
+        - ID: CVE-2019-11039
+          Severity: MEDIUM
+        - ID: CVE-2019-11040
+          Severity: MEDIUM
+        - ID: CVE-2019-6977
+          Severity: MEDIUM
+        - ID: CVE-2019-9020
+          Severity: MEDIUM
+        - ID: CVE-2019-9021
+          Severity: LOW
+        - ID: CVE-2019-9022
+          Severity: LOW
+        - ID: CVE-2019-9023
+          Severity: LOW
+        - ID: CVE-2019-9024
+          Severity: LOW
+        - ID: CVE-2019-9637
+          Severity: MEDIUM
+        - ID: CVE-2019-9638
+          Severity: MEDIUM
+        - ID: CVE-2019-9639
+          Severity: MEDIUM
+        - ID: CVE-2019-9640
+          Severity: MEDIUM
+      FixedVersion: 0:7.1.30-1.el7

@@ -19,5 +19,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2024-27316
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:1.15.7-8.module+el8.9.0+21652+2dd1200b.5

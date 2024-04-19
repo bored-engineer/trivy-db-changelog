@@ -1,0 +1,31 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.15
+        - cpe:/a:redhat:openshift:4.15::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-39325
+          Severity: HIGH
+        - ID: CVE-2023-39326
+          Severity: MEDIUM
+        - ID: CVE-2023-45287
+          Severity: MEDIUM
+        - ID: CVE-2023-48795
+          Severity: MEDIUM
+      FixedVersion: 0:4.15.0-202402070507.p0.g48dcf59.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.15
+        - cpe:/a:redhat:openshift:4.15::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-39325
+          Severity: HIGH
+        - ID: CVE-2023-39326
+          Severity: MEDIUM
+        - ID: CVE-2023-45287
+          Severity: MEDIUM
+        - ID: CVE-2023-48795
+          Severity: MEDIUM
+      FixedVersion: 0:4.15.0-202402070507.p0.g48dcf59.assembly.stream.el9

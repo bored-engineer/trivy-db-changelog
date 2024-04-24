@@ -1,0 +1,49 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-3167
+          Severity: MEDIUM
+        - ID: CVE-2017-3169
+          Severity: MEDIUM
+        - ID: CVE-2017-7659
+          Severity: MEDIUM
+        - ID: CVE-2017-7668
+          Severity: MEDIUM
+        - ID: CVE-2017-7679
+          Severity: MEDIUM
+        - ID: CVE-2017-9788
+          Severity: HIGH
+      FixedVersion: 0:2.4.25-9.el6.1
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-3167
+          Severity: MEDIUM
+        - ID: CVE-2017-3169
+          Severity: MEDIUM
+        - ID: CVE-2017-7659
+          Severity: MEDIUM
+        - ID: CVE-2017-7668
+          Severity: MEDIUM
+        - ID: CVE-2017-7679
+          Severity: MEDIUM
+        - ID: CVE-2017-9788
+          Severity: HIGH
+      FixedVersion: 0:2.4.25-9.el7.1

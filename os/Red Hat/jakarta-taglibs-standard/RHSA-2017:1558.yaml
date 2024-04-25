@@ -1,0 +1,5 @@
+Entries:
+    - Cves:
+        - ID: CVE-2017-7514
+          Severity: MEDIUM
+      FixedVersion: 0:1.1.1-12.ep5.el6

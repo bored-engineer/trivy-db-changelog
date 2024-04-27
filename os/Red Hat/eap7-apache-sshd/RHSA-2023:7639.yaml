@@ -17,4 +17,6 @@ Entries:
           Severity: HIGH
         - ID: CVE-2023-4503
           Severity: MEDIUM
+        - ID: CVE-2023-5685
+          Severity: HIGH
       FixedVersion: 0:2.9.3-1.redhat_00001.1.el9eap

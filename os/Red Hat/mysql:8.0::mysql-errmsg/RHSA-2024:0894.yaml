@@ -168,4 +168,24 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2024-20985
           Severity: MEDIUM
+        - ID: CVE-2024-20993
+          Severity: MEDIUM
+        - ID: CVE-2024-21049
+          Severity: MEDIUM
+        - ID: CVE-2024-21050
+          Severity: MEDIUM
+        - ID: CVE-2024-21051
+          Severity: MEDIUM
+        - ID: CVE-2024-21052
+          Severity: MEDIUM
+        - ID: CVE-2024-21053
+          Severity: MEDIUM
+        - ID: CVE-2024-21055
+          Severity: MEDIUM
+        - ID: CVE-2024-21056
+          Severity: MEDIUM
+        - ID: CVE-2024-21057
+          Severity: MEDIUM
+        - ID: CVE-2024-21061
+          Severity: MEDIUM
       FixedVersion: 0:8.0.36-1.module+el8.9.0+21207+6c20cb3d

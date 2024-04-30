@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_dotnet:5.0
+        - cpe:/a:redhat:rhel_dotnet:5.0::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-26423
+          Severity: HIGH
+        - ID: CVE-2021-34485
+          Severity: LOW
+        - ID: CVE-2021-34532
+          Severity: LOW
+      FixedVersion: 0:5.0.206-1.el7_9

@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7::el7
+      Cves:
+        - ID: CVE-2022-1259
+          Severity: MEDIUM
+        - ID: CVE-2022-2053
+          Severity: MEDIUM
+        - ID: CVE-2022-25857
+          Severity: HIGH
+      FixedVersion: 0:2.2.19-1.SP2_redhat_00001.1.el7eap

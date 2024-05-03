@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-31436
+          Severity: HIGH
+        - ID: CVE-2023-3611
+          Severity: HIGH
+        - ID: CVE-2023-4128
+          Severity: HIGH
+        - ID: CVE-2023-4206
+          Severity: HIGH
+        - ID: CVE-2023-4207
+          Severity: HIGH
+        - ID: CVE-2023-4208
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-957.109.1.el7

@@ -1,0 +1,53 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2014-6568
+          Severity: LOW
+        - ID: CVE-2015-0374
+          Severity: LOW
+        - ID: CVE-2015-0381
+          Severity: MEDIUM
+        - ID: CVE-2015-0382
+          Severity: MEDIUM
+        - ID: CVE-2015-0391
+          Severity: MEDIUM
+        - ID: CVE-2015-0411
+          Severity: MEDIUM
+        - ID: CVE-2015-0432
+          Severity: MEDIUM
+      FixedVersion: 0:5.5.41-12.el6
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2014-6568
+          Severity: LOW
+        - ID: CVE-2015-0374
+          Severity: LOW
+        - ID: CVE-2015-0381
+          Severity: MEDIUM
+        - ID: CVE-2015-0382
+          Severity: MEDIUM
+        - ID: CVE-2015-0391
+          Severity: MEDIUM
+        - ID: CVE-2015-0411
+          Severity: MEDIUM
+        - ID: CVE-2015-0432
+          Severity: MEDIUM
+      FixedVersion: 0:5.5.41-12.el7

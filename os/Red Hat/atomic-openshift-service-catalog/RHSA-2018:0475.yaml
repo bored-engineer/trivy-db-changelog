@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.6
+        - cpe:/a:redhat:openshift:3.6::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-1002101
+          Severity: HIGH
+        - ID: CVE-2017-1002102
+          Severity: MEDIUM
+      FixedVersion: 0:3.6.173.0.96-1.git.4.e6301f8.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:3.7
+        - cpe:/a:redhat:openshift:3.7::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-1002101
+          Severity: HIGH
+        - ID: CVE-2017-1002102
+          Severity: MEDIUM
+      FixedVersion: 0:3.7.23-1.git.5.83efd71.el7

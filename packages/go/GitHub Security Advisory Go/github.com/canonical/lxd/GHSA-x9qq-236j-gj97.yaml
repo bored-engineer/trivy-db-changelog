@@ -1,0 +1,5 @@
+PatchedVersions:
+    - "5.20"
+VulnerableVersions:
+    - '>=5.19, <5.20'
+    - =5.19

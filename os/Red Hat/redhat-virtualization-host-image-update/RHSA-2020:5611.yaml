@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::hypervisor
+      Cves:
+        - ID: CVE-2015-8011
+          Severity: HIGH
+        - ID: CVE-2020-8203
+          Severity: LOW
+      FixedVersion: 0:4.4.3-20201210.0.el8_3

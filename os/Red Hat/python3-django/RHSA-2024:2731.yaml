@@ -3,5 +3,6 @@ Entries:
         - cpe:/a:redhat:openstack:17.1
         - cpe:/a:redhat:openstack:17.1::el9
       Cves:
-        - Severity: MEDIUM
-      Status: affected
+        - ID: CVE-2024-24680
+          Severity: MEDIUM
+      FixedVersion: 0:2.2.24-8.el9ost

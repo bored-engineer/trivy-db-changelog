@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:cloudforms_managementengine:5.10
+        - cpe:/a:redhat:cloudforms_managementengine:5.10::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-10778
+          Severity: HIGH
+        - ID: CVE-2020-10783
+          Severity: HIGH
+        - ID: CVE-2020-14324
+          Severity: HIGH
+        - ID: CVE-2020-14325
+          Severity: CRITICAL
+      FixedVersion: 0:5.10.16.0-1.el7cf

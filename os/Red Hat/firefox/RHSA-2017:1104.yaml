@@ -1,0 +1,76 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - ppc
+        - ppc64
+        - s390
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2016-10195
+          Severity: MEDIUM
+        - ID: CVE-2016-10196
+          Severity: MEDIUM
+        - ID: CVE-2016-10197
+          Severity: LOW
+        - ID: CVE-2017-5429
+          Severity: CRITICAL
+        - ID: CVE-2017-5432
+          Severity: HIGH
+        - ID: CVE-2017-5433
+          Severity: CRITICAL
+        - ID: CVE-2017-5434
+          Severity: HIGH
+        - ID: CVE-2017-5435
+          Severity: CRITICAL
+        - ID: CVE-2017-5436
+          Severity: CRITICAL
+        - ID: CVE-2017-5438
+          Severity: HIGH
+        - ID: CVE-2017-5439
+          Severity: HIGH
+        - ID: CVE-2017-5440
+          Severity: HIGH
+        - ID: CVE-2017-5441
+          Severity: HIGH
+        - ID: CVE-2017-5442
+          Severity: HIGH
+        - ID: CVE-2017-5443
+          Severity: HIGH
+        - ID: CVE-2017-5444
+          Severity: HIGH
+        - ID: CVE-2017-5445
+          Severity: MEDIUM
+        - ID: CVE-2017-5446
+          Severity: HIGH
+        - ID: CVE-2017-5447
+          Severity: HIGH
+        - ID: CVE-2017-5448
+          Severity: HIGH
+        - ID: CVE-2017-5449
+          Severity: MEDIUM
+        - ID: CVE-2017-5459
+          Severity: CRITICAL
+        - ID: CVE-2017-5460
+          Severity: HIGH
+        - ID: CVE-2017-5464
+          Severity: HIGH
+        - ID: CVE-2017-5465
+          Severity: HIGH
+        - ID: CVE-2017-5469
+          Severity: HIGH
+      FixedVersion: 0:52.1.0-2.el6_9

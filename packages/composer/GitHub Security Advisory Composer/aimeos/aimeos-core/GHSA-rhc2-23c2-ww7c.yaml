@@ -1,4 +1,0 @@
-PatchedVersions:
-    - 2024.04.5
-VulnerableVersions:
-    - '>=2024.04.1, <2024.04.5'

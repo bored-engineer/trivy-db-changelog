@@ -15,7 +15,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2021-46915
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2023-40283
           Severity: MEDIUM
         - ID: CVE-2024-26586
@@ -37,7 +37,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2021-46915
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2023-40283
           Severity: MEDIUM
         - ID: CVE-2024-26586

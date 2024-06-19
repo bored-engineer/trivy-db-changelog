@@ -35,15 +35,15 @@ Entries:
         - ID: CVE-2024-26642
           Severity: LOW
         - ID: CVE-2024-26643
-          Severity: LOW
-        - ID: CVE-2024-26673
           Severity: MEDIUM
+        - ID: CVE-2024-26673
+          Severity: LOW
         - ID: CVE-2024-26735
           Severity: MEDIUM
         - ID: CVE-2024-26804
           Severity: MEDIUM
         - ID: CVE-2024-26828
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2024-26993
-          Severity: MEDIUM
+          Severity: LOW
       FixedVersion: 0:5.14.0-284.67.1.el9_2

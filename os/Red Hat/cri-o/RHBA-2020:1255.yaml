@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-8945
+          Severity: MEDIUM
+      FixedVersion: 0:1.16.4-1.dev.rhaos4.3.git9238eee.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-8945
+          Severity: MEDIUM
+      FixedVersion: 0:1.16.4-1.dev.rhaos4.3.git9238eee.el8

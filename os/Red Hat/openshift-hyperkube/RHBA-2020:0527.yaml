@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-10392
+          Severity: HIGH
+        - ID: CVE-2020-8608
+          Severity: HIGH
+      FixedVersion: 0:4.3.3-202002140552.git.0.e38059c.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-10392
+          Severity: HIGH
+        - ID: CVE-2020-8608
+          Severity: HIGH
+      FixedVersion: 0:4.3.3-202002140552.git.0.e38059c.el8

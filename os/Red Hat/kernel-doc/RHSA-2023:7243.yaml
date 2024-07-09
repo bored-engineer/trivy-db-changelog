@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7::server
+      Cves:
+        - ID: CVE-2023-35001
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-1062.80.1.el7

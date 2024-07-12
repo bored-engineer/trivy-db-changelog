@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+      Cves:
+        - ID: CVE-2018-10675
+          Severity: HIGH
+        - ID: CVE-2018-14634
+          Severity: HIGH
+        - ID: CVE-2018-5390
+          Severity: HIGH
+        - ID: CVE-2018-5391
+          Severity: HIGH
+      FixedVersion: 0:2.6.32-431.93.2.el6

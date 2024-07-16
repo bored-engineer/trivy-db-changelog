@@ -1,0 +1,37 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_mrg:2
+        - cpe:/a:redhat:enterprise_mrg:2:computenode:el6
+        - cpe:/a:redhat:enterprise_mrg:2:server:el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2011-1162
+          Severity: LOW
+        - ID: CVE-2011-2494
+          Severity: LOW
+        - ID: CVE-2011-2723
+          Severity: MEDIUM
+        - ID: CVE-2011-2898
+          Severity: LOW
+        - ID: CVE-2011-3188
+          Severity: MEDIUM
+        - ID: CVE-2011-3191
+          Severity: HIGH
+        - ID: CVE-2011-3353
+          Severity: MEDIUM
+        - ID: CVE-2011-3359
+          Severity: MEDIUM
+        - ID: CVE-2011-3363
+          Severity: MEDIUM
+        - ID: CVE-2011-3637
+          Severity: MEDIUM
+        - ID: CVE-2011-4081
+          Severity: MEDIUM
+        - ID: CVE-2011-4110
+          Severity: MEDIUM
+        - ID: CVE-2011-4132
+          Severity: MEDIUM
+        - ID: CVE-2011-4326
+          Severity: HIGH
+      FixedVersion: 0:2.6.33.9-rt31.79.el6rt

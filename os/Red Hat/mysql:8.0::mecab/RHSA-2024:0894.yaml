@@ -188,4 +188,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2024-21061
           Severity: MEDIUM
+        - ID: CVE-2024-21137
+          Severity: MEDIUM
       FixedVersion: 0:0.996-2.module+el8.9.0+21207+6c20cb3d

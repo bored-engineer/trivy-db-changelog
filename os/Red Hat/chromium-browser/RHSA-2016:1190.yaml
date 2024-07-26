@@ -1,0 +1,68 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2016-1672
+          Severity: HIGH
+        - ID: CVE-2016-1673
+          Severity: HIGH
+        - ID: CVE-2016-1674
+          Severity: HIGH
+        - ID: CVE-2016-1675
+          Severity: HIGH
+        - ID: CVE-2016-1676
+          Severity: HIGH
+        - ID: CVE-2016-1677
+          Severity: MEDIUM
+        - ID: CVE-2016-1678
+          Severity: HIGH
+        - ID: CVE-2016-1679
+          Severity: HIGH
+        - ID: CVE-2016-1680
+          Severity: HIGH
+        - ID: CVE-2016-1681
+          Severity: HIGH
+        - ID: CVE-2016-1682
+          Severity: MEDIUM
+        - ID: CVE-2016-1683
+          Severity: MEDIUM
+        - ID: CVE-2016-1684
+          Severity: MEDIUM
+        - ID: CVE-2016-1685
+          Severity: MEDIUM
+        - ID: CVE-2016-1686
+          Severity: MEDIUM
+        - ID: CVE-2016-1687
+          Severity: MEDIUM
+        - ID: CVE-2016-1688
+          Severity: MEDIUM
+        - ID: CVE-2016-1689
+          Severity: MEDIUM
+        - ID: CVE-2016-1690
+          Severity: MEDIUM
+        - ID: CVE-2016-1691
+          Severity: LOW
+        - ID: CVE-2016-1692
+          Severity: LOW
+        - ID: CVE-2016-1693
+          Severity: LOW
+        - ID: CVE-2016-1694
+          Severity: LOW
+        - ID: CVE-2016-1695
+          Severity: HIGH
+      FixedVersion: 0:51.0.2704.63-1.el6

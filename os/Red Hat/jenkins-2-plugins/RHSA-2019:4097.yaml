@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.2
+        - cpe:/a:redhat:openshift:4.2::el7
+      Cves:
+        - ID: CVE-2019-10393
+          Severity: HIGH
+        - ID: CVE-2019-10394
+          Severity: HIGH
+        - ID: CVE-2019-10399
+          Severity: HIGH
+        - ID: CVE-2019-10400
+          Severity: HIGH
+        - ID: CVE-2019-10431
+          Severity: HIGH
+        - ID: CVE-2019-10432
+          Severity: MEDIUM
+      FixedVersion: 0:4.2.1574873592-1.el7

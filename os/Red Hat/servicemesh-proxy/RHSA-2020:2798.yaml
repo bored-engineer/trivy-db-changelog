@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:service_mesh:1.1
+        - cpe:/a:redhat:service_mesh:1.1::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-12603
+          Severity: HIGH
+        - ID: CVE-2020-12604
+          Severity: MEDIUM
+        - ID: CVE-2020-12605
+          Severity: HIGH
+        - ID: CVE-2020-8663
+          Severity: HIGH
+      FixedVersion: 0:1.1.4-2.el8

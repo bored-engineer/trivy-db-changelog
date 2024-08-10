@@ -1,0 +1,42 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2::el6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-25644
+          Severity: HIGH
+      FixedVersion: 0:1.0.12-1.Final_redhat_00001.1.el6eap
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-25644
+          Severity: HIGH
+      FixedVersion: 0:1.0.12-1.Final_redhat_00001.1.el7eap
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2::el8
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el8
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-25644
+          Severity: HIGH
+      FixedVersion: 0:1.0.12-1.Final_redhat_00001.1.el8eap

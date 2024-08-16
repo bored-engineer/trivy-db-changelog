@@ -1,0 +1,72 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.0
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.0::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.2
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.2::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.3
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.3::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.4
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.4::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.5
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.5::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.6
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.6::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.7::el7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.8::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-46589
+          Severity: HIGH
+        - ID: CVE-2023-5678
+          Severity: LOW
+        - ID: CVE-2024-24549
+          Severity: HIGH
+      FixedVersion: 0:1.2.31-17.redhat_17.el7jws
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.0
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.0::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.2
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.2::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.3
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.3::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.4
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.4::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.5
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.5::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.6
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.6::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.7::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.8::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-46589
+          Severity: HIGH
+        - ID: CVE-2023-5678
+          Severity: LOW
+        - ID: CVE-2024-24549
+          Severity: HIGH
+      FixedVersion: 0:1.2.31-17.redhat_17.el8jws
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.6
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.6::el9
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.7
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.7::el9
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.8
+        - cpe:/a:redhat:jboss_enterprise_web_server:5.8::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-46589
+          Severity: HIGH
+        - ID: CVE-2023-5678
+          Severity: LOW
+        - ID: CVE-2024-24549
+          Severity: HIGH
+      FixedVersion: 0:1.2.31-17.redhat_17.el9jws

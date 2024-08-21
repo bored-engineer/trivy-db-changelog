@@ -13,6 +13,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-48795
           Severity: MEDIUM
+        - ID: CVE-2024-1459
+          Severity: MEDIUM
         - ID: CVE-2024-1635
           Severity: HIGH
       FixedVersion: 0:7.4.16-4.GA_redhat_00002.1.el8eap

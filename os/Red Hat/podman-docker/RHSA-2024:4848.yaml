@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.13
+        - cpe:/a:redhat:openshift:4.13::el8
+      Cves:
+        - ID: CVE-2024-37298
+          Severity: MEDIUM
+      FixedVersion: 3:4.4.1-9.3.rhaos4.13.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.13
+        - cpe:/a:redhat:openshift:4.13::el9
+      Cves:
+        - ID: CVE-2024-37298
+          Severity: MEDIUM
+      FixedVersion: 3:4.4.1-10.3.rhaos4.13.el9

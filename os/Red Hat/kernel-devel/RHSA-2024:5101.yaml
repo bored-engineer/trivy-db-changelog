@@ -21,7 +21,7 @@ Entries:
         - ID: CVE-2021-46939
           Severity: MEDIUM
         - ID: CVE-2021-47018
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2021-47257
           Severity: LOW
         - ID: CVE-2021-47284

@@ -8,5 +8,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2024-6472
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 1:6.0.6.1-22.el8_2

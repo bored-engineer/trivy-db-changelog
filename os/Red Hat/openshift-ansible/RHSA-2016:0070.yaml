@@ -1,0 +1,72 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.1
+        - cpe:/a:redhat:openshift:3.1::el7
+      Cves:
+        - ID: CVE-2013-2186
+          Severity: HIGH
+        - ID: CVE-2014-1869
+          Severity: MEDIUM
+        - ID: CVE-2014-3661
+          Severity: MEDIUM
+        - ID: CVE-2014-3662
+          Severity: MEDIUM
+        - ID: CVE-2014-3663
+          Severity: MEDIUM
+        - ID: CVE-2014-3664
+          Severity: MEDIUM
+        - ID: CVE-2014-3666
+          Severity: HIGH
+        - ID: CVE-2014-3667
+          Severity: MEDIUM
+        - ID: CVE-2014-3680
+          Severity: HIGH
+        - ID: CVE-2014-3681
+          Severity: MEDIUM
+        - ID: CVE-2015-1806
+          Severity: MEDIUM
+        - ID: CVE-2015-1807
+          Severity: MEDIUM
+        - ID: CVE-2015-1808
+          Severity: MEDIUM
+        - ID: CVE-2015-1810
+          Severity: MEDIUM
+        - ID: CVE-2015-1812
+          Severity: MEDIUM
+        - ID: CVE-2015-1813
+          Severity: MEDIUM
+        - ID: CVE-2015-1814
+          Severity: HIGH
+        - ID: CVE-2015-5317
+          Severity: LOW
+        - ID: CVE-2015-5318
+          Severity: MEDIUM
+        - ID: CVE-2015-5319
+          Severity: LOW
+        - ID: CVE-2015-5320
+          Severity: HIGH
+        - ID: CVE-2015-5321
+          Severity: MEDIUM
+        - ID: CVE-2015-5322
+          Severity: LOW
+        - ID: CVE-2015-5323
+          Severity: MEDIUM
+        - ID: CVE-2015-5324
+          Severity: MEDIUM
+        - ID: CVE-2015-5325
+          Severity: MEDIUM
+        - ID: CVE-2015-5326
+          Severity: LOW
+        - ID: CVE-2015-7537
+          Severity: MEDIUM
+        - ID: CVE-2015-7538
+          Severity: MEDIUM
+        - ID: CVE-2015-7539
+          Severity: MEDIUM
+        - ID: CVE-2015-8103
+          Severity: HIGH
+        - ID: CVE-2016-1905
+          Severity: MEDIUM
+        - ID: CVE-2016-1906
+          Severity: MEDIUM
+      FixedVersion: 0:3.0.35-1.git.0.6a386dd.el7aos

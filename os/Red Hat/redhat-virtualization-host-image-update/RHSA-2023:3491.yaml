@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhev_hypervisor:4.4
+        - cpe:/o:redhat:rhev_hypervisor:4.4::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-3564
+          Severity: HIGH
+        - ID: CVE-2022-38023
+          Severity: HIGH
+        - ID: CVE-2022-41222
+          Severity: HIGH
+        - ID: CVE-2022-4378
+          Severity: HIGH
+        - ID: CVE-2023-0461
+          Severity: HIGH
+        - ID: CVE-2023-1668
+          Severity: MEDIUM
+      FixedVersion: 0:4.5.3-202306050942_8.6

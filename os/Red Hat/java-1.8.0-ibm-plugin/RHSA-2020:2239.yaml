@@ -1,0 +1,42 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2019-2949
+          Severity: HIGH
+        - ID: CVE-2020-2654
+          Severity: MEDIUM
+        - ID: CVE-2020-2754
+          Severity: LOW
+        - ID: CVE-2020-2755
+          Severity: LOW
+        - ID: CVE-2020-2756
+          Severity: LOW
+        - ID: CVE-2020-2757
+          Severity: LOW
+        - ID: CVE-2020-2781
+          Severity: MEDIUM
+        - ID: CVE-2020-2800
+          Severity: MEDIUM
+        - ID: CVE-2020-2803
+          Severity: HIGH
+        - ID: CVE-2020-2805
+          Severity: HIGH
+        - ID: CVE-2020-2830
+          Severity: MEDIUM
+      FixedVersion: 1:1.8.0.6.10-1jpp.1.el6_10

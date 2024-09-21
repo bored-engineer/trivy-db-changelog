@@ -10,6 +10,8 @@ Entries:
       Cves:
         - ID: CVE-2023-45290
           Severity: MEDIUM
+        - ID: CVE-2024-34064
+          Severity: MEDIUM
         - ID: CVE-2024-34069
           Severity: HIGH
       FixedVersion: 0:4.12.0-202408131833.p0.g1eb8682.assembly.stream.el8
@@ -23,6 +25,8 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2023-45290
+          Severity: MEDIUM
+        - ID: CVE-2024-34064
           Severity: MEDIUM
         - ID: CVE-2024-34069
           Severity: HIGH

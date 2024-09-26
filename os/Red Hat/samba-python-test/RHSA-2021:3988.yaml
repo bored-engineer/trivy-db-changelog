@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7::server
+        - cpe:/o:redhat:rhel_tus:7.7
+        - cpe:/o:redhat:rhel_tus:7.7::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-20254
+          Severity: MEDIUM
+      FixedVersion: 0:4.9.1-11.el7_7

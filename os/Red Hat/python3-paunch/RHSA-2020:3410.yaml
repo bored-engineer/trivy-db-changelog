@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:15
+        - cpe:/a:redhat:openstack:15::el8
+      Cves:
+        - ID: CVE-2020-10731
+          Severity: HIGH
+      FixedVersion: 0:4.5.3-0.20200108190460.3c38fe6.el8ost

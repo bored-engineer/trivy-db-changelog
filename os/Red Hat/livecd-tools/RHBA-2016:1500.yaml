@@ -1,0 +1,43 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:satellite:6.1
+        - cpe:/a:redhat:satellite:6.1::el6
+        - cpe:/a:redhat:satellite_capsule:6.1
+        - cpe:/a:redhat:satellite_capsule:6.1::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2013-2099
+          Severity: LOW
+        - ID: CVE-2015-0203
+          Severity: MEDIUM
+        - ID: CVE-2015-0223
+          Severity: MEDIUM
+        - ID: CVE-2015-0224
+          Severity: MEDIUM
+        - ID: CVE-2015-1609
+          Severity: MEDIUM
+        - ID: CVE-2016-2100
+          Severity: MEDIUM
+      FixedVersion: 1:13.4.1-2.el6sat
+    - Affected:
+        - cpe:/a:redhat:satellite:6.2
+        - cpe:/a:redhat:satellite:6.2::el7
+        - cpe:/a:redhat:satellite_capsule:6.2
+        - cpe:/a:redhat:satellite_capsule:6.2::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2013-2099
+          Severity: LOW
+        - ID: CVE-2015-0203
+          Severity: MEDIUM
+        - ID: CVE-2015-0223
+          Severity: MEDIUM
+        - ID: CVE-2015-0224
+          Severity: MEDIUM
+        - ID: CVE-2015-1609
+          Severity: MEDIUM
+        - ID: CVE-2016-2100
+          Severity: MEDIUM
+      FixedVersion: 1:20.4-1.6.el7sat

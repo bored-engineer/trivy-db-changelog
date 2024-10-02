@@ -1,5 +1,7 @@
 Entries:
     - Affected:
+        - cpe:/a:redhat:rhel_aus:8.8
+        - cpe:/a:redhat:rhel_aus:8.8::appstream
         - cpe:/a:redhat:rhel_e4s:8.8
         - cpe:/a:redhat:rhel_e4s:8.8::appstream
         - cpe:/a:redhat:rhel_e4s:8.8::highavailability
@@ -20,6 +22,8 @@ Entries:
         - cpe:/a:redhat:rhel_tus:8.8::highavailability
         - cpe:/a:redhat:rhel_tus:8.8::nfv
         - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_aus:8.8
+        - cpe:/o:redhat:rhel_aus:8.8::baseos
         - cpe:/o:redhat:rhel_e4s:8.8
         - cpe:/o:redhat:rhel_e4s:8.8::baseos
         - cpe:/o:redhat:rhel_eus:8.8

@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:9.2
+        - cpe:/a:redhat:rhel_aus:9.2::appstream
+        - cpe:/o:redhat:rhel_aus:9.2
+        - cpe:/o:redhat:rhel_aus:9.2::baseos
+      Cves:
+        - ID: CVE-2023-20584
+          Severity: MEDIUM
+        - ID: CVE-2023-31356
+          Severity: MEDIUM
+      FixedVersion: 1:25.30.13.0-138.3.el9_2

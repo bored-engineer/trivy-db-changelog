@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:9.2
+        - cpe:/a:redhat:rhel_aus:9.2::appstream
+        - cpe:/o:redhat:rhel_aus:9.2
+        - cpe:/o:redhat:rhel_aus:9.2::baseos
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2024-27415
+          Severity: MEDIUM
+        - ID: CVE-2024-36270
+          Severity: MEDIUM
+        - ID: CVE-2024-36979
+          Severity: MEDIUM
+        - ID: CVE-2024-38558
+          Severity: MEDIUM
+      FixedVersion: 0:5.14.0-284.86.1.el9_2

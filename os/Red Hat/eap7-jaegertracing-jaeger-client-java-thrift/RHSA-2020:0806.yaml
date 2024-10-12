@@ -1,0 +1,26 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2::el8
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el8
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el8
+      Cves:
+        - ID: CVE-2019-0205
+          Severity: MEDIUM
+        - ID: CVE-2019-0210
+          Severity: MEDIUM
+        - ID: CVE-2019-10086
+          Severity: HIGH
+        - ID: CVE-2019-12400
+          Severity: MEDIUM
+        - ID: CVE-2019-14887
+          Severity: MEDIUM
+        - ID: CVE-2019-20444
+          Severity: HIGH
+        - ID: CVE-2019-20445
+          Severity: HIGH
+        - ID: CVE-2020-7238
+          Severity: HIGH
+      FixedVersion: 0:0.34.1-1.redhat_00002.1.el8eap

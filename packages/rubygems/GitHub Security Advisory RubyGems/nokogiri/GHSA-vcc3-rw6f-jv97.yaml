@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 1.15.6
+    - 1.16.2
+VulnerableVersions:
+    - <1.15.6
+    - '>=1.16.0, <1.16.2'

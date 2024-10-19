@@ -1,0 +1,28 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.1
+        - cpe:/a:redhat:rhel_e4s:8.1::appstream
+        - cpe:/a:redhat:rhel_e4s:8.1::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.1::sap
+        - cpe:/a:redhat:rhel_e4s:8.1::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.1
+        - cpe:/o:redhat:rhel_e4s:8.1::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2023-44488
+          Severity: HIGH
+        - ID: CVE-2023-5721
+          Severity: HIGH
+        - ID: CVE-2023-5724
+          Severity: MEDIUM
+        - ID: CVE-2023-5725
+          Severity: MEDIUM
+        - ID: CVE-2023-5728
+          Severity: MEDIUM
+        - ID: CVE-2023-5730
+          Severity: HIGH
+        - ID: CVE-2023-5732
+          Severity: MEDIUM
+      FixedVersion: 0:115.4.1-1.el8_1

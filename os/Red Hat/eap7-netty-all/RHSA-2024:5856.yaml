@@ -1,0 +1,60 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.1::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3::el7
+      Cves:
+        - ID: CVE-2019-10086
+          Severity: HIGH
+        - ID: CVE-2019-10174
+          Severity: HIGH
+        - ID: CVE-2019-12384
+          Severity: HIGH
+        - ID: CVE-2019-14379
+          Severity: HIGH
+        - ID: CVE-2019-14843
+          Severity: HIGH
+        - ID: CVE-2019-14888
+          Severity: HIGH
+        - ID: CVE-2019-16869
+          Severity: HIGH
+        - ID: CVE-2019-17531
+          Severity: HIGH
+        - ID: CVE-2019-20444
+          Severity: HIGH
+        - ID: CVE-2019-20445
+          Severity: HIGH
+        - ID: CVE-2019-9511
+          Severity: HIGH
+        - ID: CVE-2019-9512
+          Severity: HIGH
+        - ID: CVE-2019-9514
+          Severity: HIGH
+        - ID: CVE-2019-9515
+          Severity: HIGH
+        - ID: CVE-2020-1710
+          Severity: HIGH
+        - ID: CVE-2020-1745
+          Severity: HIGH
+        - ID: CVE-2020-1757
+          Severity: HIGH
+        - ID: CVE-2021-4104
+          Severity: MEDIUM
+        - ID: CVE-2022-23302
+          Severity: MEDIUM
+        - ID: CVE-2022-23305
+          Severity: HIGH
+        - ID: CVE-2022-23307
+          Severity: HIGH
+      FixedVersion: 0:4.1.45-1.Final_redhat_00001.1.ep7.el7

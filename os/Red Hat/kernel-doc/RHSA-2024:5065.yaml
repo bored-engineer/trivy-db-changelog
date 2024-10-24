@@ -1,0 +1,47 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6
+        - cpe:/a:redhat:rhel_e4s:8.6::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.6::nfv
+        - cpe:/a:redhat:rhel_e4s:8.6::sap
+        - cpe:/a:redhat:rhel_e4s:8.6::sap_hana
+        - cpe:/a:redhat:rhel_tus:8.6
+        - cpe:/a:redhat:rhel_tus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6::highavailability
+        - cpe:/a:redhat:rhel_tus:8.6::nfv
+        - cpe:/a:redhat:rhel_tus:8.6::realtime
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+        - cpe:/o:redhat:rhel_e4s:8.6
+        - cpe:/o:redhat:rhel_e4s:8.6::baseos
+        - cpe:/o:redhat:rhel_tus:8.6
+        - cpe:/o:redhat:rhel_tus:8.6::baseos
+      Cves:
+        - ID: CVE-2021-47393
+          Severity: MEDIUM
+        - ID: CVE-2023-52486
+          Severity: MEDIUM
+        - ID: CVE-2024-26640
+          Severity: MEDIUM
+        - ID: CVE-2024-26810
+          Severity: MEDIUM
+        - ID: CVE-2024-26826
+          Severity: MEDIUM
+        - ID: CVE-2024-26870
+          Severity: MEDIUM
+        - ID: CVE-2024-26961
+          Severity: MEDIUM
+        - ID: CVE-2024-33621
+          Severity: MEDIUM
+        - ID: CVE-2024-35789
+          Severity: MEDIUM
+        - ID: CVE-2024-36000
+          Severity: MEDIUM
+        - ID: CVE-2024-36489
+          Severity: LOW
+        - ID: CVE-2024-38555
+          Severity: MEDIUM
+      FixedVersion: 0:4.18.0-372.115.1.el8_6

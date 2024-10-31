@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.12
+        - cpe:/a:redhat:openshift:4.12::el8
+      Cves:
+        - ID: CVE-2023-3089
+          Severity: MEDIUM
+      FixedVersion: 0:4.12.0-202306230041.p0.g74dc7b3.assembly.stream.el8

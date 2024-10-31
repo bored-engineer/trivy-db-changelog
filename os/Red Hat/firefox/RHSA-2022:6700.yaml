@@ -78,6 +78,8 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2022-3266
+          Severity: HIGH
         - ID: CVE-2022-40956
           Severity: LOW
         - ID: CVE-2022-40957

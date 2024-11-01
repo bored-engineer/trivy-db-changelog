@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.0
+        - cpe:/a:redhat:rhel_e4s:9.0::appstream
+        - cpe:/a:redhat:rhel_e4s:9.0::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.0::nfv
+        - cpe:/a:redhat:rhel_e4s:9.0::realtime
+        - cpe:/a:redhat:rhel_e4s:9.0::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.0::sap
+        - cpe:/a:redhat:rhel_e4s:9.0::sap_hana
+        - cpe:/o:redhat:rhel_e4s:9.0
+        - cpe:/o:redhat:rhel_e4s:9.0::baseos
+      Cves:
+        - ID: CVE-2024-39936
+          Severity: HIGH
+      FixedVersion: 0:5.15.2-30.el9_0

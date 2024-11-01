@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift_application_runtimes:1.0
+        - cpe:/a:redhat:openshift_application_runtimes:1.0::el7
+      Cves:
+        - ID: CVE-2018-0732
+          Severity: MEDIUM
+        - ID: CVE-2018-12115
+          Severity: HIGH
+      FixedVersion: 1:8.11.4-2.el7

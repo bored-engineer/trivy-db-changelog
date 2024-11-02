@@ -1,0 +1,62 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2016-5147
+          Severity: HIGH
+        - ID: CVE-2016-5148
+          Severity: HIGH
+        - ID: CVE-2016-5149
+          Severity: HIGH
+        - ID: CVE-2016-5150
+          Severity: HIGH
+        - ID: CVE-2016-5151
+          Severity: HIGH
+        - ID: CVE-2016-5152
+          Severity: HIGH
+        - ID: CVE-2016-5153
+          Severity: HIGH
+        - ID: CVE-2016-5154
+          Severity: HIGH
+        - ID: CVE-2016-5155
+          Severity: HIGH
+        - ID: CVE-2016-5156
+          Severity: HIGH
+        - ID: CVE-2016-5157
+          Severity: HIGH
+        - ID: CVE-2016-5158
+          Severity: HIGH
+        - ID: CVE-2016-5159
+          Severity: HIGH
+        - ID: CVE-2016-5160
+          Severity: LOW
+        - ID: CVE-2016-5161
+          Severity: MEDIUM
+        - ID: CVE-2016-5162
+          Severity: MEDIUM
+        - ID: CVE-2016-5163
+          Severity: MEDIUM
+        - ID: CVE-2016-5164
+          Severity: MEDIUM
+        - ID: CVE-2016-5165
+          Severity: MEDIUM
+        - ID: CVE-2016-5166
+          Severity: MEDIUM
+        - ID: CVE-2016-5167
+          Severity: HIGH
+      FixedVersion: 0:53.0.2785.89-3.el6

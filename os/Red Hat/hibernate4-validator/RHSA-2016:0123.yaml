@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el7
+      Cves:
+        - ID: CVE-2015-0254
+          Severity: HIGH
+      FixedVersion: 0:4.3.2-3.Final_redhat_3.1.ep6.el7

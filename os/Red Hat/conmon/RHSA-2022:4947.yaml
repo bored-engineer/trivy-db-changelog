@@ -1,0 +1,29 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.6
+        - cpe:/a:redhat:openshift:4.6::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-1708
+          Severity: MEDIUM
+        - ID: CVE-2022-29036
+          Severity: HIGH
+        - ID: CVE-2022-29046
+          Severity: HIGH
+      FixedVersion: 2:2.0.21-3.rhaos4.6.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.6
+        - cpe:/a:redhat:openshift:4.6::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-1708
+          Severity: MEDIUM
+        - ID: CVE-2022-29036
+          Severity: HIGH
+        - ID: CVE-2022-29046
+          Severity: HIGH
+      FixedVersion: 2:2.0.21-3.rhaos4.6.el8

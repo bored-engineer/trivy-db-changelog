@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.6
+        - cpe:/a:redhat:openshift:3.6::el7
+      Cves:
+        - ID: CVE-2017-1000085
+          Severity: LOW
+        - ID: CVE-2017-1000089
+          Severity: LOW
+        - ID: CVE-2017-1000092
+          Severity: LOW
+        - ID: CVE-2017-1000096
+          Severity: HIGH
+      FixedVersion: 0:0.8.6-1.el7

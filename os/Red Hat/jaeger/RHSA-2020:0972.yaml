@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:service_mesh:1.0
+        - cpe:/a:redhat:service_mesh:1.0::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-1762
+          Severity: LOW
+        - ID: CVE-2020-8124
+          Severity: MEDIUM
+      FixedVersion: 0:v1.13.1.redhat6-1.el7

@@ -1,0 +1,78 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2019-5754
+          Severity: CRITICAL
+        - ID: CVE-2019-5755
+          Severity: HIGH
+        - ID: CVE-2019-5756
+          Severity: HIGH
+        - ID: CVE-2019-5757
+          Severity: HIGH
+        - ID: CVE-2019-5758
+          Severity: HIGH
+        - ID: CVE-2019-5759
+          Severity: HIGH
+        - ID: CVE-2019-5760
+          Severity: HIGH
+        - ID: CVE-2019-5761
+          Severity: HIGH
+        - ID: CVE-2019-5762
+          Severity: HIGH
+        - ID: CVE-2019-5763
+          Severity: HIGH
+        - ID: CVE-2019-5764
+          Severity: HIGH
+        - ID: CVE-2019-5765
+          Severity: HIGH
+        - ID: CVE-2019-5766
+          Severity: MEDIUM
+        - ID: CVE-2019-5767
+          Severity: MEDIUM
+        - ID: CVE-2019-5768
+          Severity: MEDIUM
+        - ID: CVE-2019-5769
+          Severity: MEDIUM
+        - ID: CVE-2019-5770
+          Severity: MEDIUM
+        - ID: CVE-2019-5771
+          Severity: MEDIUM
+        - ID: CVE-2019-5772
+          Severity: MEDIUM
+        - ID: CVE-2019-5773
+          Severity: MEDIUM
+        - ID: CVE-2019-5774
+          Severity: MEDIUM
+        - ID: CVE-2019-5775
+          Severity: MEDIUM
+        - ID: CVE-2019-5776
+          Severity: MEDIUM
+        - ID: CVE-2019-5777
+          Severity: MEDIUM
+        - ID: CVE-2019-5778
+          Severity: LOW
+        - ID: CVE-2019-5779
+          Severity: LOW
+        - ID: CVE-2019-5780
+          Severity: LOW
+        - ID: CVE-2019-5781
+          Severity: LOW
+        - ID: CVE-2019-5782
+          Severity: HIGH
+      FixedVersion: 0:72.0.3626.81-1.el6_10

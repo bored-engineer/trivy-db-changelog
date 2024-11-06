@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-0543
+          Severity: MEDIUM
+        - ID: CVE-2020-0548
+          Severity: LOW
+        - ID: CVE-2020-0549
+          Severity: MEDIUM
+      FixedVersion: 2:1.17-17.31.el6_5

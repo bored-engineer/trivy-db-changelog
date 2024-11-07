@@ -1,0 +1,44 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.1
+        - cpe:/a:redhat:rhel_e4s:8.1::appstream
+        - cpe:/a:redhat:rhel_e4s:8.1::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.1::sap
+        - cpe:/a:redhat:rhel_e4s:8.1::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.1
+        - cpe:/a:redhat:rhel_eus:8.1::appstream
+        - cpe:/a:redhat:rhel_eus:8.1::crb
+        - cpe:/a:redhat:rhel_eus:8.1::highavailability
+        - cpe:/a:redhat:rhel_eus:8.1::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.1::sap
+        - cpe:/a:redhat:rhel_eus:8.1::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.1::supplementary
+        - cpe:/o:redhat:rhel_e4s:8.1
+        - cpe:/o:redhat:rhel_e4s:8.1::baseos
+        - cpe:/o:redhat:rhel_eus:8.1
+        - cpe:/o:redhat:rhel_eus:8.1::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-10130
+          Severity: LOW
+        - ID: CVE-2019-10164
+          Severity: MEDIUM
+        - ID: CVE-2019-10208
+          Severity: MEDIUM
+        - ID: CVE-2020-14349
+          Severity: MEDIUM
+        - ID: CVE-2020-14350
+          Severity: MEDIUM
+        - ID: CVE-2020-1720
+          Severity: LOW
+        - ID: CVE-2020-25694
+          Severity: HIGH
+        - ID: CVE-2020-25695
+          Severity: HIGH
+        - ID: CVE-2020-25696
+          Severity: MEDIUM
+      FixedVersion: 0:10.15-1.module+el8.1.0+9154+cd474635

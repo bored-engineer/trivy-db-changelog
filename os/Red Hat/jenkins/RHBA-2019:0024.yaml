@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2018-1000861
+          Severity: HIGH
+        - ID: CVE-2018-1000862
+          Severity: MEDIUM
+        - ID: CVE-2018-1000863
+          Severity: MEDIUM
+        - ID: CVE-2018-1000864
+          Severity: MEDIUM
+      FixedVersion: 0:2.138.4.1544416383-1.el7

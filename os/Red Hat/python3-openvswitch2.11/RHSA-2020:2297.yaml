@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::fastdatapath
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-10722
+          Severity: MEDIUM
+        - ID: CVE-2020-10723
+          Severity: MEDIUM
+        - ID: CVE-2020-10724
+          Severity: MEDIUM
+      FixedVersion: 0:2.11.0-54.20200327gita4efc59.el8fdp

@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16.1
+        - cpe:/a:redhat:openstack:16.1::el8
+      Cves:
+        - ID: CVE-2021-22570
+          Severity: MEDIUM
+      FixedVersion: 0:3.6.1-6.el8ost

@@ -1,0 +1,26 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:4
+        - cpe:/a:redhat:ceph_storage:4::el7
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2020-25678
+          Severity: MEDIUM
+        - ID: CVE-2021-3139
+          Severity: HIGH
+      FixedVersion: 2:14.2.11-147.el7cp
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:4
+        - cpe:/a:redhat:ceph_storage:4::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-25678
+          Severity: MEDIUM
+        - ID: CVE-2021-3139
+          Severity: HIGH
+      FixedVersion: 2:14.2.11-147.el8cp

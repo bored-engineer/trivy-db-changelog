@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0::el9
+      Cves:
+        - ID: CVE-2023-4503
+          Severity: MEDIUM
+        - ID: CVE-2023-6236
+          Severity: MEDIUM
+        - ID: CVE-2024-1102
+          Severity: MEDIUM
+        - ID: CVE-2024-1233
+          Severity: MEDIUM
+      FixedVersion: 0:5.2.23-1.Final_redhat_00001.1.el9eap

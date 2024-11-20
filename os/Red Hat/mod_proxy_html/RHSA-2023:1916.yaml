@@ -1,0 +1,33 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.0
+        - cpe:/a:redhat:rhel_e4s:9.0::appstream
+        - cpe:/a:redhat:rhel_e4s:9.0::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.0::nfv
+        - cpe:/a:redhat:rhel_e4s:9.0::realtime
+        - cpe:/a:redhat:rhel_e4s:9.0::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.0::sap
+        - cpe:/a:redhat:rhel_e4s:9.0::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.0
+        - cpe:/a:redhat:rhel_eus:9.0::appstream
+        - cpe:/a:redhat:rhel_eus:9.0::crb
+        - cpe:/a:redhat:rhel_eus:9.0::highavailability
+        - cpe:/a:redhat:rhel_eus:9.0::nfv
+        - cpe:/a:redhat:rhel_eus:9.0::realtime
+        - cpe:/a:redhat:rhel_eus:9.0::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.0::sap
+        - cpe:/a:redhat:rhel_eus:9.0::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.0::supplementary
+        - cpe:/o:redhat:rhel_e4s:9.0
+        - cpe:/o:redhat:rhel_e4s:9.0::baseos
+        - cpe:/o:redhat:rhel_eus:9.0
+        - cpe:/o:redhat:rhel_eus:9.0::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2023-25690
+          Severity: HIGH
+      FixedVersion: 1:2.4.51-7.el9_0.4

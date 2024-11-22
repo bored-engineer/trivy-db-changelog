@@ -1,0 +1,17 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:devtools:2
+        - cpe:/a:redhat:devtools:2018
+        - cpe:/a:redhat:devtools:2019
+        - cpe:/a:redhat:devtools:2020
+        - cpe:/a:redhat:devtools:2021
+        - cpe:/a:redhat:devtools:2022
+        - cpe:/a:redhat:devtools:2023
+        - cpe:/a:redhat:devtools:2023::el7
+        - cpe:/a:redhat:devtools:2::el7
+      Cves:
+        - ID: CVE-2020-36317
+          Severity: LOW
+        - ID: CVE-2020-36318
+          Severity: LOW
+      FixedVersion: 0:1.49.0-1.el7_9

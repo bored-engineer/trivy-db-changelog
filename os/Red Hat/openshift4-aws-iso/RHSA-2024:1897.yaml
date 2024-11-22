@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el8
+      Cves:
+        - ID: CVE-2023-45288
+          Severity: HIGH
+        - ID: CVE-2024-1394
+          Severity: HIGH
+      FixedVersion: 0:4.14.0-202404151639.p0.gd2acdd5.assembly.stream.el8

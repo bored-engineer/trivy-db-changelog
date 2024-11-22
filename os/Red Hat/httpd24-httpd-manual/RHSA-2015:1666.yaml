@@ -1,0 +1,37 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Cves:
+        - ID: CVE-2015-0228
+          Severity: LOW
+        - ID: CVE-2015-0253
+          Severity: LOW
+        - ID: CVE-2015-3183
+          Severity: MEDIUM
+        - ID: CVE-2015-3185
+          Severity: MEDIUM
+      FixedVersion: 0:2.4.12-4.el6.2
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Cves:
+        - ID: CVE-2015-0228
+          Severity: LOW
+        - ID: CVE-2015-0253
+          Severity: LOW
+        - ID: CVE-2015-3183
+          Severity: MEDIUM
+        - ID: CVE-2015-3185
+          Severity: MEDIUM
+      FixedVersion: 0:2.4.12-6.el7.1

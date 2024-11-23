@@ -1,0 +1,13 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.6
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.6
+        - cpe:/o:redhat:rhel_e4s:7.6
+        - cpe:/o:redhat:rhel_e4s:7.6::server
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2020-36385
+          Severity: HIGH
+      FixedVersion: 0:1-4.el7

@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-director:8
+        - cpe:/a:redhat:openstack-director:8::el7
+        - cpe:/a:redhat:openstack-optools:8
+        - cpe:/a:redhat:openstack-optools:8::el7
+        - cpe:/a:redhat:openstack:8
+        - cpe:/a:redhat:openstack:8::el7
+      Cves:
+        - ID: CVE-2015-8914
+          Severity: LOW
+        - ID: CVE-2016-5362
+          Severity: LOW
+        - ID: CVE-2016-5363
+          Severity: LOW
+      FixedVersion: 1:7.0.4-11.el7ost

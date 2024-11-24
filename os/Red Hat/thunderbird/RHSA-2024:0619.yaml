@@ -1,0 +1,66 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2
+        - cpe:/a:redhat:rhel_tus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2::highavailability
+        - cpe:/a:redhat:rhel_tus:8.2::nfv
+        - cpe:/a:redhat:rhel_tus:8.2::realtime
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+        - cpe:/o:redhat:rhel_tus:8.2
+        - cpe:/o:redhat:rhel_tus:8.2::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2024-0741
+          Severity: HIGH
+        - ID: CVE-2024-0742
+          Severity: HIGH
+        - ID: CVE-2024-0746
+          Severity: MEDIUM
+        - ID: CVE-2024-0747
+          Severity: MEDIUM
+        - ID: CVE-2024-0749
+          Severity: MEDIUM
+        - ID: CVE-2024-0750
+          Severity: MEDIUM
+        - ID: CVE-2024-0751
+          Severity: MEDIUM
+        - ID: CVE-2024-0753
+          Severity: MEDIUM
+        - ID: CVE-2024-0755
+          Severity: MEDIUM
+      FixedVersion: 0:115.7.0-1.el8_2
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.2
+        - cpe:/a:redhat:rhel_e4s:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.2::sap
+        - cpe:/a:redhat:rhel_e4s:8.2::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.2
+        - cpe:/o:redhat:rhel_e4s:8.2::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2024-0741
+          Severity: HIGH
+        - ID: CVE-2024-0742
+          Severity: HIGH
+        - ID: CVE-2024-0746
+          Severity: MEDIUM
+        - ID: CVE-2024-0747
+          Severity: MEDIUM
+        - ID: CVE-2024-0749
+          Severity: MEDIUM
+        - ID: CVE-2024-0750
+          Severity: MEDIUM
+        - ID: CVE-2024-0751
+          Severity: MEDIUM
+        - ID: CVE-2024-0753
+          Severity: MEDIUM
+        - ID: CVE-2024-0755
+          Severity: MEDIUM
+      FixedVersion: 0:115.7.0-1.el8_2

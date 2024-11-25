@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+      Cves:
+        - ID: CVE-2018-10675
+          Severity: HIGH
+        - ID: CVE-2018-14634
+          Severity: HIGH
+        - ID: CVE-2018-5391
+          Severity: HIGH
+      FixedVersion: 0:2.6.32-573.65.2.el6

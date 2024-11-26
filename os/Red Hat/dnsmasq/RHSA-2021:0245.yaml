@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-25684
+          Severity: MEDIUM
+        - ID: CVE-2020-25685
+          Severity: MEDIUM
+        - ID: CVE-2020-25686
+          Severity: MEDIUM
+      FixedVersion: 0:2.66-21.el7_3.3

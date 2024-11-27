@@ -5,6 +5,8 @@ Entries:
         - cpe:/o:redhat:rhel_aus:8.2
         - cpe:/o:redhat:rhel_aus:8.2::baseos
       Cves:
+        - ID: CVE-2023-31315
+          Severity: HIGH
         - ID: CVE-2023-31346
           Severity: MEDIUM
       FixedVersion: 0:9.221.4.1-102.2.el8_2.1

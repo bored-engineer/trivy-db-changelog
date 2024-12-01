@@ -1,0 +1,33 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2014-7169
+          Severity: HIGH
+        - ID: CVE-2014-7186
+          Severity: MEDIUM
+        - ID: CVE-2014-7187
+          Severity: MEDIUM
+      FixedVersion: 0:4.1.2-9.el6_2.2
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+        - cpe:/o:redhat:rhel_eus:6.4
+        - cpe:/o:redhat:rhel_eus:6.4::computenode
+        - cpe:/o:redhat:rhel_eus:6.4::server
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2014-7169
+          Severity: HIGH
+        - ID: CVE-2014-7186
+          Severity: MEDIUM
+        - ID: CVE-2014-7187
+          Severity: MEDIUM
+      FixedVersion: 0:4.1.2-15.el6_4.2

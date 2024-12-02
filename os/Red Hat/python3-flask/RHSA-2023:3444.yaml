@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16.2
+        - cpe:/a:redhat:openstack:16.2::el8
+      Cves:
+        - ID: CVE-2023-30861
+          Severity: HIGH
+      FixedVersion: 1:1.0.2-8.el8ost

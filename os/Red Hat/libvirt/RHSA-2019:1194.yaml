@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-12126
+          Severity: MEDIUM
+        - ID: CVE-2018-12127
+          Severity: MEDIUM
+        - ID: CVE-2018-12130
+          Severity: HIGH
+        - ID: CVE-2019-11091
+          Severity: MEDIUM
+      FixedVersion: 0:0.10.2-46.el6_6.10

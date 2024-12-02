@@ -41,6 +41,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2024-36025
           Severity: MEDIUM
+        - ID: CVE-2024-36924
+          Severity: MEDIUM
         - ID: CVE-2024-36952
           Severity: MEDIUM
         - ID: CVE-2024-38558

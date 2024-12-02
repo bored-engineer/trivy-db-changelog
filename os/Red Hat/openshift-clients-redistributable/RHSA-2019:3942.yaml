@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.1
+        - cpe:/a:redhat:openshift:4.1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-11244
+          Severity: LOW
+      FixedVersion: 0:4.1.24-201911080309.git.0.c41acf2.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.1
+        - cpe:/a:redhat:openshift:4.1::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-11244
+          Severity: LOW
+      FixedVersion: 0:4.1.24-201911080309.git.0.c41acf2.el8

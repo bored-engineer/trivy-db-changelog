@@ -1,0 +1,36 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6::server
+        - cpe:/o:redhat:rhel_tus:7.6
+        - cpe:/o:redhat:rhel_tus:7.6::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-19532
+          Severity: MEDIUM
+        - ID: CVE-2020-12362
+          Severity: HIGH
+        - ID: CVE-2020-25211
+          Severity: HIGH
+        - ID: CVE-2020-25705
+          Severity: MEDIUM
+      FixedVersion: 0:3.10.0-957.76.1.el7
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.6
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.6
+        - cpe:/o:redhat:rhel_e4s:7.6
+        - cpe:/o:redhat:rhel_e4s:7.6::server
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2019-19532
+          Severity: MEDIUM
+        - ID: CVE-2020-12362
+          Severity: HIGH
+        - ID: CVE-2020-25211
+          Severity: HIGH
+        - ID: CVE-2020-25705
+          Severity: MEDIUM
+      FixedVersion: 0:3.10.0-957.76.1.el7

@@ -178,6 +178,7 @@ Entries:
         - ID: CVE-2018-9305
           Severity: LOW
         - ID: CVE-2018-9306
+          Severity: LOW
         - ID: CVE-2019-13109
           Severity: LOW
         - ID: CVE-2019-13111

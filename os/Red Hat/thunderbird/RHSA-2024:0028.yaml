@@ -1,0 +1,75 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.4
+        - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_tus:8.4
+        - cpe:/a:redhat:rhel_tus:8.4::appstream
+        - cpe:/a:redhat:rhel_tus:8.4::highavailability
+        - cpe:/a:redhat:rhel_tus:8.4::nfv
+        - cpe:/a:redhat:rhel_tus:8.4::realtime
+        - cpe:/o:redhat:rhel_aus:8.4
+        - cpe:/o:redhat:rhel_aus:8.4::baseos
+        - cpe:/o:redhat:rhel_tus:8.4
+        - cpe:/o:redhat:rhel_tus:8.4::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-50761
+          Severity: HIGH
+        - ID: CVE-2023-50762
+          Severity: HIGH
+        - ID: CVE-2023-6856
+          Severity: HIGH
+        - ID: CVE-2023-6857
+          Severity: MEDIUM
+        - ID: CVE-2023-6858
+          Severity: MEDIUM
+        - ID: CVE-2023-6859
+          Severity: MEDIUM
+        - ID: CVE-2023-6860
+          Severity: MEDIUM
+        - ID: CVE-2023-6861
+          Severity: MEDIUM
+        - ID: CVE-2023-6862
+          Severity: MEDIUM
+        - ID: CVE-2023-6863
+          Severity: LOW
+        - ID: CVE-2023-6864
+          Severity: HIGH
+      FixedVersion: 0:115.6.0-1.el8_4
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.4
+        - cpe:/a:redhat:rhel_e4s:8.4::appstream
+        - cpe:/a:redhat:rhel_e4s:8.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.4::nfv
+        - cpe:/a:redhat:rhel_e4s:8.4::sap
+        - cpe:/a:redhat:rhel_e4s:8.4::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.4
+        - cpe:/o:redhat:rhel_e4s:8.4::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2023-50761
+          Severity: HIGH
+        - ID: CVE-2023-50762
+          Severity: HIGH
+        - ID: CVE-2023-6856
+          Severity: HIGH
+        - ID: CVE-2023-6857
+          Severity: MEDIUM
+        - ID: CVE-2023-6858
+          Severity: MEDIUM
+        - ID: CVE-2023-6859
+          Severity: MEDIUM
+        - ID: CVE-2023-6860
+          Severity: MEDIUM
+        - ID: CVE-2023-6861
+          Severity: MEDIUM
+        - ID: CVE-2023-6862
+          Severity: MEDIUM
+        - ID: CVE-2023-6863
+          Severity: LOW
+        - ID: CVE-2023-6864
+          Severity: HIGH
+      FixedVersion: 0:115.6.0-1.el8_4

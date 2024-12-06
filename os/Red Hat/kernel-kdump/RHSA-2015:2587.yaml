@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:7.1
+        - cpe:/o:redhat:rhel_eus:7.1::computenode
+        - cpe:/o:redhat:rhel_eus:7.1::server
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2015-2925
+          Severity: HIGH
+        - ID: CVE-2015-5307
+          Severity: HIGH
+        - ID: CVE-2015-7613
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-229.24.2.el7

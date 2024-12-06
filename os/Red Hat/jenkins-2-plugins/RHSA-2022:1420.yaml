@@ -1,0 +1,32 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2021-43859
+          Severity: MEDIUM
+        - ID: CVE-2022-25173
+          Severity: HIGH
+        - ID: CVE-2022-25174
+          Severity: HIGH
+        - ID: CVE-2022-25175
+          Severity: HIGH
+        - ID: CVE-2022-25176
+          Severity: MEDIUM
+        - ID: CVE-2022-25177
+          Severity: MEDIUM
+        - ID: CVE-2022-25178
+          Severity: MEDIUM
+        - ID: CVE-2022-25179
+          Severity: MEDIUM
+        - ID: CVE-2022-25180
+          Severity: MEDIUM
+        - ID: CVE-2022-25181
+          Severity: HIGH
+        - ID: CVE-2022-25182
+          Severity: HIGH
+        - ID: CVE-2022-25183
+          Severity: HIGH
+        - ID: CVE-2022-25184
+          Severity: MEDIUM
+      FixedVersion: 0:3.11.1650371376-1.el7

@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-0117
+          Severity: HIGH
+      FixedVersion: 2:1.17-17.25.el6_5

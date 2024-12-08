@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2022-21698
+          Severity: MEDIUM
+        - ID: CVE-2022-29036
+          Severity: HIGH
+        - ID: CVE-2022-29046
+          Severity: HIGH
+      FixedVersion: 0:3.11.1650628887-1.el7

@@ -1,0 +1,181 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-4792
+          Severity: MEDIUM
+        - ID: CVE-2015-4802
+          Severity: MEDIUM
+        - ID: CVE-2015-4815
+          Severity: MEDIUM
+        - ID: CVE-2015-4816
+          Severity: MEDIUM
+        - ID: CVE-2015-4819
+          Severity: LOW
+        - ID: CVE-2015-4826
+          Severity: MEDIUM
+        - ID: CVE-2015-4830
+          Severity: MEDIUM
+        - ID: CVE-2015-4836
+          Severity: MEDIUM
+        - ID: CVE-2015-4858
+          Severity: MEDIUM
+        - ID: CVE-2015-4861
+          Severity: MEDIUM
+        - ID: CVE-2015-4870
+          Severity: MEDIUM
+        - ID: CVE-2015-4879
+          Severity: MEDIUM
+        - ID: CVE-2015-4913
+          Severity: MEDIUM
+        - ID: CVE-2016-0505
+          Severity: MEDIUM
+        - ID: CVE-2016-0546
+          Severity: LOW
+        - ID: CVE-2016-0596
+          Severity: MEDIUM
+        - ID: CVE-2016-0597
+          Severity: MEDIUM
+        - ID: CVE-2016-0598
+          Severity: LOW
+        - ID: CVE-2016-0600
+          Severity: LOW
+        - ID: CVE-2016-0606
+          Severity: LOW
+        - ID: CVE-2016-0608
+          Severity: LOW
+        - ID: CVE-2016-0609
+          Severity: LOW
+        - ID: CVE-2016-0616
+          Severity: MEDIUM
+        - ID: CVE-2016-0640
+          Severity: MEDIUM
+        - ID: CVE-2016-0641
+          Severity: MEDIUM
+        - ID: CVE-2016-0642
+          Severity: MEDIUM
+        - ID: CVE-2016-0643
+          Severity: MEDIUM
+        - ID: CVE-2016-0644
+          Severity: MEDIUM
+        - ID: CVE-2016-0646
+          Severity: MEDIUM
+        - ID: CVE-2016-0647
+          Severity: MEDIUM
+        - ID: CVE-2016-0648
+          Severity: MEDIUM
+        - ID: CVE-2016-0649
+          Severity: MEDIUM
+        - ID: CVE-2016-0650
+          Severity: MEDIUM
+        - ID: CVE-2016-0651
+          Severity: LOW
+        - ID: CVE-2016-0666
+          Severity: LOW
+        - ID: CVE-2016-2047
+          Severity: MEDIUM
+        - ID: CVE-2016-3452
+          Severity: LOW
+        - ID: CVE-2016-3471
+          Severity: MEDIUM
+        - ID: CVE-2016-5444
+          Severity: LOW
+      FixedVersion: 0:5.5.49-1.el6
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-4792
+          Severity: MEDIUM
+        - ID: CVE-2015-4802
+          Severity: MEDIUM
+        - ID: CVE-2015-4815
+          Severity: MEDIUM
+        - ID: CVE-2015-4816
+          Severity: MEDIUM
+        - ID: CVE-2015-4819
+          Severity: LOW
+        - ID: CVE-2015-4826
+          Severity: MEDIUM
+        - ID: CVE-2015-4830
+          Severity: MEDIUM
+        - ID: CVE-2015-4836
+          Severity: MEDIUM
+        - ID: CVE-2015-4858
+          Severity: MEDIUM
+        - ID: CVE-2015-4861
+          Severity: MEDIUM
+        - ID: CVE-2015-4870
+          Severity: MEDIUM
+        - ID: CVE-2015-4879
+          Severity: MEDIUM
+        - ID: CVE-2015-4913
+          Severity: MEDIUM
+        - ID: CVE-2016-0505
+          Severity: MEDIUM
+        - ID: CVE-2016-0546
+          Severity: LOW
+        - ID: CVE-2016-0596
+          Severity: MEDIUM
+        - ID: CVE-2016-0597
+          Severity: MEDIUM
+        - ID: CVE-2016-0598
+          Severity: LOW
+        - ID: CVE-2016-0600
+          Severity: LOW
+        - ID: CVE-2016-0606
+          Severity: LOW
+        - ID: CVE-2016-0608
+          Severity: LOW
+        - ID: CVE-2016-0609
+          Severity: LOW
+        - ID: CVE-2016-0616
+          Severity: MEDIUM
+        - ID: CVE-2016-0640
+          Severity: MEDIUM
+        - ID: CVE-2016-0641
+          Severity: MEDIUM
+        - ID: CVE-2016-0642
+          Severity: MEDIUM
+        - ID: CVE-2016-0643
+          Severity: MEDIUM
+        - ID: CVE-2016-0644
+          Severity: MEDIUM
+        - ID: CVE-2016-0646
+          Severity: MEDIUM
+        - ID: CVE-2016-0647
+          Severity: MEDIUM
+        - ID: CVE-2016-0648
+          Severity: MEDIUM
+        - ID: CVE-2016-0649
+          Severity: MEDIUM
+        - ID: CVE-2016-0650
+          Severity: MEDIUM
+        - ID: CVE-2016-0651
+          Severity: LOW
+        - ID: CVE-2016-0666
+          Severity: LOW
+        - ID: CVE-2016-2047
+          Severity: MEDIUM
+        - ID: CVE-2016-3452
+          Severity: LOW
+        - ID: CVE-2016-3471
+          Severity: MEDIUM
+        - ID: CVE-2016-5444
+          Severity: LOW
+      FixedVersion: 0:5.5.49-1.el7

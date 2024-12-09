@@ -1,0 +1,48 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2016-5181
+          Severity: HIGH
+        - ID: CVE-2016-5182
+          Severity: HIGH
+        - ID: CVE-2016-5183
+          Severity: HIGH
+        - ID: CVE-2016-5184
+          Severity: HIGH
+        - ID: CVE-2016-5185
+          Severity: HIGH
+        - ID: CVE-2016-5186
+          Severity: MEDIUM
+        - ID: CVE-2016-5187
+          Severity: HIGH
+        - ID: CVE-2016-5188
+          Severity: MEDIUM
+        - ID: CVE-2016-5189
+          Severity: MEDIUM
+        - ID: CVE-2016-5190
+          Severity: MEDIUM
+        - ID: CVE-2016-5191
+          Severity: MEDIUM
+        - ID: CVE-2016-5192
+          Severity: MEDIUM
+        - ID: CVE-2016-5193
+          Severity: LOW
+        - ID: CVE-2016-5194
+          Severity: HIGH
+      FixedVersion: 0:54.0.2840.59-1.el6

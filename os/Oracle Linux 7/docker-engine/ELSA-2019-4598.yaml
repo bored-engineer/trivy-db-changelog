@@ -1,3 +1,5 @@
 Entries:
-    - FixedVersion: 17.06.2.ol-1.0.7.el7
+    - Arches:
+        - x86_64
+      FixedVersion: 17.06.2.ol-1.0.7.el7
 FixedVersion: 17.06.2.ol-1.0.7.el7

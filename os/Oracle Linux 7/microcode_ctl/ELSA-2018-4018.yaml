@@ -1,3 +1,5 @@
 Entries:
-    - FixedVersion: 2:2.1-22.5.0.3.el7_4
+    - Arches:
+        - x86_64
+      FixedVersion: 2:2.1-22.5.0.3.el7_4
 FixedVersion: 2:2.1-22.5.0.3.el7_4

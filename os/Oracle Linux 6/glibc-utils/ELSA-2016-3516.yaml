@@ -1,3 +1,5 @@
 Entries:
-    - FixedVersion: 2:2.12-1.166.ksplice1.el6_7.7
+    - Arches:
+        - x86_64
+      FixedVersion: 2:2.12-1.166.ksplice1.el6_7.7
 FixedVersion: 2:2.12-1.166.ksplice1.el6_7.7

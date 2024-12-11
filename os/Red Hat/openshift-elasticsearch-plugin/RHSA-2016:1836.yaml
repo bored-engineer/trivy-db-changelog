@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.1
+        - cpe:/a:redhat:openshift:3.1::el7
+        - cpe:/a:redhat:openshift:3.2
+        - cpe:/a:redhat:openshift:3.2::el7
+      Cves:
+        - ID: CVE-2016-1000219
+          Severity: MEDIUM
+        - ID: CVE-2016-1000220
+          Severity: MEDIUM
+      FixedVersion: 0:0.16.0.redhat_1-1.el7

@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.15
+        - cpe:/a:redhat:openshift:4.15::el9
+      Arches:
+        - aarch64
+        - x86_64
+      Cves:
+        - ID: CVE-2023-45288
+          Severity: HIGH
+      FixedVersion: 0:4.15.12-202405021504.p0.ge0938ef.assembly.4.15.12.el9

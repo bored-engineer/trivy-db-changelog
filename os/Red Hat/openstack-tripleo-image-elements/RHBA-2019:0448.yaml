@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-optools:13
+        - cpe:/a:redhat:openstack-optools:13::el7
+        - cpe:/a:redhat:openstack:13
+        - cpe:/a:redhat:openstack:13::el7
+      Cves:
+        - ID: CVE-2018-16849
+          Severity: MEDIUM
+      FixedVersion: 0:8.0.1-3.el7ost

@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6::server
+      Cves:
+        - ID: CVE-2022-42896
+          Severity: HIGH
+        - ID: CVE-2023-45871
+          Severity: HIGH
+        - ID: CVE-2023-4921
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-957.111.1.el7

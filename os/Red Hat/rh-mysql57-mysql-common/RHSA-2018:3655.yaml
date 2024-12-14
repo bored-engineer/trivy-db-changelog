@@ -1,0 +1,283 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-2755
+          Severity: MEDIUM
+        - ID: CVE-2018-2758
+          Severity: MEDIUM
+        - ID: CVE-2018-2759
+          Severity: MEDIUM
+        - ID: CVE-2018-2761
+          Severity: MEDIUM
+        - ID: CVE-2018-2762
+          Severity: MEDIUM
+        - ID: CVE-2018-2766
+          Severity: MEDIUM
+        - ID: CVE-2018-2769
+          Severity: MEDIUM
+        - ID: CVE-2018-2771
+          Severity: MEDIUM
+        - ID: CVE-2018-2773
+          Severity: LOW
+        - ID: CVE-2018-2775
+          Severity: MEDIUM
+        - ID: CVE-2018-2776
+          Severity: MEDIUM
+        - ID: CVE-2018-2777
+          Severity: MEDIUM
+        - ID: CVE-2018-2778
+          Severity: MEDIUM
+        - ID: CVE-2018-2779
+          Severity: MEDIUM
+        - ID: CVE-2018-2780
+          Severity: MEDIUM
+        - ID: CVE-2018-2781
+          Severity: MEDIUM
+        - ID: CVE-2018-2782
+          Severity: MEDIUM
+        - ID: CVE-2018-2784
+          Severity: MEDIUM
+        - ID: CVE-2018-2786
+          Severity: MEDIUM
+        - ID: CVE-2018-2787
+          Severity: MEDIUM
+        - ID: CVE-2018-2810
+          Severity: MEDIUM
+        - ID: CVE-2018-2812
+          Severity: MEDIUM
+        - ID: CVE-2018-2813
+          Severity: MEDIUM
+        - ID: CVE-2018-2816
+          Severity: MEDIUM
+        - ID: CVE-2018-2817
+          Severity: MEDIUM
+        - ID: CVE-2018-2818
+          Severity: MEDIUM
+        - ID: CVE-2018-2819
+          Severity: MEDIUM
+        - ID: CVE-2018-2839
+          Severity: MEDIUM
+        - ID: CVE-2018-2846
+          Severity: MEDIUM
+        - ID: CVE-2018-3054
+          Severity: MEDIUM
+        - ID: CVE-2018-3056
+          Severity: MEDIUM
+        - ID: CVE-2018-3058
+          Severity: MEDIUM
+        - ID: CVE-2018-3060
+          Severity: MEDIUM
+        - ID: CVE-2018-3061
+          Severity: MEDIUM
+        - ID: CVE-2018-3062
+          Severity: MEDIUM
+        - ID: CVE-2018-3064
+          Severity: MEDIUM
+        - ID: CVE-2018-3065
+          Severity: MEDIUM
+        - ID: CVE-2018-3066
+          Severity: LOW
+        - ID: CVE-2018-3070
+          Severity: MEDIUM
+        - ID: CVE-2018-3071
+          Severity: MEDIUM
+        - ID: CVE-2018-3077
+          Severity: MEDIUM
+        - ID: CVE-2018-3081
+          Severity: MEDIUM
+        - ID: CVE-2018-3133
+          Severity: MEDIUM
+        - ID: CVE-2018-3143
+          Severity: MEDIUM
+        - ID: CVE-2018-3144
+          Severity: MEDIUM
+        - ID: CVE-2018-3155
+          Severity: MEDIUM
+        - ID: CVE-2018-3156
+          Severity: MEDIUM
+        - ID: CVE-2018-3161
+          Severity: MEDIUM
+        - ID: CVE-2018-3162
+          Severity: MEDIUM
+        - ID: CVE-2018-3171
+          Severity: MEDIUM
+        - ID: CVE-2018-3173
+          Severity: MEDIUM
+        - ID: CVE-2018-3174
+          Severity: LOW
+        - ID: CVE-2018-3185
+          Severity: MEDIUM
+        - ID: CVE-2018-3187
+          Severity: MEDIUM
+        - ID: CVE-2018-3200
+          Severity: MEDIUM
+        - ID: CVE-2018-3247
+          Severity: MEDIUM
+        - ID: CVE-2018-3251
+          Severity: MEDIUM
+        - ID: CVE-2018-3276
+          Severity: MEDIUM
+        - ID: CVE-2018-3277
+          Severity: MEDIUM
+        - ID: CVE-2018-3278
+          Severity: MEDIUM
+        - ID: CVE-2018-3282
+          Severity: MEDIUM
+        - ID: CVE-2018-3283
+          Severity: MEDIUM
+        - ID: CVE-2018-3284
+          Severity: MEDIUM
+        - ID: CVE-2019-2731
+          Severity: MEDIUM
+      FixedVersion: 0:5.7.24-2.el6
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2018-2755
+          Severity: MEDIUM
+        - ID: CVE-2018-2758
+          Severity: MEDIUM
+        - ID: CVE-2018-2759
+          Severity: MEDIUM
+        - ID: CVE-2018-2761
+          Severity: MEDIUM
+        - ID: CVE-2018-2762
+          Severity: MEDIUM
+        - ID: CVE-2018-2766
+          Severity: MEDIUM
+        - ID: CVE-2018-2769
+          Severity: MEDIUM
+        - ID: CVE-2018-2771
+          Severity: MEDIUM
+        - ID: CVE-2018-2773
+          Severity: LOW
+        - ID: CVE-2018-2775
+          Severity: MEDIUM
+        - ID: CVE-2018-2776
+          Severity: MEDIUM
+        - ID: CVE-2018-2777
+          Severity: MEDIUM
+        - ID: CVE-2018-2778
+          Severity: MEDIUM
+        - ID: CVE-2018-2779
+          Severity: MEDIUM
+        - ID: CVE-2018-2780
+          Severity: MEDIUM
+        - ID: CVE-2018-2781
+          Severity: MEDIUM
+        - ID: CVE-2018-2782
+          Severity: MEDIUM
+        - ID: CVE-2018-2784
+          Severity: MEDIUM
+        - ID: CVE-2018-2786
+          Severity: MEDIUM
+        - ID: CVE-2018-2787
+          Severity: MEDIUM
+        - ID: CVE-2018-2810
+          Severity: MEDIUM
+        - ID: CVE-2018-2812
+          Severity: MEDIUM
+        - ID: CVE-2018-2813
+          Severity: MEDIUM
+        - ID: CVE-2018-2816
+          Severity: MEDIUM
+        - ID: CVE-2018-2817
+          Severity: MEDIUM
+        - ID: CVE-2018-2818
+          Severity: MEDIUM
+        - ID: CVE-2018-2819
+          Severity: MEDIUM
+        - ID: CVE-2018-2839
+          Severity: MEDIUM
+        - ID: CVE-2018-2846
+          Severity: MEDIUM
+        - ID: CVE-2018-3054
+          Severity: MEDIUM
+        - ID: CVE-2018-3056
+          Severity: MEDIUM
+        - ID: CVE-2018-3058
+          Severity: MEDIUM
+        - ID: CVE-2018-3060
+          Severity: MEDIUM
+        - ID: CVE-2018-3061
+          Severity: MEDIUM
+        - ID: CVE-2018-3062
+          Severity: MEDIUM
+        - ID: CVE-2018-3064
+          Severity: MEDIUM
+        - ID: CVE-2018-3065
+          Severity: MEDIUM
+        - ID: CVE-2018-3066
+          Severity: LOW
+        - ID: CVE-2018-3070
+          Severity: MEDIUM
+        - ID: CVE-2018-3071
+          Severity: MEDIUM
+        - ID: CVE-2018-3077
+          Severity: MEDIUM
+        - ID: CVE-2018-3081
+          Severity: MEDIUM
+        - ID: CVE-2018-3133
+          Severity: MEDIUM
+        - ID: CVE-2018-3143
+          Severity: MEDIUM
+        - ID: CVE-2018-3144
+          Severity: MEDIUM
+        - ID: CVE-2018-3155
+          Severity: MEDIUM
+        - ID: CVE-2018-3156
+          Severity: MEDIUM
+        - ID: CVE-2018-3161
+          Severity: MEDIUM
+        - ID: CVE-2018-3162
+          Severity: MEDIUM
+        - ID: CVE-2018-3171
+          Severity: MEDIUM
+        - ID: CVE-2018-3173
+          Severity: MEDIUM
+        - ID: CVE-2018-3174
+          Severity: LOW
+        - ID: CVE-2018-3185
+          Severity: MEDIUM
+        - ID: CVE-2018-3187
+          Severity: MEDIUM
+        - ID: CVE-2018-3200
+          Severity: MEDIUM
+        - ID: CVE-2018-3247
+          Severity: MEDIUM
+        - ID: CVE-2018-3251
+          Severity: MEDIUM
+        - ID: CVE-2018-3276
+          Severity: MEDIUM
+        - ID: CVE-2018-3277
+          Severity: MEDIUM
+        - ID: CVE-2018-3278
+          Severity: MEDIUM
+        - ID: CVE-2018-3282
+          Severity: MEDIUM
+        - ID: CVE-2018-3283
+          Severity: MEDIUM
+        - ID: CVE-2018-3284
+          Severity: MEDIUM
+        - ID: CVE-2019-2731
+          Severity: MEDIUM
+      FixedVersion: 0:5.7.24-1.el7

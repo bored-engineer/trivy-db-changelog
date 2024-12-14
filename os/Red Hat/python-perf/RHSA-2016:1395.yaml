@@ -1,0 +1,13 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:7.1
+        - cpe:/o:redhat:rhel_eus:7.1::computenode
+        - cpe:/o:redhat:rhel_eus:7.1::server
+      Arches:
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2015-4170
+          Severity: MEDIUM
+      FixedVersion: 0:3.10.0-229.38.1.el7

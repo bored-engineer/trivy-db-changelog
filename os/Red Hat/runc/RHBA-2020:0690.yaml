@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.1
+        - cpe:/a:redhat:openshift:4.1::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-10392
+          Severity: HIGH
+      FixedVersion: 0:1.0.0-63.rc8.rhaos4.1.git3cbe540.el8_0

@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:service_mesh:1.0
+        - cpe:/a:redhat:service_mesh:1.0::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-11253
+          Severity: HIGH
+      FixedVersion: 0:v1.0.7.redhat1-1.el7

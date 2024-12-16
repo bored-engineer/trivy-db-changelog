@@ -1,0 +1,64 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_eus:9.4
+        - cpe:/a:redhat:rhel_eus:9.4::appstream
+        - cpe:/a:redhat:rhel_eus:9.4::crb
+        - cpe:/a:redhat:rhel_eus:9.4::highavailability
+        - cpe:/a:redhat:rhel_eus:9.4::nfv
+        - cpe:/a:redhat:rhel_eus:9.4::realtime
+        - cpe:/a:redhat:rhel_eus:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.4::sap
+        - cpe:/a:redhat:rhel_eus:9.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.4::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/o:redhat:rhel_eus:9.4
+        - cpe:/o:redhat:rhel_eus:9.4::baseos
+      Arches:
+        - aarch64
+      Cves:
+        - ID: CVE-2021-47548
+          Severity: MEDIUM
+        - ID: CVE-2021-47596
+          Severity: MEDIUM
+        - ID: CVE-2022-48627
+          Severity: MEDIUM
+        - ID: CVE-2023-52638
+          Severity: MEDIUM
+        - ID: CVE-2024-26783
+          Severity: MEDIUM
+        - ID: CVE-2024-26858
+          Severity: MEDIUM
+        - ID: CVE-2024-27397
+          Severity: MEDIUM
+        - ID: CVE-2024-27435
+          Severity: MEDIUM
+        - ID: CVE-2024-35958
+          Severity: MEDIUM
+        - ID: CVE-2024-36270
+          Severity: MEDIUM
+        - ID: CVE-2024-36886
+          Severity: HIGH
+        - ID: CVE-2024-36904
+          Severity: MEDIUM
+        - ID: CVE-2024-36957
+          Severity: LOW
+        - ID: CVE-2024-38543
+          Severity: MEDIUM
+        - ID: CVE-2024-38586
+          Severity: MEDIUM
+        - ID: CVE-2024-38593
+          Severity: MEDIUM
+        - ID: CVE-2024-38663
+          Severity: LOW
+      FixedVersion: 0:5.14.0-427.26.1.el9_4

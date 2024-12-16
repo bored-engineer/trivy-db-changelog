@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:15
+        - cpe:/a:redhat:openstack:15::el8
+      Cves:
+        - ID: CVE-2020-17376
+          Severity: HIGH
+      FixedVersion: 1:19.1.0-0.20200207070459.bf9d9e5.el8ost

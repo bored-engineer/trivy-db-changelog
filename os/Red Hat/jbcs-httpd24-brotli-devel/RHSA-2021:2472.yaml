@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_core_services:1
+        - cpe:/a:redhat:jboss_core_services:1::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-8169
+          Severity: MEDIUM
+        - ID: CVE-2020-8284
+          Severity: MEDIUM
+        - ID: CVE-2020-8285
+          Severity: MEDIUM
+        - ID: CVE-2020-8286
+          Severity: MEDIUM
+        - ID: CVE-2021-22876
+          Severity: MEDIUM
+        - ID: CVE-2021-22890
+          Severity: LOW
+        - ID: CVE-2021-22901
+          Severity: HIGH
+      FixedVersion: 0:1.0.6-40.el8jbcs

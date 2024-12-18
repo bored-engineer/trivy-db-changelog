@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-optools:10
+        - cpe:/a:redhat:openstack-optools:10::el7
+        - cpe:/a:redhat:openstack:10
+        - cpe:/a:redhat:openstack:10::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-20815
+          Severity: HIGH
+      FixedVersion: 10:2.12.0-18.el7_6.6

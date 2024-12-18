@@ -1,0 +1,36 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.1
+        - cpe:/a:redhat:rhel_e4s:8.1::appstream
+        - cpe:/a:redhat:rhel_e4s:8.1::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.1::sap
+        - cpe:/a:redhat:rhel_e4s:8.1::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.1
+        - cpe:/o:redhat:rhel_e4s:8.1::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2021-4129
+          Severity: HIGH
+        - ID: CVE-2021-43528
+          Severity: LOW
+        - ID: CVE-2021-43536
+          Severity: HIGH
+        - ID: CVE-2021-43537
+          Severity: HIGH
+        - ID: CVE-2021-43538
+          Severity: HIGH
+        - ID: CVE-2021-43539
+          Severity: HIGH
+        - ID: CVE-2021-43541
+          Severity: MEDIUM
+        - ID: CVE-2021-43542
+          Severity: MEDIUM
+        - ID: CVE-2021-43543
+          Severity: MEDIUM
+        - ID: CVE-2021-43545
+          Severity: LOW
+        - ID: CVE-2021-43546
+          Severity: LOW
+      FixedVersion: 0:91.4.0-2.el8_1

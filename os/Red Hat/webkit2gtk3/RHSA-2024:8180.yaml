@@ -51,6 +51,53 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2024-40866
           Severity: MEDIUM
+        - ID: CVE-2024-44185
+          Severity: HIGH
+        - ID: CVE-2024-44187
+          Severity: MEDIUM
+        - ID: CVE-2024-4558
+          Severity: HIGH
+      FixedVersion: 0:2.46.1-2.el9_4
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+      Arches:
+        - aarch64
+        - i686
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2024-23271
+          Severity: MEDIUM
+        - ID: CVE-2024-27820
+          Severity: HIGH
+        - ID: CVE-2024-27838
+          Severity: MEDIUM
+        - ID: CVE-2024-27851
+          Severity: HIGH
+        - ID: CVE-2024-40776
+          Severity: MEDIUM
+        - ID: CVE-2024-40779
+          Severity: MEDIUM
+        - ID: CVE-2024-40780
+          Severity: MEDIUM
+        - ID: CVE-2024-40782
+          Severity: MEDIUM
+        - ID: CVE-2024-40789
+          Severity: MEDIUM
+        - ID: CVE-2024-40866
+          Severity: MEDIUM
         - ID: CVE-2024-44187
           Severity: MEDIUM
       FixedVersion: 0:2.46.1-2.el9_4

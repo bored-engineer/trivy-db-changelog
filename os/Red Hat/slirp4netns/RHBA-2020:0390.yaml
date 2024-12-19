@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-17596
+          Severity: MEDIUM
+        - ID: CVE-2020-7039
+          Severity: HIGH
+        - ID: CVE-2020-7211
+          Severity: LOW
+      FixedVersion: 0:0.4.2-3.git21fdece.el8

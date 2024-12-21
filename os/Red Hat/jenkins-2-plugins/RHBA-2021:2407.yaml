@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.6
+        - cpe:/a:redhat:openshift:4.6::el8
+      Cves:
+        - ID: CVE-2021-21642
+          Severity: HIGH
+        - ID: CVE-2021-21643
+          Severity: MEDIUM
+        - ID: CVE-2021-21644
+          Severity: MEDIUM
+        - ID: CVE-2021-21645
+          Severity: MEDIUM
+      FixedVersion: 0:4.6.1623162648-1.el8

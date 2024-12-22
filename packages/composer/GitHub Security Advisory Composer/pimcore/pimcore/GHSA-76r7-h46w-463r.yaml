@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 10.5.17
+VulnerableVersions:
+    - <10.5.17

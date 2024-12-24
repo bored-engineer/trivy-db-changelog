@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Cves:
+        - ID: CVE-2013-2596
+          Severity: HIGH
+        - ID: CVE-2014-5471
+          Severity: LOW
+        - ID: CVE-2014-5472
+          Severity: LOW
+        - ID: CVE-2014-7841
+          Severity: HIGH
+        - ID: CVE-2014-8159
+          Severity: HIGH
+      FixedVersion: 0:2.6.32-220.60.2.el6

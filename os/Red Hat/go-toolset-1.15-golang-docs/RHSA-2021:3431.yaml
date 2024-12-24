@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:devtools:2
+        - cpe:/a:redhat:devtools:2018
+        - cpe:/a:redhat:devtools:2019
+        - cpe:/a:redhat:devtools:2020
+        - cpe:/a:redhat:devtools:2021
+        - cpe:/a:redhat:devtools:2022
+        - cpe:/a:redhat:devtools:2023
+        - cpe:/a:redhat:devtools:2023::el7
+        - cpe:/a:redhat:devtools:2::el7
+      Cves:
+        - ID: CVE-2021-29923
+          Severity: MEDIUM
+        - ID: CVE-2021-33195
+          Severity: MEDIUM
+        - ID: CVE-2021-33197
+          Severity: MEDIUM
+      FixedVersion: 0:1.15.14-2.el7_9

@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2019-14819
+          Severity: HIGH
+      FixedVersion: 0:3.11.146-1.git.0.fcedb45.el7

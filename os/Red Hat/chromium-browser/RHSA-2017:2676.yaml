@@ -1,0 +1,40 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2017-5111
+          Severity: HIGH
+        - ID: CVE-2017-5112
+          Severity: HIGH
+        - ID: CVE-2017-5113
+          Severity: HIGH
+        - ID: CVE-2017-5114
+          Severity: HIGH
+        - ID: CVE-2017-5115
+          Severity: HIGH
+        - ID: CVE-2017-5116
+          Severity: HIGH
+        - ID: CVE-2017-5117
+          Severity: MEDIUM
+        - ID: CVE-2017-5118
+          Severity: MEDIUM
+        - ID: CVE-2017-5119
+          Severity: MEDIUM
+        - ID: CVE-2017-5120
+          Severity: LOW
+      FixedVersion: 0:61.0.3163.79-2.el6_9

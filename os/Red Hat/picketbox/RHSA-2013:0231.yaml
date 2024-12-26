@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el5
+      Cves:
+        - ID: CVE-2012-5629
+          Severity: HIGH
+      FixedVersion: 0:4.0.14-3.Final_redhat_3.ep6.el5
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el6
+      Cves:
+        - ID: CVE-2012-5629
+          Severity: HIGH
+      FixedVersion: 0:4.0.14-3.Final_redhat_3.ep6.el6

@@ -1,0 +1,42 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:satellite:6.9
+        - cpe:/a:redhat:satellite:6.9::el7
+        - cpe:/a:redhat:satellite_capsule:6.9
+        - cpe:/a:redhat:satellite_capsule:6.9::el7
+      Cves:
+        - ID: CVE-2015-1820
+          Severity: MEDIUM
+        - ID: CVE-2015-3448
+          Severity: LOW
+        - ID: CVE-2017-2662
+          Severity: LOW
+        - ID: CVE-2018-1000119
+          Severity: MEDIUM
+        - ID: CVE-2019-16782
+          Severity: MEDIUM
+        - ID: CVE-2019-18874
+          Severity: MEDIUM
+        - ID: CVE-2020-11612
+          Severity: LOW
+        - ID: CVE-2020-14335
+          Severity: MEDIUM
+        - ID: CVE-2020-15169
+          Severity: LOW
+        - ID: CVE-2020-25633
+          Severity: MEDIUM
+        - ID: CVE-2020-8162
+          Severity: LOW
+        - ID: CVE-2020-8164
+          Severity: LOW
+        - ID: CVE-2020-8165
+          Severity: LOW
+        - ID: CVE-2020-8166
+          Severity: LOW
+        - ID: CVE-2020-8167
+          Severity: LOW
+        - ID: CVE-2020-8185
+          Severity: MEDIUM
+        - ID: CVE-2020-9402
+          Severity: LOW
+      FixedVersion: 0:1.1.0-4.el7sat

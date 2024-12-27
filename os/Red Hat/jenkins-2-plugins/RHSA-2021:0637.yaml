@@ -1,0 +1,44 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2020-11979
+          Severity: MEDIUM
+        - ID: CVE-2020-1945
+          Severity: MEDIUM
+        - ID: CVE-2020-2304
+          Severity: HIGH
+        - ID: CVE-2020-2305
+          Severity: HIGH
+        - ID: CVE-2020-2306
+          Severity: MEDIUM
+        - ID: CVE-2020-2307
+          Severity: MEDIUM
+        - ID: CVE-2020-2308
+          Severity: MEDIUM
+        - ID: CVE-2020-2309
+          Severity: MEDIUM
+        - ID: CVE-2020-25658
+          Severity: MEDIUM
+        - ID: CVE-2021-21602
+          Severity: MEDIUM
+        - ID: CVE-2021-21603
+          Severity: HIGH
+        - ID: CVE-2021-21604
+          Severity: HIGH
+        - ID: CVE-2021-21605
+          Severity: HIGH
+        - ID: CVE-2021-21606
+          Severity: MEDIUM
+        - ID: CVE-2021-21607
+          Severity: MEDIUM
+        - ID: CVE-2021-21608
+          Severity: HIGH
+        - ID: CVE-2021-21609
+          Severity: LOW
+        - ID: CVE-2021-21610
+          Severity: HIGH
+        - ID: CVE-2021-21611
+          Severity: HIGH
+      FixedVersion: 0:3.11.1612862361-1.el7

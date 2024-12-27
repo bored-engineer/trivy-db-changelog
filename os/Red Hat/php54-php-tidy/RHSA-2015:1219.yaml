@@ -1,0 +1,30 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-4021
+          Severity: MEDIUM
+        - ID: CVE-2015-4022
+          Severity: MEDIUM
+        - ID: CVE-2015-4024
+          Severity: MEDIUM
+        - ID: CVE-2015-4025
+          Severity: MEDIUM
+        - ID: CVE-2015-4026
+          Severity: LOW
+        - ID: CVE-2015-4598
+          Severity: MEDIUM
+        - ID: CVE-2015-4643
+          Severity: MEDIUM
+        - ID: CVE-2015-4644
+          Severity: LOW
+      FixedVersion: 0:5.4.40-3.el6

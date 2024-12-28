@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 18.4.1
+    - 19.1.1
+VulnerableVersions:
+    - <18.4.1
+    - '>=19.0.0, <19.1.1'

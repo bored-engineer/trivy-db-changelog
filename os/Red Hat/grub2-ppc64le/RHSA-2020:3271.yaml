@@ -1,0 +1,35 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.6
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.6
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.6
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6::server
+        - cpe:/o:redhat:rhel_e4s:7.6
+        - cpe:/o:redhat:rhel_e4s:7.6::server
+        - cpe:/o:redhat:rhel_eus:7.6
+        - cpe:/o:redhat:rhel_eus:7.6::computenode
+        - cpe:/o:redhat:rhel_eus:7.6::server
+        - cpe:/o:redhat:rhel_tus:7.6
+        - cpe:/o:redhat:rhel_tus:7.6::server
+      Arches:
+        - ppc64le
+      Cves:
+        - ID: CVE-2020-10713
+          Severity: MEDIUM
+        - ID: CVE-2020-14308
+          Severity: MEDIUM
+        - ID: CVE-2020-14309
+          Severity: MEDIUM
+        - ID: CVE-2020-14310
+          Severity: MEDIUM
+        - ID: CVE-2020-14311
+          Severity: MEDIUM
+        - ID: CVE-2020-15705
+          Severity: MEDIUM
+        - ID: CVE-2020-15706
+          Severity: MEDIUM
+        - ID: CVE-2020-15707
+          Severity: MEDIUM
+      FixedVersion: 1:2.02-0.86.el7_6

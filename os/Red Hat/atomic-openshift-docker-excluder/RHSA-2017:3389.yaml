@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.4
+        - cpe:/a:redhat:openshift:3.4::el7
+      Cves:
+        - ID: CVE-2017-12195
+          Severity: MEDIUM
+      FixedVersion: 0:3.4.1.44.38-1.git.0.d04b8d5.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:3.5
+        - cpe:/a:redhat:openshift:3.5::el7
+      Cves:
+        - ID: CVE-2017-12195
+          Severity: MEDIUM
+      FixedVersion: 0:3.5.5.31.47-1.git.0.25d535c.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:3.6
+        - cpe:/a:redhat:openshift:3.6::el7
+      Cves:
+        - ID: CVE-2017-12195
+          Severity: MEDIUM
+      FixedVersion: 0:3.6.173.0.63-1.git.0.855ea8b.el7

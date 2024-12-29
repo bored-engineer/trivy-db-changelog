@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.1
+        - cpe:/a:redhat:openshift:4.1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-18367
+          Severity: MEDIUM
+        - ID: CVE-2019-11250
+          Severity: MEDIUM
+      FixedVersion: 0:4.1.27-201912021146.git.0.a40116f.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.1
+        - cpe:/a:redhat:openshift:4.1::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-18367
+          Severity: MEDIUM
+        - ID: CVE-2019-11250
+          Severity: MEDIUM
+      FixedVersion: 0:4.1.27-201912021146.git.0.a40116f.el8_0

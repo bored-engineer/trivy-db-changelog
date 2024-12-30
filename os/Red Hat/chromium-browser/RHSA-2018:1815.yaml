@@ -1,0 +1,66 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2018-6123
+          Severity: HIGH
+        - ID: CVE-2018-6124
+          Severity: HIGH
+        - ID: CVE-2018-6125
+          Severity: HIGH
+        - ID: CVE-2018-6126
+          Severity: HIGH
+        - ID: CVE-2018-6127
+          Severity: HIGH
+        - ID: CVE-2018-6129
+          Severity: HIGH
+        - ID: CVE-2018-6130
+          Severity: HIGH
+        - ID: CVE-2018-6131
+          Severity: HIGH
+        - ID: CVE-2018-6132
+          Severity: MEDIUM
+        - ID: CVE-2018-6133
+          Severity: MEDIUM
+        - ID: CVE-2018-6134
+          Severity: MEDIUM
+        - ID: CVE-2018-6135
+          Severity: MEDIUM
+        - ID: CVE-2018-6136
+          Severity: MEDIUM
+        - ID: CVE-2018-6137
+          Severity: MEDIUM
+        - ID: CVE-2018-6138
+          Severity: MEDIUM
+        - ID: CVE-2018-6139
+          Severity: MEDIUM
+        - ID: CVE-2018-6140
+          Severity: MEDIUM
+        - ID: CVE-2018-6141
+          Severity: MEDIUM
+        - ID: CVE-2018-6142
+          Severity: MEDIUM
+        - ID: CVE-2018-6143
+          Severity: MEDIUM
+        - ID: CVE-2018-6144
+          Severity: LOW
+        - ID: CVE-2018-6145
+          Severity: LOW
+        - ID: CVE-2018-6147
+          Severity: LOW
+      FixedVersion: 0:67.0.3396.62-2.el6_9

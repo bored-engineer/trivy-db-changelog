@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.4
+        - cpe:/a:redhat:openshift:4.4::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-2160
+          Severity: HIGH
+        - ID: CVE-2020-2161
+          Severity: MEDIUM
+        - ID: CVE-2020-2162
+          Severity: MEDIUM
+        - ID: CVE-2020-2163
+          Severity: MEDIUM
+      FixedVersion: 0:4.4.0-202006080017.git.1.32e0736.el8

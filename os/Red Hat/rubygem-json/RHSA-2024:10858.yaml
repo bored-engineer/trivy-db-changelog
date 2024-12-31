@@ -19,5 +19,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2024-49761
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:2.5.1-163.el9_5

@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_other:7
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-30465
+          Severity: HIGH
+      FixedVersion: 2:1.13.1-206.git7d71120.el7_9

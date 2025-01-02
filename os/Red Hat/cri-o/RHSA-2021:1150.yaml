@@ -1,0 +1,21 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.7
+        - cpe:/a:redhat:openshift:4.7::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-20291
+          Severity: MEDIUM
+      FixedVersion: 0:1.20.2-6.rhaos4.7.gitf1d5201.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.7
+        - cpe:/a:redhat:openshift:4.7::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-20291
+          Severity: MEDIUM
+      FixedVersion: 0:1.20.2-6.rhaos4.7.gitf1d5201.el8

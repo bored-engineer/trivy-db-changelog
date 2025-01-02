@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el7
+      Cves:
+        - ID: CVE-2020-2160
+          Severity: HIGH
+        - ID: CVE-2020-2161
+          Severity: MEDIUM
+        - ID: CVE-2020-2162
+          Severity: MEDIUM
+        - ID: CVE-2020-2163
+          Severity: MEDIUM
+      FixedVersion: 0:2.222.1.1591349991-1.el7

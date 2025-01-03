@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.4
+        - cpe:/a:redhat:openshift:3.4::el7
+        - cpe:/a:redhat:openshift:3.5
+        - cpe:/a:redhat:openshift:3.5::el7
+        - cpe:/a:redhat:openshift:3.6
+        - cpe:/a:redhat:openshift:3.6::el7
+        - cpe:/a:redhat:openshift:3.7
+        - cpe:/a:redhat:openshift:3.7::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-5736
+          Severity: HIGH
+      FixedVersion: 2:1.12.6-79.git5680db5.el7

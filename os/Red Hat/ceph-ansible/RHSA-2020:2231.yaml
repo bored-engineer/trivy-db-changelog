@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:4
+        - cpe:/a:redhat:ceph_storage:4::el7
+      Cves:
+        - ID: CVE-2020-1716
+          Severity: MEDIUM
+      FixedVersion: 0:4.0.23-1.el7cp
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:4
+        - cpe:/a:redhat:ceph_storage:4::el8
+      Cves:
+        - ID: CVE-2020-1716
+          Severity: MEDIUM
+      FixedVersion: 0:4.0.23-1.el8cp

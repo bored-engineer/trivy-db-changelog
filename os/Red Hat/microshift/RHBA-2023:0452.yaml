@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.12
+        - cpe:/a:redhat:openshift:4.12::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-3294
+          Severity: MEDIUM
+      FixedVersion: 0:4.12.1-202301261525.p0.g3db9e81.assembly.4.12.1.el8

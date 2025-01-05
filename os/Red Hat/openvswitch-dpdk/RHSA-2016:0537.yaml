@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-director:7
+        - cpe:/a:redhat:openstack-director:7::el7
+        - cpe:/a:redhat:openstack-director_els:7
+        - cpe:/a:redhat:openstack-director_els:7::el7.4
+        - cpe:/a:redhat:openstack-optools:7
+        - cpe:/a:redhat:openstack-optools:7::el7
+        - cpe:/a:redhat:openstack:7
+        - cpe:/a:redhat:openstack:7::el7
+        - cpe:/a:redhat:openstack_els:7
+        - cpe:/a:redhat:openstack_els:7::el7.4
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-2074
+          Severity: HIGH
+      FixedVersion: 0:2.4.0-0.10346.git97bab959.3.el7_2

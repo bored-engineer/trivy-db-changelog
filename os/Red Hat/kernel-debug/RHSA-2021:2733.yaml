@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-33034
+          Severity: HIGH
+        - ID: CVE-2021-3347
+          Severity: HIGH
+        - ID: CVE-2021-33909
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-514.90.2.el7

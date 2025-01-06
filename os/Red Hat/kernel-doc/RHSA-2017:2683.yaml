@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+      Cves:
+        - ID: CVE-2017-1000251
+          Severity: HIGH
+      FixedVersion: 0:2.6.32-358.83.1.el6

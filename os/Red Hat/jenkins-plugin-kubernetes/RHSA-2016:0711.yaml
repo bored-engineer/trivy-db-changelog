@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.1
+        - cpe:/a:redhat:openshift:3.1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-0788
+          Severity: HIGH
+        - ID: CVE-2016-0789
+          Severity: MEDIUM
+        - ID: CVE-2016-0790
+          Severity: HIGH
+        - ID: CVE-2016-0791
+          Severity: MEDIUM
+        - ID: CVE-2016-0792
+          Severity: HIGH
+      FixedVersion: 0:0.5-1.el7

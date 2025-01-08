@@ -1,0 +1,50 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:6.2
+        - cpe:/o:redhat:rhel_eus:6.2::computenode
+        - cpe:/o:redhat:rhel_eus:6.2::server
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arches:
+        - i686
+        - ppc
+        - ppc64
+        - s390
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2013-5605
+          Severity: HIGH
+      FixedVersion: 0:3.13.1-9.el6_2
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:6.3
+        - cpe:/o:redhat:rhel_eus:6.3::computenode
+        - cpe:/o:redhat:rhel_eus:6.3::server
+      Arches:
+        - i686
+        - ppc
+        - ppc64
+        - s390
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2013-5605
+          Severity: HIGH
+      FixedVersion: 0:3.13.6-3.el6_3
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+        - cpe:/o:redhat:rhel_eus:6.4
+        - cpe:/o:redhat:rhel_eus:6.4::computenode
+        - cpe:/o:redhat:rhel_eus:6.4::server
+      Arches:
+        - i686
+        - ppc
+        - ppc64
+        - s390
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2013-5605
+          Severity: HIGH
+      FixedVersion: 0:3.14.3-5.el6_4

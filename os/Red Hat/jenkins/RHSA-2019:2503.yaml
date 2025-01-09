@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2019-10352
+          Severity: MEDIUM
+        - ID: CVE-2019-10353
+          Severity: HIGH
+        - ID: CVE-2019-10354
+          Severity: MEDIUM
+      FixedVersion: 0:2.176.2.1563460897-1.el7

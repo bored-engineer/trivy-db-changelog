@@ -1,0 +1,52 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.10
+        - cpe:/a:redhat:openshift:4.10::el8
+      Cves:
+        - ID: CVE-2020-7692
+          Severity: MEDIUM
+        - ID: CVE-2022-25857
+          Severity: HIGH
+        - ID: CVE-2022-30946
+          Severity: MEDIUM
+        - ID: CVE-2022-30952
+          Severity: MEDIUM
+        - ID: CVE-2022-30953
+          Severity: MEDIUM
+        - ID: CVE-2022-30954
+          Severity: MEDIUM
+        - ID: CVE-2022-36882
+          Severity: MEDIUM
+        - ID: CVE-2022-36883
+          Severity: MEDIUM
+        - ID: CVE-2022-36884
+          Severity: MEDIUM
+        - ID: CVE-2022-36885
+          Severity: MEDIUM
+        - ID: CVE-2022-43401
+          Severity: CRITICAL
+        - ID: CVE-2022-43402
+          Severity: CRITICAL
+        - ID: CVE-2022-43403
+          Severity: CRITICAL
+        - ID: CVE-2022-43404
+          Severity: CRITICAL
+        - ID: CVE-2022-43405
+          Severity: CRITICAL
+        - ID: CVE-2022-43406
+          Severity: CRITICAL
+        - ID: CVE-2022-43407
+          Severity: HIGH
+        - ID: CVE-2022-43408
+          Severity: MEDIUM
+        - ID: CVE-2022-43409
+          Severity: MEDIUM
+        - ID: CVE-2022-45047
+          Severity: HIGH
+        - ID: CVE-2022-45379
+          Severity: HIGH
+        - ID: CVE-2022-45380
+          Severity: HIGH
+        - ID: CVE-2022-45381
+          Severity: HIGH
+      FixedVersion: 0:4.10.1675144701-1.el8

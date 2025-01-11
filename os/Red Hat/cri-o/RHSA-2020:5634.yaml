@@ -1,0 +1,41 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.7
+        - cpe:/a:redhat:openshift:4.7::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-3884
+          Severity: LOW
+        - ID: CVE-2020-15157
+          Severity: MEDIUM
+        - ID: CVE-2020-25658
+          Severity: MEDIUM
+        - ID: CVE-2020-28362
+          Severity: MEDIUM
+        - ID: CVE-2020-8566
+          Severity: LOW
+        - ID: CVE-2021-3121
+          Severity: MEDIUM
+      FixedVersion: 0:1.20.0-0.rhaos4.7.git8921e00.el7.51
+    - Affected:
+        - cpe:/a:redhat:openshift:4.7
+        - cpe:/a:redhat:openshift:4.7::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-3884
+          Severity: LOW
+        - ID: CVE-2020-15157
+          Severity: MEDIUM
+        - ID: CVE-2020-25658
+          Severity: MEDIUM
+        - ID: CVE-2020-28362
+          Severity: MEDIUM
+        - ID: CVE-2020-8566
+          Severity: LOW
+        - ID: CVE-2021-3121
+          Severity: MEDIUM
+      FixedVersion: 0:1.20.0-0.rhaos4.7.git8921e00.el8.51

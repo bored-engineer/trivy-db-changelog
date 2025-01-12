@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2019-3889
+          Severity: MEDIUM
+      FixedVersion: 0:3.11.188-1.git.0.db0eaa8.el7

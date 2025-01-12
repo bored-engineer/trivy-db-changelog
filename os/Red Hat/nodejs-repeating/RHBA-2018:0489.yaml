@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.9
+        - cpe:/a:redhat:openshift:3.9::el7
+      Cves:
+        - ID: CVE-2017-15137
+          Severity: MEDIUM
+        - ID: CVE-2017-15138
+          Severity: MEDIUM
+      FixedVersion: 0:2.0.0-2.el7aos

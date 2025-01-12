@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2020-2252
+          Severity: MEDIUM
+        - ID: CVE-2020-2254
+          Severity: MEDIUM
+        - ID: CVE-2020-2255
+          Severity: MEDIUM
+      FixedVersion: 0:3.11.1603460090-1.el7

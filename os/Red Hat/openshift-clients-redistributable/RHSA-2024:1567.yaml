@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2024-1394
+          Severity: HIGH
+        - ID: CVE-2024-28180
+          Severity: MEDIUM
+      FixedVersion: 0:4.14.0-202403261640.p0.gf7b14a9.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2024-1394
+          Severity: HIGH
+        - ID: CVE-2024-28180
+          Severity: MEDIUM
+      FixedVersion: 0:4.14.0-202403261640.p0.gf7b14a9.assembly.stream.el9

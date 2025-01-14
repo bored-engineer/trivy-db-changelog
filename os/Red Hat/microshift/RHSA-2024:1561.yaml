@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.15
+        - cpe:/a:redhat:openshift:4.15::el9
+      Arches:
+        - aarch64
+        - x86_64
+      Cves:
+        - ID: CVE-2024-1394
+          Severity: HIGH
+      FixedVersion: 0:4.15.6-202403280951.p0.g94b1c2a.assembly.4.15.6.el9

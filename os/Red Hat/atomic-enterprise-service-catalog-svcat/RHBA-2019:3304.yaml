@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.2
+        - cpe:/a:redhat:openshift:4.2::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-16276
+          Severity: MEDIUM
+      FixedVersion: 1:4.2.4-201911041319.git.1.1de4bcd.el7

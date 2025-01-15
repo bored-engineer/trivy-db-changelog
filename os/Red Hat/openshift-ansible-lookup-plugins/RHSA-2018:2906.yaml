@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.7
+        - cpe:/a:redhat:openshift:3.7::el7
+      Cves:
+        - ID: CVE-2018-1002105
+          Severity: CRITICAL
+        - ID: CVE-2018-14632
+          Severity: HIGH
+      FixedVersion: 0:3.7.72-1.git.0.5c45a8a.el7

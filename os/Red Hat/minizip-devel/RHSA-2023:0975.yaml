@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2018-25032
+          Severity: HIGH
+      FixedVersion: 0:1.2.7-18.el7_6.1

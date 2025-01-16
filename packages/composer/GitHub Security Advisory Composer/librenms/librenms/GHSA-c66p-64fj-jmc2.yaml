@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 24.11.0
+VulnerableVersions:
+    - '>=23.9.0, <24.11.0'

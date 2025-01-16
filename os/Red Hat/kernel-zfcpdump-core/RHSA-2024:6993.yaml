@@ -1,0 +1,112 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.8
+        - cpe:/a:redhat:rhel_aus:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.8
+        - cpe:/a:redhat:rhel_eus:8.8::appstream
+        - cpe:/a:redhat:rhel_eus:8.8::crb
+        - cpe:/a:redhat:rhel_eus:8.8::highavailability
+        - cpe:/a:redhat:rhel_eus:8.8::nfv
+        - cpe:/a:redhat:rhel_eus:8.8::realtime
+        - cpe:/a:redhat:rhel_eus:8.8::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.8::sap
+        - cpe:/a:redhat:rhel_eus:8.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.8::supplementary
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_aus:8.8
+        - cpe:/o:redhat:rhel_aus:8.8::baseos
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+        - cpe:/o:redhat:rhel_eus:8.8
+        - cpe:/o:redhat:rhel_eus:8.8::baseos
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2021-47352
+          Severity: MEDIUM
+        - ID: CVE-2021-47356
+          Severity: MEDIUM
+        - ID: CVE-2021-47384
+          Severity: MEDIUM
+        - ID: CVE-2021-47468
+          Severity: LOW
+        - ID: CVE-2021-47566
+          Severity: LOW
+        - ID: CVE-2022-48638
+          Severity: MEDIUM
+        - ID: CVE-2023-52434
+          Severity: MEDIUM
+        - ID: CVE-2023-52439
+          Severity: MEDIUM
+        - ID: CVE-2023-52522
+          Severity: MEDIUM
+        - ID: CVE-2023-52784
+          Severity: MEDIUM
+        - ID: CVE-2023-52811
+          Severity: LOW
+        - ID: CVE-2023-52864
+          Severity: MEDIUM
+        - ID: CVE-2024-26665
+          Severity: MEDIUM
+        - ID: CVE-2024-26698
+          Severity: MEDIUM
+        - ID: CVE-2024-26772
+          Severity: MEDIUM
+        - ID: CVE-2024-26826
+          Severity: MEDIUM
+        - ID: CVE-2024-26851
+          Severity: MEDIUM
+        - ID: CVE-2024-26908
+          Severity: MEDIUM
+        - ID: CVE-2024-26923
+          Severity: MEDIUM
+        - ID: CVE-2024-27019
+          Severity: MEDIUM
+        - ID: CVE-2024-27020
+          Severity: MEDIUM
+        - ID: CVE-2024-27399
+          Severity: MEDIUM
+        - ID: CVE-2024-35898
+          Severity: MEDIUM
+        - ID: CVE-2024-35969
+          Severity: MEDIUM
+        - ID: CVE-2024-36005
+          Severity: LOW
+        - ID: CVE-2024-36016
+          Severity: MEDIUM
+        - ID: CVE-2024-36270
+          Severity: MEDIUM
+        - ID: CVE-2024-36929
+          Severity: MEDIUM
+        - ID: CVE-2024-36978
+          Severity: MEDIUM
+        - ID: CVE-2024-38573
+          Severity: LOW
+        - ID: CVE-2024-38598
+          Severity: MEDIUM
+        - ID: CVE-2024-38615
+          Severity: LOW
+        - ID: CVE-2024-40995
+          Severity: MEDIUM
+        - ID: CVE-2024-41041
+          Severity: LOW
+        - ID: CVE-2024-41044
+          Severity: MEDIUM
+        - ID: CVE-2024-41071
+          Severity: HIGH
+        - ID: CVE-2024-41093
+          Severity: MEDIUM
+        - ID: CVE-2024-42154
+          Severity: MEDIUM
+      FixedVersion: 0:4.18.0-477.74.1.el8_8

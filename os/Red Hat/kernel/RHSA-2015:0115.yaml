@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2014-3673
+          Severity: HIGH
+        - ID: CVE-2014-3687
+          Severity: HIGH
+        - ID: CVE-2014-3688
+          Severity: HIGH
+      FixedVersion: 0:2.6.32-220.58.1.el6

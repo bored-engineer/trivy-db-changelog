@@ -1,0 +1,107 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6
+        - cpe:/a:redhat:rhel_tus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6::highavailability
+        - cpe:/a:redhat:rhel_tus:8.6::nfv
+        - cpe:/a:redhat:rhel_tus:8.6::realtime
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+        - cpe:/o:redhat:rhel_tus:8.6
+        - cpe:/o:redhat:rhel_tus:8.6::baseos
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2022-32885
+          Severity: MEDIUM
+        - ID: CVE-2023-40397
+          Severity: MEDIUM
+        - ID: CVE-2023-42852
+          Severity: HIGH
+        - ID: CVE-2023-42917
+          Severity: HIGH
+        - ID: CVE-2024-23222
+          Severity: HIGH
+        - ID: CVE-2024-27808
+          Severity: HIGH
+        - ID: CVE-2024-27820
+          Severity: HIGH
+        - ID: CVE-2024-27833
+          Severity: HIGH
+        - ID: CVE-2024-27851
+          Severity: HIGH
+        - ID: CVE-2024-40776
+          Severity: MEDIUM
+        - ID: CVE-2024-40779
+          Severity: MEDIUM
+        - ID: CVE-2024-40780
+          Severity: MEDIUM
+        - ID: CVE-2024-40782
+          Severity: MEDIUM
+        - ID: CVE-2024-40789
+          Severity: MEDIUM
+        - ID: CVE-2024-44185
+          Severity: HIGH
+        - ID: CVE-2024-44244
+          Severity: MEDIUM
+        - ID: CVE-2024-4558
+          Severity: HIGH
+        - ID: CVE-2024-54534
+          Severity: HIGH
+      FixedVersion: 0:2.46.3-1.el8_6
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.6
+        - cpe:/a:redhat:rhel_e4s:8.6::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.6::nfv
+        - cpe:/a:redhat:rhel_e4s:8.6::sap
+        - cpe:/a:redhat:rhel_e4s:8.6::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.6
+        - cpe:/o:redhat:rhel_e4s:8.6::baseos
+      Arches:
+        - aarch64
+        - i686
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-32885
+          Severity: MEDIUM
+        - ID: CVE-2023-40397
+          Severity: MEDIUM
+        - ID: CVE-2023-42852
+          Severity: HIGH
+        - ID: CVE-2023-42917
+          Severity: HIGH
+        - ID: CVE-2024-23222
+          Severity: HIGH
+        - ID: CVE-2024-27808
+          Severity: HIGH
+        - ID: CVE-2024-27820
+          Severity: HIGH
+        - ID: CVE-2024-27833
+          Severity: HIGH
+        - ID: CVE-2024-27851
+          Severity: HIGH
+        - ID: CVE-2024-40776
+          Severity: MEDIUM
+        - ID: CVE-2024-40779
+          Severity: MEDIUM
+        - ID: CVE-2024-40780
+          Severity: MEDIUM
+        - ID: CVE-2024-40782
+          Severity: MEDIUM
+        - ID: CVE-2024-40789
+          Severity: MEDIUM
+        - ID: CVE-2024-44185
+          Severity: HIGH
+        - ID: CVE-2024-44244
+          Severity: MEDIUM
+        - ID: CVE-2024-4558
+          Severity: HIGH
+        - ID: CVE-2024-54534
+          Severity: HIGH
+      FixedVersion: 0:2.46.3-1.el8_6

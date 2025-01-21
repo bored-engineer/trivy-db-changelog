@@ -1,0 +1,24 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:service_mesh:2.1
+        - cpe:/a:redhat:service_mesh:2.1::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-24675
+          Severity: MEDIUM
+        - ID: CVE-2022-24785
+          Severity: MEDIUM
+        - ID: CVE-2022-24921
+          Severity: MEDIUM
+        - ID: CVE-2022-28327
+          Severity: MEDIUM
+        - ID: CVE-2022-29526
+          Severity: MEDIUM
+        - ID: CVE-2022-30629
+          Severity: LOW
+        - ID: CVE-2022-31129
+          Severity: MEDIUM
+      FixedVersion: 0:2.23.0-9.el8

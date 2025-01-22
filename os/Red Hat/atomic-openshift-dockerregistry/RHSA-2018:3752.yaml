@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.4
+        - cpe:/a:redhat:openshift:3.4::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-1002105
+          Severity: CRITICAL
+      FixedVersion: 0:3.4.1.44.57-1.git.0.a631031.el7

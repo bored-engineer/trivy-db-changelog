@@ -14,6 +14,16 @@ Entries:
       Arches:
         - x86_64
       Cves:
+        - ID: CVE-2025-0237
+          Severity: MEDIUM
+        - ID: CVE-2025-0238
+          Severity: MEDIUM
+        - ID: CVE-2025-0239
+          Severity: MEDIUM
+        - ID: CVE-2025-0240
+          Severity: MEDIUM
+        - ID: CVE-2025-0241
+          Severity: MEDIUM
         - ID: CVE-2025-0242
           Severity: HIGH
         - ID: CVE-2025-0243

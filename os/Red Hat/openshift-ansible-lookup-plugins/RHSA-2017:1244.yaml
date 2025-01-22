@@ -1,0 +1,37 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.2
+        - cpe:/a:redhat:openshift:3.2::el7
+      Cves:
+        - ID: CVE-2017-7466
+          Severity: HIGH
+        - ID: CVE-2017-7481
+          Severity: MEDIUM
+      FixedVersion: 0:3.2.56-1.git.0.b844ab7.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:3.3
+        - cpe:/a:redhat:openshift:3.3::el7
+      Cves:
+        - ID: CVE-2017-7466
+          Severity: HIGH
+        - ID: CVE-2017-7481
+          Severity: MEDIUM
+      FixedVersion: 0:3.3.82-1.git.0.af0c922.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:3.4
+        - cpe:/a:redhat:openshift:3.4::el7
+      Cves:
+        - ID: CVE-2017-7466
+          Severity: HIGH
+        - ID: CVE-2017-7481
+          Severity: MEDIUM
+      FixedVersion: 0:3.4.89-1.git.0.ac29ce8.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:3.5
+        - cpe:/a:redhat:openshift:3.5::el7
+      Cves:
+        - ID: CVE-2017-7466
+          Severity: HIGH
+        - ID: CVE-2017-7481
+          Severity: MEDIUM
+      FixedVersion: 0:3.5.71-1.git.0.128c2db.el7

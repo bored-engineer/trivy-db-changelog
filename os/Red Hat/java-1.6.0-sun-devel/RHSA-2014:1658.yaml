@@ -1,0 +1,46 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_eus:6.6
+        - cpe:/o:redhat:rhel_eus:6.6::computenode
+        - cpe:/o:redhat:rhel_eus:6.6::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2014-4288
+          Severity: HIGH
+        - ID: CVE-2014-6457
+          Severity: MEDIUM
+        - ID: CVE-2014-6458
+          Severity: MEDIUM
+        - ID: CVE-2014-6492
+          Severity: HIGH
+        - ID: CVE-2014-6493
+          Severity: HIGH
+        - ID: CVE-2014-6502
+          Severity: LOW
+        - ID: CVE-2014-6503
+          Severity: CRITICAL
+        - ID: CVE-2014-6504
+          Severity: MEDIUM
+        - ID: CVE-2014-6506
+          Severity: HIGH
+        - ID: CVE-2014-6511
+          Severity: MEDIUM
+        - ID: CVE-2014-6512
+          Severity: LOW
+        - ID: CVE-2014-6515
+          Severity: MEDIUM
+        - ID: CVE-2014-6517
+          Severity: MEDIUM
+        - ID: CVE-2014-6531
+          Severity: MEDIUM
+        - ID: CVE-2014-6532
+          Severity: CRITICAL
+        - ID: CVE-2014-6558
+          Severity: LOW
+      FixedVersion: 1:1.6.0.85-1jpp.2.el6

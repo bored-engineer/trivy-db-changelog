@@ -1,0 +1,30 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.11
+        - cpe:/a:redhat:openshift:4.11::el8
+      Cves:
+        - ID: CVE-2021-43565
+          Severity: MEDIUM
+        - ID: CVE-2022-1705
+          Severity: MEDIUM
+        - ID: CVE-2022-1706
+          Severity: MEDIUM
+        - ID: CVE-2022-21698
+          Severity: MEDIUM
+        - ID: CVE-2022-23772
+          Severity: MEDIUM
+        - ID: CVE-2022-23773
+          Severity: MEDIUM
+        - ID: CVE-2022-23806
+          Severity: MEDIUM
+        - ID: CVE-2022-24675
+          Severity: MEDIUM
+        - ID: CVE-2022-24921
+          Severity: MEDIUM
+        - ID: CVE-2022-27191
+          Severity: MEDIUM
+        - ID: CVE-2022-28327
+          Severity: MEDIUM
+        - ID: CVE-2022-29162
+          Severity: LOW
+      FixedVersion: 0:4.11.0-202206232036.p0.g66c0cec.assembly.stream.el8

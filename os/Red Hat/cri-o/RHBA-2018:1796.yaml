@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.9
+        - cpe:/a:redhat:openshift:3.9::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-1000400
+          Severity: MEDIUM
+        - ID: CVE-2018-1002100
+          Severity: MEDIUM
+      FixedVersion: 0:1.9.12-1.gitfa11beb.el7

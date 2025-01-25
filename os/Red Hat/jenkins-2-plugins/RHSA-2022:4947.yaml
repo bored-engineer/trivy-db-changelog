@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.6
+        - cpe:/a:redhat:openshift:4.6::el8
+      Cves:
+        - ID: CVE-2022-1708
+          Severity: MEDIUM
+        - ID: CVE-2022-29036
+          Severity: HIGH
+        - ID: CVE-2022-29046
+          Severity: HIGH
+      FixedVersion: 0:4.6.1653312933-1.el8

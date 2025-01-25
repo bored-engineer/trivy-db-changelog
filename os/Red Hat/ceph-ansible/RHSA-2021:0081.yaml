@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:4
+        - cpe:/a:redhat:ceph_storage:4::el7
+      Cves:
+        - ID: CVE-2020-25660
+          Severity: MEDIUM
+        - ID: CVE-2020-25677
+          Severity: MEDIUM
+        - ID: CVE-2020-27781
+          Severity: HIGH
+      FixedVersion: 0:4.0.41-1.el7cp
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:4
+        - cpe:/a:redhat:ceph_storage:4::el8
+      Cves:
+        - ID: CVE-2020-25660
+          Severity: MEDIUM
+        - ID: CVE-2020-25677
+          Severity: MEDIUM
+        - ID: CVE-2020-27781
+          Severity: HIGH
+      FixedVersion: 0:4.0.41-1.el8cp

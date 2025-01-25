@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.6
+        - cpe:/a:redhat:openshift:4.6::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-1227
+          Severity: HIGH
+      FixedVersion: 0:1.9.3-5.rhaos4.6.el8

@@ -1,0 +1,24 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.1
+        - cpe:/a:redhat:rhel_e4s:8.1::appstream
+        - cpe:/a:redhat:rhel_e4s:8.1::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.1::sap
+        - cpe:/a:redhat:rhel_e4s:8.1::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.1
+        - cpe:/o:redhat:rhel_e4s:8.1::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2023-3600
+          Severity: HIGH
+        - ID: CVE-2023-5169
+          Severity: HIGH
+        - ID: CVE-2023-5171
+          Severity: HIGH
+        - ID: CVE-2023-5176
+          Severity: HIGH
+        - ID: CVE-2023-5217
+          Severity: HIGH
+      FixedVersion: 0:115.3.1-1.el8_1

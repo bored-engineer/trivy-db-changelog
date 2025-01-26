@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:17.1
+        - cpe:/a:redhat:openstack:17.1::el9
+      Cves:
+        - ID: CVE-2024-44082
+          Severity: HIGH
+      FixedVersion: 1:17.1.1-17.1.20240917210749.c31db88.el9ost

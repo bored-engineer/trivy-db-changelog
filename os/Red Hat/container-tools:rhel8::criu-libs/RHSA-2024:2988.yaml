@@ -1,0 +1,53 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2018-25091
+          Severity: MEDIUM
+        - ID: CVE-2021-33198
+          Severity: MEDIUM
+        - ID: CVE-2021-34558
+          Severity: MEDIUM
+        - ID: CVE-2022-2879
+          Severity: MEDIUM
+        - ID: CVE-2022-2880
+          Severity: MEDIUM
+        - ID: CVE-2022-41715
+          Severity: MEDIUM
+        - ID: CVE-2023-29409
+          Severity: MEDIUM
+        - ID: CVE-2023-39318
+          Severity: MEDIUM
+        - ID: CVE-2023-39319
+          Severity: MEDIUM
+        - ID: CVE-2023-39321
+          Severity: MEDIUM
+        - ID: CVE-2023-39322
+          Severity: MEDIUM
+        - ID: CVE-2023-39326
+          Severity: MEDIUM
+        - ID: CVE-2023-45287
+          Severity: MEDIUM
+        - ID: CVE-2023-45803
+          Severity: MEDIUM
+        - ID: CVE-2023-48795
+          Severity: MEDIUM
+        - ID: CVE-2024-23650
+          Severity: MEDIUM
+      FixedVersion: 0:3.18-4.module+el8.9.0+20326+387084d0

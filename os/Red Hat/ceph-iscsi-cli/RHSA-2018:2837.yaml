@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:2
+        - cpe:/a:redhat:ceph_storage:2::el7
+      Cves:
+        - ID: CVE-2018-14649
+          Severity: CRITICAL
+      FixedVersion: 0:2.0-7.el7cp

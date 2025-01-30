@@ -1,0 +1,54 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:9.4
+        - cpe:/a:redhat:rhel_eus:9.4::appstream
+        - cpe:/a:redhat:rhel_eus:9.4::crb
+        - cpe:/a:redhat:rhel_eus:9.4::highavailability
+        - cpe:/a:redhat:rhel_eus:9.4::nfv
+        - cpe:/a:redhat:rhel_eus:9.4::realtime
+        - cpe:/a:redhat:rhel_eus:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.4::sap
+        - cpe:/a:redhat:rhel_eus:9.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.4::supplementary
+        - cpe:/o:redhat:rhel_eus:9.4
+        - cpe:/o:redhat:rhel_eus:9.4::baseos
+      Cves:
+        - ID: CVE-2023-52749
+          Severity: LOW
+        - ID: CVE-2024-26656
+          Severity: MEDIUM
+        - ID: CVE-2024-26772
+          Severity: MEDIUM
+        - ID: CVE-2024-26837
+          Severity: MEDIUM
+        - ID: CVE-2024-26870
+          Severity: MEDIUM
+        - ID: CVE-2024-26906
+          Severity: LOW
+        - ID: CVE-2024-26984
+          Severity: MEDIUM
+        - ID: CVE-2024-31076
+          Severity: LOW
+        - ID: CVE-2024-35950
+          Severity: MEDIUM
+        - ID: CVE-2024-38564
+          Severity: LOW
+        - ID: CVE-2024-38596
+          Severity: LOW
+        - ID: CVE-2024-40901
+          Severity: MEDIUM
+        - ID: CVE-2024-40924
+          Severity: LOW
+        - ID: CVE-2024-40956
+          Severity: MEDIUM
+        - ID: CVE-2024-40988
+          Severity: MEDIUM
+        - ID: CVE-2024-41023
+          Severity: MEDIUM
+        - ID: CVE-2024-41060
+          Severity: MEDIUM
+        - ID: CVE-2024-41066
+          Severity: LOW
+        - ID: CVE-2024-46858
+          Severity: MEDIUM
+      FixedVersion: 0:5.14.0-427.44.1.el9_4

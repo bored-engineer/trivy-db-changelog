@@ -1,0 +1,38 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3::server
+        - cpe:/o:redhat:rhel_tus:7.3
+        - cpe:/o:redhat:rhel_tus:7.3::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2019-3855
+          Severity: HIGH
+        - ID: CVE-2019-3856
+          Severity: HIGH
+        - ID: CVE-2019-3857
+          Severity: HIGH
+        - ID: CVE-2019-3863
+          Severity: HIGH
+      FixedVersion: 0:1.4.3-11.el7_3.1
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.3
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.3
+        - cpe:/o:redhat:rhel_e4s:7.3
+        - cpe:/o:redhat:rhel_e4s:7.3::server
+      Arches:
+        - i686
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2019-3855
+          Severity: HIGH
+        - ID: CVE-2019-3856
+          Severity: HIGH
+        - ID: CVE-2019-3857
+          Severity: HIGH
+        - ID: CVE-2019-3863
+          Severity: HIGH
+      FixedVersion: 0:1.4.3-11.el7_3.1

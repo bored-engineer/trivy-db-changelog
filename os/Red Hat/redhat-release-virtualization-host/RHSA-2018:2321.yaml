@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-10874
+          Severity: MEDIUM
+        - ID: CVE-2018-10875
+          Severity: MEDIUM
+      FixedVersion: 0:4.2-5.0.el7

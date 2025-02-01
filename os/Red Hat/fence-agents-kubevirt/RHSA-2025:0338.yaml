@@ -19,7 +19,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2024-56201
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2024-56326
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:4.10.0-62.el9_4.10

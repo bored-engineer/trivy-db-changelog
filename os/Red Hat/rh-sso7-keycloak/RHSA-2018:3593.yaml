@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:red_hat_single_sign_on:7
+        - cpe:/a:redhat:red_hat_single_sign_on:7.5
+        - cpe:/a:redhat:red_hat_single_sign_on:7.5::el7
+        - cpe:/a:redhat:red_hat_single_sign_on:7.6
+        - cpe:/a:redhat:red_hat_single_sign_on:7.6::el7
+        - cpe:/a:redhat:red_hat_single_sign_on:7::el7
+      Cves:
+        - ID: CVE-2018-10894
+          Severity: MEDIUM
+        - ID: CVE-2018-14637
+          Severity: HIGH
+        - ID: CVE-2018-14655
+          Severity: MEDIUM
+        - ID: CVE-2018-14657
+          Severity: LOW
+        - ID: CVE-2018-14658
+          Severity: MEDIUM
+      FixedVersion: 0:3.4.14-1.Final_redhat_00001.1.jbcs.el7

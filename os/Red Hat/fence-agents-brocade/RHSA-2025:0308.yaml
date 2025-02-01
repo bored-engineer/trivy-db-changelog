@@ -14,7 +14,7 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:9::baseos
       Cves:
         - ID: CVE-2024-56201
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2024-56326
           Severity: MEDIUM
       FixedVersion: 0:4.10.0-76.el9_5.4

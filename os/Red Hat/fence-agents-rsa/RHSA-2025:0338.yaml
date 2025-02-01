@@ -14,7 +14,7 @@ Entries:
         - cpe:/o:redhat:rhel_eus:9.4::baseos
       Cves:
         - ID: CVE-2024-56201
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2024-56326
           Severity: MEDIUM
       FixedVersion: 0:4.10.0-62.el9_4.10

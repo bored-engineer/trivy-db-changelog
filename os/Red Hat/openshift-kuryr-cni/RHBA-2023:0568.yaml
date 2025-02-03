@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.12
+        - cpe:/a:redhat:openshift:4.12::el8
+      Cves:
+        - ID: CVE-2022-32190
+          Severity: MEDIUM
+      FixedVersion: 0:4.12.0-202301312133.p0.g92b9be2.assembly.stream.el8

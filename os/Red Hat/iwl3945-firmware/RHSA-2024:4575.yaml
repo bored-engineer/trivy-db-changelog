@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+      Cves:
+        - ID: CVE-2022-27635
+          Severity: HIGH
+        - ID: CVE-2022-40964
+          Severity: HIGH
+        - ID: CVE-2022-46329
+          Severity: HIGH
+        - ID: CVE-2023-20592
+          Severity: MEDIUM
+      FixedVersion: 0:15.32.2.9-102.el8_2.1

@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:3
+        - cpe:/a:redhat:ceph_storage:3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-7262
+          Severity: HIGH
+      FixedVersion: 2:12.2.1-46.el7cp

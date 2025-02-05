@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_other:7
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2016-8867
+          Severity: HIGH
+        - ID: CVE-2020-14298
+          Severity: HIGH
+        - ID: CVE-2020-14300
+          Severity: HIGH
+      FixedVersion: 2:1.13.1-162.git64e9980.el7_8

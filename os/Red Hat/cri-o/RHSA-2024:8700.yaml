@@ -1,0 +1,41 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2024-34155
+          Severity: MEDIUM
+        - ID: CVE-2024-34156
+          Severity: HIGH
+        - ID: CVE-2024-34158
+          Severity: MEDIUM
+        - ID: CVE-2024-9675
+          Severity: HIGH
+        - ID: CVE-2024-9676
+          Severity: MEDIUM
+      FixedVersion: 0:1.27.8-12.rhaos4.14.git7597c43.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el9
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2024-34155
+          Severity: MEDIUM
+        - ID: CVE-2024-34156
+          Severity: HIGH
+        - ID: CVE-2024-34158
+          Severity: MEDIUM
+        - ID: CVE-2024-9675
+          Severity: HIGH
+        - ID: CVE-2024-9676
+          Severity: MEDIUM
+      FixedVersion: 0:1.27.8-12.rhaos4.14.git7597c43.el9

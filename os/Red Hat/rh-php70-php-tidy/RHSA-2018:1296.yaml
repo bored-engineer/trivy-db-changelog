@@ -1,0 +1,88 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-10158
+          Severity: MEDIUM
+        - ID: CVE-2016-10159
+          Severity: MEDIUM
+        - ID: CVE-2016-10160
+          Severity: MEDIUM
+        - ID: CVE-2016-10161
+          Severity: MEDIUM
+        - ID: CVE-2016-10162
+          Severity: MEDIUM
+        - ID: CVE-2016-10167
+          Severity: MEDIUM
+        - ID: CVE-2016-10168
+          Severity: MEDIUM
+        - ID: CVE-2016-7412
+          Severity: MEDIUM
+        - ID: CVE-2016-7413
+          Severity: MEDIUM
+        - ID: CVE-2016-7414
+          Severity: MEDIUM
+        - ID: CVE-2016-7416
+          Severity: MEDIUM
+        - ID: CVE-2016-7417
+          Severity: MEDIUM
+        - ID: CVE-2016-7418
+          Severity: MEDIUM
+        - ID: CVE-2016-7479
+          Severity: MEDIUM
+        - ID: CVE-2016-9933
+          Severity: LOW
+        - ID: CVE-2016-9934
+          Severity: LOW
+        - ID: CVE-2016-9935
+          Severity: MEDIUM
+        - ID: CVE-2016-9936
+          Severity: MEDIUM
+        - ID: CVE-2017-11143
+          Severity: MEDIUM
+        - ID: CVE-2017-11144
+          Severity: MEDIUM
+        - ID: CVE-2017-11145
+          Severity: LOW
+        - ID: CVE-2017-11147
+          Severity: MEDIUM
+        - ID: CVE-2017-11362
+          Severity: MEDIUM
+        - ID: CVE-2017-11628
+          Severity: MEDIUM
+        - ID: CVE-2017-12932
+          Severity: MEDIUM
+        - ID: CVE-2017-12933
+          Severity: LOW
+        - ID: CVE-2017-12934
+          Severity: MEDIUM
+        - ID: CVE-2017-16642
+          Severity: LOW
+        - ID: CVE-2017-5340
+          Severity: MEDIUM
+        - ID: CVE-2017-7890
+          Severity: MEDIUM
+        - ID: CVE-2017-9224
+          Severity: MEDIUM
+        - ID: CVE-2017-9226
+          Severity: MEDIUM
+        - ID: CVE-2017-9227
+          Severity: MEDIUM
+        - ID: CVE-2017-9228
+          Severity: MEDIUM
+        - ID: CVE-2017-9229
+          Severity: MEDIUM
+        - ID: CVE-2018-5711
+          Severity: LOW
+        - ID: CVE-2018-5712
+          Severity: MEDIUM
+      FixedVersion: 0:7.0.27-1.el6

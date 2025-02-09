@@ -1,0 +1,32 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.5
+        - cpe:/a:redhat:openshift:4.5::el7
+      Cves:
+        - ID: CVE-2020-11979
+          Severity: MEDIUM
+        - ID: CVE-2020-1945
+          Severity: MEDIUM
+        - ID: CVE-2021-21602
+          Severity: MEDIUM
+        - ID: CVE-2021-21603
+          Severity: HIGH
+        - ID: CVE-2021-21604
+          Severity: HIGH
+        - ID: CVE-2021-21605
+          Severity: HIGH
+        - ID: CVE-2021-21606
+          Severity: MEDIUM
+        - ID: CVE-2021-21607
+          Severity: MEDIUM
+        - ID: CVE-2021-21608
+          Severity: HIGH
+        - ID: CVE-2021-21609
+          Severity: LOW
+        - ID: CVE-2021-21610
+          Severity: HIGH
+        - ID: CVE-2021-21611
+          Severity: HIGH
+        - ID: CVE-2021-21615
+          Severity: MEDIUM
+      FixedVersion: 0:2.263.3.1612434332-1.el7

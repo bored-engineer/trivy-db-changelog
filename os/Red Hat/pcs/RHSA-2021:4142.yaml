@@ -82,7 +82,7 @@ Entries:
         - ID: CVE-2019-11358
           Severity: MEDIUM
         - ID: CVE-2020-11023
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2020-7656
           Severity: LOW
       FixedVersion: 0:0.10.10-4.el8

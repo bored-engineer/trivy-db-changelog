@@ -1,0 +1,104 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2019-18197
+          Severity: MEDIUM
+        - ID: CVE-2019-19880
+          Severity: MEDIUM
+        - ID: CVE-2019-19923
+          Severity: MEDIUM
+        - ID: CVE-2019-19925
+          Severity: MEDIUM
+        - ID: CVE-2019-19926
+          Severity: MEDIUM
+        - ID: CVE-2020-6381
+          Severity: HIGH
+        - ID: CVE-2020-6382
+          Severity: HIGH
+        - ID: CVE-2020-6385
+          Severity: HIGH
+        - ID: CVE-2020-6387
+          Severity: HIGH
+        - ID: CVE-2020-6388
+          Severity: HIGH
+        - ID: CVE-2020-6389
+          Severity: HIGH
+        - ID: CVE-2020-6390
+          Severity: HIGH
+        - ID: CVE-2020-6391
+          Severity: MEDIUM
+        - ID: CVE-2020-6392
+          Severity: MEDIUM
+        - ID: CVE-2020-6393
+          Severity: MEDIUM
+        - ID: CVE-2020-6394
+          Severity: MEDIUM
+        - ID: CVE-2020-6395
+          Severity: MEDIUM
+        - ID: CVE-2020-6396
+          Severity: MEDIUM
+        - ID: CVE-2020-6397
+          Severity: MEDIUM
+        - ID: CVE-2020-6398
+          Severity: MEDIUM
+        - ID: CVE-2020-6399
+          Severity: MEDIUM
+        - ID: CVE-2020-6400
+          Severity: MEDIUM
+        - ID: CVE-2020-6401
+          Severity: MEDIUM
+        - ID: CVE-2020-6402
+          Severity: MEDIUM
+        - ID: CVE-2020-6403
+          Severity: MEDIUM
+        - ID: CVE-2020-6404
+          Severity: MEDIUM
+        - ID: CVE-2020-6405
+          Severity: MEDIUM
+        - ID: CVE-2020-6406
+          Severity: MEDIUM
+        - ID: CVE-2020-6408
+          Severity: LOW
+        - ID: CVE-2020-6409
+          Severity: LOW
+        - ID: CVE-2020-6410
+          Severity: LOW
+        - ID: CVE-2020-6411
+          Severity: LOW
+        - ID: CVE-2020-6412
+          Severity: LOW
+        - ID: CVE-2020-6413
+          Severity: LOW
+        - ID: CVE-2020-6414
+          Severity: LOW
+        - ID: CVE-2020-6415
+          Severity: LOW
+        - ID: CVE-2020-6416
+          Severity: LOW
+        - ID: CVE-2020-6417
+          Severity: LOW
+        - ID: CVE-2020-6499
+          Severity: MEDIUM
+        - ID: CVE-2020-6500
+          Severity: MEDIUM
+        - ID: CVE-2020-6501
+          Severity: MEDIUM
+        - ID: CVE-2020-6502
+          Severity: LOW
+      FixedVersion: 0:80.0.3987.87-1.el6_10

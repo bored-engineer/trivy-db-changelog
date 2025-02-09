@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.16
+        - cpe:/a:redhat:openshift:4.16::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2024-9675
+          Severity: HIGH
+        - ID: CVE-2024-9676
+          Severity: MEDIUM
+      FixedVersion: 4:4.9.4-12.rhaos4.16.el8

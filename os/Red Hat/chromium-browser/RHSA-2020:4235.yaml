@@ -1,0 +1,74 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2020-15967
+          Severity: CRITICAL
+        - ID: CVE-2020-15968
+          Severity: HIGH
+        - ID: CVE-2020-15969
+          Severity: HIGH
+        - ID: CVE-2020-15970
+          Severity: HIGH
+        - ID: CVE-2020-15971
+          Severity: HIGH
+        - ID: CVE-2020-15972
+          Severity: HIGH
+        - ID: CVE-2020-15973
+          Severity: MEDIUM
+        - ID: CVE-2020-15974
+          Severity: MEDIUM
+        - ID: CVE-2020-15975
+          Severity: MEDIUM
+        - ID: CVE-2020-15976
+          Severity: MEDIUM
+        - ID: CVE-2020-15977
+          Severity: MEDIUM
+        - ID: CVE-2020-15978
+          Severity: MEDIUM
+        - ID: CVE-2020-15979
+          Severity: MEDIUM
+        - ID: CVE-2020-15980
+          Severity: MEDIUM
+        - ID: CVE-2020-15981
+          Severity: MEDIUM
+        - ID: CVE-2020-15982
+          Severity: MEDIUM
+        - ID: CVE-2020-15983
+          Severity: MEDIUM
+        - ID: CVE-2020-15984
+          Severity: MEDIUM
+        - ID: CVE-2020-15985
+          Severity: MEDIUM
+        - ID: CVE-2020-15986
+          Severity: MEDIUM
+        - ID: CVE-2020-15987
+          Severity: MEDIUM
+        - ID: CVE-2020-15988
+          Severity: LOW
+        - ID: CVE-2020-15989
+          Severity: LOW
+        - ID: CVE-2020-15990
+          Severity: HIGH
+        - ID: CVE-2020-15991
+          Severity: HIGH
+        - ID: CVE-2020-15992
+          Severity: MEDIUM
+        - ID: CVE-2020-6557
+          Severity: MEDIUM
+      FixedVersion: 0:86.0.4240.75-1.el6_10

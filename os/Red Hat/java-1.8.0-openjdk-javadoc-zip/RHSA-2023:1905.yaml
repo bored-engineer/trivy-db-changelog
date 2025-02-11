@@ -1,0 +1,36 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2
+        - cpe:/a:redhat:rhel_e4s:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.2::sap
+        - cpe:/a:redhat:rhel_e4s:8.2::sap_hana
+        - cpe:/a:redhat:rhel_tus:8.2
+        - cpe:/a:redhat:rhel_tus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2::highavailability
+        - cpe:/a:redhat:rhel_tus:8.2::nfv
+        - cpe:/a:redhat:rhel_tus:8.2::realtime
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+        - cpe:/o:redhat:rhel_e4s:8.2
+        - cpe:/o:redhat:rhel_e4s:8.2::baseos
+        - cpe:/o:redhat:rhel_tus:8.2
+        - cpe:/o:redhat:rhel_tus:8.2::baseos
+      Cves:
+        - ID: CVE-2023-21930
+          Severity: HIGH
+        - ID: CVE-2023-21937
+          Severity: LOW
+        - ID: CVE-2023-21938
+          Severity: LOW
+        - ID: CVE-2023-21939
+          Severity: MEDIUM
+        - ID: CVE-2023-21954
+          Severity: MEDIUM
+        - ID: CVE-2023-21967
+          Severity: MEDIUM
+        - ID: CVE-2023-21968
+          Severity: LOW
+      FixedVersion: 1:1.8.0.372.b07-1.el8_2

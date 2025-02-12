@@ -1,0 +1,49 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.4
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.4
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.4
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.4
+        - cpe:/o:redhat:rhel_aus:7.4
+        - cpe:/o:redhat:rhel_aus:7.4::server
+        - cpe:/o:redhat:rhel_e4s:7.4
+        - cpe:/o:redhat:rhel_e4s:7.4::server
+        - cpe:/o:redhat:rhel_eus:7.4
+        - cpe:/o:redhat:rhel_eus:7.4::computenode
+        - cpe:/o:redhat:rhel_eus:7.4::server
+        - cpe:/o:redhat:rhel_tus:7.4
+        - cpe:/o:redhat:rhel_tus:7.4::server
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2016-7913
+          Severity: MEDIUM
+        - ID: CVE-2016-8633
+          Severity: HIGH
+        - ID: CVE-2017-1000407
+          Severity: MEDIUM
+        - ID: CVE-2017-11600
+          Severity: MEDIUM
+        - ID: CVE-2017-12190
+          Severity: MEDIUM
+        - ID: CVE-2017-13215
+          Severity: HIGH
+        - ID: CVE-2017-16939
+          Severity: HIGH
+        - ID: CVE-2017-17558
+          Severity: MEDIUM
+        - ID: CVE-2018-1068
+          Severity: HIGH
+        - ID: CVE-2018-12126
+          Severity: MEDIUM
+        - ID: CVE-2018-12127
+          Severity: MEDIUM
+        - ID: CVE-2018-12130
+          Severity: HIGH
+        - ID: CVE-2018-18559
+          Severity: HIGH
+        - ID: CVE-2018-3665
+          Severity: MEDIUM
+        - ID: CVE-2019-11091
+          Severity: MEDIUM
+      FixedVersion: 0:3.10.0-693.47.2.el7

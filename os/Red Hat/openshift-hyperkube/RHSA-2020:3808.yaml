@@ -1,0 +1,28 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-17638
+          Severity: HIGH
+        - ID: CVE-2020-2220
+          Severity: HIGH
+        - ID: CVE-2020-2221
+          Severity: HIGH
+        - ID: CVE-2020-2222
+          Severity: HIGH
+        - ID: CVE-2020-2223
+          Severity: HIGH
+        - ID: CVE-2020-2229
+          Severity: MEDIUM
+        - ID: CVE-2020-2230
+          Severity: MEDIUM
+        - ID: CVE-2020-2231
+          Severity: MEDIUM
+        - ID: CVE-2020-8557
+          Severity: MEDIUM
+      FixedVersion: 0:4.3.37-202009120213.p0.git.0.dffefe4.el8

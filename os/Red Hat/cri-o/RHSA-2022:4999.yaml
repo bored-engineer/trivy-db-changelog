@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2022-1708
+          Severity: MEDIUM
+      FixedVersion: 0:1.11.16-0.17.rhaos3.11.git4c0a8ad.el7

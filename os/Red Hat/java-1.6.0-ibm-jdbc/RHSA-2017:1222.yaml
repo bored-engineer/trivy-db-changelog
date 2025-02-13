@@ -1,0 +1,40 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2016-9840
+          Severity: LOW
+        - ID: CVE-2016-9841
+          Severity: LOW
+        - ID: CVE-2016-9842
+          Severity: LOW
+        - ID: CVE-2016-9843
+          Severity: LOW
+        - ID: CVE-2017-1289
+          Severity: MEDIUM
+        - ID: CVE-2017-3509
+          Severity: MEDIUM
+        - ID: CVE-2017-3533
+          Severity: LOW
+        - ID: CVE-2017-3539
+          Severity: MEDIUM
+        - ID: CVE-2017-3544
+          Severity: LOW
+      FixedVersion: 1:1.6.0.16.45-1jpp.1.el6_9

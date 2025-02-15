@@ -46,7 +46,7 @@ Entries:
         - ID: CVE-2021-21707
           Severity: MEDIUM
         - ID: CVE-2021-21708
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2021-32610
           Severity: MEDIUM
       FixedVersion: 1:1.10.13-1.module+el8.7.0+15127+a450a8db

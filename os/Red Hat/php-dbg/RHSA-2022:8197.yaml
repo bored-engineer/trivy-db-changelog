@@ -57,7 +57,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2021-21708
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2022-31625
           Severity: MEDIUM
       FixedVersion: 0:8.0.20-3.el9

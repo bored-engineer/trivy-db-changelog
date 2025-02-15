@@ -20,5 +20,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2022-49043
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:2.9.13-6.el9_5.1

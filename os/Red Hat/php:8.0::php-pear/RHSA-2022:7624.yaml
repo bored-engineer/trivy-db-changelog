@@ -44,7 +44,7 @@ Entries:
         - cpe:/o:redhat:rhel_tus:8.8::baseos
       Cves:
         - ID: CVE-2021-21708
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2022-31625
           Severity: MEDIUM
       FixedVersion: 1:1.10.13-1.module+el8.6.0+13671+84712317

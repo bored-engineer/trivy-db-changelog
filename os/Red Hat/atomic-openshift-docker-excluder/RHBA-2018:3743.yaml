@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2018-1000406
+          Severity: MEDIUM
+        - ID: CVE-2018-1000407
+          Severity: MEDIUM
+        - ID: CVE-2018-1000408
+          Severity: MEDIUM
+        - ID: CVE-2018-1000409
+          Severity: MEDIUM
+        - ID: CVE-2018-1000410
+          Severity: LOW
+        - ID: CVE-2018-1000997
+          Severity: MEDIUM
+        - ID: CVE-2018-17246
+          Severity: HIGH
+        - ID: CVE-2018-1999043
+          Severity: MEDIUM
+      FixedVersion: 0:3.11.51-1.git.0.1560686.el7

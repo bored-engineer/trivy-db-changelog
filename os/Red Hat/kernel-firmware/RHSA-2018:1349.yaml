@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+      Cves:
+        - ID: CVE-2018-8897
+          Severity: MEDIUM
+      FixedVersion: 0:2.6.32-358.88.2.el6

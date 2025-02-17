@@ -1,0 +1,26 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.10
+        - cpe:/a:redhat:openshift:4.10::el8
+      Cves:
+        - ID: CVE-2022-31690
+          Severity: HIGH
+        - ID: CVE-2022-31692
+          Severity: HIGH
+        - ID: CVE-2022-3172
+          Severity: MEDIUM
+        - ID: CVE-2022-42889
+          Severity: MEDIUM
+        - ID: CVE-2023-24422
+          Severity: HIGH
+        - ID: CVE-2023-25725
+          Severity: HIGH
+        - ID: CVE-2023-27898
+          Severity: HIGH
+        - ID: CVE-2023-27899
+          Severity: HIGH
+        - ID: CVE-2023-27903
+          Severity: LOW
+        - ID: CVE-2023-27904
+          Severity: LOW
+      FixedVersion: 0:2.387.1.1680701869-1.el8

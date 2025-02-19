@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.9
+        - cpe:/a:redhat:openshift:4.9::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-29923
+          Severity: LOW
+        - ID: CVE-2021-36221
+          Severity: MEDIUM
+        - ID: CVE-2021-44716
+          Severity: MEDIUM
+        - ID: CVE-2021-44717
+          Severity: MEDIUM
+      FixedVersion: 0:0.5.0-5.git642a960.el8

@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 5.0.0-psw-wix.0251-40
+VulnerableVersions:
+    - <5.0.0-psw-wix.0251-40

@@ -1,0 +1,6 @@
+Entries:
+    - Arches:
+        - aarch64
+        - x86_64
+      FixedVersion: 1.0-3.0.1.el8_3.4
+FixedVersion: 1.0-3.0.1.el8_3.4

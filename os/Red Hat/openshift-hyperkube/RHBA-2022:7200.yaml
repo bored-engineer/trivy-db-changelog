@@ -1,0 +1,13 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.11
+        - cpe:/a:redhat:openshift:4.11::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-3172
+          Severity: MEDIUM
+      FixedVersion: 0:4.11.0-202210122157.p0.g5157800.assembly.stream.el8

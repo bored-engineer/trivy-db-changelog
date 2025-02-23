@@ -1,0 +1,27 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+        - cpe:/o:redhat:rhel_eus:6.5
+        - cpe:/o:redhat:rhel_eus:6.5::computenode
+        - cpe:/o:redhat:rhel_eus:6.5::server
+        - cpe:/o:redhat:rhel_tus:6.5
+        - cpe:/o:redhat:rhel_tus:6.5::server
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2013-4483
+          Severity: MEDIUM
+        - ID: CVE-2014-3185
+          Severity: MEDIUM
+        - ID: CVE-2014-3611
+          Severity: HIGH
+        - ID: CVE-2014-3645
+          Severity: MEDIUM
+        - ID: CVE-2014-3646
+          Severity: MEDIUM
+        - ID: CVE-2014-7841
+          Severity: HIGH
+        - ID: CVE-2014-8160
+          Severity: MEDIUM
+      FixedVersion: 0:2.6.32-431.50.1.el6

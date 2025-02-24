@@ -1,0 +1,88 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:9.4
+        - cpe:/a:redhat:rhel_eus:9.4::appstream
+        - cpe:/a:redhat:rhel_eus:9.4::crb
+        - cpe:/a:redhat:rhel_eus:9.4::highavailability
+        - cpe:/a:redhat:rhel_eus:9.4::nfv
+        - cpe:/a:redhat:rhel_eus:9.4::realtime
+        - cpe:/a:redhat:rhel_eus:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.4::sap
+        - cpe:/a:redhat:rhel_eus:9.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.4::supplementary
+        - cpe:/o:redhat:rhel_eus:9.4
+        - cpe:/o:redhat:rhel_eus:9.4::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2022-48804
+          Severity: MEDIUM
+        - ID: CVE-2023-52619
+          Severity: MEDIUM
+        - ID: CVE-2023-52635
+          Severity: MEDIUM
+        - ID: CVE-2023-52775
+          Severity: MEDIUM
+        - ID: CVE-2023-52811
+          Severity: LOW
+        - ID: CVE-2024-26601
+          Severity: MEDIUM
+        - ID: CVE-2024-26615
+          Severity: MEDIUM
+        - ID: CVE-2024-26686
+          Severity: MEDIUM
+        - ID: CVE-2024-26704
+          Severity: MEDIUM
+        - ID: CVE-2024-27399
+          Severity: MEDIUM
+        - ID: CVE-2024-36928
+          Severity: MEDIUM
+        - ID: CVE-2024-36960
+          Severity: MEDIUM
+        - ID: CVE-2024-38384
+          Severity: LOW
+        - ID: CVE-2024-38541
+          Severity: MEDIUM
+        - ID: CVE-2024-38555
+          Severity: MEDIUM
+        - ID: CVE-2024-39507
+          Severity: MEDIUM
+        - ID: CVE-2024-40997
+          Severity: LOW
+        - ID: CVE-2024-41007
+          Severity: MEDIUM
+        - ID: CVE-2024-41008
+          Severity: LOW
+        - ID: CVE-2024-41009
+          Severity: MEDIUM
+        - ID: CVE-2024-41031
+          Severity: MEDIUM
+        - ID: CVE-2024-41038
+          Severity: MEDIUM
+        - ID: CVE-2024-41056
+          Severity: MEDIUM
+        - ID: CVE-2024-41093
+          Severity: MEDIUM
+        - ID: CVE-2024-42154
+          Severity: MEDIUM
+        - ID: CVE-2024-42228
+          Severity: MEDIUM
+        - ID: CVE-2024-42237
+          Severity: LOW
+        - ID: CVE-2024-42238
+          Severity: MEDIUM
+        - ID: CVE-2024-42240
+          Severity: MEDIUM
+        - ID: CVE-2024-42241
+          Severity: MEDIUM
+        - ID: CVE-2024-42243
+          Severity: LOW
+        - ID: CVE-2024-42244
+          Severity: LOW
+        - ID: CVE-2024-42271
+          Severity: MEDIUM
+        - ID: CVE-2024-44989
+          Severity: MEDIUM
+      FixedVersion: 0:5.14.0-427.47.1.el9_4

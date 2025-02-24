@@ -1,0 +1,21 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.7
+        - cpe:/a:redhat:openshift:4.7::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-25741
+          Severity: HIGH
+      FixedVersion: 0:4.7.0-202109172126.p0.git.bbbc079.assembly.stream.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.7
+        - cpe:/a:redhat:openshift:4.7::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-25741
+          Severity: HIGH
+      FixedVersion: 0:4.7.0-202109172126.p0.git.bbbc079.assembly.stream.el8

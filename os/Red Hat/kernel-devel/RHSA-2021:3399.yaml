@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.2
+        - cpe:/o:redhat:rhel_aus:7.2::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-22555
+          Severity: HIGH
+        - ID: CVE-2021-32399
+          Severity: HIGH
+        - ID: CVE-2021-3347
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-327.100.1.el7

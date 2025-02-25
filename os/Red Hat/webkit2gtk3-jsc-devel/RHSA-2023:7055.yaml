@@ -57,6 +57,71 @@ Entries:
           Severity: HIGH
         - ID: CVE-2023-38611
           Severity: HIGH
+        - ID: CVE-2023-40397
+          Severity: MEDIUM
+        - ID: CVE-2023-40451
+          Severity: MEDIUM
+        - ID: CVE-2023-42833
+          Severity: HIGH
+      FixedVersion: 0:2.40.5-1.el8
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+      Arches:
+        - aarch64
+        - i686
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-32885
+          Severity: MEDIUM
+        - ID: CVE-2022-32919
+          Severity: MEDIUM
+        - ID: CVE-2022-32933
+          Severity: MEDIUM
+        - ID: CVE-2022-46705
+          Severity: MEDIUM
+        - ID: CVE-2022-46725
+          Severity: MEDIUM
+        - ID: CVE-2023-27932
+          Severity: MEDIUM
+        - ID: CVE-2023-27954
+          Severity: MEDIUM
+        - ID: CVE-2023-28198
+          Severity: MEDIUM
+        - ID: CVE-2023-32370
+          Severity: MEDIUM
+        - ID: CVE-2023-32393
+          Severity: HIGH
+        - ID: CVE-2023-38133
+          Severity: MEDIUM
+        - ID: CVE-2023-38572
+          Severity: HIGH
+        - ID: CVE-2023-38592
+          Severity: HIGH
+        - ID: CVE-2023-38594
+          Severity: HIGH
+        - ID: CVE-2023-38595
+          Severity: HIGH
+        - ID: CVE-2023-38597
+          Severity: HIGH
+        - ID: CVE-2023-38599
+          Severity: MEDIUM
+        - ID: CVE-2023-38600
+          Severity: HIGH
+        - ID: CVE-2023-38611
+          Severity: HIGH
         - ID: CVE-2023-39434
           Severity: MEDIUM
         - ID: CVE-2023-40397

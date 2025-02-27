@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16.2
+        - cpe:/a:redhat:openstack:16.2::el8
+      Cves:
+        - ID: CVE-2022-37394
+          Severity: LOW
+      FixedVersion: 1:20.6.2-2.20230308185148.fc01371.el8ost

@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.1
+        - cpe:/a:redhat:openshift:3.1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-7075
+          Severity: HIGH
+      FixedVersion: 0:3.1.1.8-1.git.0.d469026.el7aos
+    - Affected:
+        - cpe:/a:redhat:openshift:3.2
+        - cpe:/a:redhat:openshift:3.2::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-7075
+          Severity: HIGH
+      FixedVersion: 0:3.2.1.17-1.git.0.6d01b60.el7

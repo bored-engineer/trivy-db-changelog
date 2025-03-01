@@ -22,7 +22,7 @@ Entries:
         - ID: CVE-2023-0465
           Severity: LOW
         - ID: CVE-2023-0466
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2023-2650
           Severity: MEDIUM
         - ID: CVE-2023-3446
@@ -55,7 +55,7 @@ Entries:
         - ID: CVE-2023-0465
           Severity: LOW
         - ID: CVE-2023-0466
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2023-2650
           Severity: MEDIUM
         - ID: CVE-2023-3446
@@ -78,7 +78,7 @@ Entries:
         - ID: CVE-2023-0465
           Severity: LOW
         - ID: CVE-2023-0466
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2023-2650
           Severity: MEDIUM
         - ID: CVE-2023-3446

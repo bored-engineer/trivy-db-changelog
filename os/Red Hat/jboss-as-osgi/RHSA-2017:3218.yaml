@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el7
+      Cves:
+        - ID: CVE-2017-2582
+          Severity: MEDIUM
+      FixedVersion: 0:7.5.18-1.Final_redhat_1.1.ep6.el7

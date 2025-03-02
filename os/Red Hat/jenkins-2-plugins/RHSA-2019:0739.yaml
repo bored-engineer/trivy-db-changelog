@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2019-1003005
+          Severity: HIGH
+        - ID: CVE-2019-1003024
+          Severity: HIGH
+        - ID: CVE-2019-1003029
+          Severity: HIGH
+        - ID: CVE-2019-1003030
+          Severity: HIGH
+        - ID: CVE-2019-1003031
+          Severity: HIGH
+        - ID: CVE-2019-1003034
+          Severity: HIGH
+      FixedVersion: 0:3.11.1552336312-1.el7

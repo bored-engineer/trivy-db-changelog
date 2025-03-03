@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.4
+        - cpe:/a:redhat:openshift:4.4::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-10749
+          Severity: MEDIUM
+      FixedVersion: 0:0.8.6-1.rhaos4.4.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.4
+        - cpe:/a:redhat:openshift:4.4::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-10749
+          Severity: MEDIUM
+      FixedVersion: 0:0.8.6-1.rhaos4.4.el8

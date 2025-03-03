@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ansible_engine:2.7
+        - cpe:/a:redhat:ansible_engine:2.7::el7
+      Cves:
+        - ID: CVE-2019-14846
+          Severity: HIGH
+        - ID: CVE-2019-14856
+          Severity: MEDIUM
+        - ID: CVE-2019-14858
+          Severity: MEDIUM
+      FixedVersion: 0:2.7.14-1.el7ae

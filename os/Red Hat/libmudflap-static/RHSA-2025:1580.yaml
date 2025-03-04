@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2020-11023
+          Severity: MEDIUM
+      FixedVersion: 0:4.8.5-40.el7_7

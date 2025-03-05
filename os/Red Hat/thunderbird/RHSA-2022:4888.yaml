@@ -1,0 +1,30 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.1
+        - cpe:/a:redhat:rhel_e4s:8.1::appstream
+        - cpe:/a:redhat:rhel_e4s:8.1::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.1::sap
+        - cpe:/a:redhat:rhel_e4s:8.1::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.1
+        - cpe:/o:redhat:rhel_e4s:8.1::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2022-1834
+          Severity: HIGH
+        - ID: CVE-2022-31736
+          Severity: HIGH
+        - ID: CVE-2022-31737
+          Severity: HIGH
+        - ID: CVE-2022-31738
+          Severity: HIGH
+        - ID: CVE-2022-31740
+          Severity: HIGH
+        - ID: CVE-2022-31741
+          Severity: HIGH
+        - ID: CVE-2022-31742
+          Severity: MEDIUM
+        - ID: CVE-2022-31747
+          Severity: HIGH
+      FixedVersion: 0:91.10.0-1.el8_1

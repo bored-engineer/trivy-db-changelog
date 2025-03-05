@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:17.1
+        - cpe:/a:redhat:openstack:17.1::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2024-56201
+          Severity: HIGH
+        - ID: CVE-2024-56326
+          Severity: MEDIUM
+        - ID: CVE-2024-9902
+          Severity: MEDIUM
+      FixedVersion: 0:2.14.2-4.6.el9ost

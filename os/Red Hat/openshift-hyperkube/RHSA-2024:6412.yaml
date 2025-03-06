@@ -1,0 +1,29 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-23772
+          Severity: MEDIUM
+        - ID: CVE-2023-45539
+          Severity: MEDIUM
+      FixedVersion: 0:4.14.0-202409041843.p0.g03a907c.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el9
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-23772
+          Severity: MEDIUM
+        - ID: CVE-2023-45539
+          Severity: MEDIUM
+      FixedVersion: 0:4.14.0-202409041843.p0.g03a907c.assembly.stream.el9

@@ -1,0 +1,38 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:advanced_virtualization:8
+        - cpe:/a:redhat:advanced_virtualization:8.0
+        - cpe:/a:redhat:advanced_virtualization:8.0::el8
+        - cpe:/a:redhat:advanced_virtualization:8.1
+        - cpe:/a:redhat:advanced_virtualization:8.1::el8
+        - cpe:/a:redhat:advanced_virtualization:8.2
+        - cpe:/a:redhat:advanced_virtualization:8.2::el8
+        - cpe:/a:redhat:advanced_virtualization:8.3
+        - cpe:/a:redhat:advanced_virtualization:8.3::el8
+        - cpe:/a:redhat:advanced_virtualization:8.4
+        - cpe:/a:redhat:advanced_virtualization:8.4::el8
+        - cpe:/a:redhat:advanced_virtualization:8.5
+        - cpe:/a:redhat:advanced_virtualization:8.5::el8
+        - cpe:/a:redhat:advanced_virtualization:8.6
+        - cpe:/a:redhat:advanced_virtualization:8.6::el8
+        - cpe:/a:redhat:advanced_virtualization:8::el8
+      Arches:
+        - aarch64
+        - i686
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-25707
+          Severity: LOW
+        - ID: CVE-2020-25723
+          Severity: LOW
+        - ID: CVE-2020-27617
+          Severity: LOW
+        - ID: CVE-2020-27821
+          Severity: MEDIUM
+        - ID: CVE-2020-29443
+          Severity: MEDIUM
+        - ID: CVE-2020-35517
+          Severity: HIGH
+      FixedVersion: 0:1.4.0-2.module+el8.3.0+7998+6ff5e5ab

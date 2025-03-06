@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.10
+        - cpe:/a:redhat:openshift:3.10::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-1000169
+          Severity: LOW
+      FixedVersion: 0:1.85-1.el7

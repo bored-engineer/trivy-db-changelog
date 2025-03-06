@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-optools:13
+        - cpe:/a:redhat:openstack-optools:13::el7
+        - cpe:/a:redhat:openstack:13
+        - cpe:/a:redhat:openstack:13::el7
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2021-32626
+          Severity: HIGH
+        - ID: CVE-2021-32627
+          Severity: HIGH
+        - ID: CVE-2021-32628
+          Severity: HIGH
+        - ID: CVE-2021-32675
+          Severity: HIGH
+        - ID: CVE-2021-32687
+          Severity: HIGH
+        - ID: CVE-2021-41099
+          Severity: HIGH
+      FixedVersion: 0:3.2.8-5.el7ost

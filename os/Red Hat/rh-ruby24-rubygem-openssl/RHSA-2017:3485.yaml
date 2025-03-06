@@ -1,0 +1,57 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-0898
+          Severity: MEDIUM
+        - ID: CVE-2017-0899
+          Severity: LOW
+        - ID: CVE-2017-0900
+          Severity: LOW
+        - ID: CVE-2017-0901
+          Severity: MEDIUM
+        - ID: CVE-2017-0902
+          Severity: MEDIUM
+        - ID: CVE-2017-0903
+          Severity: MEDIUM
+        - ID: CVE-2017-10784
+          Severity: MEDIUM
+        - ID: CVE-2017-14064
+          Severity: LOW
+      FixedVersion: 0:2.0.5-86.el6
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-0898
+          Severity: MEDIUM
+        - ID: CVE-2017-0899
+          Severity: LOW
+        - ID: CVE-2017-0900
+          Severity: LOW
+        - ID: CVE-2017-0901
+          Severity: MEDIUM
+        - ID: CVE-2017-0902
+          Severity: MEDIUM
+        - ID: CVE-2017-0903
+          Severity: MEDIUM
+        - ID: CVE-2017-10784
+          Severity: MEDIUM
+        - ID: CVE-2017-14064
+          Severity: LOW
+      FixedVersion: 0:2.0.5-86.el7

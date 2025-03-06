@@ -1,0 +1,79 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.4
+        - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_tus:8.4
+        - cpe:/a:redhat:rhel_tus:8.4::appstream
+        - cpe:/a:redhat:rhel_tus:8.4::highavailability
+        - cpe:/a:redhat:rhel_tus:8.4::nfv
+        - cpe:/a:redhat:rhel_tus:8.4::realtime
+        - cpe:/o:redhat:rhel_aus:8.4
+        - cpe:/o:redhat:rhel_aus:8.4::baseos
+        - cpe:/o:redhat:rhel_tus:8.4
+        - cpe:/o:redhat:rhel_tus:8.4::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2024-8900
+          Severity: MEDIUM
+        - ID: CVE-2024-9392
+          Severity: HIGH
+        - ID: CVE-2024-9393
+          Severity: HIGH
+        - ID: CVE-2024-9394
+          Severity: HIGH
+        - ID: CVE-2024-9396
+          Severity: MEDIUM
+        - ID: CVE-2024-9397
+          Severity: MEDIUM
+        - ID: CVE-2024-9398
+          Severity: LOW
+        - ID: CVE-2024-9399
+          Severity: LOW
+        - ID: CVE-2024-9400
+          Severity: LOW
+        - ID: CVE-2024-9401
+          Severity: HIGH
+        - ID: CVE-2024-9402
+          Severity: HIGH
+        - ID: CVE-2024-9403
+          Severity: HIGH
+      FixedVersion: 0:128.3.0-1.el8_4
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.4
+        - cpe:/a:redhat:rhel_e4s:8.4::appstream
+        - cpe:/a:redhat:rhel_e4s:8.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.4::nfv
+        - cpe:/a:redhat:rhel_e4s:8.4::sap
+        - cpe:/a:redhat:rhel_e4s:8.4::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.4
+        - cpe:/o:redhat:rhel_e4s:8.4::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2024-8900
+          Severity: MEDIUM
+        - ID: CVE-2024-9392
+          Severity: HIGH
+        - ID: CVE-2024-9393
+          Severity: HIGH
+        - ID: CVE-2024-9394
+          Severity: HIGH
+        - ID: CVE-2024-9396
+          Severity: MEDIUM
+        - ID: CVE-2024-9397
+          Severity: MEDIUM
+        - ID: CVE-2024-9398
+          Severity: LOW
+        - ID: CVE-2024-9399
+          Severity: LOW
+        - ID: CVE-2024-9400
+          Severity: LOW
+        - ID: CVE-2024-9401
+          Severity: HIGH
+        - ID: CVE-2024-9402
+          Severity: HIGH
+        - ID: CVE-2024-9403
+          Severity: HIGH
+      FixedVersion: 0:128.3.0-1.el8_4

@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.5
+        - cpe:/a:redhat:openshift:4.5::el7
+      Cves:
+        - ID: CVE-2020-13757
+          Severity: MEDIUM
+        - ID: CVE-2020-2181
+          Severity: MEDIUM
+        - ID: CVE-2020-2182
+          Severity: LOW
+        - ID: CVE-2020-2224
+          Severity: HIGH
+        - ID: CVE-2020-2225
+          Severity: HIGH
+        - ID: CVE-2020-2226
+          Severity: HIGH
+      FixedVersion: 0:4.5.1596698303-1.el7

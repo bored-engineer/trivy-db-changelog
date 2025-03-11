@@ -1,2 +1,4 @@
+PatchedVersions:
+    - 3.7.2
 VulnerableVersions:
-    - <=3.4.0
+    - <3.7.2

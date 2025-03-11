@@ -21,7 +21,7 @@ Entries:
         - ID: CVE-2024-7518
           Severity: HIGH
         - ID: CVE-2024-7519
-          Severity: HIGH
+          Severity: CRITICAL
         - ID: CVE-2024-7520
           Severity: HIGH
         - ID: CVE-2024-7521

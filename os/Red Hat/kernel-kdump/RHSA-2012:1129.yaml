@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:6.2
+        - cpe:/o:redhat:rhel_eus:6.2::computenode
+        - cpe:/o:redhat:rhel_eus:6.2::server
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2011-1083
+          Severity: MEDIUM
+        - ID: CVE-2012-2744
+          Severity: HIGH
+      FixedVersion: 0:2.6.32-220.24.1.el6

@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:6.3
+        - cpe:/o:redhat:rhel_eus:6.3::computenode
+        - cpe:/o:redhat:rhel_eus:6.3::server
+      Arches:
+        - ppc64
+      Cves:
+        - ID: CVE-2013-2224
+          Severity: HIGH
+        - ID: CVE-2013-2852
+          Severity: LOW
+        - ID: CVE-2013-4299
+          Severity: MEDIUM
+      FixedVersion: 0:2.6.32-279.37.2.el6

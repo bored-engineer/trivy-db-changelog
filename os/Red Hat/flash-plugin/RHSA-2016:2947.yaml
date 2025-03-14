@@ -1,0 +1,53 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+      Cves:
+        - ID: CVE-2016-7867
+          Severity: CRITICAL
+        - ID: CVE-2016-7868
+          Severity: CRITICAL
+        - ID: CVE-2016-7869
+          Severity: CRITICAL
+        - ID: CVE-2016-7870
+          Severity: CRITICAL
+        - ID: CVE-2016-7871
+          Severity: CRITICAL
+        - ID: CVE-2016-7872
+          Severity: CRITICAL
+        - ID: CVE-2016-7873
+          Severity: CRITICAL
+        - ID: CVE-2016-7874
+          Severity: CRITICAL
+        - ID: CVE-2016-7875
+          Severity: CRITICAL
+        - ID: CVE-2016-7876
+          Severity: CRITICAL
+        - ID: CVE-2016-7877
+          Severity: CRITICAL
+        - ID: CVE-2016-7878
+          Severity: CRITICAL
+        - ID: CVE-2016-7879
+          Severity: CRITICAL
+        - ID: CVE-2016-7880
+          Severity: CRITICAL
+        - ID: CVE-2016-7881
+          Severity: CRITICAL
+        - ID: CVE-2016-7890
+          Severity: CRITICAL
+        - ID: CVE-2016-7892
+          Severity: CRITICAL
+      FixedVersion: 0:24.0.0.186-1.el6_8

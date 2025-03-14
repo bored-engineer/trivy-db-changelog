@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.4
+        - cpe:/o:redhat:rhel_aus:7.4::server
+      Cves:
+        - ID: CVE-2021-4155
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-693.96.1.el7

@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2020-27216
+          Severity: MEDIUM
+        - ID: CVE-2020-27218
+          Severity: MEDIUM
+        - ID: CVE-2020-27223
+          Severity: MEDIUM
+        - ID: CVE-2021-21642
+          Severity: HIGH
+        - ID: CVE-2021-21643
+          Severity: MEDIUM
+        - ID: CVE-2021-21644
+          Severity: MEDIUM
+        - ID: CVE-2021-21645
+          Severity: MEDIUM
+      FixedVersion: 0:2.289.1.1624365627-1.el7

@@ -1,0 +1,73 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6
+        - cpe:/a:redhat:rhel_tus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6::highavailability
+        - cpe:/a:redhat:rhel_tus:8.6::nfv
+        - cpe:/a:redhat:rhel_tus:8.6::realtime
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+        - cpe:/o:redhat:rhel_tus:8.6
+        - cpe:/o:redhat:rhel_tus:8.6::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2025-0510
+          Severity: HIGH
+        - ID: CVE-2025-1009
+          Severity: HIGH
+        - ID: CVE-2025-1010
+          Severity: HIGH
+        - ID: CVE-2025-1011
+          Severity: MEDIUM
+        - ID: CVE-2025-1012
+          Severity: MEDIUM
+        - ID: CVE-2025-1013
+          Severity: LOW
+        - ID: CVE-2025-1014
+          Severity: LOW
+        - ID: CVE-2025-1015
+          Severity: LOW
+        - ID: CVE-2025-1016
+          Severity: HIGH
+        - ID: CVE-2025-1017
+          Severity: MEDIUM
+      FixedVersion: 0:128.7.0-1.el8_6
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.6
+        - cpe:/a:redhat:rhel_e4s:8.6::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.6::nfv
+        - cpe:/a:redhat:rhel_e4s:8.6::sap
+        - cpe:/a:redhat:rhel_e4s:8.6::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.6
+        - cpe:/o:redhat:rhel_e4s:8.6::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-0510
+          Severity: HIGH
+        - ID: CVE-2025-1009
+          Severity: HIGH
+        - ID: CVE-2025-1010
+          Severity: HIGH
+        - ID: CVE-2025-1011
+          Severity: MEDIUM
+        - ID: CVE-2025-1012
+          Severity: MEDIUM
+        - ID: CVE-2025-1013
+          Severity: LOW
+        - ID: CVE-2025-1014
+          Severity: LOW
+        - ID: CVE-2025-1015
+          Severity: LOW
+        - ID: CVE-2025-1016
+          Severity: HIGH
+        - ID: CVE-2025-1017
+          Severity: MEDIUM
+      FixedVersion: 0:128.7.0-1.el8_6

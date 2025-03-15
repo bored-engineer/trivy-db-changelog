@@ -1,0 +1,21 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16.1
+        - cpe:/a:redhat:openstack:16.1::el8
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2020-15106
+          Severity: LOW
+        - ID: CVE-2020-15112
+          Severity: MEDIUM
+        - ID: CVE-2020-15113
+          Severity: MEDIUM
+        - ID: CVE-2020-15114
+          Severity: MEDIUM
+        - ID: CVE-2020-15115
+          Severity: MEDIUM
+        - ID: CVE-2020-15136
+          Severity: MEDIUM
+      FixedVersion: 0:3.3.23-1.el8ost

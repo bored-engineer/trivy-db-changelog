@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+        - cpe:/o:redhat:rhel_eus:6.5
+        - cpe:/o:redhat:rhel_eus:6.5::computenode
+        - cpe:/o:redhat:rhel_eus:6.5::server
+        - cpe:/o:redhat:rhel_tus:6.5
+        - cpe:/o:redhat:rhel_tus:6.5::server
+      Cves:
+        - ID: CVE-2014-9293
+          Severity: MEDIUM
+        - ID: CVE-2014-9294
+          Severity: MEDIUM
+        - ID: CVE-2014-9295
+          Severity: HIGH
+        - ID: CVE-2014-9296
+          Severity: LOW
+      FixedVersion: 0:4.2.6p5-2.el6_5

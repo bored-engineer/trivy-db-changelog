@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.6
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.6
+        - cpe:/o:redhat:rhel_aus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6::server
+        - cpe:/o:redhat:rhel_e4s:7.6
+        - cpe:/o:redhat:rhel_e4s:7.6::server
+        - cpe:/o:redhat:rhel_tus:7.6
+        - cpe:/o:redhat:rhel_tus:7.6::server
+      Cves:
+        - ID: CVE-2021-33034
+          Severity: HIGH
+        - ID: CVE-2021-3347
+          Severity: HIGH
+        - ID: CVE-2021-33909
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-957.78.2.el7

@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.2
+        - cpe:/a:redhat:openshift:3.2::el7
+      Cves:
+        - ID: CVE-2016-8628
+          Severity: MEDIUM
+      FixedVersion: 0:3.2.42-1.git.0.6b09be9.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:3.3
+        - cpe:/a:redhat:openshift:3.3::el7
+      Cves:
+        - ID: CVE-2016-8628
+          Severity: MEDIUM
+      FixedVersion: 0:3.3.50-1.git.0.5bdbeaa.el7

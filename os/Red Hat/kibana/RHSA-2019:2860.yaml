@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.1
+        - cpe:/a:redhat:openshift:4.1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-7608
+          Severity: MEDIUM
+        - ID: CVE-2019-7609
+          Severity: HIGH
+        - ID: CVE-2019-7610
+          Severity: HIGH
+      FixedVersion: 0:5.6.16-2.el7

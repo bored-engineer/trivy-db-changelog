@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:17.0
+        - cpe:/a:redhat:openstack:17.0::el9
+      Cves:
+        - ID: CVE-2023-2088
+          Severity: CRITICAL
+      FixedVersion: 1:18.2.1-0.20230509200451.1776695.el9ost

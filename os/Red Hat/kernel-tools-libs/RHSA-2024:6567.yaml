@@ -1,0 +1,112 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_aus:9.4
+        - cpe:/a:redhat:rhel_aus:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4
+        - cpe:/a:redhat:rhel_e4s:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.4::nfv
+        - cpe:/a:redhat:rhel_e4s:9.4::realtime
+        - cpe:/a:redhat:rhel_e4s:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.4::sap
+        - cpe:/a:redhat:rhel_e4s:9.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.4
+        - cpe:/a:redhat:rhel_eus:9.4::appstream
+        - cpe:/a:redhat:rhel_eus:9.4::crb
+        - cpe:/a:redhat:rhel_eus:9.4::highavailability
+        - cpe:/a:redhat:rhel_eus:9.4::nfv
+        - cpe:/a:redhat:rhel_eus:9.4::realtime
+        - cpe:/a:redhat:rhel_eus:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.4::sap
+        - cpe:/a:redhat:rhel_eus:9.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.4::supplementary
+        - cpe:/a:redhat:rhel_eus:9.6
+        - cpe:/a:redhat:rhel_eus:9.6::appstream
+        - cpe:/a:redhat:rhel_eus:9.6::crb
+        - cpe:/a:redhat:rhel_eus:9.6::highavailability
+        - cpe:/a:redhat:rhel_eus:9.6::nfv
+        - cpe:/a:redhat:rhel_eus:9.6::realtime
+        - cpe:/a:redhat:rhel_eus:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.6::sap
+        - cpe:/a:redhat:rhel_eus:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/o:redhat:rhel_aus:9.4
+        - cpe:/o:redhat:rhel_aus:9.4::baseos
+        - cpe:/o:redhat:rhel_e4s:9.4
+        - cpe:/o:redhat:rhel_e4s:9.4::baseos
+        - cpe:/o:redhat:rhel_eus:9.4
+        - cpe:/o:redhat:rhel_eus:9.4::baseos
+        - cpe:/o:redhat:rhel_eus:9.6
+        - cpe:/o:redhat:rhel_eus:9.6::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2023-52463
+          Severity: MEDIUM
+        - ID: CVE-2023-52801
+          Severity: LOW
+        - ID: CVE-2024-26629
+          Severity: MEDIUM
+        - ID: CVE-2024-26630
+          Severity: MEDIUM
+        - ID: CVE-2024-26720
+          Severity: MEDIUM
+        - ID: CVE-2024-26886
+          Severity: MEDIUM
+        - ID: CVE-2024-26946
+          Severity: MEDIUM
+        - ID: CVE-2024-35791
+          Severity: MEDIUM
+        - ID: CVE-2024-35797
+          Severity: MEDIUM
+        - ID: CVE-2024-35875
+          Severity: MEDIUM
+        - ID: CVE-2024-36000
+          Severity: MEDIUM
+        - ID: CVE-2024-36019
+          Severity: MEDIUM
+        - ID: CVE-2024-36883
+          Severity: MEDIUM
+        - ID: CVE-2024-36979
+          Severity: MEDIUM
+        - ID: CVE-2024-38559
+          Severity: LOW
+        - ID: CVE-2024-38619
+          Severity: LOW
+        - ID: CVE-2024-40927
+          Severity: MEDIUM
+        - ID: CVE-2024-40936
+          Severity: LOW
+        - ID: CVE-2024-41040
+          Severity: MEDIUM
+        - ID: CVE-2024-41044
+          Severity: MEDIUM
+        - ID: CVE-2024-41055
+          Severity: MEDIUM
+        - ID: CVE-2024-41073
+          Severity: MEDIUM
+        - ID: CVE-2024-41096
+          Severity: MEDIUM
+        - ID: CVE-2024-42082
+          Severity: MEDIUM
+        - ID: CVE-2024-42096
+          Severity: LOW
+        - ID: CVE-2024-42102
+          Severity: MEDIUM
+        - ID: CVE-2024-42131
+          Severity: MEDIUM
+      FixedVersion: 0:5.14.0-427.35.1.el9_4

@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:cloudforms_managementengine:5.8
+        - cpe:/a:redhat:cloudforms_managementengine:5.8::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-4457
+          Severity: MEDIUM
+        - ID: CVE-2017-2639
+          Severity: MEDIUM
+      FixedVersion: 0:0.1.7-1.el7

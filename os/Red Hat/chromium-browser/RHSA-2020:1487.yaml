@@ -1,0 +1,68 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2020-6419
+          Severity: HIGH
+        - ID: CVE-2020-6423
+          Severity: HIGH
+        - ID: CVE-2020-6430
+          Severity: MEDIUM
+        - ID: CVE-2020-6431
+          Severity: MEDIUM
+        - ID: CVE-2020-6432
+          Severity: MEDIUM
+        - ID: CVE-2020-6433
+          Severity: MEDIUM
+        - ID: CVE-2020-6434
+          Severity: MEDIUM
+        - ID: CVE-2020-6435
+          Severity: MEDIUM
+        - ID: CVE-2020-6436
+          Severity: MEDIUM
+        - ID: CVE-2020-6437
+          Severity: LOW
+        - ID: CVE-2020-6438
+          Severity: LOW
+        - ID: CVE-2020-6439
+          Severity: LOW
+        - ID: CVE-2020-6440
+          Severity: LOW
+        - ID: CVE-2020-6441
+          Severity: LOW
+        - ID: CVE-2020-6442
+          Severity: LOW
+        - ID: CVE-2020-6443
+          Severity: LOW
+        - ID: CVE-2020-6444
+          Severity: LOW
+        - ID: CVE-2020-6445
+          Severity: LOW
+        - ID: CVE-2020-6446
+          Severity: LOW
+        - ID: CVE-2020-6447
+          Severity: LOW
+        - ID: CVE-2020-6448
+          Severity: LOW
+        - ID: CVE-2020-6454
+          Severity: HIGH
+        - ID: CVE-2020-6455
+          Severity: HIGH
+        - ID: CVE-2020-6456
+          Severity: MEDIUM
+      FixedVersion: 0:81.0.4044.92-2.el6_10

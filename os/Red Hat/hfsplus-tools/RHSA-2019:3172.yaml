@@ -1,0 +1,28 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:satellite:6.6
+        - cpe:/a:redhat:satellite:6.6::el7
+        - cpe:/a:redhat:satellite_capsule:6.6
+        - cpe:/a:redhat:satellite_capsule:6.6::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-10516
+          Severity: MEDIUM
+        - ID: CVE-2016-10745
+          Severity: HIGH
+        - ID: CVE-2018-1000632
+          Severity: LOW
+        - ID: CVE-2018-16470
+          Severity: MEDIUM
+        - ID: CVE-2019-10198
+          Severity: MEDIUM
+        - ID: CVE-2019-10906
+          Severity: HIGH
+        - ID: CVE-2019-12387
+          Severity: MEDIUM
+        - ID: CVE-2019-14825
+          Severity: LOW
+        - ID: CVE-2019-3893
+          Severity: MEDIUM
+      FixedVersion: 0:332.14-12.el7

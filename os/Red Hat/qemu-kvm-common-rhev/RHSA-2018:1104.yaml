@@ -1,0 +1,25 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2017-13672
+          Severity: LOW
+        - ID: CVE-2017-13673
+          Severity: LOW
+        - ID: CVE-2017-13711
+          Severity: LOW
+        - ID: CVE-2017-15118
+          Severity: HIGH
+        - ID: CVE-2017-15119
+          Severity: MEDIUM
+        - ID: CVE-2017-15124
+          Severity: LOW
+        - ID: CVE-2017-15268
+          Severity: LOW
+        - ID: CVE-2018-5683
+          Severity: LOW
+      FixedVersion: 10:2.10.0-21.el7

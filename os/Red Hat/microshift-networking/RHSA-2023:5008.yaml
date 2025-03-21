@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el9
+      Arches:
+        - aarch64
+        - x86_64
+      Cves:
+        - ID: CVE-2023-1260
+          Severity: HIGH
+        - ID: CVE-2023-2727
+          Severity: MEDIUM
+        - ID: CVE-2023-2728
+          Severity: MEDIUM
+        - ID: CVE-2023-39318
+          Severity: MEDIUM
+        - ID: CVE-2023-39319
+          Severity: MEDIUM
+        - ID: CVE-2023-39321
+          Severity: MEDIUM
+        - ID: CVE-2023-39322
+          Severity: MEDIUM
+      FixedVersion: 0:4.14.0-202310261440.p0.g1586504.assembly.4.14.0.el9

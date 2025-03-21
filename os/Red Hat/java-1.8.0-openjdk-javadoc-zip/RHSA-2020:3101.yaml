@@ -1,0 +1,35 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.1
+        - cpe:/a:redhat:rhel_e4s:8.1::appstream
+        - cpe:/a:redhat:rhel_e4s:8.1::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.1::sap
+        - cpe:/a:redhat:rhel_e4s:8.1::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.1
+        - cpe:/a:redhat:rhel_eus:8.1::appstream
+        - cpe:/a:redhat:rhel_eus:8.1::crb
+        - cpe:/a:redhat:rhel_eus:8.1::highavailability
+        - cpe:/a:redhat:rhel_eus:8.1::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.1::sap
+        - cpe:/a:redhat:rhel_eus:8.1::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.1::supplementary
+        - cpe:/o:redhat:rhel_e4s:8.1
+        - cpe:/o:redhat:rhel_e4s:8.1::baseos
+        - cpe:/o:redhat:rhel_eus:8.1
+        - cpe:/o:redhat:rhel_eus:8.1::baseos
+      Cves:
+        - ID: CVE-2020-14556
+          Severity: MEDIUM
+        - ID: CVE-2020-14577
+          Severity: LOW
+        - ID: CVE-2020-14578
+          Severity: MEDIUM
+        - ID: CVE-2020-14579
+          Severity: MEDIUM
+        - ID: CVE-2020-14583
+          Severity: HIGH
+        - ID: CVE-2020-14593
+          Severity: HIGH
+        - ID: CVE-2020-14621
+          Severity: MEDIUM
+      FixedVersion: 1:1.8.0.262.b10-0.el8_1

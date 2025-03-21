@@ -1,0 +1,137 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_els:6
+        - cpe:/o:redhat:rhel_eus:6.1
+        - cpe:/o:redhat:rhel_eus:6.2
+        - cpe:/o:redhat:rhel_eus:6.2::computenode
+        - cpe:/o:redhat:rhel_eus:6.2::server
+        - cpe:/o:redhat:rhel_eus:6.3
+        - cpe:/o:redhat:rhel_eus:6.3::computenode
+        - cpe:/o:redhat:rhel_eus:6.3::server
+        - cpe:/o:redhat:rhel_eus:6.4
+        - cpe:/o:redhat:rhel_eus:6.4::computenode
+        - cpe:/o:redhat:rhel_eus:6.4::server
+        - cpe:/o:redhat:rhel_eus:6.5
+        - cpe:/o:redhat:rhel_eus:6.5::computenode
+        - cpe:/o:redhat:rhel_eus:6.5::server
+        - cpe:/o:redhat:rhel_eus:6.6
+        - cpe:/o:redhat:rhel_eus:6.6::computenode
+        - cpe:/o:redhat:rhel_eus:6.6::server
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+        - cpe:/o:redhat:rhel_tus:6.5
+        - cpe:/o:redhat:rhel_tus:6.5::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - i686
+      Cves:
+        - ID: CVE-2011-2094
+          Severity: CRITICAL
+        - ID: CVE-2011-2095
+          Severity: CRITICAL
+        - ID: CVE-2011-2096
+          Severity: CRITICAL
+        - ID: CVE-2011-2097
+          Severity: CRITICAL
+        - ID: CVE-2011-2098
+          Severity: CRITICAL
+        - ID: CVE-2011-2099
+          Severity: CRITICAL
+        - ID: CVE-2011-2101
+          Severity: CRITICAL
+        - ID: CVE-2011-2104
+          Severity: LOW
+        - ID: CVE-2011-2105
+          Severity: LOW
+        - ID: CVE-2011-2107
+          Severity: HIGH
+        - ID: CVE-2011-2130
+          Severity: CRITICAL
+        - ID: CVE-2011-2134
+          Severity: CRITICAL
+        - ID: CVE-2011-2135
+          Severity: CRITICAL
+        - ID: CVE-2011-2136
+          Severity: CRITICAL
+        - ID: CVE-2011-2137
+          Severity: CRITICAL
+        - ID: CVE-2011-2138
+          Severity: CRITICAL
+        - ID: CVE-2011-2139
+          Severity: CRITICAL
+        - ID: CVE-2011-2140
+          Severity: CRITICAL
+        - ID: CVE-2011-2414
+          Severity: CRITICAL
+        - ID: CVE-2011-2415
+          Severity: CRITICAL
+        - ID: CVE-2011-2416
+          Severity: CRITICAL
+        - ID: CVE-2011-2417
+          Severity: CRITICAL
+        - ID: CVE-2011-2424
+          Severity: CRITICAL
+        - ID: CVE-2011-2425
+          Severity: CRITICAL
+        - ID: CVE-2011-2426
+          Severity: CRITICAL
+        - ID: CVE-2011-2427
+          Severity: CRITICAL
+        - ID: CVE-2011-2428
+          Severity: CRITICAL
+        - ID: CVE-2011-2429
+          Severity: MEDIUM
+        - ID: CVE-2011-2430
+          Severity: CRITICAL
+        - ID: CVE-2011-2431
+          Severity: CRITICAL
+        - ID: CVE-2011-2432
+          Severity: CRITICAL
+        - ID: CVE-2011-2433
+          Severity: CRITICAL
+        - ID: CVE-2011-2434
+          Severity: CRITICAL
+        - ID: CVE-2011-2435
+          Severity: CRITICAL
+        - ID: CVE-2011-2436
+          Severity: CRITICAL
+        - ID: CVE-2011-2437
+          Severity: CRITICAL
+        - ID: CVE-2011-2438
+          Severity: CRITICAL
+        - ID: CVE-2011-2439
+          Severity: CRITICAL
+        - ID: CVE-2011-2440
+          Severity: CRITICAL
+        - ID: CVE-2011-2442
+          Severity: CRITICAL
+        - ID: CVE-2011-2444
+          Severity: MEDIUM
+        - ID: CVE-2011-4374
+          Severity: CRITICAL
+      FixedVersion: 0:9.4.6-1.el6

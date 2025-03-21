@@ -97,4 +97,6 @@ Entries:
       Cves:
         - ID: CVE-2014-1545
           Severity: MEDIUM
+        - ID: CVE-2014-3566
+          Severity: HIGH
       FixedVersion: 0:4.10.6-3.el7

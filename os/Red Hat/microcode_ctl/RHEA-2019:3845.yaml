@@ -156,4 +156,6 @@ Entries:
       Cves:
         - ID: CVE-2019-0117
           Severity: HIGH
+        - ID: CVE-2019-11139
+          Severity: MEDIUM
       FixedVersion: 4:20190618-1.20191112.1.el8_1

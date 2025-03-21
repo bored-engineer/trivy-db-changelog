@@ -79,6 +79,57 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2024-35907
           Severity: MEDIUM
+        - ID: CVE-2024-35952
+          Severity: MEDIUM
+        - ID: CVE-2024-36924
+          Severity: MEDIUM
+        - ID: CVE-2024-36952
+          Severity: MEDIUM
+        - ID: CVE-2024-38580
+          Severity: LOW
+      FixedVersion: 0:5.14.0-427.28.1.el9_4
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+      Cves:
+        - ID: CVE-2021-47459
+          Severity: MEDIUM
+        - ID: CVE-2022-48743
+          Severity: LOW
+        - ID: CVE-2023-52458
+          Severity: LOW
+        - ID: CVE-2023-52809
+          Severity: LOW
+        - ID: CVE-2024-26737
+          Severity: MEDIUM
+        - ID: CVE-2024-26773
+          Severity: MEDIUM
+        - ID: CVE-2024-26852
+          Severity: MEDIUM
+        - ID: CVE-2024-26880
+          Severity: MEDIUM
+        - ID: CVE-2024-26982
+          Severity: MEDIUM
+        - ID: CVE-2024-27030
+          Severity: MEDIUM
+        - ID: CVE-2024-27046
+          Severity: MEDIUM
+        - ID: CVE-2024-35857
+          Severity: MEDIUM
+        - ID: CVE-2024-35885
+          Severity: MEDIUM
+        - ID: CVE-2024-35907
+          Severity: MEDIUM
         - ID: CVE-2024-36924
           Severity: MEDIUM
         - ID: CVE-2024-36952

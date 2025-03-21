@@ -76,6 +76,8 @@ Entries:
       Cves:
         - ID: CVE-2019-14615
           Severity: MEDIUM
+        - ID: CVE-2019-15794
+          Severity: MEDIUM
         - ID: CVE-2020-0427
           Severity: MEDIUM
         - ID: CVE-2020-24502

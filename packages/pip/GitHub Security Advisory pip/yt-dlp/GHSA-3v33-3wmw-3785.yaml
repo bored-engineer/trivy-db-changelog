@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 2024.07.07
+VulnerableVersions:
+    - '>=2023.09.24, <2024.07.07'

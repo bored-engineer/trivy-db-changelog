@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.16
+        - cpe:/a:redhat:openshift:4.16::el8
+      Cves:
+        - ID: CVE-2024-11218
+          Severity: HIGH
+        - ID: CVE-2024-56201
+          Severity: HIGH
+        - ID: CVE-2024-56326
+          Severity: MEDIUM
+      FixedVersion: 4:4.9.4-13.rhaos4.16.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.16
+        - cpe:/a:redhat:openshift:4.16::el9
+      Cves:
+        - ID: CVE-2024-11218
+          Severity: HIGH
+        - ID: CVE-2024-56201
+          Severity: HIGH
+        - ID: CVE-2024-56326
+          Severity: MEDIUM
+      FixedVersion: 4:4.9.4-15.rhaos4.16.el9

@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.2
+        - cpe:/o:redhat:rhel_aus:7.2::server
+      Cves:
+        - ID: CVE-2020-12352
+          Severity: MEDIUM
+      FixedVersion: 0:3.10.0-327.93.1.el7

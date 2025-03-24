@@ -1,0 +1,40 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.1
+        - cpe:/a:redhat:rhel_e4s:8.1::appstream
+        - cpe:/a:redhat:rhel_e4s:8.1::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.1::sap
+        - cpe:/a:redhat:rhel_e4s:8.1::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.1
+        - cpe:/a:redhat:rhel_eus:8.1::appstream
+        - cpe:/a:redhat:rhel_eus:8.1::crb
+        - cpe:/a:redhat:rhel_eus:8.1::highavailability
+        - cpe:/a:redhat:rhel_eus:8.1::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.1::sap
+        - cpe:/a:redhat:rhel_eus:8.1::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.1::supplementary
+        - cpe:/o:redhat:rhel_e4s:8.1
+        - cpe:/o:redhat:rhel_e4s:8.1::baseos
+        - cpe:/o:redhat:rhel_eus:8.1
+        - cpe:/o:redhat:rhel_eus:8.1::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2020-16042
+          Severity: HIGH
+        - ID: CVE-2020-26970
+          Severity: HIGH
+        - ID: CVE-2020-26971
+          Severity: HIGH
+        - ID: CVE-2020-26973
+          Severity: HIGH
+        - ID: CVE-2020-26974
+          Severity: HIGH
+        - ID: CVE-2020-26978
+          Severity: MEDIUM
+        - ID: CVE-2020-35111
+          Severity: LOW
+        - ID: CVE-2020-35113
+          Severity: HIGH
+      FixedVersion: 0:78.6.0-1.el8_1

@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.5
+        - cpe:/a:redhat:openshift:4.5::el7
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-30465
+          Severity: HIGH
+      FixedVersion: 0:4.5.0-202105121820.p0.git.d8ef5ad.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.5
+        - cpe:/a:redhat:openshift:4.5::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-30465
+          Severity: HIGH
+      FixedVersion: 0:4.5.0-202105121820.p0.git.d8ef5ad.el8

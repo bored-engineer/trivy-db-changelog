@@ -1,0 +1,9 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0::el9
+      Cves:
+        - ID: CVE-2024-4109
+        - ID: CVE-2024-51127
+          Severity: HIGH
+      FixedVersion: 0:8.0.5-3.GA_redhat_00002.1.el9eap

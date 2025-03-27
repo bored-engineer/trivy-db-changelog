@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.3
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.3
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.3
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3::server
+        - cpe:/o:redhat:rhel_e4s:7.3
+        - cpe:/o:redhat:rhel_e4s:7.3::server
+        - cpe:/o:redhat:rhel_eus:7.3
+        - cpe:/o:redhat:rhel_eus:7.3::computenode
+        - cpe:/o:redhat:rhel_eus:7.3::server
+        - cpe:/o:redhat:rhel_tus:7.3
+        - cpe:/o:redhat:rhel_tus:7.3::server
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2017-18017
+          Severity: MEDIUM
+        - ID: CVE-2018-3639
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-514.51.1.el7

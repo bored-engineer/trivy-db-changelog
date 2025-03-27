@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 60.2.12
+VulnerableVersions:
+    - <60.2.12

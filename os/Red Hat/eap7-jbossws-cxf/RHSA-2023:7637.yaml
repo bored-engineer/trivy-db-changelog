@@ -1,0 +1,34 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.1::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3::el7
+      Cves:
+        - ID: CVE-2023-26048
+          Severity: MEDIUM
+        - ID: CVE-2023-26049
+          Severity: MEDIUM
+        - ID: CVE-2023-2976
+          Severity: MEDIUM
+        - ID: CVE-2023-35887
+          Severity: MEDIUM
+        - ID: CVE-2023-39410
+          Severity: HIGH
+        - ID: CVE-2023-44487
+          Severity: HIGH
+        - ID: CVE-2023-4503
+          Severity: MEDIUM
+        - ID: CVE-2023-5685
+          Severity: HIGH
+      FixedVersion: 0:5.4.9-1.Final_redhat_00001.1.el7eap

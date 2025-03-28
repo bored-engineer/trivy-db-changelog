@@ -15,7 +15,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2025-21785
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:4.18.0-372.142.1.el8_6
     - Affected:
         - cpe:/a:redhat:rhel_e4s:8.6
@@ -33,5 +33,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2025-21785
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:4.18.0-372.142.1.el8_6

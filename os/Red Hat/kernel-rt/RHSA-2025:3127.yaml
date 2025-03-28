@@ -14,5 +14,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2025-21785
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-70.126.1.rt21.198.el9_0

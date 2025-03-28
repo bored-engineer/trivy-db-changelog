@@ -12,5 +12,5 @@ Entries:
         - cpe:/o:redhat:rhel_e4s:9.0::baseos
       Cves:
         - ID: CVE-2025-21785
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-70.126.1.el9_0

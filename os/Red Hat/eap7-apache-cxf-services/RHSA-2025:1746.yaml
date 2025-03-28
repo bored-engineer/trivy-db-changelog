@@ -1,0 +1,54 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.1::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3::el7
+      Cves:
+        - ID: CVE-2020-10672
+          Severity: HIGH
+        - ID: CVE-2020-10673
+          Severity: HIGH
+        - ID: CVE-2020-13936
+          Severity: HIGH
+        - ID: CVE-2020-8840
+          Severity: HIGH
+        - ID: CVE-2020-9546
+          Severity: HIGH
+        - ID: CVE-2020-9547
+          Severity: HIGH
+        - ID: CVE-2020-9548
+          Severity: HIGH
+        - ID: CVE-2021-3717
+          Severity: MEDIUM
+        - ID: CVE-2021-44228
+          Severity: CRITICAL
+        - ID: CVE-2021-45046
+          Severity: MEDIUM
+        - ID: CVE-2022-1471
+          Severity: HIGH
+        - ID: CVE-2022-41881
+          Severity: MEDIUM
+        - ID: CVE-2022-42003
+          Severity: MEDIUM
+        - ID: CVE-2022-42004
+          Severity: MEDIUM
+        - ID: CVE-2022-42889
+          Severity: CRITICAL
+        - ID: CVE-2022-45047
+          Severity: HIGH
+        - ID: CVE-2022-45693
+          Severity: MEDIUM
+        - ID: CVE-2022-46363
+          Severity: MEDIUM
+      FixedVersion: 0:3.1.16-4.redhat_00003.1.ep7.el7

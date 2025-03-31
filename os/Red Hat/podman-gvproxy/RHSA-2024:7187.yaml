@@ -1,0 +1,29 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2024-3727
+          Severity: MEDIUM
+        - ID: CVE-2024-42353
+          Severity: MEDIUM
+      FixedVersion: 3:4.4.1-19.rhaos4.14.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el9
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2024-3727
+          Severity: MEDIUM
+        - ID: CVE-2024-42353
+          Severity: MEDIUM
+      FixedVersion: 3:4.4.1-19.rhaos4.14.el9

@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Cves:
+        - ID: CVE-2019-1125
+          Severity: MEDIUM
+      FixedVersion: 0:4.3.6-20190924.0.el7_7

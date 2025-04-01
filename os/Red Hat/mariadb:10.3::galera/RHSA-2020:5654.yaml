@@ -1,0 +1,73 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2
+        - cpe:/a:redhat:rhel_e4s:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.2::sap
+        - cpe:/a:redhat:rhel_e4s:8.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.2
+        - cpe:/a:redhat:rhel_eus:8.2::appstream
+        - cpe:/a:redhat:rhel_eus:8.2::crb
+        - cpe:/a:redhat:rhel_eus:8.2::highavailability
+        - cpe:/a:redhat:rhel_eus:8.2::nfv
+        - cpe:/a:redhat:rhel_eus:8.2::realtime
+        - cpe:/a:redhat:rhel_eus:8.2::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.2::sap
+        - cpe:/a:redhat:rhel_eus:8.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.2::supplementary
+        - cpe:/a:redhat:rhel_tus:8.2
+        - cpe:/a:redhat:rhel_tus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2::highavailability
+        - cpe:/a:redhat:rhel_tus:8.2::nfv
+        - cpe:/a:redhat:rhel_tus:8.2::realtime
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+        - cpe:/o:redhat:rhel_e4s:8.2
+        - cpe:/o:redhat:rhel_e4s:8.2::baseos
+        - cpe:/o:redhat:rhel_eus:8.2
+        - cpe:/o:redhat:rhel_eus:8.2::baseos
+        - cpe:/o:redhat:rhel_tus:8.2
+        - cpe:/o:redhat:rhel_tus:8.2::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-2938
+          Severity: MEDIUM
+        - ID: CVE-2019-2974
+          Severity: MEDIUM
+        - ID: CVE-2020-13249
+          Severity: MEDIUM
+        - ID: CVE-2020-14765
+          Severity: MEDIUM
+        - ID: CVE-2020-14776
+          Severity: MEDIUM
+        - ID: CVE-2020-14789
+          Severity: MEDIUM
+        - ID: CVE-2020-14812
+          Severity: MEDIUM
+        - ID: CVE-2020-15180
+          Severity: HIGH
+        - ID: CVE-2020-2574
+          Severity: LOW
+        - ID: CVE-2020-2752
+          Severity: MEDIUM
+        - ID: CVE-2020-2760
+          Severity: MEDIUM
+        - ID: CVE-2020-2780
+          Severity: MEDIUM
+        - ID: CVE-2020-2812
+          Severity: MEDIUM
+        - ID: CVE-2020-2814
+          Severity: MEDIUM
+        - ID: CVE-2021-2022
+          Severity: MEDIUM
+        - ID: CVE-2021-2144
+          Severity: HIGH
+        - ID: CVE-2021-2194
+          Severity: MEDIUM
+      FixedVersion: 0:25.3.31-1.module+el8.2.0+8857+d5b3039b

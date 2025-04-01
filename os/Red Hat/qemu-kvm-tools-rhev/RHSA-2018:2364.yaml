@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-director:8
+        - cpe:/a:redhat:openstack-director:8::el7
+        - cpe:/a:redhat:openstack-optools:8
+        - cpe:/a:redhat:openstack-optools:8::el7
+        - cpe:/a:redhat:openstack:8
+        - cpe:/a:redhat:openstack:8::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-3639
+          Severity: HIGH
+      FixedVersion: 10:2.10.0-21.el7_5.4

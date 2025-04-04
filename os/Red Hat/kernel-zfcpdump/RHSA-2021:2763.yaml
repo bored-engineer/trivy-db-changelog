@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.7
+        - cpe:/a:redhat:openshift:4.7::el8
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2021-33909
+          Severity: HIGH
+        - ID: CVE-2021-33910
+          Severity: HIGH
+      FixedVersion: 0:4.18.0-240.23.2.el8_3

@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el5
+      Cves:
+        - ID: CVE-2020-13935
+          Severity: HIGH
+      FixedVersion: 0:7.5.31-2.Final_redhat_2.1.ep6.el5
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el6
+      Cves:
+        - ID: CVE-2020-13935
+          Severity: HIGH
+      FixedVersion: 0:7.5.31-2.Final_redhat_2.1.ep6.el6
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el7
+      Cves:
+        - ID: CVE-2020-13935
+          Severity: HIGH
+      FixedVersion: 0:7.5.31-2.Final_redhat_2.1.ep6.el7

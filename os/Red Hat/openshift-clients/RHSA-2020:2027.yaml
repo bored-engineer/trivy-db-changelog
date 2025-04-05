@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.2
+        - cpe:/a:redhat:openshift:4.2::el8
+      Arches:
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-8945
+          Severity: MEDIUM
+      FixedVersion: 0:4.2.32-202005020632.git.1.1b0fab9.el8

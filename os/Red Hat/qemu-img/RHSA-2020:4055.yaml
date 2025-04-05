@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-14364
+          Severity: HIGH
+      FixedVersion: 2:0.12.1.2-2.448.el6_6.9

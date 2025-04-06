@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:cloudforms_managementengine:5.9
+        - cpe:/a:redhat:cloudforms_managementengine:5.9::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-10905
+          Severity: HIGH
+        - ID: CVE-2018-3760
+          Severity: HIGH
+      FixedVersion: 0:5.9.4.7-1.el7cf

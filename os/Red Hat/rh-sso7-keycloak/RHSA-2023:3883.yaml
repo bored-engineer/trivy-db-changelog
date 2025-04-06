@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:red_hat_single_sign_on:7
+        - cpe:/a:redhat:red_hat_single_sign_on:7.5
+        - cpe:/a:redhat:red_hat_single_sign_on:7.5::el7
+        - cpe:/a:redhat:red_hat_single_sign_on:7.6
+        - cpe:/a:redhat:red_hat_single_sign_on:7.6::el7
+        - cpe:/a:redhat:red_hat_single_sign_on:7::el7
+      Cves:
+        - ID: CVE-2022-4361
+          Severity: HIGH
+        - ID: CVE-2023-1108
+          Severity: HIGH
+        - ID: CVE-2023-1664
+          Severity: LOW
+        - ID: CVE-2023-2422
+          Severity: MEDIUM
+        - ID: CVE-2023-2585
+          Severity: LOW
+      FixedVersion: 0:18.0.8-1.redhat_00001.1.el7sso

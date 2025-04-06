@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.4
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.4
+        - cpe:/o:redhat:rhel_aus:7.4
+        - cpe:/o:redhat:rhel_aus:7.4::server
+        - cpe:/o:redhat:rhel_e4s:7.4
+        - cpe:/o:redhat:rhel_e4s:7.4::server
+        - cpe:/o:redhat:rhel_tus:7.4
+        - cpe:/o:redhat:rhel_tus:7.4::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-8695
+          Severity: MEDIUM
+        - ID: CVE-2020-8696
+          Severity: MEDIUM
+        - ID: CVE-2020-8698
+          Severity: MEDIUM
+      FixedVersion: 2:2.1-22.36.el7_4

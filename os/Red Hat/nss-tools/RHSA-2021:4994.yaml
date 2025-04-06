@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-43527
+          Severity: CRITICAL
+      FixedVersion: 0:3.28.4-2.el7_3

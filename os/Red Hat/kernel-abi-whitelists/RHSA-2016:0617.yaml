@@ -1,0 +1,13 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_eus:6.6
+        - cpe:/o:redhat:rhel_eus:6.6::computenode
+        - cpe:/o:redhat:rhel_eus:6.6::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Cves:
+        - ID: CVE-2016-0774
+          Severity: MEDIUM
+      FixedVersion: 0:2.6.32-504.46.1.el6

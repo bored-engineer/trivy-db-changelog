@@ -202,6 +202,8 @@ Entries:
           Severity: LOW
         - ID: CVE-2019-20811
           Severity: LOW
+        - ID: CVE-2019-25160
+          Severity: MEDIUM
         - ID: CVE-2019-3459
           Severity: MEDIUM
         - ID: CVE-2019-3460

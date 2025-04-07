@@ -1,0 +1,21 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2024-47537
+          Severity: HIGH
+        - ID: CVE-2024-47539
+          Severity: HIGH
+        - ID: CVE-2024-47540
+          Severity: HIGH
+        - ID: CVE-2024-47606
+          Severity: HIGH
+        - ID: CVE-2024-47613
+          Severity: MEDIUM
+      FixedVersion: 0:1.16.1-2.el8_2

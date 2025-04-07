@@ -1,0 +1,17 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.0
+        - cpe:/a:redhat:rhel_e4s:8.0::appstream
+        - cpe:/a:redhat:rhel_e4s:8.0::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.0::sap
+        - cpe:/a:redhat:rhel_e4s:8.0::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.0
+        - cpe:/o:redhat:rhel_e4s:8.0::baseos
+      Cves:
+        - ID: CVE-2020-11080
+          Severity: HIGH
+        - ID: CVE-2020-7598
+          Severity: MEDIUM
+        - ID: CVE-2020-8174
+          Severity: MEDIUM
+      FixedVersion: 0:1.18.3-1.module+el8+2632+6c5111ed

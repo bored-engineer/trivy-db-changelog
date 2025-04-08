@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16.1
+        - cpe:/a:redhat:openstack:16.1::el8
+      Cves:
+        - ID: CVE-2022-22818
+          Severity: MEDIUM
+        - ID: CVE-2022-23833
+          Severity: MEDIUM
+        - ID: CVE-2022-28346
+          Severity: MEDIUM
+      FixedVersion: 0:2.0.13-18.el8ost

@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:red_hat_single_sign_on:7
+        - cpe:/a:redhat:red_hat_single_sign_on:7.5
+        - cpe:/a:redhat:red_hat_single_sign_on:7.5::el8
+        - cpe:/a:redhat:red_hat_single_sign_on:7.6
+        - cpe:/a:redhat:red_hat_single_sign_on:7.6::el8
+        - cpe:/a:redhat:red_hat_single_sign_on:7::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-3856
+          Severity: LOW
+        - ID: CVE-2022-0839
+          Severity: HIGH
+      FixedVersion: 0:1-4.el8sso

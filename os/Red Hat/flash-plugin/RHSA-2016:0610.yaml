@@ -1,0 +1,73 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+      Arches:
+        - i686
+      Cves:
+        - ID: CVE-2016-1006
+          Severity: CRITICAL
+        - ID: CVE-2016-1011
+          Severity: CRITICAL
+        - ID: CVE-2016-1012
+          Severity: CRITICAL
+        - ID: CVE-2016-1013
+          Severity: CRITICAL
+        - ID: CVE-2016-1014
+          Severity: CRITICAL
+        - ID: CVE-2016-1015
+          Severity: CRITICAL
+        - ID: CVE-2016-1016
+          Severity: CRITICAL
+        - ID: CVE-2016-1017
+          Severity: CRITICAL
+        - ID: CVE-2016-1018
+          Severity: CRITICAL
+        - ID: CVE-2016-1019
+          Severity: CRITICAL
+        - ID: CVE-2016-1020
+          Severity: CRITICAL
+        - ID: CVE-2016-1021
+          Severity: CRITICAL
+        - ID: CVE-2016-1022
+          Severity: CRITICAL
+        - ID: CVE-2016-1023
+          Severity: CRITICAL
+        - ID: CVE-2016-1024
+          Severity: CRITICAL
+        - ID: CVE-2016-1025
+          Severity: CRITICAL
+        - ID: CVE-2016-1026
+          Severity: CRITICAL
+        - ID: CVE-2016-1027
+          Severity: CRITICAL
+        - ID: CVE-2016-1028
+          Severity: CRITICAL
+        - ID: CVE-2016-1029
+          Severity: CRITICAL
+        - ID: CVE-2016-1030
+          Severity: CRITICAL
+        - ID: CVE-2016-1031
+          Severity: CRITICAL
+        - ID: CVE-2016-1032
+          Severity: CRITICAL
+        - ID: CVE-2016-1033
+          Severity: CRITICAL
+      FixedVersion: 0:11.2.202.616-1.el6_7

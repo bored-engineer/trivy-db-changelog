@@ -1,0 +1,17 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:7.1
+        - cpe:/a:redhat:ceph_storage:7.1::el8
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2023-3128
+          Severity: MEDIUM
+        - ID: CVE-2023-4822
+          Severity: MEDIUM
+        - ID: CVE-2023-49568
+          Severity: HIGH
+        - ID: CVE-2023-49569
+          Severity: CRITICAL
+      FixedVersion: 0:0.13.0-2.el8cp

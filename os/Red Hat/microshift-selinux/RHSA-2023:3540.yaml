@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.13
+        - cpe:/a:redhat:openshift:4.13::el9
+      Cves:
+        - ID: CVE-2023-24534
+          Severity: MEDIUM
+        - ID: CVE-2023-24536
+          Severity: MEDIUM
+        - ID: CVE-2023-24537
+          Severity: MEDIUM
+        - ID: CVE-2023-24538
+          Severity: MEDIUM
+        - ID: CVE-2023-24539
+          Severity: MEDIUM
+        - ID: CVE-2023-29400
+          Severity: MEDIUM
+      FixedVersion: 0:4.13.3-202306081201.p0.g16708cc.assembly.4.13.3.el9

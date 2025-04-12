@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-optools:14
+        - cpe:/a:redhat:openstack-optools:14::el7
+        - cpe:/a:redhat:openstack:14
+        - cpe:/a:redhat:openstack:14::el7
+      Cves:
+        - ID: CVE-2019-17134
+          Severity: MEDIUM
+      FixedVersion: 0:3.1.0-3.el7ost

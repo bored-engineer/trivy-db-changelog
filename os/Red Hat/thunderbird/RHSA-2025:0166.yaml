@@ -1,0 +1,49 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:9.4
+        - cpe:/a:redhat:rhel_aus:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4
+        - cpe:/a:redhat:rhel_e4s:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.4::nfv
+        - cpe:/a:redhat:rhel_e4s:9.4::realtime
+        - cpe:/a:redhat:rhel_e4s:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.4::sap
+        - cpe:/a:redhat:rhel_e4s:9.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.4
+        - cpe:/a:redhat:rhel_eus:9.4::appstream
+        - cpe:/a:redhat:rhel_eus:9.4::crb
+        - cpe:/a:redhat:rhel_eus:9.4::highavailability
+        - cpe:/a:redhat:rhel_eus:9.4::nfv
+        - cpe:/a:redhat:rhel_eus:9.4::realtime
+        - cpe:/a:redhat:rhel_eus:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.4::sap
+        - cpe:/a:redhat:rhel_eus:9.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.4::supplementary
+        - cpe:/o:redhat:rhel_aus:9.4
+        - cpe:/o:redhat:rhel_aus:9.4::baseos
+        - cpe:/o:redhat:rhel_e4s:9.4
+        - cpe:/o:redhat:rhel_e4s:9.4::baseos
+        - cpe:/o:redhat:rhel_eus:9.4
+        - cpe:/o:redhat:rhel_eus:9.4::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-0237
+          Severity: MEDIUM
+        - ID: CVE-2025-0238
+          Severity: MEDIUM
+        - ID: CVE-2025-0239
+          Severity: MEDIUM
+        - ID: CVE-2025-0240
+          Severity: MEDIUM
+        - ID: CVE-2025-0241
+          Severity: MEDIUM
+        - ID: CVE-2025-0242
+          Severity: HIGH
+        - ID: CVE-2025-0243
+          Severity: MEDIUM
+      FixedVersion: 0:128.6.0-3.el9_4

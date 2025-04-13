@@ -1,0 +1,30 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Cves:
+        - ID: CVE-2013-6435
+          Severity: HIGH
+      FixedVersion: 0:4.8.0-20.el6_2.1
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+        - cpe:/o:redhat:rhel_eus:6.4
+        - cpe:/o:redhat:rhel_eus:6.4::computenode
+        - cpe:/o:redhat:rhel_eus:6.4::server
+      Cves:
+        - ID: CVE-2013-6435
+          Severity: HIGH
+      FixedVersion: 0:4.8.0-33.el6_4
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+        - cpe:/o:redhat:rhel_eus:6.5
+        - cpe:/o:redhat:rhel_eus:6.5::computenode
+        - cpe:/o:redhat:rhel_eus:6.5::server
+        - cpe:/o:redhat:rhel_tus:6.5
+        - cpe:/o:redhat:rhel_tus:6.5::server
+      Cves:
+        - ID: CVE-2013-6435
+          Severity: HIGH
+      FixedVersion: 0:4.8.0-38.el6_5

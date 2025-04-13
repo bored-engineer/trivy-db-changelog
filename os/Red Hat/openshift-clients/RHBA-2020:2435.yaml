@@ -1,0 +1,35 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el7
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-2160
+          Severity: HIGH
+        - ID: CVE-2020-2161
+          Severity: MEDIUM
+        - ID: CVE-2020-2162
+          Severity: MEDIUM
+        - ID: CVE-2020-2163
+          Severity: MEDIUM
+      FixedVersion: 0:4.3.25-202006060952.git.1.fd93102.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.3
+        - cpe:/a:redhat:openshift:4.3::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-2160
+          Severity: HIGH
+        - ID: CVE-2020-2161
+          Severity: MEDIUM
+        - ID: CVE-2020-2162
+          Severity: MEDIUM
+        - ID: CVE-2020-2163
+          Severity: MEDIUM
+      FixedVersion: 0:4.3.25-202006060952.git.1.fd93102.el8

@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-2647
+          Severity: HIGH
+      FixedVersion: 0:2.6.32-504.84.1.el6

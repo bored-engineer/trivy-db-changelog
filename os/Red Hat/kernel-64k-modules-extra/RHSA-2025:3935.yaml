@@ -1,0 +1,58 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:9.4
+        - cpe:/a:redhat:rhel_aus:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4
+        - cpe:/a:redhat:rhel_e4s:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.4::nfv
+        - cpe:/a:redhat:rhel_e4s:9.4::realtime
+        - cpe:/a:redhat:rhel_e4s:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.4::sap
+        - cpe:/a:redhat:rhel_e4s:9.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.4
+        - cpe:/a:redhat:rhel_eus:9.4::appstream
+        - cpe:/a:redhat:rhel_eus:9.4::crb
+        - cpe:/a:redhat:rhel_eus:9.4::highavailability
+        - cpe:/a:redhat:rhel_eus:9.4::nfv
+        - cpe:/a:redhat:rhel_eus:9.4::realtime
+        - cpe:/a:redhat:rhel_eus:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.4::sap
+        - cpe:/a:redhat:rhel_eus:9.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.4::supplementary
+        - cpe:/o:redhat:rhel_aus:9.4
+        - cpe:/o:redhat:rhel_aus:9.4::baseos
+        - cpe:/o:redhat:rhel_e4s:9.4
+        - cpe:/o:redhat:rhel_e4s:9.4::baseos
+        - cpe:/o:redhat:rhel_eus:9.4
+        - cpe:/o:redhat:rhel_eus:9.4::baseos
+      Arches:
+        - aarch64
+      Cves:
+        - ID: CVE-2021-47101
+          Severity: LOW
+        - ID: CVE-2023-52762
+          Severity: MEDIUM
+        - ID: CVE-2023-52784
+          Severity: MEDIUM
+        - ID: CVE-2024-26614
+          Severity: LOW
+        - ID: CVE-2024-26779
+          Severity: MEDIUM
+        - ID: CVE-2024-27048
+          Severity: MEDIUM
+        - ID: CVE-2024-35900
+          Severity: LOW
+        - ID: CVE-2024-35938
+          Severity: LOW
+        - ID: CVE-2024-36010
+          Severity: LOW
+        - ID: CVE-2024-36902
+          Severity: MEDIUM
+        - ID: CVE-2024-36939
+          Severity: MEDIUM
+        - ID: CVE-2024-50192
+          Severity: MEDIUM
+        - ID: CVE-2024-53150
+          Severity: MEDIUM
+      FixedVersion: 0:5.14.0-427.65.1.el9_4

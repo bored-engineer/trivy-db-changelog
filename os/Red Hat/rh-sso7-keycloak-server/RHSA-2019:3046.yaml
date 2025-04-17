@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:red_hat_single_sign_on:7
+        - cpe:/a:redhat:red_hat_single_sign_on:7.5
+        - cpe:/a:redhat:red_hat_single_sign_on:7.5::el8
+        - cpe:/a:redhat:red_hat_single_sign_on:7.6
+        - cpe:/a:redhat:red_hat_single_sign_on:7.6::el8
+        - cpe:/a:redhat:red_hat_single_sign_on:7::el8
+      Cves:
+        - ID: CVE-2019-10184
+          Severity: LOW
+        - ID: CVE-2019-12086
+          Severity: MEDIUM
+        - ID: CVE-2019-12814
+          Severity: MEDIUM
+        - ID: CVE-2019-14379
+          Severity: HIGH
+        - ID: CVE-2019-14820
+          Severity: LOW
+        - ID: CVE-2019-14832
+          Severity: MEDIUM
+      FixedVersion: 0:4.8.13-1.Final_redhat_00001.1.el8sso

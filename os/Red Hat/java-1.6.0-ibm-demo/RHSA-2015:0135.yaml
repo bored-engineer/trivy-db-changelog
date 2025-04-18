@@ -1,0 +1,61 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_els:6
+        - cpe:/o:redhat:rhel_eus:6.6
+        - cpe:/o:redhat:rhel_eus:6.6::computenode
+        - cpe:/o:redhat:rhel_eus:6.6::server
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2014-6585
+          Severity: LOW
+        - ID: CVE-2014-6587
+          Severity: LOW
+        - ID: CVE-2014-6591
+          Severity: LOW
+        - ID: CVE-2014-6593
+          Severity: MEDIUM
+        - ID: CVE-2014-8891
+          Severity: CRITICAL
+        - ID: CVE-2014-8892
+          Severity: MEDIUM
+        - ID: CVE-2015-0395
+          Severity: CRITICAL
+        - ID: CVE-2015-0403
+          Severity: HIGH
+        - ID: CVE-2015-0406
+          Severity: MEDIUM
+        - ID: CVE-2015-0407
+          Severity: MEDIUM
+        - ID: CVE-2015-0408
+          Severity: CRITICAL
+        - ID: CVE-2015-0410
+          Severity: MEDIUM
+        - ID: CVE-2015-0412
+          Severity: CRITICAL
+      FixedVersion: 1:1.6.0.16.3-1jpp.1.el6_6

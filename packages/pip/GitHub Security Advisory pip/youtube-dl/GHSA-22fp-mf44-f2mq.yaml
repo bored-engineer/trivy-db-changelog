@@ -1,0 +1,4 @@
+PatchedVersions:
+    - "2024-07-03"
+VulnerableVersions:
+    - '>=2015.01.25, <2024-07-03'

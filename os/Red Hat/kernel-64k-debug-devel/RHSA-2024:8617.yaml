@@ -1,0 +1,100 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_aus:9.4
+        - cpe:/a:redhat:rhel_aus:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4
+        - cpe:/a:redhat:rhel_e4s:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.4::nfv
+        - cpe:/a:redhat:rhel_e4s:9.4::realtime
+        - cpe:/a:redhat:rhel_e4s:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.4::sap
+        - cpe:/a:redhat:rhel_e4s:9.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.4
+        - cpe:/a:redhat:rhel_eus:9.4::appstream
+        - cpe:/a:redhat:rhel_eus:9.4::crb
+        - cpe:/a:redhat:rhel_eus:9.4::highavailability
+        - cpe:/a:redhat:rhel_eus:9.4::nfv
+        - cpe:/a:redhat:rhel_eus:9.4::realtime
+        - cpe:/a:redhat:rhel_eus:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.4::sap
+        - cpe:/a:redhat:rhel_eus:9.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.4::supplementary
+        - cpe:/a:redhat:rhel_eus:9.6
+        - cpe:/a:redhat:rhel_eus:9.6::appstream
+        - cpe:/a:redhat:rhel_eus:9.6::crb
+        - cpe:/a:redhat:rhel_eus:9.6::highavailability
+        - cpe:/a:redhat:rhel_eus:9.6::nfv
+        - cpe:/a:redhat:rhel_eus:9.6::realtime
+        - cpe:/a:redhat:rhel_eus:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.6::sap
+        - cpe:/a:redhat:rhel_eus:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/o:redhat:rhel_aus:9.4
+        - cpe:/o:redhat:rhel_aus:9.4::baseos
+        - cpe:/o:redhat:rhel_e4s:9.4
+        - cpe:/o:redhat:rhel_e4s:9.4::baseos
+        - cpe:/o:redhat:rhel_eus:9.4
+        - cpe:/o:redhat:rhel_eus:9.4::baseos
+        - cpe:/o:redhat:rhel_eus:9.6
+        - cpe:/o:redhat:rhel_eus:9.6::baseos
+      Arches:
+        - aarch64
+      Cves:
+        - ID: CVE-2021-47383
+          Severity: MEDIUM
+        - ID: CVE-2024-2201
+          Severity: MEDIUM
+        - ID: CVE-2024-26640
+          Severity: MEDIUM
+        - ID: CVE-2024-26826
+          Severity: MEDIUM
+        - ID: CVE-2024-26923
+          Severity: MEDIUM
+        - ID: CVE-2024-26935
+          Severity: LOW
+        - ID: CVE-2024-26961
+          Severity: MEDIUM
+        - ID: CVE-2024-36244
+          Severity: MEDIUM
+        - ID: CVE-2024-39472
+          Severity: MEDIUM
+        - ID: CVE-2024-39504
+          Severity: MEDIUM
+        - ID: CVE-2024-40904
+          Severity: MEDIUM
+        - ID: CVE-2024-40931
+          Severity: MEDIUM
+        - ID: CVE-2024-40960
+          Severity: MEDIUM
+        - ID: CVE-2024-40972
+          Severity: MEDIUM
+        - ID: CVE-2024-40977
+          Severity: MEDIUM
+        - ID: CVE-2024-40995
+          Severity: MEDIUM
+        - ID: CVE-2024-40998
+          Severity: MEDIUM
+        - ID: CVE-2024-41005
+          Severity: MEDIUM
+        - ID: CVE-2024-41013
+          Severity: MEDIUM
+        - ID: CVE-2024-41014
+          Severity: MEDIUM
+        - ID: CVE-2024-43854
+          Severity: MEDIUM
+        - ID: CVE-2024-45018
+          Severity: MEDIUM
+      FixedVersion: 0:5.14.0-427.42.1.el9_4

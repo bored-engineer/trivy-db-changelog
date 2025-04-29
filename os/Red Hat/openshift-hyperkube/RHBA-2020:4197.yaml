@@ -1,0 +1,27 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.6
+        - cpe:/a:redhat:openshift:4.6::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-15586
+          Severity: LOW
+        - ID: CVE-2020-16845
+          Severity: LOW
+        - ID: CVE-2020-8559
+          Severity: MEDIUM
+      FixedVersion: 0:4.6.0-202010022112.p0.git.94033.ef41184.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.6
+        - cpe:/a:redhat:openshift:4.6::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-15586
+          Severity: LOW
+        - ID: CVE-2020-16845
+          Severity: LOW
+        - ID: CVE-2020-8559
+          Severity: MEDIUM
+      FixedVersion: 0:4.6.0-202010022112.p0.git.94033.ef41184.el8

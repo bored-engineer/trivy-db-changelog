@@ -1,0 +1,52 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.1::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3::el7
+      Cves:
+        - ID: CVE-2021-3690
+          Severity: HIGH
+        - ID: CVE-2021-37714
+          Severity: MEDIUM
+        - ID: CVE-2021-3859
+          Severity: HIGH
+        - ID: CVE-2021-40690
+          Severity: MEDIUM
+        - ID: CVE-2022-0084
+          Severity: MEDIUM
+        - ID: CVE-2022-1319
+          Severity: MEDIUM
+        - ID: CVE-2022-2053
+          Severity: MEDIUM
+        - ID: CVE-2022-23913
+          Severity: MEDIUM
+        - ID: CVE-2022-24785
+          Severity: MEDIUM
+        - ID: CVE-2022-25647
+          Severity: MEDIUM
+        - ID: CVE-2022-25857
+          Severity: HIGH
+        - ID: CVE-2022-40149
+          Severity: MEDIUM
+        - ID: CVE-2022-40152
+          Severity: MEDIUM
+        - ID: CVE-2023-1108
+          Severity: HIGH
+        - ID: CVE-2023-1973
+          Severity: HIGH
+        - ID: CVE-2023-3223
+          Severity: HIGH
+        - ID: CVE-2024-1635
+          Severity: HIGH
+      FixedVersion: 0:3.5.11-1.Final_redhat_00001.1.ep7.el7

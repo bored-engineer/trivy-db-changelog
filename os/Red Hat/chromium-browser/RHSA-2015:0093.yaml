@@ -1,0 +1,91 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_els:6
+        - cpe:/o:redhat:rhel_eus:6.6
+        - cpe:/o:redhat:rhel_eus:6.6::computenode
+        - cpe:/o:redhat:rhel_eus:6.6::server
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2014-7923
+          Severity: HIGH
+        - ID: CVE-2014-7924
+          Severity: HIGH
+        - ID: CVE-2014-7925
+          Severity: HIGH
+        - ID: CVE-2014-7926
+          Severity: HIGH
+        - ID: CVE-2014-7927
+          Severity: HIGH
+        - ID: CVE-2014-7928
+          Severity: HIGH
+        - ID: CVE-2014-7929
+          Severity: HIGH
+        - ID: CVE-2014-7930
+          Severity: HIGH
+        - ID: CVE-2014-7931
+          Severity: HIGH
+        - ID: CVE-2014-7932
+          Severity: HIGH
+        - ID: CVE-2014-7933
+          Severity: HIGH
+        - ID: CVE-2014-7934
+          Severity: HIGH
+        - ID: CVE-2014-7935
+          Severity: HIGH
+        - ID: CVE-2014-7936
+          Severity: HIGH
+        - ID: CVE-2014-7937
+          Severity: HIGH
+        - ID: CVE-2014-7938
+          Severity: HIGH
+        - ID: CVE-2014-7939
+          Severity: HIGH
+        - ID: CVE-2014-7940
+          Severity: MEDIUM
+        - ID: CVE-2014-7941
+          Severity: MEDIUM
+        - ID: CVE-2014-7942
+          Severity: MEDIUM
+        - ID: CVE-2014-7943
+          Severity: MEDIUM
+        - ID: CVE-2014-7944
+          Severity: MEDIUM
+        - ID: CVE-2014-7945
+          Severity: MEDIUM
+        - ID: CVE-2014-7946
+          Severity: MEDIUM
+        - ID: CVE-2014-7947
+          Severity: MEDIUM
+        - ID: CVE-2014-7948
+          Severity: MEDIUM
+        - ID: CVE-2014-9654
+          Severity: MEDIUM
+        - ID: CVE-2015-1205
+          Severity: HIGH
+        - ID: CVE-2015-1346
+          Severity: HIGH
+      FixedVersion: 0:40.0.2214.91-1.el6_6

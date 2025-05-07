@@ -12,6 +12,12 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:8::supplementary
         - cpe:/o:redhat:enterprise_linux:8
         - cpe:/o:redhat:enterprise_linux:8::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
       Cves:
-        - Severity: MEDIUM
-      Status: affected
+        - ID: CVE-2025-3891
+          Severity: MEDIUM
+      FixedVersion: 0:0.6.1-4.module+el8.10.0+21813+b5444eb8

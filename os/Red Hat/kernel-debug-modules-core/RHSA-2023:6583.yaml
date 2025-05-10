@@ -108,6 +108,8 @@ Entries:
           Severity: LOW
         - ID: CVE-2022-49746
           Severity: LOW
+        - ID: CVE-2022-49748
+          Severity: MEDIUM
         - ID: CVE-2022-49750
           Severity: MEDIUM
         - ID: CVE-2022-49759

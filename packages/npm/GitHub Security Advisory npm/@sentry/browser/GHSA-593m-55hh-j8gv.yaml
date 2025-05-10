@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 8.33.0
+    - 7.119.1
+VulnerableVersions:
+    - '>=8.0.0-alpha.1, <8.33.0'
+    - <7.119.1

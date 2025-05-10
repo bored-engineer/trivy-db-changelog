@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.2
+        - cpe:/o:redhat:rhel_aus:7.2::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-10713
+          Severity: MEDIUM
+        - ID: CVE-2020-14308
+          Severity: MEDIUM
+        - ID: CVE-2020-14309
+          Severity: MEDIUM
+        - ID: CVE-2020-14310
+          Severity: MEDIUM
+        - ID: CVE-2020-14311
+          Severity: MEDIUM
+        - ID: CVE-2020-15705
+          Severity: MEDIUM
+        - ID: CVE-2020-15706
+          Severity: MEDIUM
+      FixedVersion: 0:15-8.el7

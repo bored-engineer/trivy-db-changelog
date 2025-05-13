@@ -213,8 +213,6 @@ Entries:
           Severity: LOW
         - ID: CVE-2023-53013
           Severity: LOW
-        - ID: CVE-2023-53014
-          Severity: LOW
         - ID: CVE-2023-53015
           Severity: LOW
         - ID: CVE-2023-53024

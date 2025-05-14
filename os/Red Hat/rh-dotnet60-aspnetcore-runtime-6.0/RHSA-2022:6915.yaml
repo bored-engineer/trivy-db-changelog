@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_dotnet:6.0
+        - cpe:/a:redhat:rhel_dotnet:6.0::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-41032
+          Severity: MEDIUM
+      FixedVersion: 0:6.0.10-1.el7_9

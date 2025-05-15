@@ -14,7 +14,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2016-1568
-          Severity: HIGH
+          Severity: LOW
         - ID: CVE-2016-1714
           Severity: HIGH
       FixedVersion: 10:2.3.0-31.el7_2.7

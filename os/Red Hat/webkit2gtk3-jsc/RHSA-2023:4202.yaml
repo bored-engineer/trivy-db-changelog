@@ -81,6 +81,14 @@ Entries:
           Severity: HIGH
         - ID: CVE-2024-27834
           Severity: HIGH
+        - ID: CVE-2025-24223
+          Severity: HIGH
         - ID: CVE-2025-24264
           Severity: HIGH
+        - ID: CVE-2025-31204
+          Severity: HIGH
+        - ID: CVE-2025-31206
+          Severity: HIGH
+        - ID: CVE-2025-31215
+          Severity: MEDIUM
       FixedVersion: 0:2.38.5-1.el8_8.5

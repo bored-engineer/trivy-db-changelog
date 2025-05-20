@@ -1,0 +1,28 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2014-1568
+          Severity: HIGH
+      FixedVersion: 0:3.13.1-11.el6_2
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+        - cpe:/o:redhat:rhel_eus:6.4
+        - cpe:/o:redhat:rhel_eus:6.4::computenode
+        - cpe:/o:redhat:rhel_eus:6.4::server
+      Arches:
+        - i686
+        - ppc
+        - ppc64
+        - s390
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2014-1568
+          Severity: HIGH
+      FixedVersion: 0:3.14.3-8.el6_4

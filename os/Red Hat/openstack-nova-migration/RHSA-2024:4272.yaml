@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:17.1
+        - cpe:/a:redhat:openstack:17.1::el9
+      Cves:
+        - ID: CVE-2024-32498
+          Severity: CRITICAL
+      FixedVersion: 1:23.2.3-17.1.20231018130828.el9ost

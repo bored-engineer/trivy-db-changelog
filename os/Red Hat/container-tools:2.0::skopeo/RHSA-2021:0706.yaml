@@ -110,6 +110,8 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2020-28362
+          Severity: MEDIUM
         - ID: CVE-2021-20188
           Severity: HIGH
       FixedVersion: 1:0.1.41-4.module+el8.3.0+10188+4c10031c

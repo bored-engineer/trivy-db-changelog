@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.10
+        - cpe:/a:redhat:openshift:4.10::el8
+      Cves:
+        - ID: CVE-2022-1471
+          Severity: HIGH
+        - ID: CVE-2022-34174
+          Severity: MEDIUM
+      FixedVersion: 0:2.361.1.1675406172-1.el8

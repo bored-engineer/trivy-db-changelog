@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.7
+        - cpe:/a:redhat:openshift:3.7::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-12195
+          Severity: MEDIUM
+      FixedVersion: 0:2.4-10.el7

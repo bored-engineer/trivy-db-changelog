@@ -375,4 +375,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-53020
           Severity: LOW
+        - ID: CVE-2023-53021
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-284.11.1.el9_2

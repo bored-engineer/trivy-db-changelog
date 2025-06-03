@@ -123,6 +123,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2021-4037
           Severity: MEDIUM
+        - ID: CVE-2021-40490
+          Severity: MEDIUM
         - ID: CVE-2021-4083
           Severity: HIGH
         - ID: CVE-2021-4093
@@ -193,6 +195,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-48904
           Severity: MEDIUM
+        - ID: CVE-2022-49227
+          Severity: LOW
         - ID: CVE-2023-0459
           Severity: LOW
       FixedVersion: 0:4.18.0-372.9.1.el8

@@ -223,4 +223,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-49710
           Severity: MEDIUM
+        - ID: CVE-2023-4387
+          Severity: MEDIUM
       FixedVersion: 0:4.18.0-425.3.1.el8

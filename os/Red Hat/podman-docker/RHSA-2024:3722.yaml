@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.17
+        - cpe:/a:redhat:openshift:4.17::el8
+      Cves:
+        - ID: CVE-2024-24789
+          Severity: MEDIUM
+        - ID: CVE-2024-6104
+          Severity: MEDIUM
+      FixedVersion: 4:5.2.0-3.rhaos4.17.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.17
+        - cpe:/a:redhat:openshift:4.17::el9
+      Cves:
+        - ID: CVE-2024-24789
+          Severity: MEDIUM
+        - ID: CVE-2024-6104
+          Severity: MEDIUM
+      FixedVersion: 4:5.2.0-2.rhaos4.17.el9

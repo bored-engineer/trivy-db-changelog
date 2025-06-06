@@ -25,6 +25,8 @@ Entries:
         - cpe:/o:redhat:rhel_eus:9.6
         - cpe:/o:redhat:rhel_eus:9.6::baseos
       Cves:
+        - ID: CVE-2025-23165
+          Severity: LOW
         - ID: CVE-2025-23166
           Severity: HIGH
       FixedVersion: 0:2021.06-4.module+el9.6.0+23062+9e7801b9

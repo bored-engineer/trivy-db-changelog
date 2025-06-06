@@ -13,6 +13,8 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:8
         - cpe:/o:redhat:enterprise_linux:8::baseos
       Cves:
+        - ID: CVE-2025-23165
+          Severity: LOW
         - ID: CVE-2025-23166
           Severity: HIGH
       FixedVersion: 0:3.0.1-1.module+el8.10.0+23140+4056b950

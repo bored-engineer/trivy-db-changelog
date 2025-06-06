@@ -30,6 +30,8 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2025-23165
+          Severity: LOW
         - ID: CVE-2025-23166
           Severity: HIGH
       FixedVersion: 1:10.9.2-1.22.16.0.1.module+el9.6.0+23151+b1496e9d

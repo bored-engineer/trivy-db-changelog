@@ -19,5 +19,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2025-3891
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 0:0.6.1-4.module+el8.10.0+21813+b5444eb8

@@ -1,0 +1,17 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhev_manager:4
+        - cpe:/a:redhat:rhev_manager:4.2
+        - cpe:/a:redhat:rhev_manager:4.3
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Cves:
+        - ID: CVE-2016-10735
+          Severity: MEDIUM
+        - ID: CVE-2018-20676
+          Severity: MEDIUM
+        - ID: CVE-2018-20677
+          Severity: MEDIUM
+        - ID: CVE-2019-11358
+          Severity: MEDIUM
+      FixedVersion: 0:0.0.5-1.el7ev

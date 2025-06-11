@@ -1,0 +1,56 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.3
+        - cpe:/a:redhat:openshift:3.3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-1002101
+          Severity: HIGH
+        - ID: CVE-2017-1002102
+          Severity: MEDIUM
+      FixedVersion: 0:3.3.1.46.11-1.git.4.e236015.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:3.4
+        - cpe:/a:redhat:openshift:3.4::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-1002101
+          Severity: HIGH
+        - ID: CVE-2017-1002102
+          Severity: MEDIUM
+      FixedVersion: 0:3.4.1.44.38-1.git.4.bb8df08.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:3.5
+        - cpe:/a:redhat:openshift:3.5::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-1002101
+          Severity: HIGH
+        - ID: CVE-2017-1002102
+          Severity: MEDIUM
+      FixedVersion: 0:3.5.5.31.48-1.git.4.ff6153e.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:3.6
+        - cpe:/a:redhat:openshift:3.6::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-1002101
+          Severity: HIGH
+        - ID: CVE-2017-1002102
+          Severity: MEDIUM
+      FixedVersion: 0:3.6.173.0.96-1.git.4.e6301f8.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:3.7
+        - cpe:/a:redhat:openshift:3.7::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-1002101
+          Severity: HIGH
+        - ID: CVE-2017-1002102
+          Severity: MEDIUM
+      FixedVersion: 0:3.7.23-1.git.5.83efd71.el7

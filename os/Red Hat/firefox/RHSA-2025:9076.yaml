@@ -19,4 +19,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2025-5269
           Severity: MEDIUM
+        - ID: CVE-2025-5283
+          Severity: HIGH
       FixedVersion: 0:128.11.0-1.el8_4

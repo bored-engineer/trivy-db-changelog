@@ -35,7 +35,6 @@ Entries:
         - ID: CVE-2025-3875
           Severity: HIGH
         - ID: CVE-2025-3877
-          Severity: HIGH
         - ID: CVE-2025-3909
           Severity: HIGH
         - ID: CVE-2025-3932

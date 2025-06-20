@@ -1,0 +1,40 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:9.2
+        - cpe:/a:redhat:rhel_aus:9.2::appstream
+        - cpe:/a:redhat:rhel_e4s:9.2
+        - cpe:/a:redhat:rhel_e4s:9.2::appstream
+        - cpe:/a:redhat:rhel_e4s:9.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.2::nfv
+        - cpe:/a:redhat:rhel_e4s:9.2::realtime
+        - cpe:/a:redhat:rhel_e4s:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.2::sap
+        - cpe:/a:redhat:rhel_e4s:9.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.2
+        - cpe:/a:redhat:rhel_eus:9.2::appstream
+        - cpe:/a:redhat:rhel_eus:9.2::crb
+        - cpe:/a:redhat:rhel_eus:9.2::highavailability
+        - cpe:/a:redhat:rhel_eus:9.2::nfv
+        - cpe:/a:redhat:rhel_eus:9.2::realtime
+        - cpe:/a:redhat:rhel_eus:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.2::sap
+        - cpe:/a:redhat:rhel_eus:9.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.2::supplementary
+        - cpe:/o:redhat:rhel_aus:9.2
+        - cpe:/o:redhat:rhel_aus:9.2::baseos
+        - cpe:/o:redhat:rhel_e4s:9.2
+        - cpe:/o:redhat:rhel_e4s:9.2::baseos
+        - cpe:/o:redhat:rhel_eus:9.2
+        - cpe:/o:redhat:rhel_eus:9.2::baseos
+      Cves:
+        - ID: CVE-2024-2961
+          Severity: HIGH
+        - ID: CVE-2024-33599
+          Severity: HIGH
+        - ID: CVE-2024-33600
+          Severity: MEDIUM
+        - ID: CVE-2024-33601
+          Severity: LOW
+        - ID: CVE-2024-33602
+          Severity: LOW
+      FixedVersion: 0:2.34-60.el9_2.14

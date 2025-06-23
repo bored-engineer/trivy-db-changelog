@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 0.47.16-ics-lsm
+    - 0.50.12
+VulnerableVersions:
+    - <0.47.16-ics-lsm
+    - '>=0.50.0-alpha.0, <0.50.12'

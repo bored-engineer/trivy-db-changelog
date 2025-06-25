@@ -1,0 +1,42 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.1
+        - cpe:/a:redhat:rhel_e4s:8.1::appstream
+        - cpe:/a:redhat:rhel_e4s:8.1::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.1::sap
+        - cpe:/a:redhat:rhel_e4s:8.1::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.1
+        - cpe:/a:redhat:rhel_eus:8.1::appstream
+        - cpe:/a:redhat:rhel_eus:8.1::crb
+        - cpe:/a:redhat:rhel_eus:8.1::highavailability
+        - cpe:/a:redhat:rhel_eus:8.1::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.1::sap
+        - cpe:/a:redhat:rhel_eus:8.1::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.1::supplementary
+        - cpe:/o:redhat:rhel_e4s:8.1
+        - cpe:/o:redhat:rhel_e4s:8.1::baseos
+        - cpe:/o:redhat:rhel_eus:8.1
+        - cpe:/o:redhat:rhel_eus:8.1::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2021-38503
+          Severity: HIGH
+        - ID: CVE-2021-38504
+          Severity: HIGH
+        - ID: CVE-2021-38506
+          Severity: HIGH
+        - ID: CVE-2021-38507
+          Severity: HIGH
+        - ID: CVE-2021-38508
+          Severity: MEDIUM
+        - ID: CVE-2021-38509
+          Severity: MEDIUM
+        - ID: CVE-2021-43529
+          Severity: CRITICAL
+        - ID: CVE-2021-43534
+          Severity: HIGH
+        - ID: CVE-2021-43535
+          Severity: HIGH
+      FixedVersion: 0:91.3.0-2.el8_1

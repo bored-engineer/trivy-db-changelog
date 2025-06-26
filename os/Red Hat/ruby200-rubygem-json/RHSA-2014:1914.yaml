@@ -1,0 +1,37 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2014-4975
+          Severity: LOW
+        - ID: CVE-2014-8080
+          Severity: MEDIUM
+        - ID: CVE-2014-8090
+          Severity: MEDIUM
+      FixedVersion: 0:1.7.7-24.el6
+    - Affected:
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el7
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el7
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2014-4975
+          Severity: LOW
+        - ID: CVE-2014-8080
+          Severity: MEDIUM
+        - ID: CVE-2014-8090
+          Severity: MEDIUM
+      FixedVersion: 0:1.7.7-24.el7

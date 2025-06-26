@@ -1,0 +1,35 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_core_services:1
+        - cpe:/a:redhat:jboss_core_services:1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-31122
+          Severity: MEDIUM
+        - ID: CVE-2023-46218
+          Severity: MEDIUM
+        - ID: CVE-2023-46219
+          Severity: MEDIUM
+        - ID: CVE-2023-5678
+          Severity: LOW
+        - ID: CVE-2023-6710
+          Severity: LOW
+      FixedVersion: 0:2.4.57-9.el7jbcs
+    - Affected:
+        - cpe:/a:redhat:jboss_core_services:1
+        - cpe:/a:redhat:jboss_core_services:1::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-31122
+          Severity: MEDIUM
+        - ID: CVE-2023-46218
+          Severity: MEDIUM
+        - ID: CVE-2023-46219
+          Severity: MEDIUM
+        - ID: CVE-2023-5678
+          Severity: LOW
+        - ID: CVE-2023-6710
+          Severity: LOW
+      FixedVersion: 0:2.4.57-9.el8jbcs

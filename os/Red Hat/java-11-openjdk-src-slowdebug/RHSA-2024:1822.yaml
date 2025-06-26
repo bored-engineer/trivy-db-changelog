@@ -121,6 +121,7 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:9::supplementary
         - cpe:/a:redhat:rhel_aus:9.2
         - cpe:/a:redhat:rhel_aus:9.2::appstream
+        - cpe:/a:redhat:rhel_aus:9.2::highavailability
         - cpe:/a:redhat:rhel_aus:9.4
         - cpe:/a:redhat:rhel_aus:9.4::appstream
         - cpe:/a:redhat:rhel_e4s:9.2

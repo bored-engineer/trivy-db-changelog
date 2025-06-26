@@ -85,11 +85,11 @@ Entries:
         - ID: CVE-2021-46143
           Severity: MEDIUM
         - ID: CVE-2022-22822
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2022-22823
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2022-22824
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2022-22825
           Severity: MEDIUM
         - ID: CVE-2022-22826

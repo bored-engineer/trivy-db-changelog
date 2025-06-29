@@ -1,0 +1,48 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.1::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.2::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1::el7
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3
+        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3::el7
+      Cves:
+        - ID: CVE-2020-10740
+          Severity: HIGH
+        - ID: CVE-2020-13949
+          Severity: HIGH
+        - ID: CVE-2020-25638
+          Severity: HIGH
+        - ID: CVE-2020-25644
+          Severity: HIGH
+        - ID: CVE-2020-27782
+          Severity: HIGH
+        - ID: CVE-2020-36518
+          Severity: MEDIUM
+        - ID: CVE-2021-28170
+          Severity: MEDIUM
+        - ID: CVE-2021-37136
+          Severity: MEDIUM
+        - ID: CVE-2021-37137
+          Severity: MEDIUM
+        - ID: CVE-2022-1259
+          Severity: MEDIUM
+        - ID: CVE-2022-3143
+          Severity: MEDIUM
+        - ID: CVE-2022-4492
+          Severity: MEDIUM
+        - ID: CVE-2023-5379
+          Severity: MEDIUM
+        - ID: CVE-2024-1233
+          Severity: MEDIUM
+        - ID: CVE-2024-1249
+          Severity: HIGH
+      FixedVersion: 0:1.4.18-16.SP14_redhat_00001.1.ep7.el7

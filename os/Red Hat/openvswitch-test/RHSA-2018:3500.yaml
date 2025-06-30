@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::fastdatapath
+      Cves:
+        - ID: CVE-2018-17204
+          Severity: MEDIUM
+        - ID: CVE-2018-17205
+          Severity: MEDIUM
+        - ID: CVE-2018-17206
+          Severity: MEDIUM
+      FixedVersion: 0:2.9.0-70.el7fdp.1

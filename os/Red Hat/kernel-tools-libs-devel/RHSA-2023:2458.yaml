@@ -414,11 +414,19 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-49902
           Severity: LOW
+        - ID: CVE-2022-49903
+          Severity: MEDIUM
         - ID: CVE-2022-49908
+          Severity: MEDIUM
+        - ID: CVE-2022-49911
           Severity: MEDIUM
         - ID: CVE-2022-49925
           Severity: MEDIUM
         - ID: CVE-2022-49951
+          Severity: MEDIUM
+        - ID: CVE-2022-49960
+          Severity: MEDIUM
+        - ID: CVE-2022-49961
           Severity: MEDIUM
         - ID: CVE-2022-49991
           Severity: MEDIUM
@@ -426,7 +434,11 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-50020
           Severity: MEDIUM
+        - ID: CVE-2022-50029
+          Severity: MEDIUM
         - ID: CVE-2022-50044
+          Severity: MEDIUM
+        - ID: CVE-2022-50069
           Severity: MEDIUM
         - ID: CVE-2022-50088
           Severity: MEDIUM
@@ -435,6 +447,10 @@ Entries:
         - ID: CVE-2022-50100
           Severity: MEDIUM
         - ID: CVE-2022-50151
+          Severity: MEDIUM
+        - ID: CVE-2022-50168
+          Severity: MEDIUM
+        - ID: CVE-2022-50190
           Severity: MEDIUM
         - ID: CVE-2023-0394
           Severity: MEDIUM
@@ -461,6 +477,8 @@ Entries:
         - ID: CVE-2023-53021
           Severity: MEDIUM
         - ID: CVE-2023-53033
+          Severity: MEDIUM
+        - ID: CVE-2023-53083
           Severity: MEDIUM
         - ID: CVE-2025-21867
           Severity: MEDIUM

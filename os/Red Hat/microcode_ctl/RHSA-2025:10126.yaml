@@ -9,4 +9,14 @@ Entries:
       Cves:
         - ID: CVE-2024-28956
           Severity: MEDIUM
+        - ID: CVE-2024-43420
+          Severity: MEDIUM
+        - ID: CVE-2024-45332
+          Severity: MEDIUM
+        - ID: CVE-2025-20012
+          Severity: MEDIUM
+        - ID: CVE-2025-20623
+          Severity: MEDIUM
+        - ID: CVE-2025-24495
+          Severity: MEDIUM
       FixedVersion: 4:20191115-4.20250512.1.el8_2

@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+      Cves:
+        - ID: CVE-2024-49761
+          Severity: MEDIUM
+      FixedVersion: 0:1.0.0-2.module+el8.1.0+3656+f80bfa1d

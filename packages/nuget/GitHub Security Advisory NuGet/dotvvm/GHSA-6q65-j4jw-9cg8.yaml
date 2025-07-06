@@ -1,0 +1,8 @@
+PatchedVersions:
+    - 4.3.8
+    - 5.0.0-preview03-final
+    - 4.2.10
+VulnerableVersions:
+    - '>=4.3.0-preview01-final, <4.3.8'
+    - '>=5.0.0-preview01-final, <5.0.0-preview03-final'
+    - <4.2.10

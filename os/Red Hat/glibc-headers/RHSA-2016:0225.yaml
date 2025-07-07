@@ -1,0 +1,57 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-7547
+          Severity: CRITICAL
+      FixedVersion: 0:2.12-1.47.el6_2.17
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-7547
+          Severity: CRITICAL
+      FixedVersion: 0:2.12-1.107.el6_4.9
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-7547
+          Severity: CRITICAL
+      FixedVersion: 0:2.12-1.132.el6_5.7
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_eus:6.6
+        - cpe:/o:redhat:rhel_eus:6.6::computenode
+        - cpe:/o:redhat:rhel_eus:6.6::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2015-7547
+          Severity: CRITICAL
+      FixedVersion: 0:2.12-1.149.el6_6.11
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:7.1
+        - cpe:/o:redhat:rhel_eus:7.1::computenode
+        - cpe:/o:redhat:rhel_eus:7.1::server
+      Arches:
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2015-7547
+          Severity: CRITICAL
+      FixedVersion: 0:2.17-79.el7_1.4

@@ -41,8 +41,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2024-1233
           Severity: MEDIUM
-        - ID: CVE-2024-1249
-          Severity: HIGH
         - ID: CVE-2024-1635
           Severity: HIGH
       FixedVersion: 0:1.10.17-1.Final_redhat_00001.1.el7eap

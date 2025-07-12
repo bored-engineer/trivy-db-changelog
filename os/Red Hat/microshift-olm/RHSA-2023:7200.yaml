@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.15
+        - cpe:/a:redhat:openshift:4.15::el9
+      Arches:
+        - aarch64
+        - x86_64
+      Cves:
+        - ID: CVE-2023-39325
+          Severity: HIGH
+        - ID: CVE-2023-39326
+          Severity: MEDIUM
+        - ID: CVE-2023-45287
+          Severity: MEDIUM
+      FixedVersion: 0:4.15.0-202402260721.p0.g799289b.assembly.4.15.0.el9

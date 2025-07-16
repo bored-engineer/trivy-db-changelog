@@ -27,6 +27,8 @@ Entries:
         - ppc64le
         - x86_64
       Cves:
+        - ID: CVE-2022-50213
+          Severity: MEDIUM
         - ID: CVE-2023-4244
           Severity: MEDIUM
         - ID: CVE-2023-52628

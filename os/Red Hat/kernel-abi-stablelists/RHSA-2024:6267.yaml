@@ -1,0 +1,58 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:9.2
+        - cpe:/a:redhat:rhel_aus:9.2::appstream
+        - cpe:/a:redhat:rhel_e4s:9.2
+        - cpe:/a:redhat:rhel_e4s:9.2::appstream
+        - cpe:/a:redhat:rhel_e4s:9.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.2::nfv
+        - cpe:/a:redhat:rhel_e4s:9.2::realtime
+        - cpe:/a:redhat:rhel_e4s:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.2::sap
+        - cpe:/a:redhat:rhel_e4s:9.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.2
+        - cpe:/a:redhat:rhel_eus:9.2::appstream
+        - cpe:/a:redhat:rhel_eus:9.2::crb
+        - cpe:/a:redhat:rhel_eus:9.2::highavailability
+        - cpe:/a:redhat:rhel_eus:9.2::nfv
+        - cpe:/a:redhat:rhel_eus:9.2::realtime
+        - cpe:/a:redhat:rhel_eus:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.2::sap
+        - cpe:/a:redhat:rhel_eus:9.2::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.2::supplementary
+        - cpe:/o:redhat:rhel_aus:9.2
+        - cpe:/o:redhat:rhel_aus:9.2::baseos
+        - cpe:/o:redhat:rhel_e4s:9.2
+        - cpe:/o:redhat:rhel_e4s:9.2::baseos
+        - cpe:/o:redhat:rhel_eus:9.2
+        - cpe:/o:redhat:rhel_eus:9.2::baseos
+      Cves:
+        - ID: CVE-2024-26946
+          Severity: MEDIUM
+        - ID: CVE-2024-35839
+          Severity: MEDIUM
+        - ID: CVE-2024-35875
+          Severity: MEDIUM
+        - ID: CVE-2024-35895
+          Severity: MEDIUM
+        - ID: CVE-2024-38540
+          Severity: MEDIUM
+        - ID: CVE-2024-38570
+          Severity: MEDIUM
+        - ID: CVE-2024-39502
+          Severity: MEDIUM
+        - ID: CVE-2024-40914
+          Severity: MEDIUM
+        - ID: CVE-2024-40956
+          Severity: MEDIUM
+        - ID: CVE-2024-40978
+          Severity: LOW
+        - ID: CVE-2024-40983
+          Severity: MEDIUM
+        - ID: CVE-2024-41044
+          Severity: MEDIUM
+        - ID: CVE-2024-42102
+          Severity: MEDIUM
+        - ID: CVE-2024-42131
+          Severity: MEDIUM
+      FixedVersion: 0:5.14.0-284.82.1.el9_2

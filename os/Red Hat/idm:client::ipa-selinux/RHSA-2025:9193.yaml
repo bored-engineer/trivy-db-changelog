@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.4
+        - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/o:redhat:rhel_aus:8.4
+        - cpe:/o:redhat:rhel_aus:8.4::baseos
+      Cves:
+        - ID: CVE-2025-4404
+          Severity: HIGH
+      FixedVersion: 0:4.9.2-10.module+el8.4.0+23244+e11b6684.2

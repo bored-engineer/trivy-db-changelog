@@ -1,4 +1,6 @@
 PatchedVersions:
     - 5.20.0
+    - 0.0.0-20240118092008-ce1bd0dd37bb
 VulnerableVersions:
     - '>=5.19.0, <5.20.0'
+    - '>=0.0.0-20230920084527-cbe39c5d3f14, <0.0.0-20240118092008-ce1bd0dd37bb'

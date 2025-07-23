@@ -24,6 +24,8 @@ Entries:
           Severity: LOW
         - ID: CVE-2024-21068
           Severity: MEDIUM
+        - ID: CVE-2024-21094
+          Severity: MEDIUM
       FixedVersion: 1:21.0.3.0.9-1.el8
     - Affected:
         - cpe:/a:redhat:enterprise_linux:9
@@ -87,5 +89,7 @@ Entries:
         - ID: CVE-2024-21012
           Severity: LOW
         - ID: CVE-2024-21068
+          Severity: MEDIUM
+        - ID: CVE-2024-21094
           Severity: MEDIUM
       FixedVersion: 1:21.0.3.0.9-1.el9

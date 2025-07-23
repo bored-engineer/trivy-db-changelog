@@ -28,4 +28,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2024-20952
           Severity: HIGH
+        - ID: CVE-2024-21094
+          Severity: MEDIUM
       FixedVersion: 1:21.0.2.0.13-1.el8

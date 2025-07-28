@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.15
+        - cpe:/a:redhat:openshift:4.15::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2023-45539
+          Severity: MEDIUM
+        - ID: CVE-2024-6104
+          Severity: MEDIUM
+      FixedVersion: 3:4.4.1-26.2.rhaos4.15.el8

@@ -56,4 +56,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2025-21764
           Severity: MEDIUM
+        - ID: CVE-2025-38234
+          Severity: MEDIUM
       FixedVersion: 0:7.3.0-427.74.1.el9_4

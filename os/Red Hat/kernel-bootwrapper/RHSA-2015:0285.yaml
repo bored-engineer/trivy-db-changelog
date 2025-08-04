@@ -1,0 +1,13 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+        - cpe:/o:redhat:rhel_eus:6.4
+        - cpe:/o:redhat:rhel_eus:6.4::computenode
+        - cpe:/o:redhat:rhel_eus:6.4::server
+      Arches:
+        - ppc64
+      Cves:
+        - ID: CVE-2014-7841
+          Severity: HIGH
+      FixedVersion: 0:2.6.32-358.56.1.el6

@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_dotnet:6.0
+        - cpe:/a:redhat:rhel_dotnet:6.0::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2024-21386
+          Severity: HIGH
+        - ID: CVE-2024-21404
+          Severity: HIGH
+      FixedVersion: 0:6.0.27-1.el7_9

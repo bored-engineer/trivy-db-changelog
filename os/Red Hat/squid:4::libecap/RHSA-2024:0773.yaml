@@ -2,6 +2,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:rhel_aus:8.4
         - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_aus:8.4::highavailability
         - cpe:/a:redhat:rhel_tus:8.4
         - cpe:/a:redhat:rhel_tus:8.4::appstream
         - cpe:/a:redhat:rhel_tus:8.4::highavailability
@@ -25,6 +26,8 @@ Entries:
         - ID: CVE-2023-50269
           Severity: HIGH
         - ID: CVE-2023-5824
+          Severity: HIGH
+        - ID: CVE-2025-54574
           Severity: HIGH
       FixedVersion: 0:1.0.1-2.module+el8.1.0+4044+36416a77
     - Affected:
@@ -51,5 +54,7 @@ Entries:
         - ID: CVE-2023-50269
           Severity: HIGH
         - ID: CVE-2023-5824
+          Severity: HIGH
+        - ID: CVE-2025-54574
           Severity: HIGH
       FixedVersion: 0:1.0.1-2.module+el8.1.0+4044+36416a77

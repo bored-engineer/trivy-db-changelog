@@ -26,6 +26,8 @@ Entries:
           Severity: HIGH
         - ID: CVE-2023-5824
           Severity: HIGH
+        - ID: CVE-2025-54574
+          Severity: HIGH
       FixedVersion: 7:4.4-8.module+el8.2.0+21173+22259b09.7
     - Affected:
         - cpe:/a:redhat:rhel_e4s:8.2
@@ -50,5 +52,7 @@ Entries:
         - ID: CVE-2023-50269
           Severity: HIGH
         - ID: CVE-2023-5824
+          Severity: HIGH
+        - ID: CVE-2025-54574
           Severity: HIGH
       FixedVersion: 7:4.4-8.module+el8.2.0+21173+22259b09.7

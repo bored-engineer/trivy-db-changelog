@@ -22,4 +22,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-5824
           Severity: HIGH
+        - ID: CVE-2025-54574
+          Severity: HIGH
       FixedVersion: 7:4.15-7.module+el8.9.0+20806+014d88aa.3

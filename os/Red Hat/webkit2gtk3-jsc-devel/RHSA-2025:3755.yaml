@@ -39,6 +39,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2024-54551
           Severity: MEDIUM
+        - ID: CVE-2025-24189
+          Severity: HIGH
         - ID: CVE-2025-24208
           Severity: MEDIUM
         - ID: CVE-2025-24209

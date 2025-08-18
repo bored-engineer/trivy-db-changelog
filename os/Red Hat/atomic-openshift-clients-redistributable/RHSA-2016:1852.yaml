@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.1
+        - cpe:/a:redhat:openshift:3.1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-5418
+          Severity: HIGH
+      FixedVersion: 0:3.1.1.7-1.git.0.65f396b.el7aos

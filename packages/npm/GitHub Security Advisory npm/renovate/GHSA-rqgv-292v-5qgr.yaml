@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 37.199.0
+VulnerableVersions:
+    - '>=37.158.0, <37.199.0'

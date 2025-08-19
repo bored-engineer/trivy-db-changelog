@@ -1,0 +1,37 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_mrg:2
+        - cpe:/a:redhat:enterprise_mrg:2:computenode:el6
+        - cpe:/a:redhat:enterprise_mrg:2:server:el6
+      Cves:
+        - ID: CVE-2013-2058
+          Severity: LOW
+        - ID: CVE-2013-2141
+          Severity: LOW
+        - ID: CVE-2013-2146
+          Severity: MEDIUM
+        - ID: CVE-2013-2147
+          Severity: LOW
+        - ID: CVE-2013-2148
+          Severity: LOW
+        - ID: CVE-2013-2164
+          Severity: LOW
+        - ID: CVE-2013-2232
+          Severity: MEDIUM
+        - ID: CVE-2013-2234
+          Severity: LOW
+        - ID: CVE-2013-2237
+          Severity: LOW
+        - ID: CVE-2013-2850
+          Severity: HIGH
+        - ID: CVE-2013-2851
+          Severity: LOW
+        - ID: CVE-2013-2852
+          Severity: LOW
+        - ID: CVE-2013-3301
+          Severity: LOW
+        - ID: CVE-2013-4162
+          Severity: MEDIUM
+        - ID: CVE-2013-4163
+          Severity: MEDIUM
+      FixedVersion: 0:3.6.11.5-rt37.55.el6rt

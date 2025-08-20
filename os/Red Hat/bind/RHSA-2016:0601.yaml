@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2016-1285
+          Severity: HIGH
+        - ID: CVE-2016-1286
+          Severity: HIGH
+      FixedVersion: 32:9.7.3-8.P3.el6_2.4

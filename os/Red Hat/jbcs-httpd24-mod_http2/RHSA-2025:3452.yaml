@@ -5,6 +5,8 @@ Entries:
       Arches:
         - x86_64
       Cves:
+        - ID: CVE-2024-24795
+          Severity: LOW
         - ID: CVE-2024-36387
           Severity: LOW
         - ID: CVE-2024-5535
@@ -16,6 +18,8 @@ Entries:
       Arches:
         - x86_64
       Cves:
+        - ID: CVE-2024-24795
+          Severity: LOW
         - ID: CVE-2024-36387
           Severity: LOW
         - ID: CVE-2024-5535

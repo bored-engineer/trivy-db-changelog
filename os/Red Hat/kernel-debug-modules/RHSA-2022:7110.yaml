@@ -101,4 +101,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-50054
           Severity: MEDIUM
+        - ID: CVE-2022-50055
+          Severity: LOW
       FixedVersion: 0:4.18.0-372.32.1.el8_6

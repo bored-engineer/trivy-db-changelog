@@ -1,2 +1,4 @@
+PatchedVersions:
+    - 11.22.4
 VulnerableVersions:
-    - '>=10.16.10, <11.0.0'
+    - '>=10.16.10, <11.22.4'

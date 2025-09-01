@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.9
+        - cpe:/a:redhat:openshift:3.9::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-11247
+          Severity: MEDIUM
+        - ID: CVE-2019-9512
+          Severity: HIGH
+        - ID: CVE-2019-9514
+          Severity: HIGH
+      FixedVersion: 0:2.2.1-2.gitbc6058c.el7

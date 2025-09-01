@@ -12,6 +12,7 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:8::supplementary
         - cpe:/a:redhat:rhel_aus:8.4
         - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_aus:8.4::highavailability
         - cpe:/a:redhat:rhel_aus:8.6
         - cpe:/a:redhat:rhel_aus:8.6::appstream
         - cpe:/a:redhat:rhel_aus:8.8

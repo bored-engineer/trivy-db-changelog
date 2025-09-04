@@ -1,6 +1,0 @@
-Entries:
-    - Arches:
-        - aarch64
-        - x86_64
-      FixedVersion: 12.22-5.module+el8.10.0+90651+1a81e7f2
-FixedVersion: 12.22-5.module+el8.10.0+90651+1a81e7f2

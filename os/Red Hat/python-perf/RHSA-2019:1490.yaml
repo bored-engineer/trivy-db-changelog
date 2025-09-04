@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-11477
+          Severity: HIGH
+        - ID: CVE-2019-11478
+          Severity: MEDIUM
+        - ID: CVE-2019-11479
+          Severity: MEDIUM
+        - ID: CVE-2019-3896
+          Severity: HIGH
+      FixedVersion: 0:2.6.32-431.95.3.el6

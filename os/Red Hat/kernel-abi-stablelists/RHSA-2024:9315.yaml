@@ -702,7 +702,6 @@ Entries:
         - ID: CVE-2024-35913
           Severity: LOW
         - ID: CVE-2024-35918
-          Severity: MEDIUM
         - ID: CVE-2024-35923
           Severity: LOW
         - ID: CVE-2024-35924
@@ -882,7 +881,6 @@ Entries:
         - ID: CVE-2024-39499
           Severity: MEDIUM
         - ID: CVE-2024-39501
-          Severity: MEDIUM
         - ID: CVE-2024-39503
           Severity: MEDIUM
         - ID: CVE-2024-39507

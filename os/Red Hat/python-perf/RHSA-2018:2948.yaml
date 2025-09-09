@@ -1,0 +1,100 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+      Arches:
+        - ppc64le
+      Cves:
+        - ID: CVE-2017-13166
+          Severity: HIGH
+        - ID: CVE-2017-16648
+          Severity: MEDIUM
+        - ID: CVE-2017-17805
+          Severity: MEDIUM
+        - ID: CVE-2017-17806
+          Severity: MEDIUM
+        - ID: CVE-2017-18075
+          Severity: MEDIUM
+        - ID: CVE-2017-18208
+          Severity: MEDIUM
+        - ID: CVE-2017-18344
+          Severity: HIGH
+        - ID: CVE-2018-1000026
+          Severity: MEDIUM
+        - ID: CVE-2018-1000200
+          Severity: MEDIUM
+        - ID: CVE-2018-1000204
+          Severity: LOW
+        - ID: CVE-2018-10322
+          Severity: LOW
+        - ID: CVE-2018-1065
+          Severity: MEDIUM
+        - ID: CVE-2018-1068
+          Severity: HIGH
+        - ID: CVE-2018-10877
+          Severity: LOW
+        - ID: CVE-2018-10878
+          Severity: MEDIUM
+        - ID: CVE-2018-10879
+          Severity: LOW
+        - ID: CVE-2018-10880
+          Severity: LOW
+        - ID: CVE-2018-10881
+          Severity: LOW
+        - ID: CVE-2018-10882
+          Severity: LOW
+        - ID: CVE-2018-10883
+          Severity: LOW
+        - ID: CVE-2018-1092
+          Severity: LOW
+        - ID: CVE-2018-1094
+          Severity: LOW
+        - ID: CVE-2018-10940
+          Severity: LOW
+        - ID: CVE-2018-1095
+          Severity: LOW
+        - ID: CVE-2018-1118
+          Severity: LOW
+        - ID: CVE-2018-1120
+          Severity: MEDIUM
+        - ID: CVE-2018-11506
+          Severity: MEDIUM
+        - ID: CVE-2018-12232
+          Severity: MEDIUM
+        - ID: CVE-2018-13405
+          Severity: HIGH
+        - ID: CVE-2018-14619
+          Severity: HIGH
+        - ID: CVE-2018-14641
+          Severity: HIGH
+        - ID: CVE-2018-3639
+          Severity: HIGH
+        - ID: CVE-2018-5344
+          Severity: MEDIUM
+        - ID: CVE-2018-5390
+          Severity: HIGH
+        - ID: CVE-2018-5391
+          Severity: HIGH
+        - ID: CVE-2018-5750
+          Severity: MEDIUM
+        - ID: CVE-2018-5803
+          Severity: MEDIUM
+        - ID: CVE-2018-5848
+          Severity: MEDIUM
+        - ID: CVE-2018-7566
+          Severity: MEDIUM
+        - ID: CVE-2018-7757
+          Severity: LOW
+        - ID: CVE-2018-8781
+          Severity: HIGH
+        - ID: CVE-2018-9363
+          Severity: MEDIUM
+      FixedVersion: 0:4.14.0-115.el7a

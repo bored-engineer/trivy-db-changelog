@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Cves:
+        - ID: CVE-2018-0503
+          Severity: LOW
+        - ID: CVE-2018-0505
+          Severity: LOW
+      FixedVersion: 0:1.27.7-1.el7

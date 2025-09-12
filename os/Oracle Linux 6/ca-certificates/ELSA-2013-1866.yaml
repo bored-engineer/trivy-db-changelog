@@ -1,0 +1,6 @@
+Entries:
+    - Arches:
+        - i686
+        - x86_64
+      FixedVersion: 2013.1.95-65.1.el6_5
+FixedVersion: 2013.1.95-65.1.el6_5

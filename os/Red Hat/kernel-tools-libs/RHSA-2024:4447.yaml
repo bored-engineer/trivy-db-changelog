@@ -20,6 +20,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-1789
           Severity: MEDIUM
+        - ID: CVE-2022-50030
+          Severity: MEDIUM
         - ID: CVE-2024-26583
           Severity: MEDIUM
         - ID: CVE-2024-26584
@@ -64,6 +66,8 @@ Entries:
         - ID: CVE-2021-47310
           Severity: MEDIUM
         - ID: CVE-2022-1789
+          Severity: MEDIUM
+        - ID: CVE-2022-50030
           Severity: MEDIUM
         - ID: CVE-2024-26583
           Severity: MEDIUM

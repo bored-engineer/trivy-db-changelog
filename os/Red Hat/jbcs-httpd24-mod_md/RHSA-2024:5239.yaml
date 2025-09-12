@@ -1,0 +1,39 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_core_services:1
+        - cpe:/a:redhat:jboss_core_services:1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2024-38473
+          Severity: MEDIUM
+        - ID: CVE-2024-38474
+          Severity: HIGH
+        - ID: CVE-2024-38475
+          Severity: HIGH
+        - ID: CVE-2024-38476
+          Severity: HIGH
+        - ID: CVE-2024-38477
+          Severity: HIGH
+        - ID: CVE-2024-39573
+          Severity: MEDIUM
+      FixedVersion: 1:2.4.24-11.el7jbcs
+    - Affected:
+        - cpe:/a:redhat:jboss_core_services:1
+        - cpe:/a:redhat:jboss_core_services:1::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2024-38473
+          Severity: MEDIUM
+        - ID: CVE-2024-38474
+          Severity: HIGH
+        - ID: CVE-2024-38475
+          Severity: HIGH
+        - ID: CVE-2024-38476
+          Severity: HIGH
+        - ID: CVE-2024-38477
+          Severity: HIGH
+        - ID: CVE-2024-39573
+          Severity: MEDIUM
+      FixedVersion: 1:2.4.24-11.el8jbcs

@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::fastdatapath
+      Cves:
+        - ID: CVE-2024-11614
+          Severity: HIGH
+      FixedVersion: 0:3.4.0-48.el9fdp

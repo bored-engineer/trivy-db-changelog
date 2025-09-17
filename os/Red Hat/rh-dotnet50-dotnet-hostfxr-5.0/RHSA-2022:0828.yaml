@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_dotnet:5.0
+        - cpe:/a:redhat:rhel_dotnet:5.0::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-8927
+          Severity: HIGH
+        - ID: CVE-2022-24464
+          Severity: HIGH
+        - ID: CVE-2022-24512
+          Severity: HIGH
+      FixedVersion: 0:5.0.15-1.el7_9

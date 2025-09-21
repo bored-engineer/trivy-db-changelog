@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2024-41071
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-1062.91.1.el7

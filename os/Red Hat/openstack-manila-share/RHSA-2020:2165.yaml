@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16
+        - cpe:/a:redhat:openstack:16::el8
+      Cves:
+        - ID: CVE-2020-9543
+          Severity: MEDIUM
+      FixedVersion: 1:9.1.2-0.20200405045746.f071a43.el8ost

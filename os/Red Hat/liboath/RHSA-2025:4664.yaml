@@ -1,0 +1,56 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:7.1
+        - cpe:/a:redhat:ceph_storage:7.1::el8
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2023-23934
+          Severity: LOW
+        - ID: CVE-2023-25577
+          Severity: HIGH
+        - ID: CVE-2023-46446
+          Severity: MEDIUM
+        - ID: CVE-2023-48795
+          Severity: MEDIUM
+        - ID: CVE-2024-24790
+          Severity: MEDIUM
+        - ID: CVE-2024-34069
+          Severity: HIGH
+        - ID: CVE-2024-42353
+          Severity: MEDIUM
+        - ID: CVE-2024-47191
+          Severity: HIGH
+        - ID: CVE-2024-48916
+          Severity: HIGH
+      FixedVersion: 0:2.6.12-1.el8cp
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:7.0
+        - cpe:/a:redhat:ceph_storage:7.0::el9
+        - cpe:/a:redhat:ceph_storage:7.1
+        - cpe:/a:redhat:ceph_storage:7.1::el9
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2023-23934
+          Severity: LOW
+        - ID: CVE-2023-25577
+          Severity: HIGH
+        - ID: CVE-2023-46446
+          Severity: MEDIUM
+        - ID: CVE-2023-48795
+          Severity: MEDIUM
+        - ID: CVE-2024-24790
+          Severity: MEDIUM
+        - ID: CVE-2024-34069
+          Severity: HIGH
+        - ID: CVE-2024-42353
+          Severity: MEDIUM
+        - ID: CVE-2024-47191
+          Severity: HIGH
+        - ID: CVE-2024-48916
+          Severity: HIGH
+      FixedVersion: 0:2.6.12-1.el9cp

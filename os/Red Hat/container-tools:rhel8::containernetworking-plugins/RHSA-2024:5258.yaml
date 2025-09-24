@@ -32,6 +32,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2024-37298
           Severity: HIGH
+        - ID: CVE-2024-37891
+          Severity: MEDIUM
         - ID: CVE-2024-6104
           Severity: MEDIUM
       FixedVersion: 1:1.4.0-5.module+el8.10.0+22202+761b9a65

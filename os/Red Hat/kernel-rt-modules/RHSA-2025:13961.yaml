@@ -15,6 +15,8 @@ Entries:
       Arches:
         - x86_64
       Cves:
+        - ID: CVE-2022-50269
+          Severity: LOW
         - ID: CVE-2025-22097
           Severity: MEDIUM
         - ID: CVE-2025-37914

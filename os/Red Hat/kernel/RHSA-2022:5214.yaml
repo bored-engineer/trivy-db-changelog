@@ -15,6 +15,8 @@ Entries:
         - cpe:/a:redhat:rhel_aus:9.2::highavailability
         - cpe:/a:redhat:rhel_aus:9.4
         - cpe:/a:redhat:rhel_aus:9.4::appstream
+        - cpe:/a:redhat:rhel_aus:9.6
+        - cpe:/a:redhat:rhel_aus:9.6::appstream
         - cpe:/a:redhat:rhel_e4s:9.0
         - cpe:/a:redhat:rhel_e4s:9.0::appstream
         - cpe:/a:redhat:rhel_e4s:9.0::highavailability
@@ -39,6 +41,22 @@ Entries:
         - cpe:/a:redhat:rhel_e4s:9.4::resilientstorage
         - cpe:/a:redhat:rhel_e4s:9.4::sap
         - cpe:/a:redhat:rhel_e4s:9.4::sap_hana
+        - cpe:/a:redhat:rhel_e4s:9.6
+        - cpe:/a:redhat:rhel_e4s:9.6::appstream
+        - cpe:/a:redhat:rhel_e4s:9.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.6::nfv
+        - cpe:/a:redhat:rhel_e4s:9.6::realtime
+        - cpe:/a:redhat:rhel_e4s:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.6::sap
+        - cpe:/a:redhat:rhel_e4s:9.6::sap_hana
+        - cpe:/a:redhat:rhel_e4s:9.8
+        - cpe:/a:redhat:rhel_e4s:9.8::appstream
+        - cpe:/a:redhat:rhel_e4s:9.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.8::nfv
+        - cpe:/a:redhat:rhel_e4s:9.8::realtime
+        - cpe:/a:redhat:rhel_e4s:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.8::sap
+        - cpe:/a:redhat:rhel_e4s:9.8::sap_hana
         - cpe:/a:redhat:rhel_eus:9.0
         - cpe:/a:redhat:rhel_eus:9.0::appstream
         - cpe:/a:redhat:rhel_eus:9.0::crb
@@ -79,18 +97,34 @@ Entries:
         - cpe:/a:redhat:rhel_eus:9.6::sap
         - cpe:/a:redhat:rhel_eus:9.6::sap_hana
         - cpe:/a:redhat:rhel_eus:9.6::supplementary
+        - cpe:/a:redhat:rhel_eus:9.8
+        - cpe:/a:redhat:rhel_eus:9.8::appstream
+        - cpe:/a:redhat:rhel_eus:9.8::crb
+        - cpe:/a:redhat:rhel_eus:9.8::highavailability
+        - cpe:/a:redhat:rhel_eus:9.8::nfv
+        - cpe:/a:redhat:rhel_eus:9.8::realtime
+        - cpe:/a:redhat:rhel_eus:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.8::sap
+        - cpe:/a:redhat:rhel_eus:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.8::supplementary
         - cpe:/o:redhat:enterprise_linux:9
         - cpe:/o:redhat:enterprise_linux:9::baseos
         - cpe:/o:redhat:rhel_aus:9.2
         - cpe:/o:redhat:rhel_aus:9.2::baseos
         - cpe:/o:redhat:rhel_aus:9.4
         - cpe:/o:redhat:rhel_aus:9.4::baseos
+        - cpe:/o:redhat:rhel_aus:9.6
+        - cpe:/o:redhat:rhel_aus:9.6::baseos
         - cpe:/o:redhat:rhel_e4s:9.0
         - cpe:/o:redhat:rhel_e4s:9.0::baseos
         - cpe:/o:redhat:rhel_e4s:9.2
         - cpe:/o:redhat:rhel_e4s:9.2::baseos
         - cpe:/o:redhat:rhel_e4s:9.4
         - cpe:/o:redhat:rhel_e4s:9.4::baseos
+        - cpe:/o:redhat:rhel_e4s:9.6
+        - cpe:/o:redhat:rhel_e4s:9.6::baseos
+        - cpe:/o:redhat:rhel_e4s:9.8
+        - cpe:/o:redhat:rhel_e4s:9.8::baseos
         - cpe:/o:redhat:rhel_eus:9.0
         - cpe:/o:redhat:rhel_eus:9.0::baseos
         - cpe:/o:redhat:rhel_eus:9.2
@@ -99,6 +133,8 @@ Entries:
         - cpe:/o:redhat:rhel_eus:9.4::baseos
         - cpe:/o:redhat:rhel_eus:9.6
         - cpe:/o:redhat:rhel_eus:9.6::baseos
+        - cpe:/o:redhat:rhel_eus:9.8
+        - cpe:/o:redhat:rhel_eus:9.8::baseos
       Arches:
         - ppc64le
         - x86_64

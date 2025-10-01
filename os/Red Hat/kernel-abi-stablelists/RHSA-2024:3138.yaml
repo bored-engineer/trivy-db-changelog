@@ -139,6 +139,8 @@ Entries:
           Severity: LOW
         - ID: CVE-2023-53275
           Severity: LOW
+        - ID: CVE-2023-53280
+          Severity: MEDIUM
         - ID: CVE-2023-53335
           Severity: LOW
         - ID: CVE-2023-53343

@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.5
+        - cpe:/a:redhat:openshift:4.5::el7
+      Cves:
+        - ID: CVE-2020-2190
+          Severity: MEDIUM
+      FixedVersion: 0:4.5.1595405982-1.el7

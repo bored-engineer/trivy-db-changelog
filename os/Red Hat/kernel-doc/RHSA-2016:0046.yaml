@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Cves:
+        - ID: CVE-2015-5307
+          Severity: HIGH
+        - ID: CVE-2015-8104
+          Severity: HIGH
+      FixedVersion: 0:2.6.32-220.65.1.el6

@@ -1,0 +1,67 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.4
+        - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_tus:8.4
+        - cpe:/a:redhat:rhel_tus:8.4::appstream
+        - cpe:/a:redhat:rhel_tus:8.4::highavailability
+        - cpe:/a:redhat:rhel_tus:8.4::nfv
+        - cpe:/a:redhat:rhel_tus:8.4::realtime
+        - cpe:/o:redhat:rhel_aus:8.4
+        - cpe:/o:redhat:rhel_aus:8.4::baseos
+        - cpe:/o:redhat:rhel_tus:8.4
+        - cpe:/o:redhat:rhel_tus:8.4::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2025-1930
+          Severity: HIGH
+        - ID: CVE-2025-1931
+          Severity: HIGH
+        - ID: CVE-2025-1932
+          Severity: HIGH
+        - ID: CVE-2025-1933
+          Severity: HIGH
+        - ID: CVE-2025-1934
+          Severity: MEDIUM
+        - ID: CVE-2025-1935
+          Severity: LOW
+        - ID: CVE-2025-1936
+          Severity: LOW
+        - ID: CVE-2025-1937
+          Severity: HIGH
+        - ID: CVE-2025-1938
+          Severity: HIGH
+      FixedVersion: 0:128.8.0-1.el8_4
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.4
+        - cpe:/a:redhat:rhel_e4s:8.4::appstream
+        - cpe:/a:redhat:rhel_e4s:8.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.4::nfv
+        - cpe:/a:redhat:rhel_e4s:8.4::sap
+        - cpe:/a:redhat:rhel_e4s:8.4::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.4
+        - cpe:/o:redhat:rhel_e4s:8.4::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2025-1930
+          Severity: HIGH
+        - ID: CVE-2025-1931
+          Severity: HIGH
+        - ID: CVE-2025-1932
+          Severity: HIGH
+        - ID: CVE-2025-1933
+          Severity: HIGH
+        - ID: CVE-2025-1934
+          Severity: MEDIUM
+        - ID: CVE-2025-1935
+          Severity: LOW
+        - ID: CVE-2025-1936
+          Severity: LOW
+        - ID: CVE-2025-1937
+          Severity: HIGH
+        - ID: CVE-2025-1938
+          Severity: HIGH
+      FixedVersion: 0:128.8.0-1.el8_4

@@ -64,7 +64,7 @@ Entries:
         - aarch64
       Cves:
         - ID: CVE-2024-58002
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2025-38089
           Severity: HIGH
       FixedVersion: 0:5.14.0-570.28.1.el9_6

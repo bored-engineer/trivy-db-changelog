@@ -100,4 +100,6 @@ Entries:
           Severity: HIGH
         - ID: CVE-2023-5345
           Severity: HIGH
+        - ID: CVE-2023-53657
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-362.13.1.el9_3

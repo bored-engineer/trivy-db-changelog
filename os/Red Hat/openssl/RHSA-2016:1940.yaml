@@ -33,6 +33,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2016-2182
           Severity: MEDIUM
+        - ID: CVE-2016-2183
+          Severity: MEDIUM
         - ID: CVE-2016-6302
           Severity: MEDIUM
         - ID: CVE-2016-6304
@@ -144,6 +146,8 @@ Entries:
         - ID: CVE-2016-2181
           Severity: MEDIUM
         - ID: CVE-2016-2182
+          Severity: MEDIUM
+        - ID: CVE-2016-2183
           Severity: MEDIUM
         - ID: CVE-2016-6302
           Severity: MEDIUM

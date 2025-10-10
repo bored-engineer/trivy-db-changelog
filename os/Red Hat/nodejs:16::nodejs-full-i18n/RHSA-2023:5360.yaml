@@ -53,7 +53,7 @@ Entries:
         - ID: CVE-2023-32002
           Severity: HIGH
         - ID: CVE-2023-32006
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2023-32559
           Severity: MEDIUM
       FixedVersion: 1:16.20.2-2.module+el8.8.0+19898+ab99ba34

@@ -65,6 +65,8 @@ Entries:
           Severity: HIGH
         - ID: CVE-2025-49176
           Severity: HIGH
+        - ID: CVE-2025-49177
+          Severity: HIGH
         - ID: CVE-2025-49178
           Severity: MEDIUM
         - ID: CVE-2025-49179

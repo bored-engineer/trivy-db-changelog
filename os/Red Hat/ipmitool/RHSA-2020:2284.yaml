@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.2
+        - cpe:/o:redhat:rhel_aus:7.2::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-5208
+          Severity: HIGH
+      FixedVersion: 0:1.8.13-10.el7_2

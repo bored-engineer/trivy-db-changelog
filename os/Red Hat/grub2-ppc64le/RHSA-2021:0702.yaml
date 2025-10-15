@@ -1,0 +1,24 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.4
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.4
+        - cpe:/o:redhat:rhel_e4s:7.4
+        - cpe:/o:redhat:rhel_e4s:7.4::server
+      Arches:
+        - ppc64le
+      Cves:
+        - ID: CVE-2020-14372
+          Severity: MEDIUM
+        - ID: CVE-2020-25632
+          Severity: MEDIUM
+        - ID: CVE-2020-25647
+          Severity: MEDIUM
+        - ID: CVE-2020-27749
+          Severity: MEDIUM
+        - ID: CVE-2020-27779
+          Severity: MEDIUM
+        - ID: CVE-2021-20225
+          Severity: MEDIUM
+        - ID: CVE-2021-20233
+          Severity: MEDIUM
+      FixedVersion: 1:2.02-0.86.el7_4.2

@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhev_hypervisor:4.4
+        - cpe:/o:redhat:rhev_hypervisor:4.4::el8
+      Cves:
+        - ID: CVE-2020-25684
+          Severity: MEDIUM
+        - ID: CVE-2020-25685
+          Severity: MEDIUM
+        - ID: CVE-2020-25686
+          Severity: MEDIUM
+        - ID: CVE-2021-3156
+          Severity: HIGH
+      FixedVersion: 0:4.4.4-20210201.0.el8_3

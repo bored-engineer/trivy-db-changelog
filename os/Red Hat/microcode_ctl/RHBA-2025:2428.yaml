@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-34440
+          Severity: HIGH
+        - ID: CVE-2023-43758
+          Severity: HIGH
+        - ID: CVE-2024-24582
+          Severity: HIGH
+        - ID: CVE-2024-28127
+          Severity: HIGH
+        - ID: CVE-2024-29214
+          Severity: HIGH
+      FixedVersion: 2:2.1-53.25.el7_7.1

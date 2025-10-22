@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.1
+        - cpe:/a:redhat:rhel_e4s:8.1::appstream
+        - cpe:/a:redhat:rhel_e4s:8.1::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.1::sap
+        - cpe:/a:redhat:rhel_e4s:8.1::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.1
+        - cpe:/o:redhat:rhel_e4s:8.1::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2023-46846
+          Severity: HIGH
+        - ID: CVE-2023-46847
+          Severity: CRITICAL
+      FixedVersion: 7:4.4-8.module+el8.1.0+20589+bb91f53c.6

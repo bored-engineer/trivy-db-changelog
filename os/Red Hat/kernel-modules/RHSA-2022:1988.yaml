@@ -199,6 +199,8 @@ Entries:
           Severity: LOW
         - ID: CVE-2022-50131
           Severity: MEDIUM
+        - ID: CVE-2022-50510
+          Severity: LOW
         - ID: CVE-2023-0459
           Severity: LOW
       FixedVersion: 0:4.18.0-372.9.1.el8

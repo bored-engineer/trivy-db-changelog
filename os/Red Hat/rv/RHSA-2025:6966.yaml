@@ -3,6 +3,7 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:9
         - cpe:/a:redhat:enterprise_linux:9::appstream
         - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::extensions
         - cpe:/a:redhat:enterprise_linux:9::highavailability
         - cpe:/a:redhat:enterprise_linux:9::nfv
         - cpe:/a:redhat:enterprise_linux:9::realtime
@@ -108,6 +109,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-53261
           Severity: LOW
+        - ID: CVE-2023-53555
+          Severity: MEDIUM
         - ID: CVE-2023-53595
           Severity: LOW
         - ID: CVE-2024-27008

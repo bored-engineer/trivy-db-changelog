@@ -1,0 +1,43 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.1
+        - cpe:/a:redhat:rhel_e4s:8.1::appstream
+        - cpe:/a:redhat:rhel_e4s:8.1::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.1::sap
+        - cpe:/a:redhat:rhel_e4s:8.1::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.1
+        - cpe:/a:redhat:rhel_eus:8.1::appstream
+        - cpe:/a:redhat:rhel_eus:8.1::crb
+        - cpe:/a:redhat:rhel_eus:8.1::highavailability
+        - cpe:/a:redhat:rhel_eus:8.1::resilientstorage
+        - cpe:/a:redhat:rhel_eus:8.1::sap
+        - cpe:/a:redhat:rhel_eus:8.1::sap_hana
+        - cpe:/a:redhat:rhel_eus:8.1::supplementary
+        - cpe:/o:redhat:rhel_e4s:8.1
+        - cpe:/o:redhat:rhel_e4s:8.1::baseos
+        - cpe:/o:redhat:rhel_eus:8.1
+        - cpe:/o:redhat:rhel_eus:8.1::baseos
+      Cves:
+        - ID: CVE-2021-35550
+          Severity: MEDIUM
+        - ID: CVE-2021-35556
+          Severity: MEDIUM
+        - ID: CVE-2021-35559
+          Severity: MEDIUM
+        - ID: CVE-2021-35561
+          Severity: MEDIUM
+        - ID: CVE-2021-35564
+          Severity: MEDIUM
+        - ID: CVE-2021-35565
+          Severity: HIGH
+        - ID: CVE-2021-35567
+          Severity: HIGH
+        - ID: CVE-2021-35578
+          Severity: MEDIUM
+        - ID: CVE-2021-35586
+          Severity: MEDIUM
+        - ID: CVE-2021-35588
+          Severity: LOW
+        - ID: CVE-2021-35603
+          Severity: LOW
+      FixedVersion: 1:1.8.0.312.b07-1.el8_1

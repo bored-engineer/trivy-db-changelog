@@ -1,0 +1,9 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_other:7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2014-3499
+          Severity: HIGH
+      FixedVersion: 0:0.11.1-22.el7

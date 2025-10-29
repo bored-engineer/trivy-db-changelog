@@ -3,6 +3,7 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:9
         - cpe:/a:redhat:enterprise_linux:9::appstream
         - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::extensions
         - cpe:/a:redhat:enterprise_linux:9::highavailability
         - cpe:/a:redhat:enterprise_linux:9::nfv
         - cpe:/a:redhat:enterprise_linux:9::realtime
@@ -150,4 +151,6 @@ Entries:
           Severity: HIGH
         - ID: CVE-2022-32250
           Severity: HIGH
+        - ID: CVE-2022-49044
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-70.17.1.el9_0

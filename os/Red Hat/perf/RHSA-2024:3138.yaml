@@ -152,6 +152,8 @@ Entries:
           Severity: LOW
         - ID: CVE-2023-53280
           Severity: MEDIUM
+        - ID: CVE-2023-53322
+          Severity: MEDIUM
         - ID: CVE-2023-53335
           Severity: LOW
         - ID: CVE-2023-53343
@@ -180,7 +182,13 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-53546
           Severity: MEDIUM
+        - ID: CVE-2023-53559
+          Severity: MEDIUM
+        - ID: CVE-2023-53576
+          Severity: MEDIUM
         - ID: CVE-2023-53581
+          Severity: MEDIUM
+        - ID: CVE-2023-53586
           Severity: MEDIUM
         - ID: CVE-2023-53615
           Severity: MEDIUM

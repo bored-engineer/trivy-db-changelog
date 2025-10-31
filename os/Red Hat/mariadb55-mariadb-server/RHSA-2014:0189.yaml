@@ -1,0 +1,38 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:dts
+        - cpe:/a:redhat:dts::el6
+        - cpe:/a:redhat:rhel_software_collections:1
+        - cpe:/a:redhat:rhel_software_collections:1::el6
+        - cpe:/a:redhat:rhel_software_collections:2
+        - cpe:/a:redhat:rhel_software_collections:2::el6
+        - cpe:/a:redhat:rhel_software_collections:3
+        - cpe:/a:redhat:rhel_software_collections:3::el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2013-3839
+          Severity: LOW
+        - ID: CVE-2013-5807
+          Severity: MEDIUM
+        - ID: CVE-2013-5891
+          Severity: MEDIUM
+        - ID: CVE-2013-5908
+          Severity: LOW
+        - ID: CVE-2014-0001
+          Severity: MEDIUM
+        - ID: CVE-2014-0386
+          Severity: MEDIUM
+        - ID: CVE-2014-0393
+          Severity: MEDIUM
+        - ID: CVE-2014-0401
+          Severity: MEDIUM
+        - ID: CVE-2014-0402
+          Severity: MEDIUM
+        - ID: CVE-2014-0412
+          Severity: MEDIUM
+        - ID: CVE-2014-0420
+          Severity: MEDIUM
+        - ID: CVE-2014-0437
+          Severity: MEDIUM
+      FixedVersion: 0:5.5.35-1.1.el6

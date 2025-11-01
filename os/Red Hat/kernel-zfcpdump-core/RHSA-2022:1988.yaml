@@ -204,4 +204,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-0459
           Severity: LOW
+        - ID: CVE-2023-53649
+          Severity: LOW
       FixedVersion: 0:4.18.0-372.9.1.el8

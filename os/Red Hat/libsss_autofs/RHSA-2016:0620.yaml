@@ -1,0 +1,47 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-5370
+          Severity: CRITICAL
+        - ID: CVE-2016-2110
+          Severity: MEDIUM
+        - ID: CVE-2016-2111
+          Severity: MEDIUM
+        - ID: CVE-2016-2112
+          Severity: MEDIUM
+        - ID: CVE-2016-2113
+          Severity: MEDIUM
+        - ID: CVE-2016-2114
+          Severity: MEDIUM
+        - ID: CVE-2016-2115
+          Severity: MEDIUM
+        - ID: CVE-2016-2118
+          Severity: HIGH
+      FixedVersion: 0:1.9.2-82.12.el6_4
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-5370
+          Severity: CRITICAL
+        - ID: CVE-2016-2110
+          Severity: MEDIUM
+        - ID: CVE-2016-2111
+          Severity: MEDIUM
+        - ID: CVE-2016-2112
+          Severity: MEDIUM
+        - ID: CVE-2016-2113
+          Severity: MEDIUM
+        - ID: CVE-2016-2114
+          Severity: MEDIUM
+        - ID: CVE-2016-2115
+          Severity: MEDIUM
+        - ID: CVE-2016-2118
+          Severity: HIGH
+      FixedVersion: 0:1.9.2-129.el6_5.7

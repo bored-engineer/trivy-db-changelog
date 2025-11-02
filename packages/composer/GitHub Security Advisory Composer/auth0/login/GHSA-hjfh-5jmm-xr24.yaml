@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 7.19.0
+VulnerableVersions:
+    - '>=4.0.0, <7.19.0'

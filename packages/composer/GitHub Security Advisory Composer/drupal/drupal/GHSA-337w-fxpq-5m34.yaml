@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 8.7.12
+    - 8.8.4
+VulnerableVersions:
+    - '>=8.0.0, <8.7.12'
+    - '>=8.8.0, <8.8.4'

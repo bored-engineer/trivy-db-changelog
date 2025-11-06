@@ -3,6 +3,7 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:9
         - cpe:/a:redhat:enterprise_linux:9::appstream
         - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::extensions
         - cpe:/a:redhat:enterprise_linux:9::highavailability
         - cpe:/a:redhat:enterprise_linux:9::nfv
         - cpe:/a:redhat:enterprise_linux:9::realtime
@@ -89,6 +90,8 @@ Entries:
       Arches:
         - aarch64
       Cves:
+        - ID: CVE-2022-50495
+          Severity: MEDIUM
         - ID: CVE-2023-52771
           Severity: LOW
         - ID: CVE-2023-52880

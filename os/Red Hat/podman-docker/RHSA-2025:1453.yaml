@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el8
+      Cves:
+        - ID: CVE-2024-11218
+          Severity: HIGH
+      FixedVersion: 3:4.4.1-22.rhaos4.14.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el9
+      Cves:
+        - ID: CVE-2024-11218
+          Severity: HIGH
+      FixedVersion: 3:4.4.1-22.rhaos4.14.el9

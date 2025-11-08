@@ -11,6 +11,9 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:9::sap
         - cpe:/a:redhat:enterprise_linux:9::sap_hana
         - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_aus:9.2
+        - cpe:/a:redhat:rhel_aus:9.2::appstream
+        - cpe:/a:redhat:rhel_aus:9.2::highavailability
         - cpe:/a:redhat:rhel_aus:9.4
         - cpe:/a:redhat:rhel_aus:9.4::appstream
         - cpe:/a:redhat:rhel_aus:9.6
@@ -89,6 +92,8 @@ Entries:
         - cpe:/a:redhat:rhel_eus:9.8::supplementary
         - cpe:/o:redhat:enterprise_linux:9
         - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/o:redhat:rhel_aus:9.2
+        - cpe:/o:redhat:rhel_aus:9.2::baseos
         - cpe:/o:redhat:rhel_aus:9.4
         - cpe:/o:redhat:rhel_aus:9.4::baseos
         - cpe:/o:redhat:rhel_aus:9.6
@@ -141,66 +146,6 @@ Entries:
         - ID: CVE-2024-23222
           Severity: HIGH
         - ID: CVE-2024-23252
-        - ID: CVE-2024-27808
-          Severity: HIGH
-        - ID: CVE-2024-27833
-          Severity: HIGH
-        - ID: CVE-2024-27834
-          Severity: HIGH
-        - ID: CVE-2024-54658
-          Severity: MEDIUM
-        - ID: CVE-2025-24158
-          Severity: MEDIUM
-        - ID: CVE-2025-24223
-          Severity: HIGH
-        - ID: CVE-2025-24264
-          Severity: HIGH
-        - ID: CVE-2025-31204
-          Severity: HIGH
-        - ID: CVE-2025-31206
-          Severity: HIGH
-        - ID: CVE-2025-31215
-          Severity: MEDIUM
-      FixedVersion: 0:2.38.5-1.el9_2.3
-    - Affected:
-        - cpe:/a:redhat:rhel_aus:9.2
-        - cpe:/a:redhat:rhel_aus:9.2::appstream
-        - cpe:/a:redhat:rhel_aus:9.2::highavailability
-        - cpe:/o:redhat:rhel_aus:9.2
-        - cpe:/o:redhat:rhel_aus:9.2::baseos
-      Arches:
-        - aarch64
-        - i686
-        - ppc64le
-        - s390x
-        - x86_64
-      Cves:
-        - ID: CVE-2022-32885
-          Severity: MEDIUM
-        - ID: CVE-2023-28198
-          Severity: MEDIUM
-        - ID: CVE-2023-32435
-          Severity: HIGH
-        - ID: CVE-2023-32439
-          Severity: HIGH
-        - ID: CVE-2023-35074
-          Severity: MEDIUM
-        - ID: CVE-2023-37450
-          Severity: HIGH
-        - ID: CVE-2023-38594
-          Severity: HIGH
-        - ID: CVE-2023-38595
-          Severity: HIGH
-        - ID: CVE-2023-41074
-          Severity: MEDIUM
-        - ID: CVE-2023-41993
-          Severity: MEDIUM
-        - ID: CVE-2023-42916
-          Severity: MEDIUM
-        - ID: CVE-2024-23222
-          Severity: HIGH
-        - ID: CVE-2024-23252
-          Severity: MEDIUM
         - ID: CVE-2024-27808
           Severity: HIGH
         - ID: CVE-2024-27833

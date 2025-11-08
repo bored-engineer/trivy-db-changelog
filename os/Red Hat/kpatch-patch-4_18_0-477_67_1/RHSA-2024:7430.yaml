@@ -34,5 +34,4 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2024-41071
-          Severity: HIGH
       FixedVersion: 0:1-2.el8_8

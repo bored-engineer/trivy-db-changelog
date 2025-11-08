@@ -34,4 +34,3 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2024-41071
-          Severity: HIGH

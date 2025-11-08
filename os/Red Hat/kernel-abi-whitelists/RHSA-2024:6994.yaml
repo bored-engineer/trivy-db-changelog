@@ -18,5 +18,4 @@ Entries:
         - ID: CVE-2024-2201
           Severity: MEDIUM
         - ID: CVE-2024-41071
-          Severity: HIGH
       FixedVersion: 0:3.10.0-1160.125.1.el7

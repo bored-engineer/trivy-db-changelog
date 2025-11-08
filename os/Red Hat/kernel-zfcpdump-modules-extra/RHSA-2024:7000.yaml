@@ -120,7 +120,6 @@ Entries:
         - ID: CVE-2024-26717
           Severity: LOW
         - ID: CVE-2024-26720
-          Severity: MEDIUM
         - ID: CVE-2024-26769
           Severity: LOW
         - ID: CVE-2024-26846
@@ -261,7 +260,6 @@ Entries:
         - ID: CVE-2024-41065
           Severity: LOW
         - ID: CVE-2024-41071
-          Severity: HIGH
         - ID: CVE-2024-41076
           Severity: LOW
         - ID: CVE-2024-41090

@@ -74,7 +74,6 @@ Entries:
         - ID: CVE-2024-23222
           Severity: HIGH
         - ID: CVE-2024-23252
-          Severity: MEDIUM
         - ID: CVE-2024-27808
           Severity: HIGH
         - ID: CVE-2024-27833

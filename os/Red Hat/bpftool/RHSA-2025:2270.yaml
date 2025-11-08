@@ -73,5 +73,4 @@ Entries:
         - ID: CVE-2024-49949
           Severity: MEDIUM
         - ID: CVE-2024-50099
-          Severity: MEDIUM
       FixedVersion: 0:7.3.0-427.57.1.el9_4

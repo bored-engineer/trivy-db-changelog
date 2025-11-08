@@ -31,5 +31,4 @@ Entries:
         - ID: CVE-2024-36889
           Severity: MEDIUM
         - ID: CVE-2024-41071
-          Severity: HIGH
       FixedVersion: 0:4.18.0-372.124.1.el8_6

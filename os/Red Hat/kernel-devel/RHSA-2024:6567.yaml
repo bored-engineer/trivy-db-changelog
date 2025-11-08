@@ -102,7 +102,6 @@ Entries:
         - ID: CVE-2024-26630
           Severity: MEDIUM
         - ID: CVE-2024-26720
-          Severity: MEDIUM
         - ID: CVE-2024-26886
           Severity: MEDIUM
         - ID: CVE-2024-26946

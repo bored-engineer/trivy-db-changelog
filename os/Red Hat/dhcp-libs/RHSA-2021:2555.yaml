@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.7
+        - cpe:/a:redhat:openshift:4.7::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-25217
+          Severity: HIGH
+        - ID: CVE-2021-3560
+          Severity: HIGH
+      FixedVersion: 12:4.3.6-41.el8_3.1

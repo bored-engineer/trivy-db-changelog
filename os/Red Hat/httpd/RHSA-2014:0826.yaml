@@ -1,0 +1,25 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el5
+      Arches:
+        - i386
+        - x86_64
+      Cves:
+        - ID: CVE-2013-6438
+          Severity: MEDIUM
+        - ID: CVE-2014-0098
+          Severity: LOW
+      FixedVersion: 0:2.2.22-27.ep6.el5
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el6
+      Arches:
+        - i386
+        - x86_64
+      Cves:
+        - ID: CVE-2013-6438
+          Severity: MEDIUM
+        - ID: CVE-2014-0098
+          Severity: LOW
+      FixedVersion: 0:2.2.22-27.ep6.el6

@@ -1,0 +1,6 @@
+Entries:
+    - Arches:
+        - i686
+        - x86_64
+      FixedVersion: 2010.63-3.el6_1.5
+FixedVersion: 2010.63-3.el6_1.5

@@ -15,6 +15,10 @@ Entries:
       Cves:
         - ID: CVE-2022-27635
           Severity: HIGH
+        - ID: CVE-2022-36351
+          Severity: MEDIUM
+        - ID: CVE-2022-38076
+          Severity: LOW
         - ID: CVE-2022-40964
           Severity: HIGH
       FixedVersion: 2:20230824-120.git0e048b06.el8_9

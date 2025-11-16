@@ -9,5 +9,5 @@ Entries:
         - ID: CVE-2023-39325
           Severity: HIGH
         - ID: CVE-2023-44487
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:1.0.4-5.el8ost

@@ -1,0 +1,50 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_satellite_tools:6.9
+        - cpe:/a:redhat:rhel_satellite_tools:6.9::el6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2021-27023
+          Severity: HIGH
+        - ID: CVE-2021-27025
+          Severity: MEDIUM
+      FixedVersion: 0:6.26.0-1.el6sat
+    - Affected:
+        - cpe:/a:redhat:rhel_satellite_tools:6.10
+        - cpe:/a:redhat:rhel_satellite_tools:6.10::el7
+      Arches:
+        - aarch64
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2021-27023
+          Severity: HIGH
+        - ID: CVE-2021-27025
+          Severity: MEDIUM
+      FixedVersion: 0:6.26.0-1.el7sat
+    - Affected:
+        - cpe:/a:redhat:rhel_satellite_tools:6.9
+        - cpe:/a:redhat:rhel_satellite_tools:6.9::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-27023
+          Severity: HIGH
+        - ID: CVE-2021-27025
+          Severity: MEDIUM
+      FixedVersion: 0:6.26.0-1.el7sat
+    - Affected:
+        - cpe:/a:redhat:rhel_satellite_tools:6.10
+        - cpe:/a:redhat:rhel_satellite_tools:6.10::el8
+        - cpe:/a:redhat:rhel_satellite_tools:6.9
+        - cpe:/a:redhat:rhel_satellite_tools:6.9::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-27023
+          Severity: HIGH
+        - ID: CVE-2021-27025
+          Severity: MEDIUM
+      FixedVersion: 0:6.26.0-1.el8sat

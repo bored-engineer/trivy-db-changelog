@@ -2,6 +2,7 @@ Entries:
     - Affected:
         - cpe:/a:redhat:rhel_aus:8.4
         - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_aus:8.4::highavailability
         - cpe:/a:redhat:rhel_e4s:8.4
         - cpe:/a:redhat:rhel_e4s:8.4::appstream
         - cpe:/a:redhat:rhel_e4s:8.4::highavailability

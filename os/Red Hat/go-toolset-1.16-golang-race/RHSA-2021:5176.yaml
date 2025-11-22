@@ -1,0 +1,21 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:devtools:2
+        - cpe:/a:redhat:devtools:2018
+        - cpe:/a:redhat:devtools:2019
+        - cpe:/a:redhat:devtools:2020
+        - cpe:/a:redhat:devtools:2021
+        - cpe:/a:redhat:devtools:2022
+        - cpe:/a:redhat:devtools:2023
+        - cpe:/a:redhat:devtools:2023::el7
+        - cpe:/a:redhat:devtools:2::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-41772
+          Severity: MEDIUM
+        - ID: CVE-2021-44716
+          Severity: HIGH
+        - ID: CVE-2021-44717
+          Severity: MEDIUM
+      FixedVersion: 0:1.16.12-1.el7_9

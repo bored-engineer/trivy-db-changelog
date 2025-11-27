@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 2.0.0-beta.4
+VulnerableVersions:
+    - '>=2.0.0-beta.1, <2.0.0-beta.4'

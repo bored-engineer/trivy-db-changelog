@@ -1,0 +1,42 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:service_mesh:2.0
+        - cpe:/a:redhat:service_mesh:2.0::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2020-28851
+          Severity: MEDIUM
+        - ID: CVE-2020-28852
+          Severity: MEDIUM
+        - ID: CVE-2021-29482
+          Severity: MEDIUM
+        - ID: CVE-2021-29923
+          Severity: MEDIUM
+        - ID: CVE-2021-3121
+          Severity: HIGH
+        - ID: CVE-2021-36221
+          Severity: MEDIUM
+        - ID: CVE-2021-3749
+          Severity: MEDIUM
+        - ID: CVE-2021-43565
+          Severity: MEDIUM
+        - ID: CVE-2021-43824
+          Severity: MEDIUM
+        - ID: CVE-2021-43825
+          Severity: MEDIUM
+        - ID: CVE-2021-43826
+          Severity: MEDIUM
+        - ID: CVE-2022-21654
+          Severity: HIGH
+        - ID: CVE-2022-21655
+          Severity: HIGH
+        - ID: CVE-2022-23606
+          Severity: MEDIUM
+        - ID: CVE-2022-23635
+          Severity: MEDIUM
+        - ID: CVE-2022-24726
+          Severity: HIGH
+      FixedVersion: 0:2.0.9-3.el8

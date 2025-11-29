@@ -10,6 +10,8 @@ Entries:
       Cves:
         - ID: CVE-2024-11218
           Severity: HIGH
+        - ID: CVE-2025-4953
+          Severity: MEDIUM
       FixedVersion: 3:4.4.1-16.rhaos4.13.el8
     - Affected:
         - cpe:/a:redhat:openshift:4.13
@@ -22,4 +24,6 @@ Entries:
       Cves:
         - ID: CVE-2024-11218
           Severity: HIGH
+        - ID: CVE-2025-4953
+          Severity: MEDIUM
       FixedVersion: 3:4.4.1-17.rhaos4.13.el9

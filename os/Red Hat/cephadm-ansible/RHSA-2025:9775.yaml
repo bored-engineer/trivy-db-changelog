@@ -1,0 +1,24 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:8.0
+        - cpe:/a:redhat:ceph_storage:8.0::el9
+        - cpe:/a:redhat:ceph_storage:8.1
+        - cpe:/a:redhat:ceph_storage:8.1::el9
+      Cves:
+        - ID: CVE-2022-23491
+          Severity: MEDIUM
+        - ID: CVE-2023-23934
+          Severity: LOW
+        - ID: CVE-2023-25577
+          Severity: HIGH
+        - ID: CVE-2023-46136
+          Severity: MEDIUM
+        - ID: CVE-2023-46159
+          Severity: LOW
+        - ID: CVE-2024-41184
+          Severity: MEDIUM
+        - ID: CVE-2024-42353
+          Severity: MEDIUM
+        - ID: CVE-2024-47191
+          Severity: HIGH
+      FixedVersion: 1:4.1.4-1.el9cp

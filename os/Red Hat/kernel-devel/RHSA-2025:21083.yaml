@@ -1,0 +1,70 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2022-50356
+          Severity: MEDIUM
+        - ID: CVE-2022-50367
+          Severity: MEDIUM
+        - ID: CVE-2022-50386
+          Severity: MEDIUM
+        - ID: CVE-2023-53178
+          Severity: MEDIUM
+        - ID: CVE-2023-53185
+          Severity: MEDIUM
+        - ID: CVE-2023-53213
+          Severity: MEDIUM
+        - ID: CVE-2023-53232
+          Severity: MEDIUM
+        - ID: CVE-2023-53257
+          Severity: MEDIUM
+        - ID: CVE-2023-53373
+          Severity: MEDIUM
+        - ID: CVE-2025-39841
+          Severity: MEDIUM
+        - ID: CVE-2025-39864
+          Severity: MEDIUM
+      FixedVersion: 0:4.18.0-477.118.1.el8_8
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-50356
+          Severity: MEDIUM
+        - ID: CVE-2022-50367
+          Severity: MEDIUM
+        - ID: CVE-2022-50386
+          Severity: MEDIUM
+        - ID: CVE-2023-53178
+          Severity: MEDIUM
+        - ID: CVE-2023-53185
+          Severity: MEDIUM
+        - ID: CVE-2023-53213
+          Severity: MEDIUM
+        - ID: CVE-2023-53232
+          Severity: MEDIUM
+        - ID: CVE-2023-53257
+          Severity: MEDIUM
+        - ID: CVE-2023-53373
+          Severity: MEDIUM
+        - ID: CVE-2025-39841
+          Severity: MEDIUM
+        - ID: CVE-2025-39864
+          Severity: MEDIUM
+      FixedVersion: 0:4.18.0-477.118.1.el8_8

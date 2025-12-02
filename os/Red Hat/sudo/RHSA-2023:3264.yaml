@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.4
+        - cpe:/o:redhat:rhel_aus:7.4::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-22809
+          Severity: HIGH
+      FixedVersion: 0:1.8.19p2-12.el7_4.3

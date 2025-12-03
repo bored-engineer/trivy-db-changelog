@@ -1,0 +1,51 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.2
+        - cpe:/a:redhat:rhel_e4s:9.2::appstream
+        - cpe:/a:redhat:rhel_e4s:9.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.2::nfv
+        - cpe:/a:redhat:rhel_e4s:9.2::realtime
+        - cpe:/a:redhat:rhel_e4s:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.2::sap
+        - cpe:/a:redhat:rhel_e4s:9.2::sap_hana
+        - cpe:/o:redhat:rhel_e4s:9.2
+        - cpe:/o:redhat:rhel_e4s:9.2::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-50356
+          Severity: MEDIUM
+        - ID: CVE-2022-50367
+          Severity: MEDIUM
+        - ID: CVE-2022-50406
+          Severity: MEDIUM
+        - ID: CVE-2023-53178
+          Severity: MEDIUM
+        - ID: CVE-2023-53185
+          Severity: MEDIUM
+        - ID: CVE-2023-53213
+          Severity: MEDIUM
+        - ID: CVE-2023-53226
+          Severity: MEDIUM
+        - ID: CVE-2023-53232
+          Severity: MEDIUM
+        - ID: CVE-2023-53305
+          Severity: MEDIUM
+        - ID: CVE-2023-53331
+          Severity: MEDIUM
+        - ID: CVE-2023-53373
+          Severity: MEDIUM
+        - ID: CVE-2023-53386
+          Severity: MEDIUM
+        - ID: CVE-2023-53401
+          Severity: MEDIUM
+        - ID: CVE-2023-53494
+          Severity: MEDIUM
+        - ID: CVE-2025-38614
+          Severity: MEDIUM
+        - ID: CVE-2025-39697
+          Severity: MEDIUM
+      FixedVersion: 0:7.0.0-284.146.1.el9_2

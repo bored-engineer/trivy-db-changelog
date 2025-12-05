@@ -45,4 +45,6 @@ Entries:
           Severity: LOW
         - ID: CVE-2024-50264
           Severity: MEDIUM
+        - ID: CVE-2025-22013
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-427.62.1.el9_4

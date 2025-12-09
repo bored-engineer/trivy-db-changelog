@@ -70,6 +70,8 @@ Entries:
           Severity: HIGH
         - ID: CVE-2025-31215
           Severity: MEDIUM
+        - ID: CVE-2025-43480
+          Severity: MEDIUM
       FixedVersion: 0:2.46.3-1.el8_4
     - Affected:
         - cpe:/a:redhat:rhel_e4s:8.4
@@ -138,5 +140,7 @@ Entries:
         - ID: CVE-2025-31206
           Severity: HIGH
         - ID: CVE-2025-31215
+          Severity: MEDIUM
+        - ID: CVE-2025-43480
           Severity: MEDIUM
       FixedVersion: 0:2.46.3-1.el8_4

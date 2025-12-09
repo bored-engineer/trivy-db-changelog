@@ -16,5 +16,5 @@ Entries:
         - ID: CVE-2024-53088
           Severity: MEDIUM
         - ID: CVE-2024-53122
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:4.18.0-553.34.1.el8_10

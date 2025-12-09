@@ -35,5 +35,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2024-53122
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:1-6.el8_8

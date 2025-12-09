@@ -46,6 +46,8 @@ Entries:
           Severity: HIGH
         - ID: CVE-2023-42970
           Severity: HIGH
+        - ID: CVE-2023-43000
+          Severity: HIGH
         - ID: CVE-2024-27820
           Severity: HIGH
         - ID: CVE-2024-27851
@@ -66,4 +68,6 @@ Entries:
           Severity: HIGH
         - ID: CVE-2024-54534
           Severity: HIGH
+        - ID: CVE-2025-43480
+          Severity: MEDIUM
       FixedVersion: 0:2.46.1-1.el9_2

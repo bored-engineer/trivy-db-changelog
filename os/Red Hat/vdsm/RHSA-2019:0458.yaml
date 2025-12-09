@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2019-3831
+          Severity: MEDIUM
+      FixedVersion: 0:4.20.47-1.el7ev

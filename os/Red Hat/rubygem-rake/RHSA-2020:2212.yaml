@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.4
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.4
+        - cpe:/o:redhat:rhel_aus:7.4
+        - cpe:/o:redhat:rhel_aus:7.4::server
+        - cpe:/o:redhat:rhel_e4s:7.4
+        - cpe:/o:redhat:rhel_e4s:7.4::server
+        - cpe:/o:redhat:rhel_tus:7.4
+        - cpe:/o:redhat:rhel_tus:7.4::server
+      Cves:
+        - ID: CVE-2017-17742
+          Severity: MEDIUM
+        - ID: CVE-2018-8778
+          Severity: MEDIUM
+      FixedVersion: 0:0.9.6-36.el7_4

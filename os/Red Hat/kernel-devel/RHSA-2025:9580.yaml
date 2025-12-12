@@ -26,6 +26,8 @@ Entries:
           Severity: LOW
         - ID: CVE-2025-21764
           Severity: MEDIUM
+        - ID: CVE-2025-22116
+          Severity: LOW
         - ID: CVE-2025-38053
           Severity: MEDIUM
       FixedVersion: 0:4.18.0-553.58.1.el8_10

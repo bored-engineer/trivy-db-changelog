@@ -42,16 +42,12 @@ Entries:
         - s390x
         - x86_64
       Cves:
-        - ID: CVE-2023-43000
-          Severity: HIGH
         - ID: CVE-2025-13502
           Severity: HIGH
         - ID: CVE-2025-13947
           Severity: HIGH
         - ID: CVE-2025-43392
           Severity: MEDIUM
-        - ID: CVE-2025-43419
-          Severity: HIGH
         - ID: CVE-2025-43421
           Severity: HIGH
         - ID: CVE-2025-43425
@@ -74,8 +70,6 @@ Entries:
           Severity: HIGH
         - ID: CVE-2025-43458
           Severity: HIGH
-        - ID: CVE-2025-43480
-          Severity: MEDIUM
         - ID: CVE-2025-66287
           Severity: HIGH
       FixedVersion: 0:2.50.3-1.el9_7

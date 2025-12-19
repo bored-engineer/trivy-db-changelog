@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.4
+        - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_aus:8.4::highavailability
+        - cpe:/o:redhat:rhel_aus:8.4
+        - cpe:/o:redhat:rhel_aus:8.4::baseos
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2025-43272
+          Severity: HIGH
+        - ID: CVE-2025-43342
+          Severity: HIGH
+        - ID: CVE-2025-43356
+          Severity: MEDIUM
+        - ID: CVE-2025-43368
+          Severity: HIGH
+        - ID: CVE-2025-43419
+          Severity: HIGH
+      FixedVersion: 0:2.50.0-1.el8_4

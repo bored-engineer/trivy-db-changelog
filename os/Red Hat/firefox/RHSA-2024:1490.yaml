@@ -1,0 +1,70 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2
+        - cpe:/a:redhat:rhel_tus:8.2::appstream
+        - cpe:/a:redhat:rhel_tus:8.2::highavailability
+        - cpe:/a:redhat:rhel_tus:8.2::nfv
+        - cpe:/a:redhat:rhel_tus:8.2::realtime
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+        - cpe:/o:redhat:rhel_tus:8.2
+        - cpe:/o:redhat:rhel_tus:8.2::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-5388
+          Severity: MEDIUM
+        - ID: CVE-2024-0743
+          Severity: HIGH
+        - ID: CVE-2024-2607
+          Severity: HIGH
+        - ID: CVE-2024-2608
+          Severity: HIGH
+        - ID: CVE-2024-2610
+          Severity: MEDIUM
+        - ID: CVE-2024-2611
+          Severity: MEDIUM
+        - ID: CVE-2024-2612
+          Severity: MEDIUM
+        - ID: CVE-2024-2614
+          Severity: HIGH
+        - ID: CVE-2024-2616
+          Severity: HIGH
+        - ID: CVE-2024-29944
+          Severity: CRITICAL
+      FixedVersion: 0:115.9.1-1.el8_2
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.2
+        - cpe:/a:redhat:rhel_e4s:8.2::appstream
+        - cpe:/a:redhat:rhel_e4s:8.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.2::sap
+        - cpe:/a:redhat:rhel_e4s:8.2::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.2
+        - cpe:/o:redhat:rhel_e4s:8.2::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2023-5388
+          Severity: MEDIUM
+        - ID: CVE-2024-0743
+          Severity: HIGH
+        - ID: CVE-2024-2607
+          Severity: HIGH
+        - ID: CVE-2024-2608
+          Severity: HIGH
+        - ID: CVE-2024-2610
+          Severity: MEDIUM
+        - ID: CVE-2024-2611
+          Severity: MEDIUM
+        - ID: CVE-2024-2612
+          Severity: MEDIUM
+        - ID: CVE-2024-2614
+          Severity: HIGH
+        - ID: CVE-2024-2616
+          Severity: HIGH
+        - ID: CVE-2024-29944
+          Severity: CRITICAL
+      FixedVersion: 0:115.9.1-1.el8_2

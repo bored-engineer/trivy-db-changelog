@@ -466,6 +466,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-53810
           Severity: MEDIUM
+        - ID: CVE-2023-53813
+          Severity: MEDIUM
         - ID: CVE-2023-53819
           Severity: MEDIUM
         - ID: CVE-2023-53821

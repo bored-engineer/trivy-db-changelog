@@ -1,0 +1,6 @@
+Entries:
+    - Arches:
+        - aarch64
+        - x86_64
+      FixedVersion: 6.2.19-1.0.1.module+el8.10.0+90636+d63441d5
+FixedVersion: 6.2.19-1.0.1.module+el8.10.0+90636+d63441d5

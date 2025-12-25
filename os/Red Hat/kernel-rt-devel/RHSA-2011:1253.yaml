@@ -1,0 +1,75 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_mrg:2
+        - cpe:/a:redhat:enterprise_mrg:2:computenode:el6
+        - cpe:/a:redhat:enterprise_mrg:2:server:el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2010-4243
+          Severity: MEDIUM
+        - ID: CVE-2010-4526
+          Severity: HIGH
+        - ID: CVE-2011-1020
+          Severity: MEDIUM
+        - ID: CVE-2011-1021
+          Severity: MEDIUM
+        - ID: CVE-2011-1090
+          Severity: MEDIUM
+        - ID: CVE-2011-1160
+          Severity: LOW
+        - ID: CVE-2011-1478
+          Severity: MEDIUM
+        - ID: CVE-2011-1479
+          Severity: MEDIUM
+        - ID: CVE-2011-1494
+          Severity: HIGH
+        - ID: CVE-2011-1495
+          Severity: HIGH
+        - ID: CVE-2011-1576
+          Severity: MEDIUM
+        - ID: CVE-2011-1577
+          Severity: LOW
+        - ID: CVE-2011-1585
+          Severity: LOW
+        - ID: CVE-2011-1593
+          Severity: MEDIUM
+        - ID: CVE-2011-1598
+          Severity: MEDIUM
+        - ID: CVE-2011-1745
+          Severity: HIGH
+        - ID: CVE-2011-1746
+          Severity: HIGH
+        - ID: CVE-2011-1748
+          Severity: MEDIUM
+        - ID: CVE-2011-1767
+          Severity: MEDIUM
+        - ID: CVE-2011-1768
+          Severity: MEDIUM
+        - ID: CVE-2011-1770
+          Severity: HIGH
+        - ID: CVE-2011-1776
+          Severity: LOW
+        - ID: CVE-2011-2022
+          Severity: HIGH
+        - ID: CVE-2011-2183
+          Severity: MEDIUM
+        - ID: CVE-2011-2213
+          Severity: MEDIUM
+        - ID: CVE-2011-2484
+          Severity: MEDIUM
+        - ID: CVE-2011-2491
+          Severity: HIGH
+        - ID: CVE-2011-2492
+          Severity: LOW
+        - ID: CVE-2011-2495
+          Severity: LOW
+        - ID: CVE-2011-2496
+          Severity: MEDIUM
+        - ID: CVE-2011-2497
+          Severity: HIGH
+        - ID: CVE-2011-2517
+          Severity: HIGH
+        - ID: CVE-2011-2695
+          Severity: MEDIUM
+      FixedVersion: 0:2.6.33.9-rt31.75.el6rt

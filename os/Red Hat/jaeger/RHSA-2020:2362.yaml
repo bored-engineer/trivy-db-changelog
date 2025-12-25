@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:service_mesh:1.0
+        - cpe:/a:redhat:service_mesh:1.0::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-10744
+          Severity: MEDIUM
+        - ID: CVE-2020-11022
+          Severity: MEDIUM
+        - ID: CVE-2020-12459
+          Severity: LOW
+        - ID: CVE-2020-7598
+          Severity: MEDIUM
+      FixedVersion: 0:v1.13.1.redhat7-1.el7

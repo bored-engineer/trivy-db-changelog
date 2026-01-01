@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:storage:3.5
+        - cpe:/a:redhat:storage:3.5:nfs:el8
+        - cpe:/a:redhat:storage:3.5:samba:el8
+        - cpe:/a:redhat:storage:3.5:server:el8
+      Cves:
+        - ID: CVE-2022-32742
+          Severity: MEDIUM
+      FixedVersion: 0:4.16.5-100.el8rhgs

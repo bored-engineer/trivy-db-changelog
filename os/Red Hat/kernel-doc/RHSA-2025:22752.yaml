@@ -1,0 +1,91 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.4
+        - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_aus:8.4::highavailability
+        - cpe:/o:redhat:rhel_aus:8.4
+        - cpe:/o:redhat:rhel_aus:8.4::baseos
+      Cves:
+        - ID: CVE-2022-48701
+          Severity: LOW
+        - ID: CVE-2022-49969
+          Severity: MEDIUM
+        - ID: CVE-2022-49985
+          Severity: MEDIUM
+        - ID: CVE-2022-50050
+          Severity: MEDIUM
+        - ID: CVE-2022-50070
+          Severity: MEDIUM
+        - ID: CVE-2022-50087
+          Severity: MEDIUM
+        - ID: CVE-2022-50211
+          Severity: MEDIUM
+        - ID: CVE-2022-50228
+          Severity: MEDIUM
+        - ID: CVE-2022-50229
+          Severity: MEDIUM
+        - ID: CVE-2022-50356
+          Severity: MEDIUM
+        - ID: CVE-2022-50367
+          Severity: MEDIUM
+        - ID: CVE-2022-50386
+          Severity: MEDIUM
+        - ID: CVE-2022-50403
+          Severity: MEDIUM
+        - ID: CVE-2022-50408
+          Severity: MEDIUM
+        - ID: CVE-2022-50410
+          Severity: MEDIUM
+        - ID: CVE-2023-53125
+          Severity: MEDIUM
+        - ID: CVE-2023-53178
+          Severity: MEDIUM
+        - ID: CVE-2023-53185
+          Severity: MEDIUM
+        - ID: CVE-2023-53213
+          Severity: MEDIUM
+        - ID: CVE-2023-53305
+          Severity: MEDIUM
+        - ID: CVE-2023-53354
+          Severity: MEDIUM
+        - ID: CVE-2023-53373
+          Severity: MEDIUM
+        - ID: CVE-2023-53386
+          Severity: MEDIUM
+        - ID: CVE-2024-58240
+          Severity: MEDIUM
+        - ID: CVE-2025-22026
+          Severity: MEDIUM
+        - ID: CVE-2025-22058
+          Severity: MEDIUM
+        - ID: CVE-2025-37797
+          Severity: MEDIUM
+        - ID: CVE-2025-37914
+          Severity: MEDIUM
+        - ID: CVE-2025-38200
+          Severity: MEDIUM
+        - ID: CVE-2025-38211
+          Severity: MEDIUM
+        - ID: CVE-2025-38332
+          Severity: MEDIUM
+        - ID: CVE-2025-38449
+          Severity: MEDIUM
+        - ID: CVE-2025-38461
+          Severity: MEDIUM
+        - ID: CVE-2025-38477
+          Severity: MEDIUM
+        - ID: CVE-2025-38498
+          Severity: MEDIUM
+        - ID: CVE-2025-38527
+          Severity: MEDIUM
+        - ID: CVE-2025-38556
+          Severity: MEDIUM
+        - ID: CVE-2025-39697
+          Severity: MEDIUM
+        - ID: CVE-2025-39730
+          Severity: MEDIUM
+        - ID: CVE-2025-39751
+          Severity: MEDIUM
+        - ID: CVE-2025-39864
+          Severity: MEDIUM
+      FixedVersion: 0:4.18.0-305.179.1.el8_4

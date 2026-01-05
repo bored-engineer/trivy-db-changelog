@@ -803,6 +803,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-50833
           Severity: MEDIUM
+        - ID: CVE-2022-50861
+          Severity: MEDIUM
         - ID: CVE-2022-50863
           Severity: MEDIUM
         - ID: CVE-2022-50866

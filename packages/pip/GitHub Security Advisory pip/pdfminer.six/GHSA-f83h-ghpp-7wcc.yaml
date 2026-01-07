@@ -1,2 +1,4 @@
+PatchedVersions:
+    - "20251230"
 VulnerableVersions:
-    - <=20251107
+    - <20251230

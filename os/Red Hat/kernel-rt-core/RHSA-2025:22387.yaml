@@ -27,4 +27,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2025-39955
           Severity: MEDIUM
+        - ID: CVE-2025-40186
+          Severity: HIGH
       FixedVersion: 0:4.18.0-553.87.1.rt7.428.el8_10

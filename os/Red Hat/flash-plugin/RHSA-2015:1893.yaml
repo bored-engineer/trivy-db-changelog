@@ -1,0 +1,67 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+      Arches:
+        - i686
+      Cves:
+        - ID: CVE-2015-5569
+          Severity: MEDIUM
+        - ID: CVE-2015-7625
+          Severity: CRITICAL
+        - ID: CVE-2015-7626
+          Severity: CRITICAL
+        - ID: CVE-2015-7627
+          Severity: CRITICAL
+        - ID: CVE-2015-7628
+          Severity: MEDIUM
+        - ID: CVE-2015-7629
+          Severity: CRITICAL
+        - ID: CVE-2015-7630
+          Severity: CRITICAL
+        - ID: CVE-2015-7631
+          Severity: CRITICAL
+        - ID: CVE-2015-7632
+          Severity: CRITICAL
+        - ID: CVE-2015-7633
+          Severity: CRITICAL
+        - ID: CVE-2015-7634
+          Severity: CRITICAL
+        - ID: CVE-2015-7635
+          Severity: CRITICAL
+        - ID: CVE-2015-7636
+          Severity: CRITICAL
+        - ID: CVE-2015-7637
+          Severity: CRITICAL
+        - ID: CVE-2015-7638
+          Severity: CRITICAL
+        - ID: CVE-2015-7639
+          Severity: CRITICAL
+        - ID: CVE-2015-7640
+          Severity: CRITICAL
+        - ID: CVE-2015-7641
+          Severity: CRITICAL
+        - ID: CVE-2015-7642
+          Severity: CRITICAL
+        - ID: CVE-2015-7643
+          Severity: CRITICAL
+        - ID: CVE-2015-7644
+          Severity: CRITICAL
+      FixedVersion: 0:11.2.202.535-1.el6_7

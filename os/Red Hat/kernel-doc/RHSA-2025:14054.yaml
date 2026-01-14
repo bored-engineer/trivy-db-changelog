@@ -28,5 +28,4 @@ Entries:
         - ID: CVE-2025-38086
           Severity: MEDIUM
         - ID: CVE-2025-38380
-          Severity: HIGH
       FixedVersion: 0:5.14.0-70.142.1.el9_0

@@ -33,7 +33,6 @@ Entries:
         - ID: CVE-2025-39730
           Severity: MEDIUM
         - ID: CVE-2025-39751
-          Severity: MEDIUM
       FixedVersion: 0:4.18.0-372.166.1.el8_6
     - Affected:
         - cpe:/a:redhat:rhel_e4s:8.6
@@ -69,5 +68,4 @@ Entries:
         - ID: CVE-2025-39730
           Severity: MEDIUM
         - ID: CVE-2025-39751
-          Severity: MEDIUM
       FixedVersion: 0:4.18.0-372.166.1.el8_6

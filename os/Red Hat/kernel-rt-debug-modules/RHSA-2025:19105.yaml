@@ -74,37 +74,6 @@ Entries:
         - ID: CVE-2025-39730
           Severity: MEDIUM
         - ID: CVE-2025-39751
-          Severity: MEDIUM
-        - ID: CVE-2025-39819
-          Severity: LOW
-      FixedVersion: 0:5.14.0-570.58.1.el9_6
-    - Affected:
-        - cpe:/a:redhat:enterprise_linux:9
-        - cpe:/a:redhat:enterprise_linux:9::appstream
-        - cpe:/a:redhat:enterprise_linux:9::crb
-        - cpe:/a:redhat:enterprise_linux:9::extensions
-        - cpe:/a:redhat:enterprise_linux:9::highavailability
-        - cpe:/a:redhat:enterprise_linux:9::nfv
-        - cpe:/a:redhat:enterprise_linux:9::realtime
-        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
-        - cpe:/a:redhat:enterprise_linux:9::sap
-        - cpe:/a:redhat:enterprise_linux:9::sap_hana
-        - cpe:/a:redhat:enterprise_linux:9::supplementary
-        - cpe:/o:redhat:enterprise_linux:9
-        - cpe:/o:redhat:enterprise_linux:9::baseos
-      Arches:
-        - aarch64
-        - x86_64
-      Cves:
-        - ID: CVE-2023-53331
-          Severity: MEDIUM
-        - ID: CVE-2025-22122
-          Severity: MEDIUM
-        - ID: CVE-2025-39718
-          Severity: MEDIUM
-        - ID: CVE-2025-39730
-          Severity: MEDIUM
-        - ID: CVE-2025-39751
         - ID: CVE-2025-39819
           Severity: LOW
       FixedVersion: 0:5.14.0-570.58.1.el9_6

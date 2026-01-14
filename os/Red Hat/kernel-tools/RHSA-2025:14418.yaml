@@ -20,7 +20,6 @@ Entries:
         - ID: CVE-2025-38086
           Severity: MEDIUM
         - ID: CVE-2025-38380
-          Severity: HIGH
       FixedVersion: 0:4.18.0-477.106.1.el8_8
     - Affected:
         - cpe:/a:redhat:rhel_tus:8.8
@@ -42,5 +41,4 @@ Entries:
         - ID: CVE-2025-38086
           Severity: MEDIUM
         - ID: CVE-2025-38380
-          Severity: HIGH
       FixedVersion: 0:4.18.0-477.106.1.el8_8

@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+      Cves:
+        - ID: CVE-2015-7979
+          Severity: MEDIUM
+        - ID: CVE-2016-1547
+          Severity: MEDIUM
+        - ID: CVE-2016-1548
+          Severity: MEDIUM
+        - ID: CVE-2016-1550
+          Severity: LOW
+        - ID: CVE-2016-2518
+          Severity: LOW
+      FixedVersion: 0:4.2.6p5-5.el6_7.5

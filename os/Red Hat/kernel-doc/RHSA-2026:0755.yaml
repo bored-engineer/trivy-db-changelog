@@ -22,5 +22,5 @@ Entries:
         - ID: CVE-2025-37823
           Severity: MEDIUM
         - ID: CVE-2025-68285
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:3.10.0-1160.145.1.el7

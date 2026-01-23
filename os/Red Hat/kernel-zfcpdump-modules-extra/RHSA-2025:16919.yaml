@@ -21,6 +21,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2025-37797
           Severity: MEDIUM
+        - ID: CVE-2025-37823
+          Severity: MEDIUM
         - ID: CVE-2025-38718
           Severity: MEDIUM
       FixedVersion: 0:4.18.0-553.77.1.el8_10

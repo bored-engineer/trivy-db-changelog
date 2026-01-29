@@ -17,8 +17,4 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2012-3451
           Severity: MEDIUM
-        - ID: CVE-2012-4549
-          Severity: MEDIUM
-        - ID: CVE-2012-4550
-          Severity: HIGH
       FixedVersion: 0:1.1.2-4.GA_redhat_2.ep6.el5

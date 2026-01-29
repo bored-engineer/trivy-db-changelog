@@ -20,8 +20,4 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2012-3451
           Severity: MEDIUM
-        - ID: CVE-2012-4549
-          Severity: MEDIUM
-        - ID: CVE-2012-4550
-          Severity: HIGH
       FixedVersion: 1:2.2.22-14.ep6.el6

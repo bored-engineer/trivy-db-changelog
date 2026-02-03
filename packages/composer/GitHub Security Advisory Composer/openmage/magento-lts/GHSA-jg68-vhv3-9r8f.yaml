@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 20.16.1
+VulnerableVersions:
+    - <20.16.1

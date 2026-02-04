@@ -128,6 +128,8 @@ Entries:
           Severity: HIGH
         - ID: CVE-2022-4379
           Severity: HIGH
+        - ID: CVE-2022-49944
+          Severity: MEDIUM
         - ID: CVE-2023-0179
           Severity: HIGH
       FixedVersion: 0:5.14.0-162.18.1.el9_1

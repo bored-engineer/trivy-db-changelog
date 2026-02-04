@@ -193,6 +193,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2025-21726
           Severity: MEDIUM
+        - ID: CVE-2025-21727
+          Severity: MEDIUM
         - ID: CVE-2025-21728
           Severity: MEDIUM
         - ID: CVE-2025-21729
@@ -270,6 +272,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2025-23129
           Severity: LOW
+        - ID: CVE-2025-37825
+          Severity: MEDIUM
         - ID: CVE-2025-37994
           Severity: MEDIUM
         - ID: CVE-2025-38013
@@ -278,8 +282,20 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2025-38116
           Severity: MEDIUM
+        - ID: CVE-2025-38127
+          Severity: MEDIUM
+        - ID: CVE-2025-38234
+          Severity: MEDIUM
+        - ID: CVE-2025-38288
+          Severity: MEDIUM
+        - ID: CVE-2025-38322
+          Severity: MEDIUM
+        - ID: CVE-2025-38332
+          Severity: MEDIUM
         - ID: CVE-2025-38396
           Severity: MEDIUM
         - ID: CVE-2025-38438
           Severity: LOW
+        - ID: CVE-2025-38527
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-611.5.1.el9_7

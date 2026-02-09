@@ -1,0 +1,27 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0::el8
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.1::el8
+      Cves:
+        - ID: CVE-2025-48913
+          Severity: HIGH
+        - ID: CVE-2025-55163
+          Severity: HIGH
+        - ID: CVE-2025-58056
+          Severity: MEDIUM
+      FixedVersion: 0:8.1.0-55.GA_redhat_00016.1.el8eap
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0::el9
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.1::el9
+      Cves:
+        - ID: CVE-2025-48913
+          Severity: HIGH
+        - ID: CVE-2025-55163
+          Severity: HIGH
+        - ID: CVE-2025-58056
+          Severity: MEDIUM
+      FixedVersion: 0:8.1.0-55.GA_redhat_00016.1.el9eap

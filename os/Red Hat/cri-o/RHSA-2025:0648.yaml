@@ -1,0 +1,25 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.15
+        - cpe:/a:redhat:openshift:4.15::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2024-8676
+          Severity: MEDIUM
+      FixedVersion: 0:1.28.11-7.rhaos4.15.gitc4c0556.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.15
+        - cpe:/a:redhat:openshift:4.15::el9
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2024-8676
+          Severity: MEDIUM
+      FixedVersion: 0:1.28.11-7.rhaos4.15.gitc4c0556.el9

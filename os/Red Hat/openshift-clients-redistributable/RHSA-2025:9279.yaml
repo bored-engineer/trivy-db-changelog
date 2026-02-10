@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.19
+        - cpe:/a:redhat:openshift:4.19::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2025-22871
+          Severity: MEDIUM
+      FixedVersion: 0:4.19.0-202506161807.p0.gfa1fd95.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.19
+        - cpe:/a:redhat:openshift:4.19::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2025-22871
+          Severity: MEDIUM
+      FixedVersion: 0:4.19.0-202506161807.p0.gfa1fd95.assembly.stream.el9

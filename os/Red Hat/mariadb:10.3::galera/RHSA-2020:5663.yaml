@@ -1,0 +1,72 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.0
+        - cpe:/a:redhat:rhel_e4s:8.0::appstream
+        - cpe:/a:redhat:rhel_e4s:8.0::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.0::sap
+        - cpe:/a:redhat:rhel_e4s:8.0::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.0
+        - cpe:/o:redhat:rhel_e4s:8.0::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2019-2510
+          Severity: MEDIUM
+        - ID: CVE-2019-2537
+          Severity: MEDIUM
+        - ID: CVE-2019-2614
+          Severity: MEDIUM
+        - ID: CVE-2019-2627
+          Severity: MEDIUM
+        - ID: CVE-2019-2628
+          Severity: MEDIUM
+        - ID: CVE-2019-2737
+          Severity: MEDIUM
+        - ID: CVE-2019-2739
+          Severity: MEDIUM
+        - ID: CVE-2019-2740
+          Severity: MEDIUM
+        - ID: CVE-2019-2758
+          Severity: MEDIUM
+        - ID: CVE-2019-2805
+          Severity: MEDIUM
+        - ID: CVE-2019-2938
+          Severity: MEDIUM
+        - ID: CVE-2019-2974
+          Severity: MEDIUM
+        - ID: CVE-2020-13249
+          Severity: MEDIUM
+        - ID: CVE-2020-14765
+          Severity: MEDIUM
+        - ID: CVE-2020-14776
+          Severity: MEDIUM
+        - ID: CVE-2020-14789
+          Severity: MEDIUM
+        - ID: CVE-2020-14812
+          Severity: MEDIUM
+        - ID: CVE-2020-15180
+          Severity: HIGH
+        - ID: CVE-2020-2574
+          Severity: LOW
+        - ID: CVE-2020-2752
+          Severity: MEDIUM
+        - ID: CVE-2020-2760
+          Severity: MEDIUM
+        - ID: CVE-2020-2780
+          Severity: MEDIUM
+        - ID: CVE-2020-2812
+          Severity: MEDIUM
+        - ID: CVE-2020-2814
+          Severity: MEDIUM
+        - ID: CVE-2020-2922
+          Severity: MEDIUM
+        - ID: CVE-2021-2007
+          Severity: LOW
+        - ID: CVE-2021-2022
+          Severity: MEDIUM
+        - ID: CVE-2021-2144
+          Severity: HIGH
+        - ID: CVE-2021-2194
+          Severity: MEDIUM
+      FixedVersion: 0:25.3.31-1.module+el8.0.0+9239+73817dd5

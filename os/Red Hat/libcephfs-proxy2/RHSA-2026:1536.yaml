@@ -1,0 +1,21 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:9.0
+        - cpe:/a:redhat:ceph_storage:9.0::el9
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2023-25153
+          Severity: MEDIUM
+        - ID: CVE-2024-11831
+          Severity: MEDIUM
+        - ID: CVE-2024-31884
+          Severity: MEDIUM
+        - ID: CVE-2025-30204
+          Severity: HIGH
+        - ID: CVE-2025-52555
+          Severity: MEDIUM
+      FixedVersion: 2:20.1.0-144.el9cp

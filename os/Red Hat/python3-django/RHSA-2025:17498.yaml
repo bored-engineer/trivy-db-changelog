@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:17.1
+        - cpe:/a:redhat:openstack:17.1::el9
+      Cves:
+        - ID: CVE-2025-57833
+          Severity: HIGH
+      FixedVersion: 0:2.2.24-12.el9ost

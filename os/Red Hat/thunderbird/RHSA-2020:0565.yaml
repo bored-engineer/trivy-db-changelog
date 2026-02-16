@@ -1,0 +1,26 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.0
+        - cpe:/a:redhat:rhel_e4s:8.0::appstream
+        - cpe:/a:redhat:rhel_e4s:8.0::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.0::sap
+        - cpe:/a:redhat:rhel_e4s:8.0::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.0
+        - cpe:/o:redhat:rhel_e4s:8.0::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2020-6792
+          Severity: LOW
+        - ID: CVE-2020-6793
+          Severity: MEDIUM
+        - ID: CVE-2020-6794
+          Severity: MEDIUM
+        - ID: CVE-2020-6795
+          Severity: MEDIUM
+        - ID: CVE-2020-6798
+          Severity: MEDIUM
+        - ID: CVE-2020-6800
+          Severity: HIGH
+      FixedVersion: 0:68.5.0-1.el8_0

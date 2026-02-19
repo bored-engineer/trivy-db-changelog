@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:8.0
+        - cpe:/a:redhat:ceph_storage:8.0::el9
+        - cpe:/a:redhat:ceph_storage:8.1
+        - cpe:/a:redhat:ceph_storage:8.1::el9
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2024-11831
+          Severity: MEDIUM
+        - ID: CVE-2024-47866
+          Severity: HIGH
+      FixedVersion: 2:19.2.1-292.el9cp

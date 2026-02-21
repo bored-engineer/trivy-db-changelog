@@ -1,0 +1,4 @@
+BaseID: redhat
+ID: seal
+Name: Seal Security Database
+URL: http://vulnfeed.sealsecurity.io/v1/osv/renamed/vulnerabilities.zip

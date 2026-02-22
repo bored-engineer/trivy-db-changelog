@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6::server
+        - cpe:/o:redhat:rhel_tus:7.6
+        - cpe:/o:redhat:rhel_tus:7.6::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-22543
+          Severity: HIGH
+        - ID: CVE-2021-22555
+          Severity: HIGH
+        - ID: CVE-2021-3653
+          Severity: MEDIUM
+        - ID: CVE-2021-3656
+          Severity: MEDIUM
+        - ID: CVE-2021-37576
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-957.84.1.el7

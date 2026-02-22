@@ -1,0 +1,30 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2025-49133
+          Severity: MEDIUM
+      FixedVersion: 1:1.44.0-9.module+el8.8.0+16781+9f4724c2
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2025-49133
+          Severity: MEDIUM
+      FixedVersion: 1:1.44.0-9.module+el8.8.0+16781+9f4724c2

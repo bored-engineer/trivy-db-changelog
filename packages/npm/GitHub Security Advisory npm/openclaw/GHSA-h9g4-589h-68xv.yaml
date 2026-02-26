@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 2026.2.14
+VulnerableVersions:
+    - '>=2026.1.29-beta.1, <2026.2.14'

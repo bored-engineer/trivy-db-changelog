@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 2026.2.1
+VulnerableVersions:
+    - '>=2026.1.20, <2026.2.1'

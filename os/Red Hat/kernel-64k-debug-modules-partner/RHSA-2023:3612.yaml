@@ -1,0 +1,28 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.13
+        - cpe:/a:redhat:openshift:4.13::el9
+      Arches:
+        - aarch64
+      Cves:
+        - ID: CVE-2022-41717
+          Severity: MEDIUM
+        - ID: CVE-2022-41723
+          Severity: MEDIUM
+        - ID: CVE-2022-41724
+          Severity: MEDIUM
+        - ID: CVE-2022-41725
+          Severity: MEDIUM
+        - ID: CVE-2023-24534
+          Severity: MEDIUM
+        - ID: CVE-2023-24536
+          Severity: MEDIUM
+        - ID: CVE-2023-24537
+          Severity: MEDIUM
+        - ID: CVE-2023-24538
+          Severity: MEDIUM
+        - ID: CVE-2023-24540
+          Severity: HIGH
+        - ID: CVE-2023-27561
+          Severity: MEDIUM
+      FixedVersion: 0:5.14.0-284.18.1.el9_2

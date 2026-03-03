@@ -1,0 +1,36 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.8
+        - cpe:/a:redhat:openshift:4.8::el8
+      Cves:
+        - ID: CVE-2021-21685
+          Severity: HIGH
+        - ID: CVE-2021-21686
+          Severity: HIGH
+        - ID: CVE-2021-21687
+          Severity: HIGH
+        - ID: CVE-2021-21688
+          Severity: HIGH
+        - ID: CVE-2021-21689
+          Severity: HIGH
+        - ID: CVE-2021-21690
+          Severity: HIGH
+        - ID: CVE-2021-21691
+          Severity: HIGH
+        - ID: CVE-2021-21692
+          Severity: HIGH
+        - ID: CVE-2021-21693
+          Severity: HIGH
+        - ID: CVE-2021-21694
+          Severity: HIGH
+        - ID: CVE-2021-21695
+          Severity: HIGH
+        - ID: CVE-2021-21696
+          Severity: HIGH
+        - ID: CVE-2021-21697
+          Severity: HIGH
+        - ID: CVE-2021-21698
+          Severity: MEDIUM
+        - ID: CVE-2021-3917
+          Severity: MEDIUM
+      FixedVersion: 0:4.8.1637599935-1.el8

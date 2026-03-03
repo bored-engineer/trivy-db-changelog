@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:service_mesh:1.1
+        - cpe:/a:redhat:service_mesh:1.1::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-29492
+          Severity: HIGH
+        - ID: CVE-2021-31920
+          Severity: HIGH
+      FixedVersion: 0:1.1.14-1.el8

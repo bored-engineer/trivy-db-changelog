@@ -1,4 +1,0 @@
-PatchedVersions:
-    - 2026.2.14
-VulnerableVersions:
-    - '>=2026.1.16-2, <2026.2.14'

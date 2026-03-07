@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 3.3.6
+    - 3.4.0-rc2
+VulnerableVersions:
+    - <3.3.6
+    - '>=3.4.0-rc1, <3.4.0-rc2'

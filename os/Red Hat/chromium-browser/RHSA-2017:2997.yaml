@@ -1,0 +1,60 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_els:6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2017-15386
+          Severity: MEDIUM
+        - ID: CVE-2017-15387
+          Severity: MEDIUM
+        - ID: CVE-2017-15388
+          Severity: MEDIUM
+        - ID: CVE-2017-15389
+          Severity: MEDIUM
+        - ID: CVE-2017-15390
+          Severity: MEDIUM
+        - ID: CVE-2017-15391
+          Severity: LOW
+        - ID: CVE-2017-15392
+          Severity: LOW
+        - ID: CVE-2017-15393
+          Severity: LOW
+        - ID: CVE-2017-15394
+          Severity: LOW
+        - ID: CVE-2017-15395
+          Severity: LOW
+        - ID: CVE-2017-5124
+          Severity: HIGH
+        - ID: CVE-2017-5125
+          Severity: HIGH
+        - ID: CVE-2017-5126
+          Severity: HIGH
+        - ID: CVE-2017-5127
+          Severity: HIGH
+        - ID: CVE-2017-5128
+          Severity: HIGH
+        - ID: CVE-2017-5129
+          Severity: HIGH
+        - ID: CVE-2017-5130
+          Severity: HIGH
+        - ID: CVE-2017-5131
+          Severity: MEDIUM
+        - ID: CVE-2017-5132
+          Severity: HIGH
+        - ID: CVE-2017-5133
+          Severity: MEDIUM
+      FixedVersion: 0:62.0.3202.62-2.el6_9

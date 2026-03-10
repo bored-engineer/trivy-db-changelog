@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.2
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.2
+        - cpe:/o:redhat:rhel_aus:7.2
+        - cpe:/o:redhat:rhel_aus:7.2::server
+        - cpe:/o:redhat:rhel_e4s:7.2
+        - cpe:/o:redhat:rhel_e4s:7.2::server
+        - cpe:/o:redhat:rhel_tus:7.2
+        - cpe:/o:redhat:rhel_tus:7.2::server
+      Cves:
+        - ID: CVE-2018-1000199
+          Severity: HIGH
+        - ID: CVE-2018-1087
+          Severity: HIGH
+        - ID: CVE-2018-8897
+          Severity: MEDIUM
+      FixedVersion: 0:3.10.0-327.66.3.el7

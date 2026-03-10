@@ -1,0 +1,50 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.2
+        - cpe:/a:redhat:rhel_e4s:9.2::appstream
+        - cpe:/a:redhat:rhel_e4s:9.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.2::nfv
+        - cpe:/a:redhat:rhel_e4s:9.2::realtime
+        - cpe:/a:redhat:rhel_e4s:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.2::sap
+        - cpe:/a:redhat:rhel_e4s:9.2::sap_hana
+        - cpe:/o:redhat:rhel_e4s:9.2
+        - cpe:/o:redhat:rhel_e4s:9.2::baseos
+      Arches:
+        - aarch64
+        - i686
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-13502
+          Severity: HIGH
+        - ID: CVE-2025-13947
+          Severity: HIGH
+        - ID: CVE-2025-43392
+          Severity: MEDIUM
+        - ID: CVE-2025-43421
+          Severity: HIGH
+        - ID: CVE-2025-43425
+          Severity: HIGH
+        - ID: CVE-2025-43427
+          Severity: HIGH
+        - ID: CVE-2025-43429
+          Severity: HIGH
+        - ID: CVE-2025-43430
+          Severity: HIGH
+        - ID: CVE-2025-43431
+          Severity: HIGH
+        - ID: CVE-2025-43432
+          Severity: HIGH
+        - ID: CVE-2025-43434
+          Severity: HIGH
+        - ID: CVE-2025-43440
+          Severity: HIGH
+        - ID: CVE-2025-43443
+          Severity: HIGH
+        - ID: CVE-2025-43458
+          Severity: HIGH
+        - ID: CVE-2025-66287
+          Severity: HIGH
+      FixedVersion: 0:2.50.3-1.el9_2

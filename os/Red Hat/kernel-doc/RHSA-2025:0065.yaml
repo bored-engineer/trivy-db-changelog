@@ -13,6 +13,8 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:8
         - cpe:/o:redhat:enterprise_linux:8::baseos
       Cves:
+        - ID: CVE-2023-54296
+          Severity: LOW
         - ID: CVE-2024-53088
           Severity: MEDIUM
         - ID: CVE-2024-53122

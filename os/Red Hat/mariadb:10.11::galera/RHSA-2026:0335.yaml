@@ -32,6 +32,22 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2023-52969
+          Severity: MEDIUM
+        - ID: CVE-2023-52970
+          Severity: MEDIUM
+        - ID: CVE-2023-52971
+          Severity: MEDIUM
+        - ID: CVE-2024-21096
+          Severity: MEDIUM
         - ID: CVE-2025-13699
           Severity: HIGH
+        - ID: CVE-2025-21490
+          Severity: MEDIUM
+        - ID: CVE-2025-30693
+          Severity: MEDIUM
+        - ID: CVE-2025-30722
+          Severity: MEDIUM
+        - ID: CVE-2026-21968
+          Severity: MEDIUM
       FixedVersion: 0:26.4.16-1.module+el9.4.0+21205+b026b850

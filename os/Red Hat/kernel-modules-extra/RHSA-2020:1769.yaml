@@ -213,4 +213,6 @@ Entries:
           Severity: LOW
         - ID: CVE-2023-53581
           Severity: MEDIUM
+        - ID: CVE-2023-54064
+          Severity: LOW
       FixedVersion: 0:4.18.0-193.el8

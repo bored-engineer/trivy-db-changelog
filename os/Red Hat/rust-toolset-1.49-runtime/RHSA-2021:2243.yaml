@@ -18,5 +18,5 @@ Entries:
         - ID: CVE-2020-36317
           Severity: LOW
         - ID: CVE-2020-36318
-          Severity: LOW
+          Severity: MEDIUM
       FixedVersion: 0:1.49.0-1.el7_9

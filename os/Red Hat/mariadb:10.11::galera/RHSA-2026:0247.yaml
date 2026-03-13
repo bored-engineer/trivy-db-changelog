@@ -55,4 +55,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2025-30722
           Severity: MEDIUM
+        - ID: CVE-2026-21968
+          Severity: MEDIUM
       FixedVersion: 0:26.4.20-1.module+el9.5.0+22578+dc54e53f

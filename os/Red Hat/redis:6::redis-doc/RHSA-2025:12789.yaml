@@ -1,0 +1,13 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.4
+        - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_aus:8.4::highavailability
+        - cpe:/o:redhat:rhel_aus:8.4
+        - cpe:/o:redhat:rhel_aus:8.4::baseos
+      Cves:
+        - ID: CVE-2025-32023
+          Severity: HIGH
+        - ID: CVE-2025-48367
+          Severity: MEDIUM
+      FixedVersion: 0:6.0.9-5.module+el8.4.0+23377+dd45ab91.4

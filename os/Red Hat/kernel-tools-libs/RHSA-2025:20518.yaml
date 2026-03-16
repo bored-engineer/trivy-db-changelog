@@ -76,6 +76,8 @@ Entries:
           Severity: LOW
         - ID: CVE-2022-50504
           Severity: LOW
+        - ID: CVE-2023-54119
+          Severity: LOW
         - ID: CVE-2023-54152
           Severity: LOW
         - ID: CVE-2023-54237

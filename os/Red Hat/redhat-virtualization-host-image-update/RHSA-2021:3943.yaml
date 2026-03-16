@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Cves:
+        - ID: CVE-2021-22543
+          Severity: HIGH
+      FixedVersion: 0:4.3.19-20211013.0.el7_9

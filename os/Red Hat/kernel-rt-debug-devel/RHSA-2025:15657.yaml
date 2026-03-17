@@ -1,0 +1,24 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.2
+        - cpe:/a:redhat:rhel_e4s:9.2::appstream
+        - cpe:/a:redhat:rhel_e4s:9.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.2::nfv
+        - cpe:/a:redhat:rhel_e4s:9.2::realtime
+        - cpe:/a:redhat:rhel_e4s:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.2::sap
+        - cpe:/a:redhat:rhel_e4s:9.2::sap_hana
+        - cpe:/o:redhat:rhel_e4s:9.2
+        - cpe:/o:redhat:rhel_e4s:9.2::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2025-22058
+          Severity: MEDIUM
+        - ID: CVE-2025-22097
+          Severity: MEDIUM
+        - ID: CVE-2025-38211
+          Severity: MEDIUM
+        - ID: CVE-2025-38352
+          Severity: HIGH
+      FixedVersion: 0:5.14.0-284.137.1.rt14.422.el9_2

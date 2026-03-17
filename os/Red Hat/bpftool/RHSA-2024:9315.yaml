@@ -445,6 +445,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-54146
           Severity: LOW
+        - ID: CVE-2023-54153
+          Severity: LOW
         - ID: CVE-2023-54165
           Severity: MEDIUM
         - ID: CVE-2023-54172

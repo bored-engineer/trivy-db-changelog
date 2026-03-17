@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:4
+        - cpe:/a:redhat:ceph_storage:4::el8
+      Cves:
+        - ID: CVE-2020-25658
+          Severity: MEDIUM
+        - ID: CVE-2021-3524
+          Severity: MEDIUM
+        - ID: CVE-2021-3979
+          Severity: MEDIUM
+      FixedVersion: 0:4.8-1.el8cp

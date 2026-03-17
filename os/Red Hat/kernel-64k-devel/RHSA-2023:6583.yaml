@@ -11,18 +11,8 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:9::sap
         - cpe:/a:redhat:enterprise_linux:9::sap_hana
         - cpe:/a:redhat:enterprise_linux:9::supplementary
-        - cpe:/a:redhat:rhel_aus:9.4
-        - cpe:/a:redhat:rhel_aus:9.4::appstream
         - cpe:/a:redhat:rhel_aus:9.6
         - cpe:/a:redhat:rhel_aus:9.6::appstream
-        - cpe:/a:redhat:rhel_e4s:9.4
-        - cpe:/a:redhat:rhel_e4s:9.4::appstream
-        - cpe:/a:redhat:rhel_e4s:9.4::highavailability
-        - cpe:/a:redhat:rhel_e4s:9.4::nfv
-        - cpe:/a:redhat:rhel_e4s:9.4::realtime
-        - cpe:/a:redhat:rhel_e4s:9.4::resilientstorage
-        - cpe:/a:redhat:rhel_e4s:9.4::sap
-        - cpe:/a:redhat:rhel_e4s:9.4::sap_hana
         - cpe:/a:redhat:rhel_e4s:9.6
         - cpe:/a:redhat:rhel_e4s:9.6::appstream
         - cpe:/a:redhat:rhel_e4s:9.6::highavailability
@@ -71,12 +61,8 @@ Entries:
         - cpe:/a:redhat:rhel_eus:9.8::supplementary
         - cpe:/o:redhat:enterprise_linux:9
         - cpe:/o:redhat:enterprise_linux:9::baseos
-        - cpe:/o:redhat:rhel_aus:9.4
-        - cpe:/o:redhat:rhel_aus:9.4::baseos
         - cpe:/o:redhat:rhel_aus:9.6
         - cpe:/o:redhat:rhel_aus:9.6::baseos
-        - cpe:/o:redhat:rhel_e4s:9.4
-        - cpe:/o:redhat:rhel_e4s:9.4::baseos
         - cpe:/o:redhat:rhel_e4s:9.6
         - cpe:/o:redhat:rhel_e4s:9.6::baseos
         - cpe:/o:redhat:rhel_e4s:9.8
@@ -978,6 +964,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-54131
           Severity: MEDIUM
+        - ID: CVE-2023-54144
+          Severity: LOW
         - ID: CVE-2023-54174
           Severity: LOW
         - ID: CVE-2023-54176
@@ -1048,19 +1036,20 @@ Entries:
           Severity: MEDIUM
       FixedVersion: 0:5.14.0-362.8.1.el9_3
     - Affected:
-        - cpe:/a:redhat:enterprise_linux:9
-        - cpe:/a:redhat:enterprise_linux:9::appstream
-        - cpe:/a:redhat:enterprise_linux:9::crb
-        - cpe:/a:redhat:enterprise_linux:9::extensions
-        - cpe:/a:redhat:enterprise_linux:9::highavailability
-        - cpe:/a:redhat:enterprise_linux:9::nfv
-        - cpe:/a:redhat:enterprise_linux:9::realtime
-        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
-        - cpe:/a:redhat:enterprise_linux:9::sap
-        - cpe:/a:redhat:enterprise_linux:9::sap_hana
-        - cpe:/a:redhat:enterprise_linux:9::supplementary
-        - cpe:/o:redhat:enterprise_linux:9
-        - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/a:redhat:rhel_aus:9.4
+        - cpe:/a:redhat:rhel_aus:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4
+        - cpe:/a:redhat:rhel_e4s:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.4::nfv
+        - cpe:/a:redhat:rhel_e4s:9.4::realtime
+        - cpe:/a:redhat:rhel_e4s:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.4::sap
+        - cpe:/a:redhat:rhel_e4s:9.4::sap_hana
+        - cpe:/o:redhat:rhel_aus:9.4
+        - cpe:/o:redhat:rhel_aus:9.4::baseos
+        - cpe:/o:redhat:rhel_e4s:9.4
+        - cpe:/o:redhat:rhel_e4s:9.4::baseos
       Arches:
         - aarch64
       Cves:
@@ -1402,6 +1391,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-50740
           Severity: MEDIUM
+        - ID: CVE-2022-50750
+          Severity: LOW
         - ID: CVE-2022-50756
           Severity: MEDIUM
         - ID: CVE-2022-50760
@@ -1924,6 +1915,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-54041
           Severity: LOW
+        - ID: CVE-2023-54043
+          Severity: LOW
         - ID: CVE-2023-54053
           Severity: MEDIUM
         - ID: CVE-2023-54055
@@ -1950,6 +1943,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-54131
           Severity: MEDIUM
+        - ID: CVE-2023-54144
+          Severity: LOW
         - ID: CVE-2023-54174
           Severity: LOW
         - ID: CVE-2023-54176

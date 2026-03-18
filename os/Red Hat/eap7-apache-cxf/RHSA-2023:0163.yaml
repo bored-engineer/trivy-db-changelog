@@ -10,12 +10,6 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el7
         - cpe:/a:redhat:jboss_enterprise_application_platform:7::el7
-        - cpe:/a:redhat:jboss_enterprise_application_platform_els:7.4
-        - cpe:/a:redhat:jboss_enterprise_application_platform_els:7.4::el7
-        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1
-        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1::el7
-        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3
-        - cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3::el7
       Cves:
         - ID: CVE-2022-46364
           Severity: HIGH
@@ -27,8 +21,6 @@ Entries:
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.3::el8
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el8
-        - cpe:/a:redhat:jboss_enterprise_application_platform_els:7.4
-        - cpe:/a:redhat:jboss_enterprise_application_platform_els:7.4::el8
       Cves:
         - ID: CVE-2022-46364
           Severity: HIGH
@@ -36,8 +28,6 @@ Entries:
     - Affected:
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
         - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el9
-        - cpe:/a:redhat:jboss_enterprise_application_platform_els:7.4
-        - cpe:/a:redhat:jboss_enterprise_application_platform_els:7.4::el9
       Cves:
         - ID: CVE-2022-46364
           Severity: HIGH

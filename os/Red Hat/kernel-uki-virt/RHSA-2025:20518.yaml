@@ -288,6 +288,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2025-37994
           Severity: MEDIUM
+        - ID: CVE-2025-38000
+          Severity: HIGH
         - ID: CVE-2025-38013
           Severity: MEDIUM
         - ID: CVE-2025-38075

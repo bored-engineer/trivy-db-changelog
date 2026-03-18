@@ -145,4 +145,6 @@ Entries:
           Severity: HIGH
         - ID: CVE-2022-49063
           Severity: MEDIUM
+        - ID: CVE-2022-49722
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-70.26.1.el9_0

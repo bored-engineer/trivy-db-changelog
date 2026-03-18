@@ -86,4 +86,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-49557
           Severity: LOW
+        - ID: CVE-2022-49722
+          Severity: MEDIUM
       FixedVersion: 0:4.18.0-372.26.1.el8_6

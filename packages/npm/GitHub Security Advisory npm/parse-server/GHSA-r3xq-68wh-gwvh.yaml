@@ -1,6 +1,0 @@
-PatchedVersions:
-    - 9.6.0-alpha.28
-    - 8.6.48
-VulnerableVersions:
-    - '>=9.0.0, <9.6.0-alpha.28'
-    - <8.6.48

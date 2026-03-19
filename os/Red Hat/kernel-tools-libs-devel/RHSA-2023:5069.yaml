@@ -145,4 +145,6 @@ Entries:
           Severity: HIGH
         - ID: CVE-2023-53556
           Severity: MEDIUM
+        - ID: CVE-2023-53769
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-284.30.1.el9_2

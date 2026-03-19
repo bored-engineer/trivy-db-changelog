@@ -13,6 +13,8 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:8
         - cpe:/o:redhat:enterprise_linux:8::baseos
       Cves:
+        - ID: CVE-2026-2003
+          Severity: MEDIUM
         - ID: CVE-2026-2004
           Severity: HIGH
         - ID: CVE-2026-2005

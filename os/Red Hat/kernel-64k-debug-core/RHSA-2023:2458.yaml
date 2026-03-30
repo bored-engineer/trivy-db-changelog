@@ -11,13 +11,6 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:9::sap
         - cpe:/a:redhat:enterprise_linux:9::sap_hana
         - cpe:/a:redhat:enterprise_linux:9::supplementary
-        - cpe:/a:redhat:rhel_aus:9.2
-        - cpe:/a:redhat:rhel_aus:9.2::appstream
-        - cpe:/a:redhat:rhel_aus:9.2::highavailability
-        - cpe:/a:redhat:rhel_aus:9.4
-        - cpe:/a:redhat:rhel_aus:9.4::appstream
-        - cpe:/a:redhat:rhel_aus:9.6
-        - cpe:/a:redhat:rhel_aus:9.6::appstream
         - cpe:/a:redhat:rhel_e4s:9.2
         - cpe:/a:redhat:rhel_e4s:9.2::appstream
         - cpe:/a:redhat:rhel_e4s:9.2::highavailability
@@ -92,12 +85,6 @@ Entries:
         - cpe:/a:redhat:rhel_eus:9.8::supplementary
         - cpe:/o:redhat:enterprise_linux:9
         - cpe:/o:redhat:enterprise_linux:9::baseos
-        - cpe:/o:redhat:rhel_aus:9.2
-        - cpe:/o:redhat:rhel_aus:9.2::baseos
-        - cpe:/o:redhat:rhel_aus:9.4
-        - cpe:/o:redhat:rhel_aus:9.4::baseos
-        - cpe:/o:redhat:rhel_aus:9.6
-        - cpe:/o:redhat:rhel_aus:9.6::baseos
         - cpe:/o:redhat:rhel_e4s:9.2
         - cpe:/o:redhat:rhel_e4s:9.2::baseos
         - cpe:/o:redhat:rhel_e4s:9.4
@@ -808,6 +795,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-50569
           Severity: MEDIUM
+        - ID: CVE-2022-50580
+          Severity: LOW
         - ID: CVE-2022-50583
           Severity: LOW
         - ID: CVE-2022-50615
@@ -821,6 +810,8 @@ Entries:
         - ID: CVE-2022-50678
           Severity: MEDIUM
         - ID: CVE-2022-50679
+          Severity: LOW
+        - ID: CVE-2022-50698
           Severity: LOW
         - ID: CVE-2022-50702
           Severity: LOW
@@ -836,6 +827,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-50726
           Severity: MEDIUM
+        - ID: CVE-2022-50730
+          Severity: LOW
         - ID: CVE-2022-50738
           Severity: LOW
         - ID: CVE-2022-50744

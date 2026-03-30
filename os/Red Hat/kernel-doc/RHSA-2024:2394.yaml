@@ -11,10 +11,6 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:9::sap
         - cpe:/a:redhat:enterprise_linux:9::sap_hana
         - cpe:/a:redhat:enterprise_linux:9::supplementary
-        - cpe:/a:redhat:rhel_aus:9.4
-        - cpe:/a:redhat:rhel_aus:9.4::appstream
-        - cpe:/a:redhat:rhel_aus:9.6
-        - cpe:/a:redhat:rhel_aus:9.6::appstream
         - cpe:/a:redhat:rhel_e4s:9.4
         - cpe:/a:redhat:rhel_e4s:9.4::appstream
         - cpe:/a:redhat:rhel_e4s:9.4::highavailability
@@ -71,10 +67,6 @@ Entries:
         - cpe:/a:redhat:rhel_eus:9.8::supplementary
         - cpe:/o:redhat:enterprise_linux:9
         - cpe:/o:redhat:enterprise_linux:9::baseos
-        - cpe:/o:redhat:rhel_aus:9.4
-        - cpe:/o:redhat:rhel_aus:9.4::baseos
-        - cpe:/o:redhat:rhel_aus:9.6
-        - cpe:/o:redhat:rhel_aus:9.6::baseos
         - cpe:/o:redhat:rhel_e4s:9.4
         - cpe:/o:redhat:rhel_e4s:9.4::baseos
         - cpe:/o:redhat:rhel_e4s:9.6
@@ -292,6 +284,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-53150
           Severity: LOW
+        - ID: CVE-2023-53151
+          Severity: LOW
         - ID: CVE-2023-53152
           Severity: MEDIUM
         - ID: CVE-2023-53164
@@ -304,10 +298,14 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-53192
           Severity: MEDIUM
+        - ID: CVE-2023-53193
+          Severity: LOW
         - ID: CVE-2023-53202
           Severity: LOW
         - ID: CVE-2023-53204
           Severity: MEDIUM
+        - ID: CVE-2023-53208
+          Severity: LOW
         - ID: CVE-2023-53209
           Severity: MEDIUM
         - ID: CVE-2023-53210
@@ -360,6 +358,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-53335
           Severity: LOW
+        - ID: CVE-2023-53338
+          Severity: MEDIUM
         - ID: CVE-2023-53343
           Severity: MEDIUM
         - ID: CVE-2023-53352
@@ -393,6 +393,8 @@ Entries:
         - ID: CVE-2023-53465
           Severity: MEDIUM
         - ID: CVE-2023-53471
+          Severity: MEDIUM
+        - ID: CVE-2023-53473
           Severity: MEDIUM
         - ID: CVE-2023-53476
           Severity: MEDIUM
@@ -486,6 +488,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-53696
           Severity: LOW
+        - ID: CVE-2023-53709
+          Severity: LOW
         - ID: CVE-2023-53711
           Severity: LOW
         - ID: CVE-2023-53713
@@ -494,6 +498,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-53726
           Severity: MEDIUM
+        - ID: CVE-2023-53730
+          Severity: LOW
         - ID: CVE-2023-53743
           Severity: LOW
         - ID: CVE-2023-53751
@@ -538,6 +544,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-53863
           Severity: LOW
+        - ID: CVE-2023-53990
+          Severity: LOW
         - ID: CVE-2023-53993
           Severity: LOW
         - ID: CVE-2023-53995
@@ -548,13 +556,23 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-54006
           Severity: LOW
+        - ID: CVE-2023-54014
+          Severity: LOW
         - ID: CVE-2023-54016
           Severity: MEDIUM
+        - ID: CVE-2023-54021
+          Severity: LOW
         - ID: CVE-2023-54022
           Severity: LOW
         - ID: CVE-2023-54028
           Severity: MEDIUM
+        - ID: CVE-2023-54030
+          Severity: LOW
+        - ID: CVE-2023-54031
+          Severity: LOW
         - ID: CVE-2023-54033
+          Severity: LOW
+        - ID: CVE-2023-54035
           Severity: LOW
         - ID: CVE-2023-54038
           Severity: MEDIUM

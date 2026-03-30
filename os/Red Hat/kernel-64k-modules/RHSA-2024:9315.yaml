@@ -11,8 +11,6 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:9::sap
         - cpe:/a:redhat:enterprise_linux:9::sap_hana
         - cpe:/a:redhat:enterprise_linux:9::supplementary
-        - cpe:/a:redhat:rhel_aus:9.6
-        - cpe:/a:redhat:rhel_aus:9.6::appstream
         - cpe:/a:redhat:rhel_e4s:9.6
         - cpe:/a:redhat:rhel_e4s:9.6::appstream
         - cpe:/a:redhat:rhel_e4s:9.6::highavailability
@@ -51,8 +49,6 @@ Entries:
         - cpe:/a:redhat:rhel_eus:9.8::supplementary
         - cpe:/o:redhat:enterprise_linux:9
         - cpe:/o:redhat:enterprise_linux:9::baseos
-        - cpe:/o:redhat:rhel_aus:9.6
-        - cpe:/o:redhat:rhel_aus:9.6::baseos
         - cpe:/o:redhat:rhel_e4s:9.6
         - cpe:/o:redhat:rhel_e4s:9.6::baseos
         - cpe:/o:redhat:rhel_e4s:9.8
@@ -162,6 +158,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-50640
           Severity: MEDIUM
+        - ID: CVE-2022-50653
+          Severity: LOW
         - ID: CVE-2022-50663
           Severity: MEDIUM
         - ID: CVE-2022-50670
@@ -410,6 +408,10 @@ Entries:
           Severity: LOW
         - ID: CVE-2023-53697
           Severity: MEDIUM
+        - ID: CVE-2023-53702
+          Severity: LOW
+        - ID: CVE-2023-53704
+          Severity: LOW
         - ID: CVE-2023-53708
           Severity: LOW
         - ID: CVE-2023-53719
@@ -428,6 +430,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-54010
           Severity: LOW
+        - ID: CVE-2023-54019
+          Severity: LOW
         - ID: CVE-2023-54066
           Severity: LOW
         - ID: CVE-2023-54083
@@ -445,7 +449,7 @@ Entries:
         - ID: CVE-2023-54136
           Severity: MEDIUM
         - ID: CVE-2023-54146
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2023-54153
           Severity: LOW
         - ID: CVE-2023-54165

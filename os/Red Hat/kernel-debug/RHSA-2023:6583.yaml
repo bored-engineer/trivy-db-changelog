@@ -11,10 +11,6 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:9::sap
         - cpe:/a:redhat:enterprise_linux:9::sap_hana
         - cpe:/a:redhat:enterprise_linux:9::supplementary
-        - cpe:/a:redhat:rhel_aus:9.4
-        - cpe:/a:redhat:rhel_aus:9.4::appstream
-        - cpe:/a:redhat:rhel_aus:9.6
-        - cpe:/a:redhat:rhel_aus:9.6::appstream
         - cpe:/a:redhat:rhel_e4s:9.4
         - cpe:/a:redhat:rhel_e4s:9.4::appstream
         - cpe:/a:redhat:rhel_e4s:9.4::highavailability
@@ -71,10 +67,6 @@ Entries:
         - cpe:/a:redhat:rhel_eus:9.8::supplementary
         - cpe:/o:redhat:enterprise_linux:9
         - cpe:/o:redhat:enterprise_linux:9::baseos
-        - cpe:/o:redhat:rhel_aus:9.4
-        - cpe:/o:redhat:rhel_aus:9.4::baseos
-        - cpe:/o:redhat:rhel_aus:9.6
-        - cpe:/o:redhat:rhel_aus:9.6::baseos
         - cpe:/o:redhat:rhel_e4s:9.4
         - cpe:/o:redhat:rhel_e4s:9.4::baseos
         - cpe:/o:redhat:rhel_e4s:9.6
@@ -269,6 +261,8 @@ Entries:
           Severity: LOW
         - ID: CVE-2022-50318
           Severity: LOW
+        - ID: CVE-2022-50322
+          Severity: LOW
         - ID: CVE-2022-50327
           Severity: MEDIUM
         - ID: CVE-2022-50329
@@ -303,6 +297,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-50416
           Severity: LOW
+        - ID: CVE-2022-50423
+          Severity: MEDIUM
         - ID: CVE-2022-50426
           Severity: MEDIUM
         - ID: CVE-2022-50429
@@ -413,11 +409,15 @@ Entries:
           Severity: LOW
         - ID: CVE-2022-50677
           Severity: MEDIUM
+        - ID: CVE-2022-50699
+          Severity: LOW
         - ID: CVE-2022-50700
           Severity: MEDIUM
         - ID: CVE-2022-50701
           Severity: MEDIUM
         - ID: CVE-2022-50704
+          Severity: LOW
+        - ID: CVE-2022-50705
           Severity: LOW
         - ID: CVE-2022-50710
           Severity: MEDIUM
@@ -761,6 +761,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-53299
           Severity: MEDIUM
+        - ID: CVE-2023-53320
+          Severity: MEDIUM
         - ID: CVE-2023-53333
           Severity: MEDIUM
         - ID: CVE-2023-53334
@@ -770,6 +772,8 @@ Entries:
         - ID: CVE-2023-53363
           Severity: MEDIUM
         - ID: CVE-2023-53366
+          Severity: MEDIUM
+        - ID: CVE-2023-53372
           Severity: MEDIUM
         - ID: CVE-2023-53376
           Severity: MEDIUM
@@ -935,6 +939,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2023-53803
           Severity: MEDIUM
+        - ID: CVE-2023-53814
+          Severity: LOW
         - ID: CVE-2023-53816
           Severity: MEDIUM
         - ID: CVE-2023-53832
@@ -942,6 +948,8 @@ Entries:
         - ID: CVE-2023-53852
           Severity: LOW
         - ID: CVE-2023-53866
+          Severity: LOW
+        - ID: CVE-2023-53867
           Severity: LOW
         - ID: CVE-2023-54004
           Severity: MEDIUM
@@ -982,6 +990,8 @@ Entries:
         - ID: CVE-2023-54092
           Severity: MEDIUM
         - ID: CVE-2023-54097
+          Severity: LOW
+        - ID: CVE-2023-54098
           Severity: LOW
         - ID: CVE-2023-54102
           Severity: MEDIUM

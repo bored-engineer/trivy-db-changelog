@@ -63,7 +63,7 @@ Entries:
         - cpe:/o:redhat:rhel_eus:9.8::baseos
       Cves:
         - ID: CVE-2025-37803
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2025-38392
           Severity: MEDIUM
         - ID: CVE-2025-39825

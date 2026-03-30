@@ -37,9 +37,15 @@ Entries:
           Severity: HIGH
         - ID: CVE-2025-43432
           Severity: HIGH
+        - ID: CVE-2025-43433
+          Severity: HIGH
         - ID: CVE-2025-43434
           Severity: HIGH
+        - ID: CVE-2025-43438
+          Severity: HIGH
         - ID: CVE-2025-43440
+          Severity: HIGH
+        - ID: CVE-2025-43441
           Severity: HIGH
         - ID: CVE-2025-43443
           Severity: HIGH

@@ -32,6 +32,8 @@ Entries:
           Severity: HIGH
         - ID: CVE-2023-43000
           Severity: HIGH
+        - ID: CVE-2023-43010
+          Severity: HIGH
         - ID: CVE-2024-23222
           Severity: HIGH
         - ID: CVE-2024-27808
@@ -104,6 +106,8 @@ Entries:
         - ID: CVE-2023-42970
           Severity: HIGH
         - ID: CVE-2023-43000
+          Severity: HIGH
+        - ID: CVE-2023-43010
           Severity: HIGH
         - ID: CVE-2024-23222
           Severity: HIGH

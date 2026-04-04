@@ -1,0 +1,5 @@
+Entries:
+    - Cves:
+        - ID: CVE-2017-7514
+          Severity: MEDIUM
+      FixedVersion: 0:1.3.4-10.1.5_jboss_update1.ep5.el6

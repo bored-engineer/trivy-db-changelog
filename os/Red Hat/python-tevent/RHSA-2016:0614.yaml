@@ -1,0 +1,107 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:storage:3
+        - cpe:/a:redhat:storage:3.1
+        - cpe:/a:redhat:storage:3.1:bigdata:el6
+        - cpe:/a:redhat:storage:3.1:console:el6
+        - cpe:/a:redhat:storage:3.1:nagios:el6
+        - cpe:/a:redhat:storage:3.1:nfs:el6
+        - cpe:/a:redhat:storage:3.1:samba:el6
+        - cpe:/a:redhat:storage:3.1:server:el6
+        - cpe:/a:redhat:storage:3.2
+        - cpe:/a:redhat:storage:3.2:nagios:el6
+        - cpe:/a:redhat:storage:3.2:nfs:el6
+        - cpe:/a:redhat:storage:3.2:samba:el6
+        - cpe:/a:redhat:storage:3.2:server:el6
+        - cpe:/a:redhat:storage:3.3
+        - cpe:/a:redhat:storage:3.3:nagios:el6
+        - cpe:/a:redhat:storage:3.3:nfs:el6
+        - cpe:/a:redhat:storage:3.3:samba:el6
+        - cpe:/a:redhat:storage:3.3:server:el6
+        - cpe:/a:redhat:storage:3.4
+        - cpe:/a:redhat:storage:3.4:samba:el6
+        - cpe:/a:redhat:storage:3.4:server:el6
+        - cpe:/a:redhat:storage:3.5
+        - cpe:/a:redhat:storage:3.5:samba:el6
+        - cpe:/a:redhat:storage:3.5:server:el6
+        - cpe:/a:redhat:storage:3:bigdata:el6
+        - cpe:/a:redhat:storage:3:client:el6
+        - cpe:/a:redhat:storage:3:console:el6
+        - cpe:/a:redhat:storage:3:nagios:el6
+        - cpe:/a:redhat:storage:3:nfs:el6
+        - cpe:/a:redhat:storage:3:samba:el6
+        - cpe:/a:redhat:storage:3:server:el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-5370
+          Severity: CRITICAL
+        - ID: CVE-2016-2110
+          Severity: MEDIUM
+        - ID: CVE-2016-2111
+          Severity: MEDIUM
+        - ID: CVE-2016-2112
+          Severity: MEDIUM
+        - ID: CVE-2016-2113
+          Severity: MEDIUM
+        - ID: CVE-2016-2114
+          Severity: MEDIUM
+        - ID: CVE-2016-2115
+          Severity: MEDIUM
+        - ID: CVE-2016-2118
+          Severity: HIGH
+      FixedVersion: 0:0.9.26-1.el6rhs
+    - Affected:
+        - cpe:/a:redhat:storage:3
+        - cpe:/a:redhat:storage:3.1
+        - cpe:/a:redhat:storage:3.1:bigdata:el7
+        - cpe:/a:redhat:storage:3.1:nagios:el7
+        - cpe:/a:redhat:storage:3.1:nfs:el7
+        - cpe:/a:redhat:storage:3.1:samba:el7
+        - cpe:/a:redhat:storage:3.1:server:el7
+        - cpe:/a:redhat:storage:3.1:splunk:el7
+        - cpe:/a:redhat:storage:3.2
+        - cpe:/a:redhat:storage:3.2:nagios:el7
+        - cpe:/a:redhat:storage:3.2:nfs:el7
+        - cpe:/a:redhat:storage:3.2:samba:el7
+        - cpe:/a:redhat:storage:3.2:server:el7
+        - cpe:/a:redhat:storage:3.3
+        - cpe:/a:redhat:storage:3.3:na:el7
+        - cpe:/a:redhat:storage:3.3:nagios:el7
+        - cpe:/a:redhat:storage:3.3:nfs:el7
+        - cpe:/a:redhat:storage:3.3:samba:el7
+        - cpe:/a:redhat:storage:3.3:server:el7
+        - cpe:/a:redhat:storage:3.3:wa:el7
+        - cpe:/a:redhat:storage:3.4
+        - cpe:/a:redhat:storage:3.4:na:el7
+        - cpe:/a:redhat:storage:3.4:nfs:el7
+        - cpe:/a:redhat:storage:3.4:samba:el7
+        - cpe:/a:redhat:storage:3.4:server:el7
+        - cpe:/a:redhat:storage:3.4:wa:el7
+        - cpe:/a:redhat:storage:3.5
+        - cpe:/a:redhat:storage:3.5:na:el7
+        - cpe:/a:redhat:storage:3.5:nfs:el7
+        - cpe:/a:redhat:storage:3.5:samba:el7
+        - cpe:/a:redhat:storage:3.5:server:el7
+        - cpe:/a:redhat:storage:3.5:wa:el7
+        - cpe:/a:redhat:storage:3:client:el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2015-5370
+          Severity: CRITICAL
+        - ID: CVE-2016-2110
+          Severity: MEDIUM
+        - ID: CVE-2016-2111
+          Severity: MEDIUM
+        - ID: CVE-2016-2112
+          Severity: MEDIUM
+        - ID: CVE-2016-2113
+          Severity: MEDIUM
+        - ID: CVE-2016-2114
+          Severity: MEDIUM
+        - ID: CVE-2016-2115
+          Severity: MEDIUM
+        - ID: CVE-2016-2118
+          Severity: HIGH
+      FixedVersion: 0:0.9.26-1.el7rhgs

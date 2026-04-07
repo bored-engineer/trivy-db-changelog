@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 5.8.22
+VulnerableVersions:
+    - '>=5.0.0-RC1, <5.8.22'

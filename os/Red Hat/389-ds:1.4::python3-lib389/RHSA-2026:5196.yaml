@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+      Cves:
+        - ID: CVE-2025-14905
+          Severity: MEDIUM
+      FixedVersion: 0:1.4.2.4-19.module+el8.2.0+24058+ed9808c7

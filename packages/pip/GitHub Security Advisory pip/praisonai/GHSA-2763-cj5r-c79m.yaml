@@ -1,4 +1,6 @@
 PatchedVersions:
     - 4.5.121
+    - 4.5.121
 VulnerableVersions:
+    - <4.5.121
     - <4.5.121

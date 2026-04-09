@@ -1,0 +1,66 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:9.4
+        - cpe:/a:redhat:rhel_aus:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4
+        - cpe:/a:redhat:rhel_e4s:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.4::nfv
+        - cpe:/a:redhat:rhel_e4s:9.4::realtime
+        - cpe:/a:redhat:rhel_e4s:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.4::sap
+        - cpe:/a:redhat:rhel_e4s:9.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.4
+        - cpe:/a:redhat:rhel_eus:9.4::appstream
+        - cpe:/a:redhat:rhel_eus:9.4::crb
+        - cpe:/a:redhat:rhel_eus:9.4::highavailability
+        - cpe:/a:redhat:rhel_eus:9.4::nfv
+        - cpe:/a:redhat:rhel_eus:9.4::realtime
+        - cpe:/a:redhat:rhel_eus:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.4::sap
+        - cpe:/a:redhat:rhel_eus:9.4::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.4::supplementary
+        - cpe:/o:redhat:rhel_aus:9.4
+        - cpe:/o:redhat:rhel_aus:9.4::baseos
+        - cpe:/o:redhat:rhel_e4s:9.4
+        - cpe:/o:redhat:rhel_e4s:9.4::baseos
+        - cpe:/o:redhat:rhel_eus:9.4
+        - cpe:/o:redhat:rhel_eus:9.4::baseos
+      Arches:
+        - aarch64
+      Cves:
+        - ID: CVE-2021-47185
+          Severity: LOW
+        - ID: CVE-2023-52835
+          Severity: MEDIUM
+        - ID: CVE-2023-53558
+          Severity: MEDIUM
+        - ID: CVE-2024-26660
+          Severity: MEDIUM
+        - ID: CVE-2024-27025
+          Severity: LOW
+        - ID: CVE-2024-41039
+          Severity: MEDIUM
+        - ID: CVE-2024-41065
+          Severity: LOW
+        - ID: CVE-2024-42226
+          Severity: MEDIUM
+        - ID: CVE-2024-50074
+          Severity: MEDIUM
+        - ID: CVE-2024-50082
+          Severity: LOW
+        - ID: CVE-2025-21887
+          Severity: MEDIUM
+        - ID: CVE-2025-21905
+          Severity: MEDIUM
+        - ID: CVE-2025-22104
+          Severity: MEDIUM
+        - ID: CVE-2025-22113
+          Severity: MEDIUM
+        - ID: CVE-2025-37803
+          Severity: MEDIUM
+        - ID: CVE-2025-38087
+          Severity: MEDIUM
+        - ID: CVE-2025-38089
+          Severity: HIGH
+      FixedVersion: 0:5.14.0-427.79.1.el9_4

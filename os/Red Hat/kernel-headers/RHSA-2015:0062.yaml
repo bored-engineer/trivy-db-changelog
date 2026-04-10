@@ -1,0 +1,26 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+        - cpe:/o:redhat:rhel_eus:6.5
+        - cpe:/o:redhat:rhel_eus:6.5::computenode
+        - cpe:/o:redhat:rhel_eus:6.5::server
+        - cpe:/o:redhat:rhel_tus:6.5
+        - cpe:/o:redhat:rhel_tus:6.5::server
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2014-3673
+          Severity: HIGH
+        - ID: CVE-2014-3687
+          Severity: HIGH
+        - ID: CVE-2014-3688
+          Severity: HIGH
+        - ID: CVE-2014-4608
+          Severity: LOW
+        - ID: CVE-2014-5045
+          Severity: MEDIUM
+      FixedVersion: 0:2.6.32-431.46.2.el6

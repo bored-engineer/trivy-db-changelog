@@ -1,8 +1,5 @@
 Entries:
     - Affected:
-        - cpe:/a:redhat:rhel_aus:9.2
-        - cpe:/a:redhat:rhel_aus:9.2::appstream
-        - cpe:/a:redhat:rhel_aus:9.2::highavailability
         - cpe:/a:redhat:rhel_e4s:9.2
         - cpe:/a:redhat:rhel_e4s:9.2::appstream
         - cpe:/a:redhat:rhel_e4s:9.2::highavailability
@@ -21,8 +18,6 @@ Entries:
         - cpe:/a:redhat:rhel_eus:9.2::sap
         - cpe:/a:redhat:rhel_eus:9.2::sap_hana
         - cpe:/a:redhat:rhel_eus:9.2::supplementary
-        - cpe:/o:redhat:rhel_aus:9.2
-        - cpe:/o:redhat:rhel_aus:9.2::baseos
         - cpe:/o:redhat:rhel_e4s:9.2
         - cpe:/o:redhat:rhel_e4s:9.2::baseos
         - cpe:/o:redhat:rhel_eus:9.2
@@ -34,6 +29,8 @@ Entries:
       Cves:
         - ID: CVE-2021-47400
           Severity: MEDIUM
+        - ID: CVE-2023-53496
+          Severity: LOW
         - ID: CVE-2024-27393
           Severity: LOW
         - ID: CVE-2024-27397

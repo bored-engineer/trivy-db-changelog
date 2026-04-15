@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2025-59088
+          Severity: HIGH
+        - ID: CVE-2025-59089
+          Severity: MEDIUM
+      FixedVersion: 0:4.8.4-14.module+el8.2.0+23544+91c528c8.10

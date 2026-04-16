@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 14.20.0
+VulnerableVersions:
+    - <14.20.0

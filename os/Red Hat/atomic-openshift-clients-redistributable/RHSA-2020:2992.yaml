@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:3.11
+        - cpe:/a:redhat:openshift:3.11::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-14891
+          Severity: MEDIUM
+        - ID: CVE-2020-10715
+          Severity: LOW
+        - ID: CVE-2020-7598
+          Severity: MEDIUM
+        - ID: CVE-2020-8552
+          Severity: MEDIUM
+        - ID: CVE-2020-8558
+          Severity: MEDIUM
+        - ID: CVE-2020-8945
+          Severity: MEDIUM
+      FixedVersion: 0:3.11.248-1.git.0.92ee8ac.el7

@@ -1,4 +1,0 @@
-PatchedVersions:
-    - 15.2.0
-VulnerableVersions:
-    - '>=13.1.0, <15.2.0'

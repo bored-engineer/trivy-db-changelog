@@ -1,0 +1,13 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhev_manager:4
+        - cpe:/a:redhat:rhev_manager:4.2
+        - cpe:/a:redhat:rhev_manager:4.3
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-19336
+          Severity: MEDIUM
+      FixedVersion: 0:1.5.3-0.el7ev

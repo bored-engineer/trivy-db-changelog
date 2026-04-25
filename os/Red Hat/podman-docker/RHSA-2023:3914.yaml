@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.11
+        - cpe:/a:redhat:openshift:4.11::el8
+      Cves:
+        - ID: CVE-2022-23772
+          Severity: MEDIUM
+        - ID: CVE-2022-24675
+          Severity: MEDIUM
+        - ID: CVE-2022-28327
+          Severity: MEDIUM
+        - ID: CVE-2022-30629
+          Severity: LOW
+        - ID: CVE-2022-41717
+          Severity: MEDIUM
+        - ID: CVE-2023-24540
+          Severity: HIGH
+        - ID: CVE-2023-3089
+          Severity: MEDIUM
+      FixedVersion: 2:4.0.2-7.rhaos4.11.el8

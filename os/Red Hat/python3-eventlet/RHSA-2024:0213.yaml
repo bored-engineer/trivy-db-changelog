@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:17.1
+        - cpe:/a:redhat:openstack:17.1::el9
+      Cves:
+        - ID: CVE-2023-5625
+          Severity: MEDIUM
+      FixedVersion: 0:0.30.2-4.el9ost

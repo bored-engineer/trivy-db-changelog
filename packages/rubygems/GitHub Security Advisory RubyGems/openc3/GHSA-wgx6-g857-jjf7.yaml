@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 6.10.5
+    - 7.0.0-rc3
+VulnerableVersions:
+    - <6.10.5
+    - '>=7.0.0.pre.rc1, <7.0.0-rc3'

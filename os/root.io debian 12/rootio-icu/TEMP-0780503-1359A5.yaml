@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 52.1-8
+VulnerableVersions:
+    - <52.1-8

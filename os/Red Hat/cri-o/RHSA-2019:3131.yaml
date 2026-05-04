@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.1
+        - cpe:/a:redhat:openshift:4.1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-9512
+          Severity: HIGH
+        - ID: CVE-2019-9514
+          Severity: HIGH
+      FixedVersion: 0:1.13.11-0.10.dev.rhaos4.1.gitbdeb2ca.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.1
+        - cpe:/a:redhat:openshift:4.1::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-9512
+          Severity: HIGH
+        - ID: CVE-2019-9514
+          Severity: HIGH
+      FixedVersion: 0:1.13.11-0.13.dev.rhaos4.1.gitbdeb2ca.el8

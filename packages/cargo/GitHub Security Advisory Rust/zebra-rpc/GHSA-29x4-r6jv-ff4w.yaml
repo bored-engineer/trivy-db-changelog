@@ -1,4 +1,0 @@
-PatchedVersions:
-    - 6.0.2
-VulnerableVersions:
-    - '>=1.0.0-beta.45, <6.0.2'

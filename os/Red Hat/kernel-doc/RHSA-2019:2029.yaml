@@ -47,7 +47,7 @@ Entries:
         - ID: CVE-2018-16658
           Severity: LOW
         - ID: CVE-2018-16885
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2018-18281
           Severity: MEDIUM
         - ID: CVE-2018-19824

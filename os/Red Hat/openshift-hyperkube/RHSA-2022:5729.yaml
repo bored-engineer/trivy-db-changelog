@@ -1,0 +1,42 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.10
+        - cpe:/a:redhat:openshift:4.10::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-23773
+          Severity: MEDIUM
+        - ID: CVE-2022-23806
+          Severity: MEDIUM
+        - ID: CVE-2022-24675
+          Severity: MEDIUM
+        - ID: CVE-2022-24921
+          Severity: MEDIUM
+        - ID: CVE-2022-28327
+          Severity: MEDIUM
+        - ID: CVE-2022-29526
+          Severity: MEDIUM
+      FixedVersion: 0:4.10.0-202207192015.p0.g012e945.assembly.stream.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.10
+        - cpe:/a:redhat:openshift:4.10::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-23773
+          Severity: MEDIUM
+        - ID: CVE-2022-23806
+          Severity: MEDIUM
+        - ID: CVE-2022-24675
+          Severity: MEDIUM
+        - ID: CVE-2022-24921
+          Severity: MEDIUM
+        - ID: CVE-2022-28327
+          Severity: MEDIUM
+        - ID: CVE-2022-29526
+          Severity: MEDIUM
+      FixedVersion: 0:4.10.0-202207192015.p0.g012e945.assembly.stream.el8

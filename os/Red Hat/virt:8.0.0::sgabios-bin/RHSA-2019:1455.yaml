@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:advanced_virtualization:8
+        - cpe:/a:redhat:advanced_virtualization:8::el8
+      Cves:
+        - ID: CVE-2018-12126
+          Severity: MEDIUM
+        - ID: CVE-2018-12127
+          Severity: MEDIUM
+        - ID: CVE-2018-12130
+          Severity: HIGH
+        - ID: CVE-2019-10132
+          Severity: HIGH
+        - ID: CVE-2019-11091
+          Severity: MEDIUM
+      FixedVersion: 1:0.20170427git-2.module+el8.0.0+3273+6bc1ee54

@@ -20,6 +20,8 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-31431
           Severity: HIGH
+        - ID: CVE-2026-43077
+          Severity: HIGH
       FixedVersion: 0:4.18.0-372.191.1.el8_6
     - Affected:
         - cpe:/a:redhat:rhel_e4s:8.6
@@ -40,5 +42,7 @@ Entries:
         - ID: CVE-2026-23401
           Severity: HIGH
         - ID: CVE-2026-31431
+          Severity: HIGH
+        - ID: CVE-2026-43077
           Severity: HIGH
       FixedVersion: 0:4.18.0-372.191.1.el8_6

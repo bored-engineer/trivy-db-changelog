@@ -1,0 +1,30 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:ceph_storage:7.0
+        - cpe:/a:redhat:ceph_storage:7.0::el9
+        - cpe:/a:redhat:ceph_storage:7.1
+        - cpe:/a:redhat:ceph_storage:7.1::el9
+      Cves:
+        - ID: CVE-2021-23358
+          Severity: HIGH
+        - ID: CVE-2022-34749
+          Severity: MEDIUM
+        - ID: CVE-2024-11831
+          Severity: MEDIUM
+        - ID: CVE-2024-31884
+          Severity: MEDIUM
+        - ID: CVE-2024-47866
+          Severity: HIGH
+        - ID: CVE-2024-51744
+          Severity: LOW
+        - ID: CVE-2024-55565
+          Severity: MEDIUM
+        - ID: CVE-2025-26791
+          Severity: MEDIUM
+        - ID: CVE-2025-47913
+          Severity: HIGH
+        - ID: CVE-2025-52555
+          Severity: MEDIUM
+        - ID: CVE-2025-61729
+          Severity: HIGH
+      FixedVersion: 2:18.2.1-381.el9cp

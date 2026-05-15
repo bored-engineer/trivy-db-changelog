@@ -1,0 +1,73 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_els:6
+        - cpe:/o:redhat:rhel_eus:6.6
+        - cpe:/o:redhat:rhel_eus:6.6::computenode
+        - cpe:/o:redhat:rhel_eus:6.6::server
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2015-1213
+          Severity: HIGH
+        - ID: CVE-2015-1214
+          Severity: HIGH
+        - ID: CVE-2015-1215
+          Severity: HIGH
+        - ID: CVE-2015-1216
+          Severity: HIGH
+        - ID: CVE-2015-1217
+          Severity: HIGH
+        - ID: CVE-2015-1218
+          Severity: HIGH
+        - ID: CVE-2015-1219
+          Severity: HIGH
+        - ID: CVE-2015-1220
+          Severity: HIGH
+        - ID: CVE-2015-1221
+          Severity: HIGH
+        - ID: CVE-2015-1222
+          Severity: HIGH
+        - ID: CVE-2015-1223
+          Severity: HIGH
+        - ID: CVE-2015-1224
+          Severity: MEDIUM
+        - ID: CVE-2015-1225
+          Severity: MEDIUM
+        - ID: CVE-2015-1226
+          Severity: MEDIUM
+        - ID: CVE-2015-1227
+          Severity: MEDIUM
+        - ID: CVE-2015-1228
+          Severity: MEDIUM
+        - ID: CVE-2015-1229
+          Severity: MEDIUM
+        - ID: CVE-2015-1230
+          Severity: HIGH
+        - ID: CVE-2015-1231
+          Severity: HIGH
+        - ID: CVE-2015-1232
+          Severity: HIGH
+      FixedVersion: 0:41.0.2272.76-1.el6_6

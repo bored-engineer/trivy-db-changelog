@@ -1,0 +1,13 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.4
+        - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_aus:8.4::highavailability
+        - cpe:/o:redhat:rhel_aus:8.4
+        - cpe:/o:redhat:rhel_aus:8.4::baseos
+      Cves:
+        - ID: CVE-2025-12817
+          Severity: LOW
+        - ID: CVE-2025-12818
+          Severity: MEDIUM
+      FixedVersion: 0:13.23-1.module+el8.4.0+23703+6d959a24

@@ -1,0 +1,25 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-65637
+          Severity: MEDIUM
+      FixedVersion: 0:4.14.0-202602170118.p2.ga3faddd.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el9
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-65637
+          Severity: MEDIUM
+      FixedVersion: 0:4.14.0-202602170118.p2.ga3faddd.assembly.stream.el9

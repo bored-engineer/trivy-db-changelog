@@ -24,5 +24,5 @@ Entries:
         - ID: CVE-2026-31431
           Severity: HIGH
         - ID: CVE-2026-43077
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-284.169.1.el9_2

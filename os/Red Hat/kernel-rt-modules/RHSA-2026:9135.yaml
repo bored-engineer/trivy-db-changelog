@@ -16,7 +16,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2025-68741
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2026-23191
           Severity: MEDIUM
       FixedVersion: 0:4.18.0-553.120.1.rt7.461.el8_10

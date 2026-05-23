@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 40.33.0
+VulnerableVersions:
+    - '>=32.135.0, <40.33.0'

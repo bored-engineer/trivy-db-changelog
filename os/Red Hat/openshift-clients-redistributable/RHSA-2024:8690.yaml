@@ -1,0 +1,43 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.13
+        - cpe:/a:redhat:openshift:4.13::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2024-34155
+          Severity: MEDIUM
+        - ID: CVE-2024-34156
+          Severity: HIGH
+        - ID: CVE-2024-34158
+          Severity: MEDIUM
+        - ID: CVE-2024-9341
+          Severity: MEDIUM
+        - ID: CVE-2024-9675
+          Severity: HIGH
+        - ID: CVE-2024-9676
+          Severity: MEDIUM
+        - ID: CVE-2025-4953
+          Severity: MEDIUM
+      FixedVersion: 0:4.13.0-202410181847.p0.gd192e90.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.13
+        - cpe:/a:redhat:openshift:4.13::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2024-34155
+          Severity: MEDIUM
+        - ID: CVE-2024-34156
+          Severity: HIGH
+        - ID: CVE-2024-34158
+          Severity: MEDIUM
+        - ID: CVE-2024-9341
+          Severity: MEDIUM
+        - ID: CVE-2024-9675
+          Severity: HIGH
+        - ID: CVE-2024-9676
+          Severity: MEDIUM
+        - ID: CVE-2025-4953
+          Severity: MEDIUM
+      FixedVersion: 0:4.13.0-202410181847.p0.gd192e90.assembly.stream.el9

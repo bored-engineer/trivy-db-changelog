@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:17.1
+        - cpe:/a:redhat:openstack:17.1::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-29409
+          Severity: MEDIUM
+        - ID: CVE-2023-39325
+          Severity: HIGH
+        - ID: CVE-2023-44487
+          Severity: HIGH
+      FixedVersion: 0:1.9.0-1.20230509101018.el9ost

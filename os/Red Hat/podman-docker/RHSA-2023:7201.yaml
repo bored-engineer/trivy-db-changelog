@@ -1,0 +1,27 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.15
+        - cpe:/a:redhat:openshift:4.15::el8
+      Cves:
+        - ID: CVE-2023-39325
+          Severity: HIGH
+        - ID: CVE-2023-39326
+          Severity: MEDIUM
+        - ID: CVE-2023-45287
+          Severity: MEDIUM
+        - ID: CVE-2023-48795
+          Severity: MEDIUM
+      FixedVersion: 3:4.4.1-21.rhaos4.15.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.15
+        - cpe:/a:redhat:openshift:4.15::el9
+      Cves:
+        - ID: CVE-2023-39325
+          Severity: HIGH
+        - ID: CVE-2023-39326
+          Severity: MEDIUM
+        - ID: CVE-2023-45287
+          Severity: MEDIUM
+        - ID: CVE-2023-48795
+          Severity: MEDIUM
+      FixedVersion: 3:4.4.1-21.rhaos4.15.el9

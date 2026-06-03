@@ -12,7 +12,6 @@ Entries:
         - cpe:/o:redhat:rhel_e4s:9.2::baseos
       Arches:
         - aarch64
-        - i686
         - ppc64le
         - s390x
         - x86_64

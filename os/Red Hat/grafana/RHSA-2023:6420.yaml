@@ -92,7 +92,7 @@ Entries:
         - ID: CVE-2022-31130
           Severity: MEDIUM
         - ID: CVE-2022-37601
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2022-39201
           Severity: MEDIUM
         - ID: CVE-2022-39306

@@ -1,0 +1,34 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0::el8
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.1::el8
+      Cves:
+        - ID: CVE-2025-14813
+          Severity: HIGH
+        - ID: CVE-2025-23368
+          Severity: HIGH
+        - ID: CVE-2026-0636
+          Severity: HIGH
+        - ID: CVE-2026-26996
+          Severity: MEDIUM
+        - ID: CVE-2026-27446
+          Severity: HIGH
+        - ID: CVE-2026-27727
+          Severity: HIGH
+        - ID: CVE-2026-27830
+          Severity: HIGH
+        - ID: CVE-2026-27904
+          Severity: MEDIUM
+        - ID: CVE-2026-33870
+          Severity: HIGH
+        - ID: CVE-2026-33871
+          Severity: HIGH
+        - ID: CVE-2026-3505
+          Severity: HIGH
+        - ID: CVE-2026-5588
+          Severity: HIGH
+        - ID: CVE-2026-5598
+          Severity: HIGH
+      FixedVersion: 0:4.1.132-1.Final_redhat_00001.1.el8eap

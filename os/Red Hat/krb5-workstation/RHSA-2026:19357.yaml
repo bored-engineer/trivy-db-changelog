@@ -44,5 +44,5 @@ Entries:
         - ID: CVE-2026-40355
           Severity: MEDIUM
         - ID: CVE-2026-40356
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:1.21.1-10.el9_8

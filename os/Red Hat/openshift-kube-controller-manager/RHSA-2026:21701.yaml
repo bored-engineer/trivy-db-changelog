@@ -1,6 +1,18 @@
 Entries:
     - Affected:
         - cpe:/a:redhat:openshift:4.20
+        - cpe:/a:redhat:openshift:4.20::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-58183
+          Severity: MEDIUM
+      FixedVersion: 0:4.20.0-202605141748.p2.g2a0461f.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.20
         - cpe:/a:redhat:openshift:4.20::el9
       Arches:
         - aarch64

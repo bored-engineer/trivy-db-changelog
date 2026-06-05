@@ -15,6 +15,12 @@ Entries:
         - cpe:/o:redhat:enterprise_linux:7::workstation
         - cpe:/o:redhat:rhel_els:7
       Cves:
+        - ID: CVE-2026-32280
+          Severity: HIGH
+        - ID: CVE-2026-32281
+          Severity: MEDIUM
+        - ID: CVE-2026-32282
+          Severity: MEDIUM
         - ID: CVE-2026-32283
           Severity: HIGH
       FixedVersion: 0:1.4.0-7.el7_9

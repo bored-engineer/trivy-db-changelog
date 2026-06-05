@@ -10,6 +10,8 @@ Entries:
       Cves:
         - ID: CVE-2025-58183
           Severity: MEDIUM
+        - ID: CVE-2026-46333
+          Severity: HIGH
       FixedVersion: 0:4.20.0-202605141748.p2.g2a0461f.assembly.stream.el8
     - Affected:
         - cpe:/a:redhat:openshift:4.20
@@ -22,4 +24,6 @@ Entries:
       Cves:
         - ID: CVE-2025-58183
           Severity: MEDIUM
+        - ID: CVE-2026-46333
+          Severity: HIGH
       FixedVersion: 0:4.20.0-202605141748.p2.g2a0461f.assembly.stream.el9

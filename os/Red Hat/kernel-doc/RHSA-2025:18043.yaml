@@ -1,0 +1,43 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6
+        - cpe:/a:redhat:rhel_e4s:8.6::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.6::nfv
+        - cpe:/a:redhat:rhel_e4s:8.6::sap
+        - cpe:/a:redhat:rhel_e4s:8.6::sap_hana
+        - cpe:/a:redhat:rhel_tus:8.6
+        - cpe:/a:redhat:rhel_tus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6::highavailability
+        - cpe:/a:redhat:rhel_tus:8.6::nfv
+        - cpe:/a:redhat:rhel_tus:8.6::realtime
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+        - cpe:/o:redhat:rhel_e4s:8.6
+        - cpe:/o:redhat:rhel_e4s:8.6::baseos
+        - cpe:/o:redhat:rhel_tus:8.6
+        - cpe:/o:redhat:rhel_tus:8.6::baseos
+      Cves:
+        - ID: CVE-2022-49969
+          Severity: MEDIUM
+        - ID: CVE-2022-49985
+          Severity: MEDIUM
+        - ID: CVE-2022-50087
+          Severity: MEDIUM
+        - ID: CVE-2022-50229
+          Severity: MEDIUM
+        - ID: CVE-2025-22097
+          Severity: MEDIUM
+        - ID: CVE-2025-37914
+          Severity: MEDIUM
+        - ID: CVE-2025-38211
+          Severity: MEDIUM
+        - ID: CVE-2025-38449
+          Severity: MEDIUM
+        - ID: CVE-2025-38461
+          Severity: MEDIUM
+        - ID: CVE-2025-38498
+          Severity: MEDIUM
+      FixedVersion: 0:4.18.0-372.164.1.el8_6

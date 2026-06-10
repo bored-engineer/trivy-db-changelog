@@ -36,15 +36,11 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-22018
           Severity: LOW
-        - ID: CVE-2026-22020
-          Severity: HIGH
         - ID: CVE-2026-22021
           Severity: MEDIUM
         - ID: CVE-2026-23865
           Severity: MEDIUM
         - ID: CVE-2026-25646
-          Severity: HIGH
-        - ID: CVE-2026-26740
           Severity: HIGH
         - ID: CVE-2026-34268
           Severity: LOW
@@ -88,15 +84,11 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-22018
           Severity: LOW
-        - ID: CVE-2026-22020
-          Severity: HIGH
         - ID: CVE-2026-22021
           Severity: MEDIUM
         - ID: CVE-2026-23865
           Severity: MEDIUM
         - ID: CVE-2026-25646
-          Severity: HIGH
-        - ID: CVE-2026-26740
           Severity: HIGH
         - ID: CVE-2026-34268
           Severity: LOW
@@ -125,15 +117,11 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-22018
           Severity: LOW
-        - ID: CVE-2026-22020
-          Severity: HIGH
         - ID: CVE-2026-22021
           Severity: MEDIUM
         - ID: CVE-2026-23865
           Severity: MEDIUM
         - ID: CVE-2026-25646
-          Severity: HIGH
-        - ID: CVE-2026-26740
           Severity: HIGH
         - ID: CVE-2026-34268
           Severity: LOW
@@ -192,15 +180,11 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-22018
           Severity: LOW
-        - ID: CVE-2026-22020
-          Severity: HIGH
         - ID: CVE-2026-22021
           Severity: MEDIUM
         - ID: CVE-2026-23865
           Severity: MEDIUM
         - ID: CVE-2026-25646
-          Severity: HIGH
-        - ID: CVE-2026-26740
           Severity: HIGH
         - ID: CVE-2026-34268
           Severity: LOW
@@ -288,15 +272,11 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-22018
           Severity: LOW
-        - ID: CVE-2026-22020
-          Severity: HIGH
         - ID: CVE-2026-22021
           Severity: MEDIUM
         - ID: CVE-2026-23865
           Severity: MEDIUM
         - ID: CVE-2026-25646
-          Severity: HIGH
-        - ID: CVE-2026-26740
           Severity: HIGH
         - ID: CVE-2026-34268
           Severity: LOW

@@ -34,7 +34,7 @@ Entries:
         - ID: CVE-2026-23097
           Severity: MEDIUM
         - ID: CVE-2026-23111
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2026-23144
           Severity: MEDIUM
         - ID: CVE-2026-23171

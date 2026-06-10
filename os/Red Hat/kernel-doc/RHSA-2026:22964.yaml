@@ -26,7 +26,7 @@ Entries:
         - ID: CVE-2026-23216
           Severity: MEDIUM
         - ID: CVE-2026-43037
-          Severity: HIGH
+          Severity: CRITICAL
         - ID: CVE-2026-43038
           Severity: HIGH
       FixedVersion: 0:4.18.0-477.145.1.el8_8

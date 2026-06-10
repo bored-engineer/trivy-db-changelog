@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.16
+        - cpe:/a:redhat:openshift:4.16::el9
+      Cves:
+        - ID: CVE-2025-4953
+          Severity: MEDIUM
+        - ID: CVE-2025-9566
+          Severity: HIGH
+      FixedVersion: 4:2.237.0-2.rhaos4.16.el9

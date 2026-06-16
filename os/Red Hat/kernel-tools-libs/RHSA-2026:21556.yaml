@@ -78,4 +78,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2026-43303
           Severity: MEDIUM
+        - ID: CVE-2026-46195
+          Severity: HIGH
       FixedVersion: 0:5.14.0-687.12.1.el9_8

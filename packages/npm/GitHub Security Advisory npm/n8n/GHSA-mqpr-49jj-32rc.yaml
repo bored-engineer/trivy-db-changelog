@@ -1,6 +1,0 @@
-PatchedVersions:
-    - 1.123.15
-    - 2.5.0
-VulnerableVersions:
-    - <1.123.15
-    - '>=2.0.0, <2.5.0'

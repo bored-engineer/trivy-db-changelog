@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:service_mesh:2.0
+        - cpe:/a:redhat:service_mesh:2.0::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2021-32777
+          Severity: HIGH
+        - ID: CVE-2021-32779
+          Severity: HIGH
+        - ID: CVE-2021-32781
+          Severity: HIGH
+        - ID: CVE-2021-39155
+          Severity: HIGH
+        - ID: CVE-2021-39156
+          Severity: HIGH
+      FixedVersion: 0:2.0.7-3.el8

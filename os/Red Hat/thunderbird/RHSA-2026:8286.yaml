@@ -1,0 +1,97 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.0
+        - cpe:/a:redhat:rhel_e4s:9.0::appstream
+        - cpe:/a:redhat:rhel_e4s:9.0::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.0::nfv
+        - cpe:/a:redhat:rhel_e4s:9.0::realtime
+        - cpe:/a:redhat:rhel_e4s:9.0::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.0::sap
+        - cpe:/a:redhat:rhel_e4s:9.0::sap_hana
+        - cpe:/o:redhat:rhel_e4s:9.0
+        - cpe:/o:redhat:rhel_e4s:9.0::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-3889
+          Severity: LOW
+        - ID: CVE-2026-4371
+          Severity: HIGH
+        - ID: CVE-2026-4684
+          Severity: HIGH
+        - ID: CVE-2026-4685
+          Severity: HIGH
+        - ID: CVE-2026-4686
+          Severity: HIGH
+        - ID: CVE-2026-4687
+          Severity: HIGH
+        - ID: CVE-2026-4688
+          Severity: HIGH
+        - ID: CVE-2026-4689
+          Severity: HIGH
+        - ID: CVE-2026-4690
+          Severity: HIGH
+        - ID: CVE-2026-4691
+          Severity: HIGH
+        - ID: CVE-2026-4692
+          Severity: HIGH
+        - ID: CVE-2026-4693
+          Severity: HIGH
+        - ID: CVE-2026-4694
+          Severity: HIGH
+        - ID: CVE-2026-4695
+          Severity: HIGH
+        - ID: CVE-2026-4696
+          Severity: HIGH
+        - ID: CVE-2026-4697
+          Severity: HIGH
+        - ID: CVE-2026-4698
+          Severity: HIGH
+        - ID: CVE-2026-4699
+          Severity: HIGH
+        - ID: CVE-2026-4700
+          Severity: HIGH
+        - ID: CVE-2026-4701
+          Severity: MEDIUM
+        - ID: CVE-2026-4702
+          Severity: MEDIUM
+        - ID: CVE-2026-4704
+          Severity: MEDIUM
+        - ID: CVE-2026-4705
+          Severity: MEDIUM
+        - ID: CVE-2026-4706
+          Severity: MEDIUM
+        - ID: CVE-2026-4707
+          Severity: MEDIUM
+        - ID: CVE-2026-4708
+          Severity: MEDIUM
+        - ID: CVE-2026-4709
+          Severity: MEDIUM
+        - ID: CVE-2026-4710
+          Severity: MEDIUM
+        - ID: CVE-2026-4711
+          Severity: MEDIUM
+        - ID: CVE-2026-4712
+          Severity: MEDIUM
+        - ID: CVE-2026-4713
+          Severity: MEDIUM
+        - ID: CVE-2026-4714
+          Severity: MEDIUM
+        - ID: CVE-2026-4715
+          Severity: MEDIUM
+        - ID: CVE-2026-4716
+          Severity: MEDIUM
+        - ID: CVE-2026-4717
+          Severity: MEDIUM
+        - ID: CVE-2026-4718
+          Severity: LOW
+        - ID: CVE-2026-4719
+          Severity: LOW
+        - ID: CVE-2026-4720
+          Severity: HIGH
+        - ID: CVE-2026-4721
+          Severity: HIGH
+      FixedVersion: 0:140.9.0-1.el9_0

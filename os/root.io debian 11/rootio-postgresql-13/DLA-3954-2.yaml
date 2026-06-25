@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 13.18-0+deb11u1
+VulnerableVersions:
+    - <13.18-0+deb11u1

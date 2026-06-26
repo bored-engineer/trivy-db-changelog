@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6
+        - cpe:/a:redhat:jboss_enterprise_application_platform:6::el5
+      Cves:
+        - ID: CVE-2013-4002
+          Severity: MEDIUM
+      FixedVersion: 0:2.7.12-1.SP1_redhat_1.1.ep6.el5

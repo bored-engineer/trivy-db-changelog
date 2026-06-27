@@ -1,0 +1,77 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::extensions
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_e4s:9.8
+        - cpe:/a:redhat:rhel_e4s:9.8::appstream
+        - cpe:/a:redhat:rhel_e4s:9.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.8::nfv
+        - cpe:/a:redhat:rhel_e4s:9.8::realtime
+        - cpe:/a:redhat:rhel_e4s:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.8::sap
+        - cpe:/a:redhat:rhel_e4s:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.8
+        - cpe:/a:redhat:rhel_eus:9.8::appstream
+        - cpe:/a:redhat:rhel_eus:9.8::crb
+        - cpe:/a:redhat:rhel_eus:9.8::highavailability
+        - cpe:/a:redhat:rhel_eus:9.8::nfv
+        - cpe:/a:redhat:rhel_eus:9.8::realtime
+        - cpe:/a:redhat:rhel_eus:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.8::sap
+        - cpe:/a:redhat:rhel_eus:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.8::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/o:redhat:rhel_e4s:9.8
+        - cpe:/o:redhat:rhel_e4s:9.8::baseos
+        - cpe:/o:redhat:rhel_eus:9.8
+        - cpe:/o:redhat:rhel_eus:9.8::baseos
+      Cves:
+        - ID: CVE-2026-21998
+          Severity: MEDIUM
+        - ID: CVE-2026-22001
+          Severity: LOW
+        - ID: CVE-2026-22002
+          Severity: MEDIUM
+        - ID: CVE-2026-22004
+          Severity: MEDIUM
+        - ID: CVE-2026-22005
+          Severity: MEDIUM
+        - ID: CVE-2026-22009
+          Severity: MEDIUM
+        - ID: CVE-2026-22015
+          Severity: MEDIUM
+        - ID: CVE-2026-22017
+          Severity: MEDIUM
+        - ID: CVE-2026-34270
+          Severity: MEDIUM
+        - ID: CVE-2026-34271
+          Severity: MEDIUM
+        - ID: CVE-2026-34276
+          Severity: MEDIUM
+        - ID: CVE-2026-34303
+          Severity: MEDIUM
+        - ID: CVE-2026-34304
+          Severity: MEDIUM
+        - ID: CVE-2026-34308
+          Severity: MEDIUM
+        - ID: CVE-2026-35236
+          Severity: MEDIUM
+        - ID: CVE-2026-35237
+          Severity: MEDIUM
+        - ID: CVE-2026-35238
+          Severity: MEDIUM
+        - ID: CVE-2026-35239
+          Severity: MEDIUM
+        - ID: CVE-2026-35240
+          Severity: MEDIUM
+      FixedVersion: 0:8.4.9-1.module+el9.8.0+24348+9b27f387

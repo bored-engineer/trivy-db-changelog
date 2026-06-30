@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+      Cves:
+        - ID: CVE-2026-34078
+          Severity: HIGH
+        - ID: CVE-2026-34079
+          Severity: MEDIUM
+      FixedVersion: 0:1.12.9-1.el8_6

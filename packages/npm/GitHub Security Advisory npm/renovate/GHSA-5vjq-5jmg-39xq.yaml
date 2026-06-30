@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 43.102.11
+VulnerableVersions:
+    - '>=43.65.0, <43.102.11'

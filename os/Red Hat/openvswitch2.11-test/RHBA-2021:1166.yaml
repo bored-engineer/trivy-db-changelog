@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::fastdatapath
+      Cves:
+        - ID: CVE-2021-36980
+          Severity: MEDIUM
+      FixedVersion: 0:2.11.3-89.el7fdp

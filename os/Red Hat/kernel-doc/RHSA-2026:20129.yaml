@@ -23,6 +23,8 @@ Entries:
         - cpe:/o:redhat:rhel_eus:9.6
         - cpe:/o:redhat:rhel_eus:9.6::baseos
       Cves:
+        - ID: CVE-2026-43503
+          Severity: HIGH
         - ID: CVE-2026-46300
           Severity: HIGH
         - ID: CVE-2026-46333

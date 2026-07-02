@@ -36,6 +36,22 @@ Entries:
         - cpe:/o:redhat:rhel_eus:9.8
         - cpe:/o:redhat:rhel_eus:9.8::baseos
       Cves:
+        - ID: CVE-2026-44168
+          Severity: HIGH
+        - ID: CVE-2026-44169
+          Severity: MEDIUM
+        - ID: CVE-2026-44170
+          Severity: HIGH
+        - ID: CVE-2026-44171
+          Severity: MEDIUM
+        - ID: CVE-2026-44172
+          Severity: HIGH
+        - ID: CVE-2026-44173
+          Severity: HIGH
+        - ID: CVE-2026-48163
+          Severity: HIGH
+        - ID: CVE-2026-48165
+          Severity: HIGH
         - ID: CVE-2026-49261
           Severity: HIGH
       FixedVersion: 3:11.8.8-1.module+el9.8.0+24389+c97c30be

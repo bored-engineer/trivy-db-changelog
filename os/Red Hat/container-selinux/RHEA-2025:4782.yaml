@@ -1,8 +1,0 @@
-Entries:
-    - Affected:
-        - cpe:/a:redhat:openshift:4.20
-        - cpe:/a:redhat:openshift:4.20::el9
-      Cves:
-        - ID: CVE-2025-9566
-          Severity: HIGH
-      FixedVersion: 4:2.237.0-1.rhaos4.20.el9

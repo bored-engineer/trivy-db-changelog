@@ -1,0 +1,24 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.4
+        - cpe:/a:redhat:rhel_e4s:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.4::nfv
+        - cpe:/a:redhat:rhel_e4s:9.4::realtime
+        - cpe:/a:redhat:rhel_e4s:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.4::sap
+        - cpe:/a:redhat:rhel_e4s:9.4::sap_hana
+        - cpe:/o:redhat:rhel_e4s:9.4
+        - cpe:/o:redhat:rhel_e4s:9.4::baseos
+      Cves:
+        - ID: CVE-2026-1933
+          Severity: HIGH
+        - ID: CVE-2026-2340
+          Severity: MEDIUM
+        - ID: CVE-2026-3012
+          Severity: HIGH
+        - ID: CVE-2026-4408
+          Severity: HIGH
+        - ID: CVE-2026-4480
+          Severity: HIGH
+      FixedVersion: 0:4.19.4-105.el9_4.4

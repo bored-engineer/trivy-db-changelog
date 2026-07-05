@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.7
+        - cpe:/a:redhat:openshift:4.7::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2019-3884
+          Severity: LOW
+        - ID: CVE-2020-15157
+          Severity: MEDIUM
+        - ID: CVE-2020-25658
+          Severity: MEDIUM
+        - ID: CVE-2020-28362
+          Severity: MEDIUM
+        - ID: CVE-2020-8566
+          Severity: LOW
+        - ID: CVE-2021-3121
+          Severity: MEDIUM
+      FixedVersion: 0:2.9.0-2.rhaos4.7.git1d56dc8.el8

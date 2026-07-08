@@ -16,3 +16,19 @@ Entries:
         - ID: CVE-2026-11774
           Severity: HIGH
       FixedVersion: 0:1.4.3.35-19.module+el8.8.0+24470+25f37233
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-11610
+          Severity: HIGH
+        - ID: CVE-2026-11774
+          Severity: HIGH
+      FixedVersion: 0:1.4.3.35-19.module+el8.8.0+24470+25f37233

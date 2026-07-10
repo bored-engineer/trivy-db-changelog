@@ -1,0 +1,7 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:6.1
+      Cves:
+        - ID: CVE-2013-0871
+          Severity: HIGH
+      FixedVersion: 0:2.6.32-131.38.1.el6

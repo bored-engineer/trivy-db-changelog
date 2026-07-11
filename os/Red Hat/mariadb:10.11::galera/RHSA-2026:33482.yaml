@@ -43,14 +43,10 @@ Entries:
       Cves:
         - ID: CVE-2026-44168
           Severity: HIGH
-        - ID: CVE-2026-44169
-          Severity: MEDIUM
         - ID: CVE-2026-44170
           Severity: HIGH
         - ID: CVE-2026-44171
           Severity: MEDIUM
-        - ID: CVE-2026-44172
-          Severity: HIGH
         - ID: CVE-2026-44173
           Severity: HIGH
         - ID: CVE-2026-48163

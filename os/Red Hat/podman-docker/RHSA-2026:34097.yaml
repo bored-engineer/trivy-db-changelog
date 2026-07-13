@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.17
+        - cpe:/a:redhat:openshift:4.17::el8
+      Cves:
+        - ID: CVE-2026-25679
+          Severity: HIGH
+        - ID: CVE-2026-32280
+          Severity: HIGH
+        - ID: CVE-2026-33186
+          Severity: HIGH
+      FixedVersion: 5:5.2.2-19.rhaos4.17.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.17
+        - cpe:/a:redhat:openshift:4.17::el9
+      Cves:
+        - ID: CVE-2026-25679
+          Severity: HIGH
+        - ID: CVE-2026-32280
+          Severity: HIGH
+        - ID: CVE-2026-33186
+          Severity: HIGH
+      FixedVersion: 5:5.2.2-19.rhaos4.17.el9

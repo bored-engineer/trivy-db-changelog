@@ -1,0 +1,54 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_rt_els:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_els:7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+        - cpe:/o:redhat:rhel_els:7
+      Cves:
+        - ID: CVE-2025-13502
+          Severity: HIGH
+        - ID: CVE-2025-13947
+          Severity: HIGH
+        - ID: CVE-2025-43392
+          Severity: MEDIUM
+        - ID: CVE-2025-43421
+          Severity: HIGH
+        - ID: CVE-2025-43425
+          Severity: HIGH
+        - ID: CVE-2025-43427
+          Severity: HIGH
+        - ID: CVE-2025-43429
+          Severity: HIGH
+        - ID: CVE-2025-43430
+          Severity: HIGH
+        - ID: CVE-2025-43431
+          Severity: HIGH
+        - ID: CVE-2025-43432
+          Severity: HIGH
+        - ID: CVE-2025-43433
+          Severity: HIGH
+        - ID: CVE-2025-43434
+          Severity: HIGH
+        - ID: CVE-2025-43438
+          Severity: HIGH
+        - ID: CVE-2025-43440
+          Severity: HIGH
+        - ID: CVE-2025-43441
+          Severity: HIGH
+        - ID: CVE-2025-43443
+          Severity: HIGH
+        - ID: CVE-2025-43458
+          Severity: HIGH
+        - ID: CVE-2025-66287
+          Severity: HIGH
+      FixedVersion: 0:2.50.3-2.el7_9

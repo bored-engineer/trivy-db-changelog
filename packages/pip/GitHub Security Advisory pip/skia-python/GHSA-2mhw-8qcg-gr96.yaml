@@ -1,0 +1,5 @@
+PatchedVersions:
+    - 144.0.post1
+VulnerableVersions:
+    - =144.0
+    - <144.0.post1

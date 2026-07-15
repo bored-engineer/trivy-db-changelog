@@ -14,4 +14,6 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-6478
           Severity: HIGH
+        - ID: CVE-2026-6637
+          Severity: HIGH
       FixedVersion: 0:12.22-1.module+el8.4.0+24442+74e4dc28.4

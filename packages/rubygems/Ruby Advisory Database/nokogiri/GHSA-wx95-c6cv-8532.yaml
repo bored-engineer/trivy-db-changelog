@@ -1,0 +1,4 @@
+PatchedVersions:
+    - '>= 1.19.1'
+UnaffectedVersions:
+    - < 1.5.1

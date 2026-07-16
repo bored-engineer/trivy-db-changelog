@@ -1,0 +1,6 @@
+Entries:
+    - Arches:
+        - aarch64
+        - x86_64
+      FixedVersion: 0.9.1-2.20211126git1ff6fe1f43.module+el8.10.0+90638+6d8ade84
+FixedVersion: 0.9.1-2.20211126git1ff6fe1f43.module+el8.10.0+90638+6d8ade84

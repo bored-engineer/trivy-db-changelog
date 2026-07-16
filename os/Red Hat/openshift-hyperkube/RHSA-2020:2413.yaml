@@ -1,0 +1,35 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.5
+        - cpe:/a:redhat:openshift:4.5::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-11252
+          Severity: MEDIUM
+        - ID: CVE-2019-11254
+          Severity: MEDIUM
+        - ID: CVE-2020-8558
+          Severity: MEDIUM
+        - ID: CVE-2020-8945
+          Severity: MEDIUM
+        - ID: CVE-2020-9283
+          Severity: LOW
+      FixedVersion: 0:4.5.0-202007012112.p0.git.0.582d7fc.el7
+    - Affected:
+        - cpe:/a:redhat:openshift:4.5
+        - cpe:/a:redhat:openshift:4.5::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-11252
+          Severity: MEDIUM
+        - ID: CVE-2019-11254
+          Severity: MEDIUM
+        - ID: CVE-2020-8558
+          Severity: MEDIUM
+        - ID: CVE-2020-8945
+          Severity: MEDIUM
+        - ID: CVE-2020-9283
+          Severity: LOW
+      FixedVersion: 0:4.5.0-202007012112.p0.git.0.582d7fc.el8

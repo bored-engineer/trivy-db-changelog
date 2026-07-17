@@ -11,13 +11,21 @@ Entries:
         - ppc64le
         - x86_64
       Cves:
+        - ID: CVE-2026-6472
+          Severity: MEDIUM
         - ID: CVE-2026-6473
           Severity: HIGH
+        - ID: CVE-2026-6474
+          Severity: MEDIUM
         - ID: CVE-2026-6475
           Severity: MEDIUM
         - ID: CVE-2026-6477
           Severity: HIGH
         - ID: CVE-2026-6478
+          Severity: HIGH
+        - ID: CVE-2026-6479
+          Severity: HIGH
+        - ID: CVE-2026-6637
           Severity: HIGH
       FixedVersion: 0:15.18-1.module+el8.8.0+24395+e7b9b4b6
     - Affected:
@@ -31,12 +39,20 @@ Entries:
       Arches:
         - x86_64
       Cves:
+        - ID: CVE-2026-6472
+          Severity: MEDIUM
         - ID: CVE-2026-6473
           Severity: HIGH
+        - ID: CVE-2026-6474
+          Severity: MEDIUM
         - ID: CVE-2026-6475
           Severity: MEDIUM
         - ID: CVE-2026-6477
           Severity: HIGH
         - ID: CVE-2026-6478
+          Severity: HIGH
+        - ID: CVE-2026-6479
+          Severity: HIGH
+        - ID: CVE-2026-6637
           Severity: HIGH
       FixedVersion: 0:15.18-1.module+el8.8.0+24395+e7b9b4b6

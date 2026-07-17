@@ -41,6 +41,43 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2026-6472
+          Severity: MEDIUM
+        - ID: CVE-2026-6473
+          Severity: HIGH
+        - ID: CVE-2026-6474
+          Severity: MEDIUM
+        - ID: CVE-2026-6475
+          Severity: MEDIUM
+        - ID: CVE-2026-6477
+          Severity: HIGH
+        - ID: CVE-2026-6478
+          Severity: HIGH
+        - ID: CVE-2026-6479
+          Severity: HIGH
+        - ID: CVE-2026-6637
+          Severity: HIGH
+      FixedVersion: 0:15.18-1.module+el9.8.0+24358+32c5830e
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::extensions
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
         - ID: CVE-2026-6473
           Severity: HIGH
         - ID: CVE-2026-6475

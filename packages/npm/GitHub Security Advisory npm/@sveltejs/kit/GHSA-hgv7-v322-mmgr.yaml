@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 2.60.1
+VulnerableVersions:
+    - '>=2.38.0, <2.60.1'

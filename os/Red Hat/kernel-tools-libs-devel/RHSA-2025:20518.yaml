@@ -151,6 +151,8 @@ Entries:
         - ID: CVE-2024-56786
         - ID: CVE-2024-57981
           Severity: MEDIUM
+        - ID: CVE-2024-57982
+          Severity: MEDIUM
         - ID: CVE-2024-57986
           Severity: MEDIUM
         - ID: CVE-2024-57987

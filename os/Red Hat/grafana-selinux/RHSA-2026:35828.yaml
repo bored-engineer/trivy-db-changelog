@@ -41,6 +41,8 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2026-25681
+          Severity: HIGH
         - ID: CVE-2026-39821
           Severity: HIGH
       FixedVersion: 0:10.2.6-23.el9_8

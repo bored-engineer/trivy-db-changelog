@@ -59,6 +59,8 @@ Entries:
       Arches:
         - x86_64
       Cves:
+        - ID: CVE-2026-8091
+          Severity: HIGH
         - ID: CVE-2026-8388
           Severity: HIGH
         - ID: CVE-2026-8391

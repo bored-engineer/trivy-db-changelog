@@ -77,6 +77,37 @@ Entries:
           Severity: MEDIUM
       FixedVersion: 1:17.0.20.0.8-1.1.el8
     - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2026-41254
+          Severity: MEDIUM
+        - ID: CVE-2026-46917
+          Severity: MEDIUM
+        - ID: CVE-2026-46968
+          Severity: MEDIUM
+        - ID: CVE-2026-47010
+          Severity: LOW
+        - ID: CVE-2026-47021
+          Severity: MEDIUM
+        - ID: CVE-2026-47027
+          Severity: MEDIUM
+        - ID: CVE-2026-47059
+          Severity: LOW
+        - ID: CVE-2026-47063
+          Severity: HIGH
+        - ID: CVE-2026-60147
+          Severity: MEDIUM
+      FixedVersion: 1:17.0.20.0.8-1.1.el8
+    - Affected:
         - cpe:/a:redhat:enterprise_linux:9
         - cpe:/a:redhat:enterprise_linux:9::appstream
         - cpe:/a:redhat:enterprise_linux:9::crb
@@ -88,6 +119,14 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:9::sap
         - cpe:/a:redhat:enterprise_linux:9::sap_hana
         - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_e4s:9.8
+        - cpe:/a:redhat:rhel_e4s:9.8::appstream
+        - cpe:/a:redhat:rhel_e4s:9.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.8::nfv
+        - cpe:/a:redhat:rhel_e4s:9.8::realtime
+        - cpe:/a:redhat:rhel_e4s:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.8::sap
+        - cpe:/a:redhat:rhel_e4s:9.8::sap_hana
         - cpe:/a:redhat:rhel_eus:9.8
         - cpe:/a:redhat:rhel_eus:9.8::appstream
         - cpe:/a:redhat:rhel_eus:9.8::crb
@@ -100,6 +139,8 @@ Entries:
         - cpe:/a:redhat:rhel_eus:9.8::supplementary
         - cpe:/o:redhat:enterprise_linux:9
         - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/o:redhat:rhel_e4s:9.8
+        - cpe:/o:redhat:rhel_e4s:9.8::baseos
         - cpe:/o:redhat:rhel_eus:9.8
         - cpe:/o:redhat:rhel_eus:9.8::baseos
       Arches:
@@ -128,6 +169,14 @@ Entries:
           Severity: MEDIUM
       FixedVersion: 1:17.0.20.0.8-1.2.el9
     - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.2
+        - cpe:/a:redhat:rhel_e4s:9.2::appstream
+        - cpe:/a:redhat:rhel_e4s:9.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.2::nfv
+        - cpe:/a:redhat:rhel_e4s:9.2::realtime
+        - cpe:/a:redhat:rhel_e4s:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.2::sap
+        - cpe:/a:redhat:rhel_e4s:9.2::sap_hana
         - cpe:/a:redhat:rhel_e4s:9.4
         - cpe:/a:redhat:rhel_e4s:9.4::appstream
         - cpe:/a:redhat:rhel_e4s:9.4::highavailability
@@ -154,6 +203,8 @@ Entries:
         - cpe:/a:redhat:rhel_eus:9.6::sap
         - cpe:/a:redhat:rhel_eus:9.6::sap_hana
         - cpe:/a:redhat:rhel_eus:9.6::supplementary
+        - cpe:/o:redhat:rhel_e4s:9.2
+        - cpe:/o:redhat:rhel_e4s:9.2::baseos
         - cpe:/o:redhat:rhel_e4s:9.4
         - cpe:/o:redhat:rhel_e4s:9.4::baseos
         - cpe:/o:redhat:rhel_e4s:9.6

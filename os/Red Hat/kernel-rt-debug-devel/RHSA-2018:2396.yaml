@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_mrg:2
+        - cpe:/a:redhat:enterprise_mrg:2:computenode:el6
+        - cpe:/a:redhat:enterprise_mrg:2:server:el6
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-3620
+          Severity: HIGH
+        - ID: CVE-2018-3639
+          Severity: HIGH
+        - ID: CVE-2018-3646
+          Severity: HIGH
+      FixedVersion: 1:3.10.0-693.37.4.rt56.629.el6rt

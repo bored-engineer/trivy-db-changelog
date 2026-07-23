@@ -19,6 +19,8 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-6478
           Severity: HIGH
+        - ID: CVE-2026-6637
+          Severity: HIGH
       FixedVersion: 0:1.5.0-1.module+el8.4.0+8873+b821c30a
     - Affected:
         - cpe:/a:redhat:rhel_tus:8.8

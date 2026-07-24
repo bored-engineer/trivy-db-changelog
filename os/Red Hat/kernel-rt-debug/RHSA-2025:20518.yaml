@@ -11,6 +11,14 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:9::sap
         - cpe:/a:redhat:enterprise_linux:9::sap_hana
         - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_e4s:9.8
+        - cpe:/a:redhat:rhel_e4s:9.8::appstream
+        - cpe:/a:redhat:rhel_e4s:9.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.8::nfv
+        - cpe:/a:redhat:rhel_e4s:9.8::realtime
+        - cpe:/a:redhat:rhel_e4s:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.8::sap
+        - cpe:/a:redhat:rhel_e4s:9.8::sap_hana
         - cpe:/a:redhat:rhel_eus:9.8
         - cpe:/a:redhat:rhel_eus:9.8::appstream
         - cpe:/a:redhat:rhel_eus:9.8::crb
@@ -23,6 +31,8 @@ Entries:
         - cpe:/a:redhat:rhel_eus:9.8::supplementary
         - cpe:/o:redhat:enterprise_linux:9
         - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/o:redhat:rhel_e4s:9.8
+        - cpe:/o:redhat:rhel_e4s:9.8::baseos
         - cpe:/o:redhat:rhel_eus:9.8
         - cpe:/o:redhat:rhel_eus:9.8::baseos
       Arches:
@@ -36,7 +46,7 @@ Entries:
         - ID: CVE-2022-49269
           Severity: MEDIUM
         - ID: CVE-2022-49353
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2022-49357
           Severity: MEDIUM
         - ID: CVE-2022-49432
@@ -44,7 +54,7 @@ Entries:
         - ID: CVE-2022-49437
           Severity: MEDIUM
         - ID: CVE-2022-49443
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2022-49623
           Severity: MEDIUM
         - ID: CVE-2022-49627
@@ -52,7 +62,7 @@ Entries:
         - ID: CVE-2022-49643
           Severity: MEDIUM
         - ID: CVE-2022-49648
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2022-49657
           Severity: MEDIUM
         - ID: CVE-2022-49670
@@ -153,13 +163,13 @@ Entries:
         - ID: CVE-2024-57990
           Severity: MEDIUM
         - ID: CVE-2024-57993
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2024-57995
           Severity: MEDIUM
         - ID: CVE-2024-57998
           Severity: MEDIUM
         - ID: CVE-2024-58012
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2024-58014
           Severity: MEDIUM
         - ID: CVE-2024-58015
@@ -175,7 +185,7 @@ Entries:
         - ID: CVE-2024-58075
           Severity: MEDIUM
         - ID: CVE-2024-58077
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2024-58083
           Severity: MEDIUM
         - ID: CVE-2024-58088
@@ -231,13 +241,13 @@ Entries:
         - ID: CVE-2025-21796
           Severity: MEDIUM
         - ID: CVE-2025-21806
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2025-21826
           Severity: MEDIUM
         - ID: CVE-2025-21828
           Severity: MEDIUM
         - ID: CVE-2025-21829
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2025-21837
         - ID: CVE-2025-21839
           Severity: MEDIUM
@@ -246,11 +256,11 @@ Entries:
         - ID: CVE-2025-21846
           Severity: MEDIUM
         - ID: CVE-2025-21847
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2025-21848
           Severity: MEDIUM
         - ID: CVE-2025-21851
-          Severity: LOW
+          Severity: MEDIUM
         - ID: CVE-2025-21853
           Severity: MEDIUM
         - ID: CVE-2025-21855
@@ -328,18 +338,8 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:9::sap
         - cpe:/a:redhat:enterprise_linux:9::sap_hana
         - cpe:/a:redhat:enterprise_linux:9::supplementary
-        - cpe:/a:redhat:rhel_e4s:9.8
-        - cpe:/a:redhat:rhel_e4s:9.8::appstream
-        - cpe:/a:redhat:rhel_e4s:9.8::highavailability
-        - cpe:/a:redhat:rhel_e4s:9.8::nfv
-        - cpe:/a:redhat:rhel_e4s:9.8::realtime
-        - cpe:/a:redhat:rhel_e4s:9.8::resilientstorage
-        - cpe:/a:redhat:rhel_e4s:9.8::sap
-        - cpe:/a:redhat:rhel_e4s:9.8::sap_hana
         - cpe:/o:redhat:enterprise_linux:9
         - cpe:/o:redhat:enterprise_linux:9::baseos
-        - cpe:/o:redhat:rhel_e4s:9.8
-        - cpe:/o:redhat:rhel_e4s:9.8::baseos
       Arches:
         - aarch64
         - x86_64

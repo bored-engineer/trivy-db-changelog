@@ -10,8 +10,6 @@ Entries:
         - cpe:/a:redhat:enterprise_linux:8::sap
         - cpe:/a:redhat:enterprise_linux:8::sap_hana
         - cpe:/a:redhat:enterprise_linux:8::supplementary
-        - cpe:/a:redhat:rhel_aus:8.8
-        - cpe:/a:redhat:rhel_aus:8.8::appstream
         - cpe:/a:redhat:rhel_e4s:8.8
         - cpe:/a:redhat:rhel_e4s:8.8::appstream
         - cpe:/a:redhat:rhel_e4s:8.8::highavailability
@@ -34,14 +32,23 @@ Entries:
         - cpe:/a:redhat:rhel_tus:8.8::realtime
         - cpe:/o:redhat:enterprise_linux:8
         - cpe:/o:redhat:enterprise_linux:8::baseos
-        - cpe:/o:redhat:rhel_aus:8.8
-        - cpe:/o:redhat:rhel_aus:8.8::baseos
         - cpe:/o:redhat:rhel_e4s:8.8
         - cpe:/o:redhat:rhel_e4s:8.8::baseos
         - cpe:/o:redhat:rhel_eus:8.8
         - cpe:/o:redhat:rhel_eus:8.8::baseos
         - cpe:/o:redhat:rhel_tus:8.8
         - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Cves:
+        - ID: CVE-2023-20592
+          Severity: MEDIUM
+        - ID: CVE-2023-20593
+          Severity: MEDIUM
+      FixedVersion: 0:9.221.4.1-117.el8_8.1
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.8
+        - cpe:/a:redhat:rhel_aus:8.8::appstream
+        - cpe:/o:redhat:rhel_aus:8.8
+        - cpe:/o:redhat:rhel_aus:8.8::baseos
       Cves:
         - ID: CVE-2023-20593
           Severity: MEDIUM

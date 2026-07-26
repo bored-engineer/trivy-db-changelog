@@ -11,6 +11,7 @@ import (
 	"os/signal"
 	"path"
 	"path/filepath"
+	"strings"
 	"time"
 
 	"github.com/google/go-containerregistry/pkg/authn"
@@ -153,10 +154,10 @@ func export(ctx context.Context, ref name.Reference) error {
 		}
 	}()
 
-	// Reset the ref so the commit below replaces any existing history instead of extending it
-	fmt.Printf("reset refs/raw/%s\n", dgstRef.String())
-	// Start a new commit for refs/raw/<digest>
-	fmt.Printf("commit refs/raw/%s\n", dgstRef.String())
+	// Replace refs/raw/<digest> with the exported contents (":" is invalid in ref names)
+	refName := "refs/raw/" + strings.ReplaceAll(dgstRef.DigestStr(), ":", "-")
+	fmt.Printf("reset %s\n", refName)
+	fmt.Printf("commit %s\n", refName)
 	// The committer is a boilerplate 'trivy-db-changelog' user with the GitHub Actions bot email
 	fmt.Printf("committer trivy-db-changelog <41898282+github-actions[bot]@users.noreply.github.com> %d +0000\n", metadata.UpdatedAt.Unix())
 	// The commit message is the exact image reference

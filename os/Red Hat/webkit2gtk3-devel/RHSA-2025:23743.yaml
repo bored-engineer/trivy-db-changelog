@@ -1,0 +1,107 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6
+        - cpe:/a:redhat:rhel_tus:8.6::appstream
+        - cpe:/a:redhat:rhel_tus:8.6::highavailability
+        - cpe:/a:redhat:rhel_tus:8.6::nfv
+        - cpe:/a:redhat:rhel_tus:8.6::realtime
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+        - cpe:/o:redhat:rhel_tus:8.6
+        - cpe:/o:redhat:rhel_tus:8.6::baseos
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2025-13502
+          Severity: HIGH
+        - ID: CVE-2025-13947
+          Severity: HIGH
+        - ID: CVE-2025-43392
+          Severity: MEDIUM
+        - ID: CVE-2025-43421
+          Severity: HIGH
+        - ID: CVE-2025-43425
+          Severity: HIGH
+        - ID: CVE-2025-43427
+          Severity: HIGH
+        - ID: CVE-2025-43429
+          Severity: HIGH
+        - ID: CVE-2025-43430
+          Severity: HIGH
+        - ID: CVE-2025-43431
+          Severity: HIGH
+        - ID: CVE-2025-43432
+          Severity: HIGH
+        - ID: CVE-2025-43433
+          Severity: HIGH
+        - ID: CVE-2025-43434
+          Severity: HIGH
+        - ID: CVE-2025-43438
+          Severity: HIGH
+        - ID: CVE-2025-43440
+          Severity: HIGH
+        - ID: CVE-2025-43441
+          Severity: HIGH
+        - ID: CVE-2025-43443
+          Severity: HIGH
+        - ID: CVE-2025-43458
+          Severity: HIGH
+        - ID: CVE-2025-66287
+          Severity: HIGH
+      FixedVersion: 0:2.50.3-2.el8_6
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.6
+        - cpe:/a:redhat:rhel_e4s:8.6::appstream
+        - cpe:/a:redhat:rhel_e4s:8.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.6::nfv
+        - cpe:/a:redhat:rhel_e4s:8.6::sap
+        - cpe:/a:redhat:rhel_e4s:8.6::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.6
+        - cpe:/o:redhat:rhel_e4s:8.6::baseos
+      Arches:
+        - aarch64
+        - i686
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-13502
+          Severity: HIGH
+        - ID: CVE-2025-13947
+          Severity: HIGH
+        - ID: CVE-2025-43392
+          Severity: MEDIUM
+        - ID: CVE-2025-43421
+          Severity: HIGH
+        - ID: CVE-2025-43425
+          Severity: HIGH
+        - ID: CVE-2025-43427
+          Severity: HIGH
+        - ID: CVE-2025-43429
+          Severity: HIGH
+        - ID: CVE-2025-43430
+          Severity: HIGH
+        - ID: CVE-2025-43431
+          Severity: HIGH
+        - ID: CVE-2025-43432
+          Severity: HIGH
+        - ID: CVE-2025-43433
+          Severity: HIGH
+        - ID: CVE-2025-43434
+          Severity: HIGH
+        - ID: CVE-2025-43438
+          Severity: HIGH
+        - ID: CVE-2025-43440
+          Severity: HIGH
+        - ID: CVE-2025-43441
+          Severity: HIGH
+        - ID: CVE-2025-43443
+          Severity: HIGH
+        - ID: CVE-2025-43458
+          Severity: HIGH
+        - ID: CVE-2025-66287
+          Severity: HIGH
+      FixedVersion: 0:2.50.3-2.el8_6

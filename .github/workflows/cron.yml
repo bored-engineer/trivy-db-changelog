@@ -8,6 +8,12 @@ on:
     # by 2h to give that build time to finish before we look for new digests.
     - cron: "0 2,8,14,20 * * *"
   workflow_dispatch:
+    inputs:
+      max_digests:
+        description: 'Maximum number of missing digests to export in this run (do not exceed 256, the GitHub Actions per-matrix job limit)'
+        required: false
+        type: number
+        default: 256
 
 permissions:
   contents: write
@@ -16,9 +22,11 @@ permissions:
 env:
   # Caps how many newly-discovered digests are exported per run, so a large
   # backlog (e.g. on first deploy) fills in gradually instead of firing
-  # thousands of parallel exports at once. Also keeps the matrix below the
-  # GitHub Actions 256-job-per-matrix limit.
-  MAX_DIGESTS_PER_RUN: 100
+  # thousands of parallel exports at once. Defaults to 256, the max size of
+  # a single GitHub Actions matrix, since that's also the hard ceiling here.
+  # workflow_dispatch always has a value (user-supplied or the default
+  # above); schedule runs don't, so they fall back to the same default.
+  MAX_DIGESTS_PER_RUN: ${{ inputs.max_digests || 256 }}
 
 jobs:
   discover:

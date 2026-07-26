@@ -80,8 +80,9 @@ func enumName(names []string, n float64) string {
 
 // resolveEnums walks a parsed JSON value, undoing the space optimizations
 // trivy-db applies before storage: "Affected" (Red Hat OVAL/CSAF only) holds
-// CPE indices instead of CPE strings, and "Severity"/"Status" hold enum ints
-// instead of their names.
+// CPE indices instead of CPE strings, "Severity"/"Status" hold enum ints
+// instead of their names, and "VendorSeverity" is a map of the same Severity
+// ints keyed by source.
 func resolveEnums(val any, cpes map[int]string) any {
 	switch v := val.(type) {
 	case map[string]any:
@@ -110,6 +111,16 @@ func resolveEnums(val any, cpes map[int]string) any {
 			case key == "Status":
 				if n, ok := item.(float64); ok {
 					v[key] = enumName(statusNames, n)
+					continue
+				}
+			case key == "VendorSeverity":
+				// map[SourceID]Severity: per-source severities, same enum, one level deeper
+				if bySource, ok := item.(map[string]any); ok {
+					for source, sev := range bySource {
+						if n, ok := sev.(float64); ok {
+							bySource[source] = enumName(severityNames, n)
+						}
+					}
 					continue
 				}
 			}

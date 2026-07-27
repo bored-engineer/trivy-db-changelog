@@ -1,0 +1,4 @@
+BaseID: ubuntu
+ID: rootio
+Name: Root.io Security Patches (ubuntu)
+URL: https://api.root.io/external/patch_feed

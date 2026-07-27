@@ -46,4 +46,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2024-2614
           Severity: HIGH
+        - ID: CVE-2024-2616
+          Severity: HIGH
       FixedVersion: 0:115.9.0-1.el9_0

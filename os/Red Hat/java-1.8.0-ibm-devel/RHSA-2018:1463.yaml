@@ -1,0 +1,48 @@
+Entries:
+    - Arches:
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2018-1417
+          Severity: CRITICAL
+        - ID: CVE-2018-2579
+          Severity: LOW
+        - ID: CVE-2018-2581
+          Severity: MEDIUM
+        - ID: CVE-2018-2582
+          Severity: HIGH
+        - ID: CVE-2018-2588
+          Severity: MEDIUM
+        - ID: CVE-2018-2599
+          Severity: MEDIUM
+        - ID: CVE-2018-2602
+          Severity: MEDIUM
+        - ID: CVE-2018-2603
+          Severity: MEDIUM
+        - ID: CVE-2018-2618
+          Severity: MEDIUM
+        - ID: CVE-2018-2627
+          Severity: HIGH
+        - ID: CVE-2018-2629
+          Severity: MEDIUM
+        - ID: CVE-2018-2633
+          Severity: HIGH
+        - ID: CVE-2018-2634
+          Severity: HIGH
+        - ID: CVE-2018-2637
+          Severity: HIGH
+        - ID: CVE-2018-2638
+          Severity: CRITICAL
+        - ID: CVE-2018-2639
+          Severity: CRITICAL
+        - ID: CVE-2018-2641
+          Severity: HIGH
+        - ID: CVE-2018-2657
+          Severity: MEDIUM
+        - ID: CVE-2018-2663
+          Severity: MEDIUM
+        - ID: CVE-2018-2677
+          Severity: MEDIUM
+        - ID: CVE-2018-2678
+          Severity: MEDIUM
+      FixedVersion: 1:1.8.0.5.10-1jpp.1.el6_9

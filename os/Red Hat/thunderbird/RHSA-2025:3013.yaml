@@ -20,4 +20,8 @@ Entries:
           Severity: HIGH
         - ID: CVE-2025-1938
           Severity: HIGH
+        - ID: CVE-2025-26695
+          Severity: LOW
+        - ID: CVE-2025-26696
+          Severity: MEDIUM
       FixedVersion: 0:128.8.0-2.el9_0

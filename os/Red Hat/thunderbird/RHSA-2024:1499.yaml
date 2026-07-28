@@ -33,6 +33,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2024-2614
           Severity: HIGH
+        - ID: CVE-2024-2616
+          Severity: HIGH
       FixedVersion: 0:115.9.0-1.el8_4
     - Affected:
         - cpe:/a:redhat:rhel_e4s:8.4
@@ -64,5 +66,7 @@ Entries:
         - ID: CVE-2024-2612
           Severity: MEDIUM
         - ID: CVE-2024-2614
+          Severity: HIGH
+        - ID: CVE-2024-2616
           Severity: HIGH
       FixedVersion: 0:115.9.0-1.el8_4

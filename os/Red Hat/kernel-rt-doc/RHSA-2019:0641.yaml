@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_mrg:2
+        - cpe:/a:redhat:enterprise_mrg:2:computenode:el6
+        - cpe:/a:redhat:enterprise_mrg:2:server:el6
+      Cves:
+        - ID: CVE-2017-7482
+          Severity: MEDIUM
+        - ID: CVE-2018-10902
+          Severity: HIGH
+        - ID: CVE-2018-12929
+          Severity: LOW
+        - ID: CVE-2018-12930
+          Severity: LOW
+        - ID: CVE-2018-12931
+          Severity: LOW
+        - ID: CVE-2018-5803
+          Severity: MEDIUM
+      FixedVersion: 1:3.10.0-693.46.1.rt56.639.el6rt

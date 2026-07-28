@@ -26,8 +26,6 @@ Entries:
         - s390x
         - x86_64
       Cves:
-        - ID: CVE-2025-66293
-          Severity: HIGH
         - ID: CVE-2026-22007
           Severity: LOW
         - ID: CVE-2026-22013
@@ -44,8 +42,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2026-23865
           Severity: MEDIUM
-        - ID: CVE-2026-25646
-          Severity: HIGH
         - ID: CVE-2026-26740
           Severity: HIGH
         - ID: CVE-2026-33416
@@ -86,8 +82,6 @@ Entries:
       Arches:
         - x86_64
       Cves:
-        - ID: CVE-2025-66293
-          Severity: HIGH
         - ID: CVE-2026-22007
           Severity: LOW
         - ID: CVE-2026-22013
@@ -104,8 +98,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2026-23865
           Severity: MEDIUM
-        - ID: CVE-2026-25646
-          Severity: HIGH
         - ID: CVE-2026-26740
           Severity: HIGH
         - ID: CVE-2026-33416
@@ -127,8 +119,6 @@ Entries:
         - ppc64le
         - x86_64
       Cves:
-        - ID: CVE-2025-66293
-          Severity: HIGH
         - ID: CVE-2026-22007
           Severity: LOW
         - ID: CVE-2026-22013
@@ -145,8 +135,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2026-23865
           Severity: MEDIUM
-        - ID: CVE-2026-25646
-          Severity: HIGH
         - ID: CVE-2026-26740
           Severity: HIGH
         - ID: CVE-2026-33416

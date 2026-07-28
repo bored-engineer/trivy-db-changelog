@@ -55,8 +55,6 @@ Entries:
         - cpe:/o:redhat:rhel_tus:8.8
         - cpe:/o:redhat:rhel_tus:8.8::baseos
       Cves:
-        - ID: CVE-2025-66293
-          Severity: HIGH
         - ID: CVE-2026-22007
           Severity: LOW
         - ID: CVE-2026-22013
@@ -73,8 +71,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2026-23865
           Severity: MEDIUM
-        - ID: CVE-2026-25646
-          Severity: HIGH
         - ID: CVE-2026-26740
           Severity: HIGH
         - ID: CVE-2026-33416
@@ -120,6 +116,46 @@ Entries:
         - cpe:/o:redhat:rhel_e4s:9.8::baseos
         - cpe:/o:redhat:rhel_eus:9.8
         - cpe:/o:redhat:rhel_eus:9.8::baseos
+      Cves:
+        - ID: CVE-2026-22007
+          Severity: LOW
+        - ID: CVE-2026-22013
+          Severity: MEDIUM
+        - ID: CVE-2026-22016
+          Severity: HIGH
+        - ID: CVE-2026-22018
+          Severity: LOW
+        - ID: CVE-2026-22021
+          Severity: MEDIUM
+        - ID: CVE-2026-22695
+          Severity: MEDIUM
+        - ID: CVE-2026-22801
+          Severity: MEDIUM
+        - ID: CVE-2026-23865
+          Severity: MEDIUM
+        - ID: CVE-2026-26740
+          Severity: HIGH
+        - ID: CVE-2026-33416
+          Severity: MEDIUM
+        - ID: CVE-2026-33636
+          Severity: MEDIUM
+        - ID: CVE-2026-34268
+          Severity: LOW
+      FixedVersion: 1:1.8.0.492.b09-2.el9
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::extensions
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
       Cves:
         - ID: CVE-2025-66293
           Severity: HIGH
@@ -216,8 +252,6 @@ Entries:
         - cpe:/o:redhat:rhel_eus:9.6
         - cpe:/o:redhat:rhel_eus:9.6::baseos
       Cves:
-        - ID: CVE-2025-66293
-          Severity: HIGH
         - ID: CVE-2026-22007
           Severity: LOW
         - ID: CVE-2026-22013
@@ -234,8 +268,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2026-23865
           Severity: MEDIUM
-        - ID: CVE-2026-25646
-          Severity: HIGH
         - ID: CVE-2026-26740
           Severity: HIGH
         - ID: CVE-2026-33416

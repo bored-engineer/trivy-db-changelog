@@ -1,0 +1,35 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el8
+      Cves:
+        - ID: CVE-2025-61726
+          Severity: HIGH
+        - ID: CVE-2025-61728
+          Severity: MEDIUM
+        - ID: CVE-2025-61729
+          Severity: HIGH
+        - ID: CVE-2025-68121
+          Severity: MEDIUM
+        - ID: CVE-2026-25679
+          Severity: HIGH
+        - ID: CVE-2026-32280
+          Severity: HIGH
+      FixedVersion: 3:4.4.1-25.rhaos4.14.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el9
+      Cves:
+        - ID: CVE-2025-61726
+          Severity: HIGH
+        - ID: CVE-2025-61728
+          Severity: MEDIUM
+        - ID: CVE-2025-61729
+          Severity: HIGH
+        - ID: CVE-2025-68121
+          Severity: MEDIUM
+        - ID: CVE-2026-25679
+          Severity: HIGH
+        - ID: CVE-2026-32280
+          Severity: HIGH
+      FixedVersion: 3:4.4.1-25.rhaos4.14.el9

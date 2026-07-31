@@ -14,5 +14,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2026-64530
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 0:5.14.0-284.184.1.rt14.469.el9_2

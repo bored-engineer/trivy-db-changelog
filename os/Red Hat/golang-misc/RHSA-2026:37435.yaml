@@ -41,4 +41,26 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-39822
           Severity: HIGH
+        - ID: CVE-2026-42505
+          Severity: MEDIUM
+      FixedVersion: 0:1.26.5-1.el9_8
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::extensions
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+      Cves:
+        - ID: CVE-2026-39821
+          Severity: HIGH
+        - ID: CVE-2026-39822
+          Severity: HIGH
       FixedVersion: 0:1.26.5-1.el9_8

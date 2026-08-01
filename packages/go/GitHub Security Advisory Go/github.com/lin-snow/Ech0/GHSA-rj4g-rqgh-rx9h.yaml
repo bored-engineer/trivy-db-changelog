@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 1.4.8-0.20260503034700-cb8d7a997dd8
+VulnerableVersions:
+    - <1.4.8-0.20260503034700-cb8d7a997dd8

@@ -1,0 +1,66 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:satellite:6.8
+        - cpe:/a:redhat:satellite:6.8::el7
+        - cpe:/a:redhat:satellite_capsule:6.8
+        - cpe:/a:redhat:satellite_capsule:6.8::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2018-1000119
+          Severity: MEDIUM
+        - ID: CVE-2018-11751
+          Severity: LOW
+        - ID: CVE-2018-3258
+          Severity: LOW
+        - ID: CVE-2019-10219
+          Severity: MEDIUM
+        - ID: CVE-2019-12781
+          Severity: MEDIUM
+        - ID: CVE-2019-16782
+          Severity: MEDIUM
+        - ID: CVE-2020-10693
+          Severity: MEDIUM
+        - ID: CVE-2020-10968
+          Severity: LOW
+        - ID: CVE-2020-10969
+          Severity: LOW
+        - ID: CVE-2020-11619
+          Severity: LOW
+        - ID: CVE-2020-14061
+          Severity: LOW
+        - ID: CVE-2020-14062
+          Severity: LOW
+        - ID: CVE-2020-14195
+          Severity: LOW
+        - ID: CVE-2020-14334
+          Severity: HIGH
+        - ID: CVE-2020-14380
+          Severity: HIGH
+        - ID: CVE-2020-5216
+          Severity: LOW
+        - ID: CVE-2020-5217
+          Severity: LOW
+        - ID: CVE-2020-5267
+          Severity: LOW
+        - ID: CVE-2020-7238
+          Severity: LOW
+        - ID: CVE-2020-7663
+          Severity: LOW
+        - ID: CVE-2020-7942
+          Severity: MEDIUM
+        - ID: CVE-2020-7943
+          Severity: MEDIUM
+        - ID: CVE-2020-8161
+          Severity: LOW
+        - ID: CVE-2020-8184
+          Severity: MEDIUM
+        - ID: CVE-2020-8840
+          Severity: LOW
+        - ID: CVE-2020-9546
+          Severity: LOW
+        - ID: CVE-2020-9547
+          Severity: LOW
+        - ID: CVE-2020-9548
+          Severity: LOW
+      FixedVersion: 0:0.4-2.el7sat

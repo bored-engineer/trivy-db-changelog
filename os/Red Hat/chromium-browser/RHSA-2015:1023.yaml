@@ -1,0 +1,63 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:sap_hana
+        - cpe:/a:redhat:rhel_eus:sap_hana:6
+        - cpe:/a:redhat:rhel_extras:6
+        - cpe:/a:redhat:rhel_extras_hpn:6
+        - cpe:/a:redhat:rhel_extras_oracle_java:6
+        - cpe:/a:redhat:rhel_extras_sap:6
+        - cpe:/a:redhat:rhel_extras_sap_els:6
+        - cpe:/a:redhat:rhel_extras_sap_hana:6
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:6
+        - cpe:/o:redhat:enterprise_linux:6
+        - cpe:/o:redhat:enterprise_linux:6::client
+        - cpe:/o:redhat:enterprise_linux:6::computenode
+        - cpe:/o:redhat:enterprise_linux:6::server
+        - cpe:/o:redhat:enterprise_linux:6::workstation
+        - cpe:/o:redhat:rhel_aus:6.6
+        - cpe:/o:redhat:rhel_aus:6.6::server
+        - cpe:/o:redhat:rhel_els:6
+        - cpe:/o:redhat:rhel_eus:6.6
+        - cpe:/o:redhat:rhel_eus:6.6::computenode
+        - cpe:/o:redhat:rhel_eus:6.6::server
+        - cpe:/o:redhat:rhel_eus:6.7
+        - cpe:/o:redhat:rhel_eus:6.7::computenode
+        - cpe:/o:redhat:rhel_eus:6.7::sap
+        - cpe:/o:redhat:rhel_eus:6.7::server
+        - cpe:/o:redhat:rhel_tus:6.6
+        - cpe:/o:redhat:rhel_tus:6.6::server
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2015-1251
+          Severity: HIGH
+        - ID: CVE-2015-1252
+          Severity: HIGH
+        - ID: CVE-2015-1253
+          Severity: HIGH
+        - ID: CVE-2015-1254
+          Severity: HIGH
+        - ID: CVE-2015-1255
+          Severity: HIGH
+        - ID: CVE-2015-1256
+          Severity: HIGH
+        - ID: CVE-2015-1257
+          Severity: MEDIUM
+        - ID: CVE-2015-1258
+          Severity: MEDIUM
+        - ID: CVE-2015-1259
+          Severity: MEDIUM
+        - ID: CVE-2015-1260
+          Severity: MEDIUM
+        - ID: CVE-2015-1261
+          Severity: MEDIUM
+        - ID: CVE-2015-1262
+          Severity: MEDIUM
+        - ID: CVE-2015-1263
+          Severity: LOW
+        - ID: CVE-2015-1264
+          Severity: LOW
+        - ID: CVE-2015-1265
+          Severity: HIGH
+      FixedVersion: 0:43.0.2357.65-1.el6_6

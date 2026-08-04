@@ -1,0 +1,58 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2024-12224
+          Severity: MEDIUM
+        - ID: CVE-2025-10527
+          Severity: HIGH
+        - ID: CVE-2025-10528
+          Severity: HIGH
+        - ID: CVE-2025-10529
+          Severity: MEDIUM
+        - ID: CVE-2025-10532
+          Severity: MEDIUM
+        - ID: CVE-2025-10533
+          Severity: MEDIUM
+        - ID: CVE-2025-10536
+          Severity: LOW
+        - ID: CVE-2025-10537
+          Severity: HIGH
+      FixedVersion: 0:140.3.0-1.el8_8
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2024-12224
+          Severity: MEDIUM
+        - ID: CVE-2025-10527
+          Severity: HIGH
+        - ID: CVE-2025-10528
+          Severity: HIGH
+        - ID: CVE-2025-10529
+          Severity: MEDIUM
+        - ID: CVE-2025-10532
+          Severity: MEDIUM
+        - ID: CVE-2025-10533
+          Severity: MEDIUM
+        - ID: CVE-2025-10536
+          Severity: LOW
+        - ID: CVE-2025-10537
+          Severity: HIGH
+      FixedVersion: 0:140.3.0-1.el8_8

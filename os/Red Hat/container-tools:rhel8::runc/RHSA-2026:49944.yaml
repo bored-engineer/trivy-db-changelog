@@ -1,0 +1,40 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2025-61726
+          Severity: HIGH
+        - ID: CVE-2025-61728
+          Severity: MEDIUM
+        - ID: CVE-2025-61729
+          Severity: HIGH
+        - ID: CVE-2025-68121
+          Severity: MEDIUM
+        - ID: CVE-2026-25679
+          Severity: HIGH
+        - ID: CVE-2026-32280
+          Severity: HIGH
+        - ID: CVE-2026-32281
+          Severity: MEDIUM
+        - ID: CVE-2026-32283
+          Severity: HIGH
+        - ID: CVE-2026-34986
+          Severity: HIGH
+        - ID: CVE-2026-39829
+          Severity: HIGH
+        - ID: CVE-2026-39830
+          Severity: HIGH
+        - ID: CVE-2026-39832
+          Severity: HIGH
+        - ID: CVE-2026-42508
+          Severity: HIGH
+      FixedVersion: 1:1.2.9-1.module+el8.8.0+24525+a924b82f.1

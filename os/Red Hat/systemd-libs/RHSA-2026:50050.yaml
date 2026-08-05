@@ -1,0 +1,17 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Arches:
+        - i686
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2026-29111
+          Severity: MEDIUM
+      FixedVersion: 0:239-74.el8_8.7

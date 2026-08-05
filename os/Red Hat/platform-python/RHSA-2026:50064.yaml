@@ -15,3 +15,18 @@ Entries:
         - ID: CVE-2026-15308
           Severity: HIGH
       FixedVersion: 0:3.6.8-51.el8_8.16
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2026-15308
+          Severity: HIGH
+      FixedVersion: 0:3.6.8-51.el8_8.16

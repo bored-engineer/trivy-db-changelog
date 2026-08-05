@@ -16,3 +16,19 @@ Entries:
         - ID: CVE-2026-8632
           Severity: HIGH
       FixedVersion: 0:3.18.4-9.el8_8.1
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-8631
+          Severity: HIGH
+        - ID: CVE-2026-8632
+          Severity: HIGH
+      FixedVersion: 0:3.18.4-9.el8_8.1

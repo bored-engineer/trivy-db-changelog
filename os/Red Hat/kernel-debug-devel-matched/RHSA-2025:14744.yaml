@@ -1,0 +1,41 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.0
+        - cpe:/a:redhat:rhel_e4s:9.0::appstream
+        - cpe:/a:redhat:rhel_e4s:9.0::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.0::nfv
+        - cpe:/a:redhat:rhel_e4s:9.0::realtime
+        - cpe:/a:redhat:rhel_e4s:9.0::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.0::sap
+        - cpe:/a:redhat:rhel_e4s:9.0::sap_hana
+        - cpe:/o:redhat:rhel_e4s:9.0
+        - cpe:/o:redhat:rhel_e4s:9.0::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2022-49385
+          Severity: MEDIUM
+        - ID: CVE-2022-49977
+          Severity: MEDIUM
+        - ID: CVE-2022-49991
+          Severity: MEDIUM
+        - ID: CVE-2022-50044
+          Severity: MEDIUM
+        - ID: CVE-2023-53047
+          Severity: MEDIUM
+        - ID: CVE-2025-22026
+          Severity: MEDIUM
+        - ID: CVE-2025-37890
+          Severity: HIGH
+        - ID: CVE-2025-38000
+          Severity: HIGH
+        - ID: CVE-2025-38001
+          Severity: HIGH
+        - ID: CVE-2025-38177
+          Severity: MEDIUM
+        - ID: CVE-2025-38350
+          Severity: HIGH
+      FixedVersion: 0:5.14.0-70.144.1.el9_0

@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2025-9566
+          Severity: HIGH
+      FixedVersion: 0:5.14.0-284.138.1.rt14.423.el9_2

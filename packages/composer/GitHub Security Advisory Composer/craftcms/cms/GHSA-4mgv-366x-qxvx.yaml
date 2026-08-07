@@ -1,6 +1,0 @@
-PatchedVersions:
-    - 5.9.0-beta.1
-    - 4.17.0-beta.1
-VulnerableVersions:
-    - '>=5.0.0-RC1, <5.9.0-beta.1'
-    - '>=4.0.0-RC1, <4.17.0-beta.1'

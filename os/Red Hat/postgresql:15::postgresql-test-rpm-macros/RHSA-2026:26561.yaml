@@ -1,0 +1,34 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Cves:
+        - ID: CVE-2026-6472
+          Severity: MEDIUM
+        - ID: CVE-2026-6473
+          Severity: HIGH
+        - ID: CVE-2026-6474
+          Severity: MEDIUM
+        - ID: CVE-2026-6475
+          Severity: MEDIUM
+        - ID: CVE-2026-6477
+          Severity: HIGH
+        - ID: CVE-2026-6478
+          Severity: HIGH
+        - ID: CVE-2026-6479
+          Severity: HIGH
+        - ID: CVE-2026-6637
+          Severity: HIGH
+      FixedVersion: 0:15.18-1.module+el8.8.0+24395+e7b9b4b6

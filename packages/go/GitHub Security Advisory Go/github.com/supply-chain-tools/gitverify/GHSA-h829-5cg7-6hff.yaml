@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 0.0.0-20260421124901-c2c60da05d5c
+VulnerableVersions:
+    - <0.0.0-20260421124901-c2c60da05d5c

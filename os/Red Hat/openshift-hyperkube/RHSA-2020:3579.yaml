@@ -7,6 +7,14 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2020-2220
+          Severity: HIGH
+        - ID: CVE-2020-2221
+          Severity: HIGH
+        - ID: CVE-2020-2222
+          Severity: HIGH
+        - ID: CVE-2020-2223
+          Severity: HIGH
         - ID: CVE-2020-8557
           Severity: MEDIUM
       FixedVersion: 0:4.4.0-202008250319.p0.git.0.d653415.el7
@@ -16,6 +24,14 @@ Entries:
       Arches:
         - x86_64
       Cves:
+        - ID: CVE-2020-2220
+          Severity: HIGH
+        - ID: CVE-2020-2221
+          Severity: HIGH
+        - ID: CVE-2020-2222
+          Severity: HIGH
+        - ID: CVE-2020-2223
+          Severity: HIGH
         - ID: CVE-2020-8557
           Severity: MEDIUM
       FixedVersion: 0:4.4.0-202008250319.p0.git.0.d653415.el8

@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 15.10-0+deb12u1
+VulnerableVersions:
+    - <15.10-0+deb12u1

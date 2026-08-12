@@ -7,7 +7,37 @@ Entries:
       Cves:
         - ID: CVE-2014-3577
           Severity: MEDIUM
+        - ID: CVE-2021-20319
+          Severity: MEDIUM
         - ID: CVE-2021-21684
+          Severity: MEDIUM
+        - ID: CVE-2021-21685
+          Severity: HIGH
+        - ID: CVE-2021-21686
+          Severity: HIGH
+        - ID: CVE-2021-21687
+          Severity: HIGH
+        - ID: CVE-2021-21688
+          Severity: HIGH
+        - ID: CVE-2021-21689
+          Severity: HIGH
+        - ID: CVE-2021-21690
+          Severity: HIGH
+        - ID: CVE-2021-21691
+          Severity: HIGH
+        - ID: CVE-2021-21692
+          Severity: HIGH
+        - ID: CVE-2021-21693
+          Severity: HIGH
+        - ID: CVE-2021-21694
+          Severity: HIGH
+        - ID: CVE-2021-21695
+          Severity: HIGH
+        - ID: CVE-2021-21696
+          Severity: HIGH
+        - ID: CVE-2021-21697
+          Severity: HIGH
+        - ID: CVE-2021-21698
           Severity: MEDIUM
         - ID: CVE-2021-41190
           Severity: LOW
@@ -19,6 +49,10 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-0532
           Severity: MEDIUM
+        - ID: CVE-2022-20612
+          Severity: MEDIUM
+        - ID: CVE-2022-20617
+          Severity: HIGH
       FixedVersion: 0:4.10.0-202202250816.p0.ge419edf.assembly.stream.el7
     - Affected:
         - cpe:/a:redhat:openshift:4.10
@@ -31,7 +65,37 @@ Entries:
       Cves:
         - ID: CVE-2014-3577
           Severity: MEDIUM
+        - ID: CVE-2021-20319
+          Severity: MEDIUM
         - ID: CVE-2021-21684
+          Severity: MEDIUM
+        - ID: CVE-2021-21685
+          Severity: HIGH
+        - ID: CVE-2021-21686
+          Severity: HIGH
+        - ID: CVE-2021-21687
+          Severity: HIGH
+        - ID: CVE-2021-21688
+          Severity: HIGH
+        - ID: CVE-2021-21689
+          Severity: HIGH
+        - ID: CVE-2021-21690
+          Severity: HIGH
+        - ID: CVE-2021-21691
+          Severity: HIGH
+        - ID: CVE-2021-21692
+          Severity: HIGH
+        - ID: CVE-2021-21693
+          Severity: HIGH
+        - ID: CVE-2021-21694
+          Severity: HIGH
+        - ID: CVE-2021-21695
+          Severity: HIGH
+        - ID: CVE-2021-21696
+          Severity: HIGH
+        - ID: CVE-2021-21697
+          Severity: HIGH
+        - ID: CVE-2021-21698
           Severity: MEDIUM
         - ID: CVE-2021-41190
           Severity: LOW
@@ -43,4 +107,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2022-0532
           Severity: MEDIUM
+        - ID: CVE-2022-20612
+          Severity: MEDIUM
+        - ID: CVE-2022-20617
+          Severity: HIGH
       FixedVersion: 0:4.10.0-202202250816.p0.ge419edf.assembly.stream.el8

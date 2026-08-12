@@ -8,6 +8,8 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2023-39325
+          Severity: HIGH
         - ID: CVE-2023-44487
           Severity: HIGH
       FixedVersion: 0:1.26.4-5.1.rhaos4.13.git969e013.el8
@@ -20,6 +22,8 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2023-39325
+          Severity: HIGH
         - ID: CVE-2023-44487
           Severity: HIGH
       FixedVersion: 0:1.26.4-5.1.rhaos4.13.git969e013.el9

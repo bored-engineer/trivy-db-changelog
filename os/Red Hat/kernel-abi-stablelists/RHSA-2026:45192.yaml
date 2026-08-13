@@ -48,7 +48,7 @@ Entries:
         - ID: CVE-2026-53059
           Severity: MEDIUM
         - ID: CVE-2026-64561
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-687.30.1.el9_8
     - Affected:
         - cpe:/a:redhat:enterprise_linux:9

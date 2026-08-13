@@ -18,5 +18,5 @@ Entries:
         - ID: CVE-2026-52923
           Severity: MEDIUM
         - ID: CVE-2026-64561
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-427.141.1.el9_4

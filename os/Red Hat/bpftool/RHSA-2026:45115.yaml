@@ -25,5 +25,5 @@ Entries:
         - ID: CVE-2026-53059
           Severity: MEDIUM
         - ID: CVE-2026-64561
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:4.18.0-553.147.1.el8_10

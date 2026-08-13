@@ -1,6 +1,0 @@
-PatchedVersions:
-    - 0.23.18
-    - 1.0.0-M42
-VulnerableVersions:
-    - <0.23.18
-    - '>=1.0.0-M1, <1.0.0-M42'

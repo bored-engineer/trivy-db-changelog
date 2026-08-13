@@ -1,4 +1,0 @@
-PatchedVersions:
-    - 1.0.0-M42
-VulnerableVersions:
-    - '>=1.0.0-M1, <1.0.0-M42'

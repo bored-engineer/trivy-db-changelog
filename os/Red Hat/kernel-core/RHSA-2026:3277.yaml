@@ -12,7 +12,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2022-50673
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2022-50865
           Severity: MEDIUM
         - ID: CVE-2023-53821
@@ -44,7 +44,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2022-50673
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2022-50865
           Severity: MEDIUM
         - ID: CVE-2023-53821

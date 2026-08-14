@@ -16,7 +16,7 @@ Entries:
         - s390x
       Cves:
         - ID: CVE-2022-50673
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2025-38403
           Severity: MEDIUM
         - ID: CVE-2025-40135

@@ -19,7 +19,7 @@ Entries:
         - ppc64le
       Cves:
         - ID: CVE-2022-50673
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2025-38415
           Severity: MEDIUM
         - ID: CVE-2025-38459

@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 25.11.0
+VulnerableVersions:
+    - <25.11.0

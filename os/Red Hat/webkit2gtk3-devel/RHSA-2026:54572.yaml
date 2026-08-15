@@ -1,0 +1,78 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.6
+        - cpe:/a:redhat:rhel_e4s:9.6::appstream
+        - cpe:/a:redhat:rhel_e4s:9.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.6::nfv
+        - cpe:/a:redhat:rhel_e4s:9.6::realtime
+        - cpe:/a:redhat:rhel_e4s:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.6::sap
+        - cpe:/a:redhat:rhel_e4s:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6
+        - cpe:/a:redhat:rhel_eus:9.6::appstream
+        - cpe:/a:redhat:rhel_eus:9.6::crb
+        - cpe:/a:redhat:rhel_eus:9.6::highavailability
+        - cpe:/a:redhat:rhel_eus:9.6::nfv
+        - cpe:/a:redhat:rhel_eus:9.6::realtime
+        - cpe:/a:redhat:rhel_eus:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.6::sap
+        - cpe:/a:redhat:rhel_eus:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6::supplementary
+        - cpe:/o:redhat:rhel_e4s:9.6
+        - cpe:/o:redhat:rhel_e4s:9.6::baseos
+        - cpe:/o:redhat:rhel_eus:9.6
+        - cpe:/o:redhat:rhel_eus:9.6::baseos
+      Arches:
+        - aarch64
+        - i686
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2024-4367
+          Severity: HIGH
+        - ID: CVE-2026-39872
+          Severity: MEDIUM
+        - ID: CVE-2026-43663
+          Severity: MEDIUM
+        - ID: CVE-2026-43676
+          Severity: MEDIUM
+        - ID: CVE-2026-43699
+          Severity: MEDIUM
+        - ID: CVE-2026-43701
+          Severity: HIGH
+        - ID: CVE-2026-43705
+          Severity: HIGH
+        - ID: CVE-2026-43707
+          Severity: MEDIUM
+        - ID: CVE-2026-43712
+          Severity: MEDIUM
+        - ID: CVE-2026-43713
+          Severity: MEDIUM
+        - ID: CVE-2026-43715
+          Severity: HIGH
+        - ID: CVE-2026-43716
+          Severity: MEDIUM
+        - ID: CVE-2026-43720
+          Severity: MEDIUM
+        - ID: CVE-2026-43721
+          Severity: MEDIUM
+        - ID: CVE-2026-43725
+          Severity: HIGH
+        - ID: CVE-2026-43726
+          Severity: MEDIUM
+        - ID: CVE-2026-43727
+          Severity: MEDIUM
+        - ID: CVE-2026-43731
+          Severity: HIGH
+        - ID: CVE-2026-43732
+          Severity: MEDIUM
+        - ID: CVE-2026-43734
+          Severity: MEDIUM
+        - ID: CVE-2026-43740
+          Severity: MEDIUM
+        - ID: CVE-2026-43742
+          Severity: MEDIUM
+        - ID: CVE-2026-43745
+          Severity: MEDIUM
+      FixedVersion: 0:2.52.5-1.el9_6

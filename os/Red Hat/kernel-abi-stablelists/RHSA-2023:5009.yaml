@@ -1,0 +1,36 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el9
+      Cves:
+        - ID: CVE-2022-27664
+          Severity: MEDIUM
+        - ID: CVE-2023-2727
+          Severity: MEDIUM
+        - ID: CVE-2023-2728
+          Severity: MEDIUM
+        - ID: CVE-2023-29409
+          Severity: MEDIUM
+        - ID: CVE-2023-29824
+          Severity: MEDIUM
+        - ID: CVE-2023-3089
+          Severity: MEDIUM
+        - ID: CVE-2023-3153
+          Severity: MEDIUM
+        - ID: CVE-2023-37788
+          Severity: MEDIUM
+        - ID: CVE-2023-39318
+          Severity: MEDIUM
+        - ID: CVE-2023-39319
+          Severity: MEDIUM
+        - ID: CVE-2023-39321
+          Severity: MEDIUM
+        - ID: CVE-2023-39322
+          Severity: MEDIUM
+        - ID: CVE-2023-39325
+          Severity: HIGH
+        - ID: CVE-2023-3978
+          Severity: MEDIUM
+        - ID: CVE-2023-44487
+          Severity: HIGH
+      FixedVersion: 0:5.14.0-284.36.1.el9_2

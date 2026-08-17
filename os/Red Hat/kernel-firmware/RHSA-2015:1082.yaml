@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Cves:
+        - ID: CVE-2015-1421
+          Severity: HIGH
+        - ID: CVE-2015-1805
+          Severity: HIGH
+      FixedVersion: 0:2.6.32-220.63.2.el6

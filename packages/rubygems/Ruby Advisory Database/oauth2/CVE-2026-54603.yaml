@@ -1,0 +1,4 @@
+PatchedVersions:
+    - '>= 2.0.22'
+UnaffectedVersions:
+    - < 0.4.0

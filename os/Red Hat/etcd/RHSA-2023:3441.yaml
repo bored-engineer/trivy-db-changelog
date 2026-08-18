@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:17.0
+        - cpe:/a:redhat:openstack:17.0::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-28235
+          Severity: HIGH
+        - ID: CVE-2023-32082
+          Severity: LOW
+      FixedVersion: 0:3.4.26-1.el9ost

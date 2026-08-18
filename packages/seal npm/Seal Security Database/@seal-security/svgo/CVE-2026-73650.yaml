@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 3.3.2-sp999
+    - 4.0.0-sp999
+VulnerableVersions:
+    - '>=3.3.2-sp1, <3.3.2-sp999'
+    - '>=4.0.0-sp1, <4.0.0-sp999'

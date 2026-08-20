@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.19
+        - cpe:/a:redhat:openshift:4.19::el9
+      Arches:
+        - aarch64
+        - x86_64
+      Cves:
+        - ID: CVE-2026-35469
+          Severity: HIGH
+      FixedVersion: 0:4.19.42-202608062155.p0.g46c9d67.assembly.4.19.42.el9

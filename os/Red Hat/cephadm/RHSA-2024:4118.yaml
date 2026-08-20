@@ -11,6 +11,8 @@ Entries:
       Cves:
         - ID: CVE-2023-39325
           Severity: HIGH
+        - ID: CVE-2023-44487
+          Severity: HIGH
         - ID: CVE-2023-45142
           Severity: MEDIUM
         - ID: CVE-2023-49569
@@ -25,6 +27,8 @@ Entries:
         - cpe:/a:redhat:ceph_storage:5.3::el9
       Cves:
         - ID: CVE-2023-39325
+          Severity: HIGH
+        - ID: CVE-2023-44487
           Severity: HIGH
         - ID: CVE-2023-45142
           Severity: MEDIUM

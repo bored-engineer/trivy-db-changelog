@@ -15,6 +15,10 @@ Entries:
         - cpe:/o:redhat:rhel_tus:8.8
         - cpe:/o:redhat:rhel_tus:8.8::baseos
       Cves:
+        - ID: CVE-2024-45336
+          Severity: MEDIUM
+        - ID: CVE-2025-22866
+          Severity: MEDIUM
         - ID: CVE-2025-31133
           Severity: HIGH
         - ID: CVE-2025-47913

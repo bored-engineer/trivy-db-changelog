@@ -11,6 +11,10 @@ Entries:
         - ppc64le
         - x86_64
       Cves:
+        - ID: CVE-2024-45336
+          Severity: MEDIUM
+        - ID: CVE-2025-22866
+          Severity: MEDIUM
         - ID: CVE-2025-31133
           Severity: HIGH
         - ID: CVE-2025-47913
@@ -35,6 +39,10 @@ Entries:
       Arches:
         - x86_64
       Cves:
+        - ID: CVE-2024-45336
+          Severity: MEDIUM
+        - ID: CVE-2025-22866
+          Severity: MEDIUM
         - ID: CVE-2025-31133
           Severity: HIGH
         - ID: CVE-2025-47913

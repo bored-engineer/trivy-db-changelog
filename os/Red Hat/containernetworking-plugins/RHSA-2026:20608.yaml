@@ -30,6 +30,8 @@ Entries:
       Cves:
         - ID: CVE-2026-32280
           Severity: HIGH
+        - ID: CVE-2026-32281
+          Severity: MEDIUM
         - ID: CVE-2026-32283
           Severity: HIGH
       FixedVersion: 1:1.6.2-3.el9_6.1

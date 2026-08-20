@@ -23,6 +23,8 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2026-32283
           Severity: HIGH
+        - ID: CVE-2026-33810
+          Severity: HIGH
         - ID: CVE-2026-42508
           Severity: HIGH
       FixedVersion: 2:1.9.5-1.module+el8.6.0+24590+db5ff31b.2

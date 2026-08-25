@@ -1,0 +1,4 @@
+PatchedVersions:
+    - '>= 16.5.0'
+UnaffectedVersions:
+    - < 7.3.0

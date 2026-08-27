@@ -1,0 +1,4 @@
+PatchedVersions:
+    - '>= 23.0.3'
+UnaffectedVersions:
+    - < 22.1.0

@@ -19,4 +19,6 @@ Entries:
       Cves:
         - ID: CVE-2022-3564
           Severity: HIGH
+        - ID: CVE-2022-49910
+          Severity: HIGH
       FixedVersion: 0:3.10.0-1160.95.1.el7

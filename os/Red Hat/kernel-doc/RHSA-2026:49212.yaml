@@ -38,7 +38,7 @@ Entries:
         - cpe:/o:redhat:rhel_eus:9.8::baseos
       Cves:
         - ID: CVE-2026-52923
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2026-52993
           Severity: HIGH
         - ID: CVE-2026-64530

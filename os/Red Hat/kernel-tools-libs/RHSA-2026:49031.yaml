@@ -32,7 +32,7 @@ Entries:
         - ID: CVE-2025-40026
           Severity: MEDIUM
         - ID: CVE-2026-52923
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2026-64561
           Severity: MEDIUM
       FixedVersion: 0:5.14.0-570.131.1.el9_6

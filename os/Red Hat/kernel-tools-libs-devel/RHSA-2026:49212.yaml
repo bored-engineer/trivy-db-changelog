@@ -42,7 +42,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2026-52923
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2026-52993
           Severity: HIGH
         - ID: CVE-2026-64530

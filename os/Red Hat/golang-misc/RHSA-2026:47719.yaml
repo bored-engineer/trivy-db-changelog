@@ -11,6 +11,8 @@ Entries:
         - cpe:/o:redhat:rhel_e4s:9.2
         - cpe:/o:redhat:rhel_e4s:9.2::baseos
       Cves:
+        - ID: CVE-2025-22874
+          Severity: HIGH
         - ID: CVE-2025-68121
           Severity: MEDIUM
         - ID: CVE-2026-27143

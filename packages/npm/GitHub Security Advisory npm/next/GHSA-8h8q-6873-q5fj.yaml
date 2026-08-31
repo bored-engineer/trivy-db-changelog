@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 15.5.16
+    - 16.2.5
+VulnerableVersions:
+    - '>=13.0.0, <15.5.16'
+    - '>=16.0.0, <16.2.5'

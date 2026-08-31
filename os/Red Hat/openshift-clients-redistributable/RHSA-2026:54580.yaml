@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.20
+        - cpe:/a:redhat:openshift:4.20::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-39821
+          Severity: HIGH
+      FixedVersion: 0:4.20.0-202608101541.p2.g1367d50.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.20
+        - cpe:/a:redhat:openshift:4.20::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-39821
+          Severity: HIGH
+      FixedVersion: 0:4.20.0-202608101541.p2.g1367d50.assembly.stream.el9

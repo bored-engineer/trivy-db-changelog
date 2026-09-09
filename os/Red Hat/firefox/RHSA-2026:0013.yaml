@@ -1,0 +1,51 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.6
+        - cpe:/a:redhat:rhel_e4s:9.6::appstream
+        - cpe:/a:redhat:rhel_e4s:9.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.6::nfv
+        - cpe:/a:redhat:rhel_e4s:9.6::realtime
+        - cpe:/a:redhat:rhel_e4s:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.6::sap
+        - cpe:/a:redhat:rhel_e4s:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6
+        - cpe:/a:redhat:rhel_eus:9.6::appstream
+        - cpe:/a:redhat:rhel_eus:9.6::crb
+        - cpe:/a:redhat:rhel_eus:9.6::highavailability
+        - cpe:/a:redhat:rhel_eus:9.6::nfv
+        - cpe:/a:redhat:rhel_eus:9.6::realtime
+        - cpe:/a:redhat:rhel_eus:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.6::sap
+        - cpe:/a:redhat:rhel_eus:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6::supplementary
+        - cpe:/o:redhat:rhel_e4s:9.6
+        - cpe:/o:redhat:rhel_e4s:9.6::baseos
+        - cpe:/o:redhat:rhel_eus:9.6
+        - cpe:/o:redhat:rhel_eus:9.6::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-14321
+          Severity: HIGH
+        - ID: CVE-2025-14322
+          Severity: HIGH
+        - ID: CVE-2025-14323
+          Severity: HIGH
+        - ID: CVE-2025-14324
+          Severity: HIGH
+        - ID: CVE-2025-14325
+          Severity: HIGH
+        - ID: CVE-2025-14328
+          Severity: MEDIUM
+        - ID: CVE-2025-14329
+          Severity: MEDIUM
+        - ID: CVE-2025-14330
+          Severity: MEDIUM
+        - ID: CVE-2025-14331
+          Severity: MEDIUM
+        - ID: CVE-2025-14333
+          Severity: MEDIUM
+      FixedVersion: 0:140.6.0-2.el9_6

@@ -1,0 +1,7 @@
+Entries:
+    - Arches:
+        - i386
+        - ia64
+        - x86_64
+      FixedVersion: 1.9.2.22-1.0.1.el5_7
+FixedVersion: 1.9.2.22-1.0.1.el5_7

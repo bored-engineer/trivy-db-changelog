@@ -1,0 +1,28 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.6
+        - cpe:/o:redhat:rhel_aus:7.6::server
+        - cpe:/o:redhat:rhel_tus:7.6
+        - cpe:/o:redhat:rhel_tus:7.6::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2021-44790
+          Severity: HIGH
+        - ID: CVE-2022-22720
+          Severity: HIGH
+      FixedVersion: 1:2.4.6-89.el7_6.4
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_e4s:7.6
+        - cpe:/a:redhat:rhel_extras_sap_hana_e4s:7.6
+        - cpe:/o:redhat:rhel_e4s:7.6
+        - cpe:/o:redhat:rhel_e4s:7.6::server
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2021-44790
+          Severity: HIGH
+        - ID: CVE-2022-22720
+          Severity: HIGH
+      FixedVersion: 1:2.4.6-89.el7_6.4

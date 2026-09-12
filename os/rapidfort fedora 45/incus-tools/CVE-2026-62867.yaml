@@ -1,0 +1,3 @@
+Severity: CRITICAL
+VulnerableVersions:
+    - '>=6.23-1.fc45'

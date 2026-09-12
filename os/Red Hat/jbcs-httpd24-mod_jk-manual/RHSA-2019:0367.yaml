@@ -1,0 +1,64 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_core_services:1
+        - cpe:/a:redhat:jboss_core_services:1::el6
+      Arches:
+        - i686
+        - x86_64
+      Cves:
+        - ID: CVE-2017-15710
+          Severity: LOW
+        - ID: CVE-2017-15715
+          Severity: LOW
+        - ID: CVE-2018-0739
+          Severity: MEDIUM
+        - ID: CVE-2018-1000168
+          Severity: MEDIUM
+        - ID: CVE-2018-11759
+          Severity: HIGH
+        - ID: CVE-2018-11763
+          Severity: MEDIUM
+        - ID: CVE-2018-1283
+          Severity: MEDIUM
+        - ID: CVE-2018-1301
+          Severity: LOW
+        - ID: CVE-2018-1302
+          Severity: LOW
+        - ID: CVE-2018-1303
+          Severity: MEDIUM
+        - ID: CVE-2018-1312
+          Severity: LOW
+        - ID: CVE-2018-1333
+          Severity: MEDIUM
+      FixedVersion: 0:1.2.46-1.redhat_1.jbcs.el6
+    - Affected:
+        - cpe:/a:redhat:jboss_core_services:1
+        - cpe:/a:redhat:jboss_core_services:1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2017-15710
+          Severity: LOW
+        - ID: CVE-2017-15715
+          Severity: LOW
+        - ID: CVE-2018-0739
+          Severity: MEDIUM
+        - ID: CVE-2018-1000168
+          Severity: MEDIUM
+        - ID: CVE-2018-11759
+          Severity: HIGH
+        - ID: CVE-2018-11763
+          Severity: MEDIUM
+        - ID: CVE-2018-1283
+          Severity: MEDIUM
+        - ID: CVE-2018-1301
+          Severity: LOW
+        - ID: CVE-2018-1302
+          Severity: LOW
+        - ID: CVE-2018-1303
+          Severity: MEDIUM
+        - ID: CVE-2018-1312
+          Severity: LOW
+        - ID: CVE-2018-1333
+          Severity: MEDIUM
+      FixedVersion: 0:1.2.46-1.redhat_1.jbcs.el7

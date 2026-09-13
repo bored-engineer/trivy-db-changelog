@@ -74,6 +74,16 @@ Entries:
         - cpe:/a:redhat:rhel_eus:9.6::sap
         - cpe:/a:redhat:rhel_eus:9.6::sap_hana
         - cpe:/a:redhat:rhel_eus:9.6::supplementary
+        - cpe:/a:redhat:rhel_eus:9.8
+        - cpe:/a:redhat:rhel_eus:9.8::appstream
+        - cpe:/a:redhat:rhel_eus:9.8::crb
+        - cpe:/a:redhat:rhel_eus:9.8::highavailability
+        - cpe:/a:redhat:rhel_eus:9.8::nfv
+        - cpe:/a:redhat:rhel_eus:9.8::realtime
+        - cpe:/a:redhat:rhel_eus:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.8::sap
+        - cpe:/a:redhat:rhel_eus:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.8::supplementary
         - cpe:/o:redhat:enterprise_linux:9
         - cpe:/o:redhat:enterprise_linux:9::baseos
         - cpe:/o:redhat:rhel_e4s:9.2
@@ -90,6 +100,8 @@ Entries:
         - cpe:/o:redhat:rhel_eus:9.4::baseos
         - cpe:/o:redhat:rhel_eus:9.6
         - cpe:/o:redhat:rhel_eus:9.6::baseos
+        - cpe:/o:redhat:rhel_eus:9.8
+        - cpe:/o:redhat:rhel_eus:9.8::baseos
       Arches:
         - s390x
       Cves:
@@ -206,6 +218,8 @@ Entries:
         - ID: CVE-2022-48738
           Severity: MEDIUM
         - ID: CVE-2022-48765
+          Severity: MEDIUM
+        - ID: CVE-2022-48785
           Severity: MEDIUM
         - ID: CVE-2022-48786
           Severity: MEDIUM
@@ -481,18 +495,19 @@ Entries:
           Severity: LOW
       FixedVersion: 0:5.14.0-162.6.1.el9_1
     - Affected:
-        - cpe:/a:redhat:rhel_eus:9.8
-        - cpe:/a:redhat:rhel_eus:9.8::appstream
-        - cpe:/a:redhat:rhel_eus:9.8::crb
-        - cpe:/a:redhat:rhel_eus:9.8::highavailability
-        - cpe:/a:redhat:rhel_eus:9.8::nfv
-        - cpe:/a:redhat:rhel_eus:9.8::realtime
-        - cpe:/a:redhat:rhel_eus:9.8::resilientstorage
-        - cpe:/a:redhat:rhel_eus:9.8::sap
-        - cpe:/a:redhat:rhel_eus:9.8::sap_hana
-        - cpe:/a:redhat:rhel_eus:9.8::supplementary
-        - cpe:/o:redhat:rhel_eus:9.8
-        - cpe:/o:redhat:rhel_eus:9.8::baseos
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::extensions
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
       Arches:
         - s390x
       Cves:
@@ -609,8 +624,6 @@ Entries:
         - ID: CVE-2022-48738
           Severity: MEDIUM
         - ID: CVE-2022-48765
-          Severity: MEDIUM
-        - ID: CVE-2022-48785
           Severity: MEDIUM
         - ID: CVE-2022-48786
           Severity: MEDIUM

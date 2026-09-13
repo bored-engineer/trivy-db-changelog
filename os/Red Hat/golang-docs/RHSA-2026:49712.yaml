@@ -53,6 +53,8 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-42501
           Severity: MEDIUM
+        - ID: CVE-2026-42504
+          Severity: HIGH
         - ID: CVE-2026-42507
           Severity: MEDIUM
       FixedVersion: 0:1.26.5-1.el9_6

@@ -89,4 +89,6 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-68494
           Severity: HIGH
+        - ID: CVE-2026-86404
+          Severity: HIGH
       FixedVersion: 0:2.5.5-30.SP12_redhat_00020.1.el7eap

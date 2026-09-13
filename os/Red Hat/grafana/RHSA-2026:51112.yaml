@@ -32,6 +32,12 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-27136
           Severity: HIGH
+        - ID: CVE-2026-39820
+          Severity: HIGH
         - ID: CVE-2026-39821
           Severity: HIGH
+        - ID: CVE-2026-42499
+          Severity: HIGH
+        - ID: CVE-2026-42502
+          Severity: MEDIUM
       FixedVersion: 0:10.2.6-22.el9_6

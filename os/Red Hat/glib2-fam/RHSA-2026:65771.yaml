@@ -26,3 +26,29 @@ Entries:
         - ID: CVE-2026-58015
           Severity: MEDIUM
       FixedVersion: 0:2.56.4-165.el8_8.2
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-15588
+          Severity: MEDIUM
+        - ID: CVE-2026-58010
+          Severity: MEDIUM
+        - ID: CVE-2026-58011
+          Severity: MEDIUM
+        - ID: CVE-2026-58012
+          Severity: MEDIUM
+        - ID: CVE-2026-58013
+          Severity: MEDIUM
+        - ID: CVE-2026-58014
+          Severity: MEDIUM
+        - ID: CVE-2026-58015
+          Severity: MEDIUM
+      FixedVersion: 0:2.56.4-165.el8_8.2

@@ -20,3 +20,23 @@ Entries:
         - ID: CVE-2026-76560
           Severity: HIGH
       FixedVersion: 0:1.4.3.35-21.module+el8.8.0+24788+bed99f90
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-18355
+          Severity: HIGH
+        - ID: CVE-2026-18453
+          Severity: HIGH
+        - ID: CVE-2026-18922
+          Severity: CRITICAL
+        - ID: CVE-2026-76560
+          Severity: HIGH
+      FixedVersion: 0:1.4.3.35-21.module+el8.8.0+24788+bed99f90

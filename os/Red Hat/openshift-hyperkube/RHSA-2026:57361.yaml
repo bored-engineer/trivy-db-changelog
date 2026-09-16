@@ -1,0 +1,33 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.22
+        - cpe:/a:redhat:openshift:4.22::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-15809
+          Severity: HIGH
+        - ID: CVE-2026-39822
+          Severity: HIGH
+        - ID: CVE-2026-42504
+          Severity: HIGH
+      FixedVersion: 0:4.22.0-202608190726.p2.g05744ab.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.22
+        - cpe:/a:redhat:openshift:4.22::el9
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-15809
+          Severity: HIGH
+        - ID: CVE-2026-39822
+          Severity: HIGH
+        - ID: CVE-2026-42504
+          Severity: HIGH
+      FixedVersion: 0:4.22.0-202608190726.p2.g05744ab.assembly.stream.el9

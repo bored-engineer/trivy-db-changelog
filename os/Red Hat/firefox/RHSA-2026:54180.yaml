@@ -1,0 +1,77 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.4
+        - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_aus:8.4::highavailability
+        - cpe:/o:redhat:rhel_aus:8.4
+        - cpe:/o:redhat:rhel_aus:8.4::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-15718
+          Severity: MEDIUM
+        - ID: CVE-2026-15719
+          Severity: HIGH
+        - ID: CVE-2026-16349
+          Severity: HIGH
+        - ID: CVE-2026-16350
+          Severity: MEDIUM
+        - ID: CVE-2026-16351
+          Severity: HIGH
+        - ID: CVE-2026-16352
+          Severity: HIGH
+        - ID: CVE-2026-16353
+          Severity: MEDIUM
+        - ID: CVE-2026-16354
+          Severity: MEDIUM
+        - ID: CVE-2026-16355
+          Severity: HIGH
+        - ID: CVE-2026-16356
+          Severity: HIGH
+        - ID: CVE-2026-16357
+          Severity: MEDIUM
+        - ID: CVE-2026-16358
+          Severity: MEDIUM
+        - ID: CVE-2026-16359
+          Severity: MEDIUM
+        - ID: CVE-2026-16360
+          Severity: HIGH
+        - ID: CVE-2026-16361
+          Severity: HIGH
+        - ID: CVE-2026-16362
+          Severity: HIGH
+        - ID: CVE-2026-16363
+          Severity: HIGH
+        - ID: CVE-2026-16368
+          Severity: HIGH
+        - ID: CVE-2026-16369
+          Severity: MEDIUM
+        - ID: CVE-2026-16371
+          Severity: MEDIUM
+        - ID: CVE-2026-16374
+          Severity: MEDIUM
+        - ID: CVE-2026-16375
+          Severity: MEDIUM
+        - ID: CVE-2026-16377
+          Severity: MEDIUM
+        - ID: CVE-2026-16379
+          Severity: MEDIUM
+        - ID: CVE-2026-16381
+          Severity: MEDIUM
+        - ID: CVE-2026-16383
+          Severity: MEDIUM
+        - ID: CVE-2026-16387
+          Severity: MEDIUM
+        - ID: CVE-2026-16390
+          Severity: MEDIUM
+        - ID: CVE-2026-16391
+          Severity: MEDIUM
+        - ID: CVE-2026-16396
+          Severity: MEDIUM
+        - ID: CVE-2026-16405
+          Severity: LOW
+        - ID: CVE-2026-16412
+          Severity: HIGH
+        - ID: CVE-2026-56208
+          Severity: HIGH
+      FixedVersion: 0:140.13.0-1.el8_4

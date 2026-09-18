@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::hypervisor
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2017-11334
+          Severity: MEDIUM
+        - ID: CVE-2017-14167
+          Severity: MEDIUM
+        - ID: CVE-2017-15289
+          Severity: MEDIUM
+      FixedVersion: 10:2.9.0-16.el7_4.11

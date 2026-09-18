@@ -1,0 +1,25 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.22
+        - cpe:/a:redhat:openshift:4.22::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-39821
+          Severity: HIGH
+      FixedVersion: 0:4.22.0-202606291123.p2.ga17a3e3.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.22
+        - cpe:/a:redhat:openshift:4.22::el9
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-39821
+          Severity: HIGH
+      FixedVersion: 0:4.22.0-202606291123.p2.ga17a3e3.assembly.stream.el9

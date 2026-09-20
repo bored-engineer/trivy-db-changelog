@@ -19,5 +19,5 @@ Entries:
         - ppc64le
       Cves:
         - ID: CVE-2024-53104
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:3.10.0-1160.132.1.el7

@@ -42,6 +42,12 @@ Entries:
       Cves:
         - ID: CVE-2026-23415
           Severity: MEDIUM
+        - ID: CVE-2026-31554
+          Severity: MEDIUM
+        - ID: CVE-2026-31555
+          Severity: MEDIUM
         - ID: CVE-2026-43450
+          Severity: MEDIUM
+        - ID: CVE-2026-52977
           Severity: MEDIUM
       FixedVersion: 0:5.14.0-687.36.1.el9_8

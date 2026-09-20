@@ -14,7 +14,7 @@ Entries:
         - ID: CVE-2025-22058
           Severity: MEDIUM
         - ID: CVE-2025-38352
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2025-38464
           Severity: MEDIUM
       FixedVersion: 0:4.18.0-193.168.1.el8_2

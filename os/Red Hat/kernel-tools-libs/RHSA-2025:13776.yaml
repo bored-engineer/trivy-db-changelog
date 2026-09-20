@@ -33,7 +33,7 @@ Entries:
         - ID: CVE-2025-23150
           Severity: MEDIUM
         - ID: CVE-2025-38052
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2025-38086
           Severity: MEDIUM
         - ID: CVE-2025-38380
@@ -71,7 +71,7 @@ Entries:
         - ID: CVE-2025-23150
           Severity: MEDIUM
         - ID: CVE-2025-38052
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2025-38086
           Severity: MEDIUM
         - ID: CVE-2025-38380

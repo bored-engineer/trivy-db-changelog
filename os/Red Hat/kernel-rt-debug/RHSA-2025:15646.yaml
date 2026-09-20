@@ -20,5 +20,5 @@ Entries:
         - ID: CVE-2025-38332
           Severity: MEDIUM
         - ID: CVE-2025-38352
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:3.10.0-1160.139.1.rt56.1291.el7

@@ -43,5 +43,5 @@ Entries:
         - ID: CVE-2025-68349
           Severity: MEDIUM
         - ID: CVE-2026-23074
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:4.18.0-305.186.1.el8_4

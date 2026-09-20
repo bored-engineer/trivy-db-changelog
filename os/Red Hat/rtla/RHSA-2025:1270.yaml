@@ -29,5 +29,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2024-53104
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-427.50.2.el9_4

@@ -18,4 +18,6 @@ Entries:
       Cves:
         - ID: CVE-2026-74581
           Severity: HIGH
+        - ID: CVE-2026-74582
+          Severity: HIGH
       FixedVersion: 0:7.3.0-427.147.1.el9_4

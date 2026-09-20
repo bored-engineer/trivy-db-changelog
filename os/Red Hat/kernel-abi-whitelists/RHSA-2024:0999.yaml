@@ -1,0 +1,14 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.7
+        - cpe:/o:redhat:rhel_aus:7.7::server
+      Cves:
+        - ID: CVE-2023-3609
+          Severity: HIGH
+        - ID: CVE-2023-42753
+          Severity: HIGH
+        - ID: CVE-2023-45871
+          Severity: HIGH
+        - ID: CVE-2023-4921
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-1062.85.1.el7

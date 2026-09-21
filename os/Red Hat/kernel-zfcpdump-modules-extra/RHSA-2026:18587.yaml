@@ -1,0 +1,118 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::baseos
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::extensions
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_e4s:9.8
+        - cpe:/a:redhat:rhel_e4s:9.8::appstream
+        - cpe:/a:redhat:rhel_e4s:9.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.8::nfv
+        - cpe:/a:redhat:rhel_e4s:9.8::realtime
+        - cpe:/a:redhat:rhel_e4s:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.8::sap
+        - cpe:/a:redhat:rhel_e4s:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.8
+        - cpe:/a:redhat:rhel_eus:9.8::appstream
+        - cpe:/a:redhat:rhel_eus:9.8::crb
+        - cpe:/a:redhat:rhel_eus:9.8::highavailability
+        - cpe:/a:redhat:rhel_eus:9.8::nfv
+        - cpe:/a:redhat:rhel_eus:9.8::realtime
+        - cpe:/a:redhat:rhel_eus:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.8::sap
+        - cpe:/a:redhat:rhel_eus:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.8::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/o:redhat:rhel_e4s:9.8
+        - cpe:/o:redhat:rhel_e4s:9.8::baseos
+        - cpe:/o:redhat:rhel_eus:9.8
+        - cpe:/o:redhat:rhel_eus:9.8::baseos
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2025-22105
+          Severity: LOW
+        - ID: CVE-2025-30156
+          Severity: HIGH
+        - ID: CVE-2025-37980
+          Severity: LOW
+        - ID: CVE-2025-38015
+          Severity: MEDIUM
+        - ID: CVE-2025-38097
+          Severity: LOW
+        - ID: CVE-2025-38166
+          Severity: MEDIUM
+        - ID: CVE-2025-38279
+          Severity: LOW
+        - ID: CVE-2025-38400
+          Severity: LOW
+        - ID: CVE-2025-38405
+          Severity: LOW
+        - ID: CVE-2025-38441
+          Severity: MEDIUM
+        - ID: CVE-2025-38470
+          Severity: MEDIUM
+        - ID: CVE-2025-39866
+          Severity: MEDIUM
+        - ID: CVE-2025-40134
+          Severity: MEDIUM
+        - ID: CVE-2026-23040
+          Severity: MEDIUM
+        - ID: CVE-2026-23243
+          Severity: MEDIUM
+      FixedVersion: 0:5.14.0-687.5.1.el9_8
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::extensions
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2025-22105
+          Severity: LOW
+        - ID: CVE-2025-37980
+          Severity: LOW
+        - ID: CVE-2025-38015
+          Severity: MEDIUM
+        - ID: CVE-2025-38097
+          Severity: LOW
+        - ID: CVE-2025-38166
+          Severity: MEDIUM
+        - ID: CVE-2025-38279
+          Severity: LOW
+        - ID: CVE-2025-38400
+          Severity: LOW
+        - ID: CVE-2025-38405
+          Severity: LOW
+        - ID: CVE-2025-38441
+          Severity: MEDIUM
+        - ID: CVE-2025-38470
+          Severity: MEDIUM
+        - ID: CVE-2025-39866
+          Severity: MEDIUM
+        - ID: CVE-2025-40134
+          Severity: MEDIUM
+        - ID: CVE-2026-23040
+          Severity: MEDIUM
+        - ID: CVE-2026-23243
+          Severity: MEDIUM
+      FixedVersion: 0:5.14.0-687.5.1.el9_8

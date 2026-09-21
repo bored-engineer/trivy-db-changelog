@@ -1,0 +1,17 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Cves:
+        - ID: CVE-2025-11234
+          Severity: MEDIUM
+        - ID: CVE-2026-18917
+          Severity: HIGH
+        - ID: CVE-2026-63622
+          Severity: HIGH
+      FixedVersion: 0:20210217-2.module+el8.8.0+20737+daad9f3b

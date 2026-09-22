@@ -1,0 +1,122 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::baseos
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::extensions
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_e4s:9.8
+        - cpe:/a:redhat:rhel_e4s:9.8::appstream
+        - cpe:/a:redhat:rhel_e4s:9.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.8::nfv
+        - cpe:/a:redhat:rhel_e4s:9.8::realtime
+        - cpe:/a:redhat:rhel_e4s:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.8::sap
+        - cpe:/a:redhat:rhel_e4s:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.10
+        - cpe:/a:redhat:rhel_eus:9.10::appstream
+        - cpe:/a:redhat:rhel_eus:9.8
+        - cpe:/a:redhat:rhel_eus:9.8::appstream
+        - cpe:/a:redhat:rhel_eus:9.8::crb
+        - cpe:/a:redhat:rhel_eus:9.8::highavailability
+        - cpe:/a:redhat:rhel_eus:9.8::nfv
+        - cpe:/a:redhat:rhel_eus:9.8::realtime
+        - cpe:/a:redhat:rhel_eus:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.8::sap
+        - cpe:/a:redhat:rhel_eus:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.8::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/o:redhat:rhel_e4s:9.8
+        - cpe:/o:redhat:rhel_e4s:9.8::baseos
+        - cpe:/o:redhat:rhel_eus:9.8
+        - cpe:/o:redhat:rhel_eus:9.8::baseos
+      Arches:
+        - aarch64
+        - i686
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-19154
+          Severity: HIGH
+        - ID: CVE-2026-19161
+          Severity: HIGH
+        - ID: CVE-2026-19173
+          Severity: HIGH
+        - ID: CVE-2026-19176
+          Severity: HIGH
+        - ID: CVE-2026-28984
+          Severity: HIGH
+        - ID: CVE-2026-43795
+          Severity: HIGH
+        - ID: CVE-2026-43804
+          Severity: MEDIUM
+        - ID: CVE-2026-64713
+          Severity: MEDIUM
+        - ID: CVE-2026-64715
+          Severity: HIGH
+        - ID: CVE-2026-64718
+          Severity: HIGH
+        - ID: CVE-2026-64728
+          Severity: MEDIUM
+        - ID: CVE-2026-64730
+          Severity: MEDIUM
+        - ID: CVE-2026-64753
+          Severity: MEDIUM
+        - ID: CVE-2026-64757
+          Severity: HIGH
+        - ID: CVE-2026-64778
+          Severity: MEDIUM
+        - ID: CVE-2026-64779
+          Severity: HIGH
+        - ID: CVE-2026-64780
+          Severity: HIGH
+        - ID: CVE-2026-64782
+          Severity: HIGH
+        - ID: CVE-2026-64783
+          Severity: HIGH
+        - ID: CVE-2026-64784
+          Severity: HIGH
+        - ID: CVE-2026-64787
+          Severity: HIGH
+        - ID: CVE-2026-65331
+          Severity: HIGH
+        - ID: CVE-2026-65332
+          Severity: HIGH
+        - ID: CVE-2026-65334
+          Severity: HIGH
+        - ID: CVE-2026-65335
+          Severity: HIGH
+        - ID: CVE-2026-65336
+          Severity: HIGH
+        - ID: CVE-2026-65337
+          Severity: HIGH
+        - ID: CVE-2026-65338
+          Severity: HIGH
+        - ID: CVE-2026-65340
+          Severity: HIGH
+        - ID: CVE-2026-65341
+          Severity: HIGH
+        - ID: CVE-2026-65351
+          Severity: HIGH
+        - ID: CVE-2026-76041
+          Severity: HIGH
+        - ID: CVE-2026-78376
+          Severity: HIGH
+        - ID: CVE-2026-79020
+          Severity: MEDIUM
+        - ID: CVE-2026-83596
+          Severity: HIGH
+        - ID: CVE-2026-84359
+          Severity: MEDIUM
+        - ID: CVE-2026-84635
+          Severity: HIGH
+      FixedVersion: 0:2.54.0-1.el9_8

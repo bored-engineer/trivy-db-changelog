@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.2
+        - cpe:/o:redhat:rhel_aus:7.2::server
+      Cves:
+        - ID: CVE-2020-14372
+          Severity: MEDIUM
+        - ID: CVE-2020-25632
+          Severity: MEDIUM
+        - ID: CVE-2020-25647
+          Severity: MEDIUM
+        - ID: CVE-2020-27749
+          Severity: MEDIUM
+        - ID: CVE-2020-27779
+          Severity: MEDIUM
+        - ID: CVE-2021-20225
+          Severity: MEDIUM
+        - ID: CVE-2021-20233
+          Severity: MEDIUM
+      FixedVersion: 1:2.02-0.86.el7_2.2

@@ -62,6 +62,8 @@ Entries:
         - cpe:/a:redhat:rhel_eus:9.0::sap
         - cpe:/a:redhat:rhel_eus:9.0::sap_hana
         - cpe:/a:redhat:rhel_eus:9.0::supplementary
+        - cpe:/a:redhat:rhel_eus:9.10
+        - cpe:/a:redhat:rhel_eus:9.10::appstream
         - cpe:/a:redhat:rhel_eus:9.2
         - cpe:/a:redhat:rhel_eus:9.2::appstream
         - cpe:/a:redhat:rhel_eus:9.2::crb

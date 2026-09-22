@@ -7,4 +7,6 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-33551
           Severity: LOW
+        - ID: CVE-2026-43001
+          Severity: HIGH
       FixedVersion: 1:19.0.2-17.1.20260529190847.54dd95d.el9ost

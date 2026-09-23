@@ -44,4 +44,6 @@ Entries:
         - ID: CVE-2026-72568
         - ID: CVE-2026-81934
           Severity: HIGH
+        - ID: CVE-2026-92925
+          Severity: HIGH
       FixedVersion: 0:7.2.16-1.module+el9.8.0+24745+654dcf03

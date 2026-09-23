@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.19
+        - cpe:/a:redhat:openshift:4.19::el9
+      Cves:
+        - ID: CVE-2025-6032
+          Severity: HIGH
+      FixedVersion: 5:5.4.0-6.rhaos4.19.el9

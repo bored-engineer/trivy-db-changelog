@@ -1,3 +1,2 @@
-Severity: HIGH
 VulnerableVersions:
     - '>=2.15.3-1.fc40'

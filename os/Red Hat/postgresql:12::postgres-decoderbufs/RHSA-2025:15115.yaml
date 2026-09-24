@@ -18,8 +18,6 @@ Entries:
         - s390x
         - x86_64
       Cves:
-        - ID: CVE-2025-8714
-          Severity: HIGH
         - ID: CVE-2025-8715
           Severity: HIGH
       FixedVersion: 0:0.10.0-2.module+el8.9.0+19330+c97ddbdf

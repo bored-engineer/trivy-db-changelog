@@ -11,8 +11,36 @@ Entries:
         - cpe:/o:redhat:rhel_e4s:9.2
         - cpe:/o:redhat:rhel_e4s:9.2::baseos
       Cves:
+        - ID: CVE-2024-52316
+          Severity: LOW
+        - ID: CVE-2024-54677
+          Severity: LOW
+        - ID: CVE-2025-46701
+          Severity: MEDIUM
+        - ID: CVE-2025-55668
+          Severity: MEDIUM
+        - ID: CVE-2025-55754
+          Severity: MEDIUM
+        - ID: CVE-2025-61795
+          Severity: MEDIUM
+        - ID: CVE-2025-66614
+          Severity: MEDIUM
+        - ID: CVE-2026-24733
+          Severity: LOW
+        - ID: CVE-2026-24880
+          Severity: LOW
+        - ID: CVE-2026-25854
+          Severity: LOW
+        - ID: CVE-2026-29145
+          Severity: MEDIUM
         - ID: CVE-2026-32990
           Severity: MEDIUM
+        - ID: CVE-2026-34483
+          Severity: LOW
+        - ID: CVE-2026-34487
+          Severity: LOW
+        - ID: CVE-2026-41284
+          Severity: HIGH
         - ID: CVE-2026-41293
           Severity: MEDIUM
         - ID: CVE-2026-42498
@@ -21,7 +49,21 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2026-43513
           Severity: MEDIUM
+        - ID: CVE-2026-43514
+          Severity: LOW
         - ID: CVE-2026-43515
+          Severity: MEDIUM
+        - ID: CVE-2026-50229
+          Severity: MEDIUM
+        - ID: CVE-2026-53404
+          Severity: MEDIUM
+        - ID: CVE-2026-53434
+          Severity: LOW
+        - ID: CVE-2026-55276
+          Severity: LOW
+        - ID: CVE-2026-55955
+          Severity: MEDIUM
+        - ID: CVE-2026-55956
           Severity: MEDIUM
         - ID: CVE-2026-55957
           Severity: HIGH

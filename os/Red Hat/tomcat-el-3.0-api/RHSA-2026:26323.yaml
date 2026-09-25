@@ -60,22 +60,3 @@ Entries:
         - ID: CVE-2026-34500
           Severity: MEDIUM
       FixedVersion: 1:9.0.117-1.el9_8
-    - Affected:
-        - cpe:/a:redhat:enterprise_linux:9
-        - cpe:/a:redhat:enterprise_linux:9::appstream
-        - cpe:/a:redhat:enterprise_linux:9::baseos
-        - cpe:/a:redhat:enterprise_linux:9::crb
-        - cpe:/a:redhat:enterprise_linux:9::extensions
-        - cpe:/a:redhat:enterprise_linux:9::highavailability
-        - cpe:/a:redhat:enterprise_linux:9::nfv
-        - cpe:/a:redhat:enterprise_linux:9::realtime
-        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
-        - cpe:/a:redhat:enterprise_linux:9::sap
-        - cpe:/a:redhat:enterprise_linux:9::sap_hana
-        - cpe:/a:redhat:enterprise_linux:9::supplementary
-        - cpe:/o:redhat:enterprise_linux:9
-        - cpe:/o:redhat:enterprise_linux:9::baseos
-      Cves:
-        - ID: CVE-2026-24734
-          Severity: HIGH
-      FixedVersion: 1:9.0.117-1.el9_8

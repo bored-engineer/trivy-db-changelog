@@ -1,0 +1,15 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.19
+        - cpe:/a:redhat:openshift:4.19::el9
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-58183
+          Severity: MEDIUM
+        - ID: CVE-2025-68121
+          Severity: MEDIUM
+      FixedVersion: 4:1.2.5-5.rhaos4.19.el9

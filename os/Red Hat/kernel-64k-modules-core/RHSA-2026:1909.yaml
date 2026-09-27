@@ -14,7 +14,7 @@ Entries:
         - aarch64
       Cves:
         - ID: CVE-2022-50865
-          Severity: MEDIUM
+          Severity: LOW
         - ID: CVE-2023-53751
           Severity: MEDIUM
         - ID: CVE-2025-40248

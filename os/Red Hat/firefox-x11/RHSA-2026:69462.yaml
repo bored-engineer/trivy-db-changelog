@@ -1,0 +1,103 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::baseos
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::extensions
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_e4s:9.8
+        - cpe:/a:redhat:rhel_e4s:9.8::appstream
+        - cpe:/a:redhat:rhel_e4s:9.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.8::nfv
+        - cpe:/a:redhat:rhel_e4s:9.8::realtime
+        - cpe:/a:redhat:rhel_e4s:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.8::sap
+        - cpe:/a:redhat:rhel_e4s:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.10
+        - cpe:/a:redhat:rhel_eus:9.10::appstream
+        - cpe:/a:redhat:rhel_eus:9.8
+        - cpe:/a:redhat:rhel_eus:9.8::appstream
+        - cpe:/a:redhat:rhel_eus:9.8::crb
+        - cpe:/a:redhat:rhel_eus:9.8::highavailability
+        - cpe:/a:redhat:rhel_eus:9.8::nfv
+        - cpe:/a:redhat:rhel_eus:9.8::realtime
+        - cpe:/a:redhat:rhel_eus:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.8::sap
+        - cpe:/a:redhat:rhel_eus:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.8::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/o:redhat:rhel_e4s:9.8
+        - cpe:/o:redhat:rhel_e4s:9.8::baseos
+        - cpe:/o:redhat:rhel_eus:9.8
+        - cpe:/o:redhat:rhel_eus:9.8::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-92005
+          Severity: HIGH
+        - ID: CVE-2026-92006
+          Severity: HIGH
+        - ID: CVE-2026-92007
+          Severity: HIGH
+        - ID: CVE-2026-92008
+          Severity: HIGH
+        - ID: CVE-2026-92009
+          Severity: HIGH
+        - ID: CVE-2026-92010
+          Severity: HIGH
+        - ID: CVE-2026-92011
+          Severity: HIGH
+        - ID: CVE-2026-92012
+          Severity: HIGH
+        - ID: CVE-2026-92013
+          Severity: HIGH
+        - ID: CVE-2026-92014
+          Severity: HIGH
+        - ID: CVE-2026-92015
+          Severity: HIGH
+        - ID: CVE-2026-92016
+          Severity: HIGH
+        - ID: CVE-2026-92017
+          Severity: HIGH
+        - ID: CVE-2026-92018
+          Severity: HIGH
+        - ID: CVE-2026-92019
+          Severity: HIGH
+        - ID: CVE-2026-92020
+          Severity: HIGH
+        - ID: CVE-2026-92021
+          Severity: HIGH
+        - ID: CVE-2026-92022
+          Severity: HIGH
+        - ID: CVE-2026-92023
+          Severity: HIGH
+        - ID: CVE-2026-92024
+          Severity: HIGH
+        - ID: CVE-2026-92025
+          Severity: HIGH
+        - ID: CVE-2026-92026
+          Severity: HIGH
+        - ID: CVE-2026-92027
+          Severity: HIGH
+        - ID: CVE-2026-92028
+          Severity: HIGH
+        - ID: CVE-2026-92029
+          Severity: HIGH
+        - ID: CVE-2026-92030
+          Severity: MEDIUM
+        - ID: CVE-2026-92031
+          Severity: MEDIUM
+        - ID: CVE-2026-92032
+          Severity: MEDIUM
+      FixedVersion: 0:140.16.0-1.el9_8

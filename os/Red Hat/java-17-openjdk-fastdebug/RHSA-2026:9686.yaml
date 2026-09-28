@@ -65,6 +65,8 @@ Entries:
         - cpe:/a:redhat:rhel_e4s:9.8::resilientstorage
         - cpe:/a:redhat:rhel_e4s:9.8::sap
         - cpe:/a:redhat:rhel_e4s:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.10
+        - cpe:/a:redhat:rhel_eus:9.10::appstream
         - cpe:/a:redhat:rhel_eus:9.8
         - cpe:/a:redhat:rhel_eus:9.8::appstream
         - cpe:/a:redhat:rhel_eus:9.8::crb

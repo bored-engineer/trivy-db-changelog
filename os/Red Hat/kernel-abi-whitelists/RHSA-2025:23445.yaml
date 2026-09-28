@@ -1,0 +1,70 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+      Cves:
+        - ID: CVE-2022-48701
+          Severity: LOW
+        - ID: CVE-2022-50356
+          Severity: MEDIUM
+        - ID: CVE-2022-50367
+          Severity: MEDIUM
+        - ID: CVE-2022-50386
+          Severity: MEDIUM
+        - ID: CVE-2022-50403
+          Severity: MEDIUM
+        - ID: CVE-2022-50406
+          Severity: MEDIUM
+        - ID: CVE-2022-50408
+          Severity: MEDIUM
+        - ID: CVE-2022-50410
+          Severity: MEDIUM
+        - ID: CVE-2023-53178
+          Severity: MEDIUM
+        - ID: CVE-2023-53213
+          Severity: MEDIUM
+        - ID: CVE-2023-53226
+          Severity: MEDIUM
+        - ID: CVE-2023-53297
+          Severity: MEDIUM
+        - ID: CVE-2023-53305
+          Severity: MEDIUM
+        - ID: CVE-2023-53354
+          Severity: MEDIUM
+        - ID: CVE-2023-53365
+          Severity: MEDIUM
+        - ID: CVE-2023-53373
+          Severity: MEDIUM
+        - ID: CVE-2023-53393
+          Severity: MEDIUM
+        - ID: CVE-2023-53680
+          Severity: MEDIUM
+        - ID: CVE-2024-46679
+          Severity: MEDIUM
+        - ID: CVE-2025-38718
+          Severity: MEDIUM
+        - ID: CVE-2025-38724
+          Severity: MEDIUM
+        - ID: CVE-2025-38729
+          Severity: MEDIUM
+        - ID: CVE-2025-39697
+          Severity: MEDIUM
+        - ID: CVE-2025-39757
+          Severity: MEDIUM
+        - ID: CVE-2025-39817
+          Severity: MEDIUM
+        - ID: CVE-2025-39825
+          Severity: MEDIUM
+        - ID: CVE-2025-39841
+          Severity: MEDIUM
+        - ID: CVE-2025-39864
+          Severity: MEDIUM
+        - ID: CVE-2025-39883
+          Severity: MEDIUM
+        - ID: CVE-2025-39955
+          Severity: MEDIUM
+        - ID: CVE-2025-40186
+          Severity: HIGH
+      FixedVersion: 0:4.18.0-193.178.1.el8_2

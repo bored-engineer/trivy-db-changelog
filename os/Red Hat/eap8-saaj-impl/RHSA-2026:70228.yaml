@@ -1,0 +1,80 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0::el8
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.1::el8
+      Cves:
+        - ID: CVE-2026-10832
+          Severity: MEDIUM
+        - ID: CVE-2026-14180
+          Severity: MEDIUM
+        - ID: CVE-2026-15554
+          Severity: HIGH
+        - ID: CVE-2026-15555
+          Severity: HIGH
+        - ID: CVE-2026-15560
+          Severity: HIGH
+        - ID: CVE-2026-15561
+          Severity: HIGH
+        - ID: CVE-2026-15562
+          Severity: HIGH
+        - ID: CVE-2026-15563
+          Severity: HIGH
+        - ID: CVE-2026-15565
+          Severity: HIGH
+        - ID: CVE-2026-15567
+          Severity: HIGH
+        - ID: CVE-2026-3505
+          Severity: HIGH
+        - ID: CVE-2026-44417
+          Severity: HIGH
+        - ID: CVE-2026-46581
+          Severity: HIGH
+        - ID: CVE-2026-49362
+          Severity: HIGH
+        - ID: CVE-2026-49363
+          Severity: MEDIUM
+        - ID: CVE-2026-49364
+          Severity: HIGH
+        - ID: CVE-2026-49875
+          Severity: HIGH
+        - ID: CVE-2026-50632
+          Severity: HIGH
+        - ID: CVE-2026-54512
+          Severity: HIGH
+        - ID: CVE-2026-54513
+          Severity: HIGH
+        - ID: CVE-2026-54515
+          Severity: MEDIUM
+        - ID: CVE-2026-55831
+          Severity: HIGH
+        - ID: CVE-2026-55833
+          Severity: HIGH
+        - ID: CVE-2026-56745
+          Severity: HIGH
+        - ID: CVE-2026-56746
+          Severity: HIGH
+        - ID: CVE-2026-5680
+          Severity: HIGH
+        - ID: CVE-2026-57967
+          Severity: HIGH
+        - ID: CVE-2026-59649
+          Severity: HIGH
+        - ID: CVE-2026-59889
+          Severity: MEDIUM
+        - ID: CVE-2026-59899
+          Severity: HIGH
+        - ID: CVE-2026-62243
+          Severity: HIGH
+        - ID: CVE-2026-68494
+          Severity: HIGH
+        - ID: CVE-2026-69152
+          Severity: HIGH
+        - ID: CVE-2026-73508
+          Severity: HIGH
+        - ID: CVE-2026-85511
+          Severity: LOW
+        - ID: CVE-2026-86404
+          Severity: HIGH
+      FixedVersion: 0:3.0.6-1.redhat_00001.1.el8eap

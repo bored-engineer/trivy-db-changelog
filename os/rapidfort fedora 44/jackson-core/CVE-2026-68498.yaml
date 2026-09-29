@@ -1,0 +1,3 @@
+Severity: HIGH
+VulnerableVersions:
+    - '>=2.18.2-6.fc44'

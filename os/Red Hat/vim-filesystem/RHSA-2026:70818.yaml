@@ -1,0 +1,50 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.6
+        - cpe:/a:redhat:rhel_e4s:9.6::appstream
+        - cpe:/a:redhat:rhel_e4s:9.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.6::nfv
+        - cpe:/a:redhat:rhel_e4s:9.6::realtime
+        - cpe:/a:redhat:rhel_e4s:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.6::sap
+        - cpe:/a:redhat:rhel_e4s:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6
+        - cpe:/a:redhat:rhel_eus:9.6::appstream
+        - cpe:/a:redhat:rhel_eus:9.6::crb
+        - cpe:/a:redhat:rhel_eus:9.6::highavailability
+        - cpe:/a:redhat:rhel_eus:9.6::nfv
+        - cpe:/a:redhat:rhel_eus:9.6::realtime
+        - cpe:/a:redhat:rhel_eus:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.6::sap
+        - cpe:/a:redhat:rhel_eus:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6::supplementary
+        - cpe:/o:redhat:rhel_e4s:9.6
+        - cpe:/o:redhat:rhel_e4s:9.6::baseos
+        - cpe:/o:redhat:rhel_eus:9.6
+        - cpe:/o:redhat:rhel_eus:9.6::baseos
+      Cves:
+        - ID: CVE-2026-47162
+          Severity: HIGH
+        - ID: CVE-2026-47167
+          Severity: HIGH
+        - ID: CVE-2026-52858
+          Severity: HIGH
+        - ID: CVE-2026-55693
+          Severity: MEDIUM
+        - ID: CVE-2026-57455
+          Severity: MEDIUM
+        - ID: CVE-2026-57456
+          Severity: HIGH
+        - ID: CVE-2026-59856
+          Severity: MEDIUM
+        - ID: CVE-2026-59858
+          Severity: MEDIUM
+        - ID: CVE-2026-73072
+          Severity: HIGH
+        - ID: CVE-2026-73076
+          Severity: HIGH
+        - ID: CVE-2026-73077
+          Severity: HIGH
+        - ID: CVE-2026-73078
+          Severity: HIGH
+      FixedVersion: 2:8.2.2637-22.el9_6.4

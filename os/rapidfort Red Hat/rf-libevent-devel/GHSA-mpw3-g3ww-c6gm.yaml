@@ -1,4 +1,0 @@
-PatchedVersions:
-    - 2.2.2-alpha
-VulnerableVersions:
-    - '>=2.1.13-11.rf, <2.2.2-alpha'

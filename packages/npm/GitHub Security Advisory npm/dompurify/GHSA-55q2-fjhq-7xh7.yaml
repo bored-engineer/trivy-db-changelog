@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 3.4.13
+VulnerableVersions:
+    - <3.4.13

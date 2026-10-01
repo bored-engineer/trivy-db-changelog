@@ -1,0 +1,90 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2026-14662
+          Severity: HIGH
+        - ID: CVE-2026-14664
+          Severity: HIGH
+        - ID: CVE-2026-14668
+          Severity: HIGH
+        - ID: CVE-2026-14669
+          Severity: HIGH
+        - ID: CVE-2026-14670
+          Severity: HIGH
+        - ID: CVE-2026-14671
+          Severity: HIGH
+        - ID: CVE-2026-14677
+          Severity: HIGH
+        - ID: CVE-2026-14679
+          Severity: HIGH
+        - ID: CVE-2026-14680
+          Severity: HIGH
+        - ID: CVE-2026-15741
+          Severity: HIGH
+        - ID: CVE-2026-15742
+          Severity: HIGH
+        - ID: CVE-2026-16239
+          Severity: HIGH
+        - ID: CVE-2026-18408
+          Severity: HIGH
+        - ID: CVE-2026-19385
+          Severity: HIGH
+        - ID: CVE-2026-6464
+          Severity: HIGH
+        - ID: CVE-2026-6471
+          Severity: HIGH
+      FixedVersion: 0:15.19-1.module+el8.8.0+24926+55068be7
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-14662
+          Severity: HIGH
+        - ID: CVE-2026-14664
+          Severity: HIGH
+        - ID: CVE-2026-14668
+          Severity: HIGH
+        - ID: CVE-2026-14669
+          Severity: HIGH
+        - ID: CVE-2026-14670
+          Severity: HIGH
+        - ID: CVE-2026-14671
+          Severity: HIGH
+        - ID: CVE-2026-14677
+          Severity: HIGH
+        - ID: CVE-2026-14679
+          Severity: HIGH
+        - ID: CVE-2026-14680
+          Severity: HIGH
+        - ID: CVE-2026-15741
+          Severity: HIGH
+        - ID: CVE-2026-15742
+          Severity: HIGH
+        - ID: CVE-2026-16239
+          Severity: HIGH
+        - ID: CVE-2026-18408
+          Severity: HIGH
+        - ID: CVE-2026-19385
+          Severity: HIGH
+        - ID: CVE-2026-6464
+          Severity: HIGH
+        - ID: CVE-2026-6471
+          Severity: HIGH
+      FixedVersion: 0:15.19-1.module+el8.8.0+24926+55068be7

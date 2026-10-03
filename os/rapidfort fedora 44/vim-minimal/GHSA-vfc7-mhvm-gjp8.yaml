@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 9.2.1061-1.fc44
+VulnerableVersions:
+    - '>=9.1.2086-1.fc44, <9.2.1061-1.fc44'

@@ -1,2 +1,4 @@
+PatchedVersions:
+    - 9.15.0-1.fc45
 VulnerableVersions:
-    - '>=9.2.1-1.fc45'
+    - '>=9.2.1-1.fc45, <9.15.0-1.fc45'

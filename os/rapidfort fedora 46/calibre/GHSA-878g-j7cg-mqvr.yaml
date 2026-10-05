@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 9.14.0-1.fc46
+VulnerableVersions:
+    - <9.14.0-1.fc46

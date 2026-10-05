@@ -1,0 +1,2 @@
+VulnerableVersions:
+    - '>=7.16.0-2.fc42'

@@ -1,6 +1,0 @@
-PatchedVersions:
-    - 17.13.7
-    - 18.2.6
-VulnerableVersions:
-    - '>=17.2.0, <17.13.7'
-    - '>=18.0.0, <18.2.6'

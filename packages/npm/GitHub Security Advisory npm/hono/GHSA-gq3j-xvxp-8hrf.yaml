@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 4.11.10
+VulnerableVersions:
+    - <4.11.10

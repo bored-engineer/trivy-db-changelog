@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.7
+        - cpe:/a:redhat:openshift:4.7::el8
+      Cves:
+        - ID: CVE-2021-30465
+          Severity: HIGH
+        - ID: CVE-2021-3114
+          Severity: MEDIUM
+      FixedVersion: 0:2.277.3.1620985335-1.el8

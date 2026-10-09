@@ -78,4 +78,6 @@ Entries:
       Cves:
         - ID: CVE-2025-26465
           Severity: MEDIUM
+        - ID: CVE-2025-26466
+          Severity: MEDIUM
       FixedVersion: 0:8.7p1-45.el9

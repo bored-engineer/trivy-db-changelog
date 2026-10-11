@@ -1,0 +1,57 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16.2
+        - cpe:/a:redhat:openstack:16.2::el8
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2025-61726
+          Severity: HIGH
+        - ID: CVE-2025-61729
+          Severity: HIGH
+        - ID: CVE-2025-65073
+          Severity: HIGH
+        - ID: CVE-2025-68121
+          Severity: MEDIUM
+        - ID: CVE-2026-23490
+          Severity: HIGH
+        - ID: CVE-2026-24708
+          Severity: HIGH
+        - ID: CVE-2026-25679
+          Severity: HIGH
+        - ID: CVE-2026-27137
+          Severity: HIGH
+        - ID: CVE-2026-27145
+          Severity: HIGH
+        - ID: CVE-2026-32280
+          Severity: HIGH
+        - ID: CVE-2026-32281
+          Severity: MEDIUM
+        - ID: CVE-2026-32282
+          Severity: MEDIUM
+        - ID: CVE-2026-32283
+          Severity: HIGH
+        - ID: CVE-2026-33186
+          Severity: HIGH
+        - ID: CVE-2026-33413
+          Severity: MEDIUM
+        - ID: CVE-2026-33551
+          Severity: LOW
+        - ID: CVE-2026-33810
+          Severity: HIGH
+        - ID: CVE-2026-33811
+          Severity: HIGH
+        - ID: CVE-2026-34881
+          Severity: HIGH
+        - ID: CVE-2026-39821
+          Severity: HIGH
+        - ID: CVE-2026-42789
+          Severity: HIGH
+        - ID: CVE-2026-42790
+          Severity: HIGH
+        - ID: CVE-2026-43001
+          Severity: HIGH
+        - ID: CVE-2026-44393
+          Severity: HIGH
+      FixedVersion: 0:23.3.4.18-2.el8ost

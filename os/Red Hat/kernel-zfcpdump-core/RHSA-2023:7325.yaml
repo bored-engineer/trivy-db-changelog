@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.13
+        - cpe:/a:redhat:openshift:4.13::el9
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2023-39325
+          Severity: HIGH
+        - ID: CVE-2023-44487
+          Severity: HIGH
+      FixedVersion: 0:5.14.0-284.41.1.el9_2

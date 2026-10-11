@@ -1,0 +1,25 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.16
+        - cpe:/a:redhat:openshift:4.16::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-22871
+          Severity: MEDIUM
+      FixedVersion: 0:4.16.0-202507092005.p0.ga6b193c.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.16
+        - cpe:/a:redhat:openshift:4.16::el9
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-22871
+          Severity: MEDIUM
+      FixedVersion: 0:4.16.0-202507092005.p0.ga6b193c.assembly.stream.el9

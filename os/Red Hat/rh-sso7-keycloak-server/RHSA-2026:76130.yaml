@@ -1,0 +1,62 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:red_hat_single_sign_on:7.6
+        - cpe:/a:redhat:red_hat_single_sign_on:7.6::el9
+        - cpe:/a:redhat:red_hat_single_sign_on_els:7.6
+        - cpe:/a:redhat:red_hat_single_sign_on_els:7.6::el9
+      Cves:
+        - ID: CVE-2025-12543
+          Severity: HIGH
+        - ID: CVE-2025-14813
+          Severity: HIGH
+        - ID: CVE-2025-9784
+          Severity: HIGH
+        - ID: CVE-2026-0603
+          Severity: HIGH
+        - ID: CVE-2026-15563
+          Severity: HIGH
+        - ID: CVE-2026-2092
+          Severity: HIGH
+        - ID: CVE-2026-2575
+          Severity: MEDIUM
+        - ID: CVE-2026-3505
+          Severity: HIGH
+        - ID: CVE-2026-42578
+          Severity: HIGH
+        - ID: CVE-2026-42579
+          Severity: HIGH
+        - ID: CVE-2026-42581
+          Severity: HIGH
+        - ID: CVE-2026-42587
+          Severity: HIGH
+        - ID: CVE-2026-44249
+          Severity: HIGH
+        - ID: CVE-2026-44893
+          Severity: HIGH
+        - ID: CVE-2026-45416
+          Severity: HIGH
+        - ID: CVE-2026-45674
+          Severity: HIGH
+        - ID: CVE-2026-4634
+          Severity: HIGH
+        - ID: CVE-2026-47691
+          Severity: HIGH
+        - ID: CVE-2026-48043
+          Severity: HIGH
+        - ID: CVE-2026-48059
+          Severity: HIGH
+        - ID: CVE-2026-50010
+          Severity: HIGH
+        - ID: CVE-2026-50193
+          Severity: HIGH
+        - ID: CVE-2026-54512
+          Severity: HIGH
+        - ID: CVE-2026-5588
+          Severity: HIGH
+        - ID: CVE-2026-68494
+          Severity: HIGH
+        - ID: CVE-2026-7307
+          Severity: HIGH
+        - ID: CVE-2026-7507
+          Severity: HIGH
+      FixedVersion: 0:18.0.20-1.redhat_00001.1.el9sso

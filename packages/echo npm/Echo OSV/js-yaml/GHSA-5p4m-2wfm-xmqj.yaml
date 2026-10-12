@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 3.15.1
+VendorIDs:
+    - ECHO-cf9a-2800-40c8
+VulnerableVersions:
+    - <3.15.1

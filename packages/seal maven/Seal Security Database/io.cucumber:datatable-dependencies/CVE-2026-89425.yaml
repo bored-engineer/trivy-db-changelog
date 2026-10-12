@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 1.1.14+sp999
+VulnerableVersions:
+    - '>=1.1.14+sp0, <1.1.14+sp999'

@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 1.15.11+echo.1
+VendorIDs:
+    - ECHO-87ff-1faa-6dfd
+VulnerableVersions:
+    - <1.15.11+echo.1

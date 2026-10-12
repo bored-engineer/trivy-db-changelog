@@ -1,0 +1,65 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-23103
+          Severity: MEDIUM
+        - ID: CVE-2026-31663
+          Severity: MEDIUM
+        - ID: CVE-2026-43233
+          Severity: MEDIUM
+        - ID: CVE-2026-43339
+          Severity: MEDIUM
+        - ID: CVE-2026-46266
+          Severity: MEDIUM
+        - ID: CVE-2026-46306
+          Severity: MEDIUM
+        - ID: CVE-2026-52920
+          Severity: MEDIUM
+        - ID: CVE-2026-53075
+          Severity: MEDIUM
+        - ID: CVE-2026-53131
+          Severity: MEDIUM
+        - ID: CVE-2026-53176
+          Severity: MEDIUM
+        - ID: CVE-2026-53192
+          Severity: MEDIUM
+        - ID: CVE-2026-53223
+          Severity: MEDIUM
+        - ID: CVE-2026-53228
+          Severity: MEDIUM
+        - ID: CVE-2026-53239
+          Severity: MEDIUM
+        - ID: CVE-2026-53268
+          Severity: MEDIUM
+        - ID: CVE-2026-53275
+          Severity: MEDIUM
+        - ID: CVE-2026-63917
+          Severity: HIGH
+        - ID: CVE-2026-63919
+          Severity: MEDIUM
+        - ID: CVE-2026-63921
+          Severity: HIGH
+        - ID: CVE-2026-64002
+          Severity: HIGH
+        - ID: CVE-2026-68143
+          Severity: HIGH
+        - ID: CVE-2026-68426
+          Severity: HIGH
+      FixedVersion: 0:4.18.0-553.164.1.el8_10

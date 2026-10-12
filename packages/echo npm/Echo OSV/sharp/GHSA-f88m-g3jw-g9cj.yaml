@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 0.35.0
+VendorIDs:
+    - ECHO-596c-e319-c555
+VulnerableVersions:
+    - <0.35.0

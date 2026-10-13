@@ -101,5 +101,5 @@ Entries:
         - ID: CVE-2024-1753
           Severity: HIGH
         - ID: CVE-2024-24786
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 4:4.9.4-3.el9_4

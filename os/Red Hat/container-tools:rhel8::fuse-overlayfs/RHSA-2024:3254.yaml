@@ -25,7 +25,7 @@ Entries:
         - ID: CVE-2024-1753
           Severity: HIGH
         - ID: CVE-2024-24786
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2024-28180
           Severity: MEDIUM
       FixedVersion: 0:1.13-1.module+el8.10.0+20412+95ee28e2

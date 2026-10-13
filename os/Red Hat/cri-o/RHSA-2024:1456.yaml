@@ -9,7 +9,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2024-24786
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2024-28180
           Severity: MEDIUM
       FixedVersion: 0:1.26.5-10.rhaos4.13.gita08b329.el8
@@ -23,7 +23,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2024-24786
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2024-28180
           Severity: MEDIUM
       FixedVersion: 0:1.26.5-10.rhaos4.13.gita08b329.el9

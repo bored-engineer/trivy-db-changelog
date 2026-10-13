@@ -19,5 +19,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2024-24786
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 0:1.14.3-2.module+el8.10.0+21962+8143777b

@@ -8,7 +8,7 @@ Entries:
         - ID: CVE-2024-1394
           Severity: HIGH
         - ID: CVE-2024-24786
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2024-28180
           Severity: MEDIUM
       FixedVersion: 0:4.15.0-202403211240.p0.g62c4d45.assembly.stream.el8
@@ -21,7 +21,7 @@ Entries:
         - ID: CVE-2024-1394
           Severity: HIGH
         - ID: CVE-2024-24786
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2024-28180
           Severity: MEDIUM
       FixedVersion: 0:4.15.0-202403211240.p0.g62c4d45.assembly.stream.el9

@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.2
+        - cpe:/a:redhat:rhel_aus:8.2::appstream
+        - cpe:/o:redhat:rhel_aus:8.2
+        - cpe:/o:redhat:rhel_aus:8.2::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-53705
+          Severity: MEDIUM
+        - ID: CVE-2023-53751
+          Severity: MEDIUM
+        - ID: CVE-2025-39898
+          Severity: MEDIUM
+        - ID: CVE-2025-39993
+          Severity: MEDIUM
+        - ID: CVE-2025-40248
+          Severity: HIGH
+        - ID: CVE-2025-40277
+          Severity: MEDIUM
+      FixedVersion: 0:4.18.0-193.183.1.el8_2

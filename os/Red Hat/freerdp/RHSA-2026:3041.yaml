@@ -1,0 +1,46 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2026-23530
+          Severity: HIGH
+        - ID: CVE-2026-23531
+          Severity: HIGH
+        - ID: CVE-2026-23532
+          Severity: HIGH
+        - ID: CVE-2026-23533
+          Severity: HIGH
+        - ID: CVE-2026-23884
+          Severity: HIGH
+      FixedVersion: 2:2.2.0-12.el8_8.1
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-23530
+          Severity: HIGH
+        - ID: CVE-2026-23531
+          Severity: HIGH
+        - ID: CVE-2026-23532
+          Severity: HIGH
+        - ID: CVE-2026-23533
+          Severity: HIGH
+        - ID: CVE-2026-23884
+          Severity: HIGH
+      FixedVersion: 2:2.2.0-12.el8_8.1

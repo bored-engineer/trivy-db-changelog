@@ -1,0 +1,46 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2024-57849
+          Severity: MEDIUM
+        - ID: CVE-2025-71132
+          Severity: MEDIUM
+        - ID: CVE-2026-45970
+          Severity: MEDIUM
+        - ID: CVE-2026-53185
+          Severity: MEDIUM
+        - ID: CVE-2026-53391
+          Severity: MEDIUM
+        - ID: CVE-2026-53392
+          Severity: MEDIUM
+        - ID: CVE-2026-53397
+          Severity: MEDIUM
+        - ID: CVE-2026-53399
+          Severity: HIGH
+        - ID: CVE-2026-63800
+          Severity: MEDIUM
+        - ID: CVE-2026-64018
+          Severity: HIGH
+        - ID: CVE-2026-64268
+          Severity: HIGH
+        - ID: CVE-2026-64298
+          Severity: MEDIUM
+        - ID: CVE-2026-68480
+          Severity: HIGH
+        - ID: CVE-2026-74581
+          Severity: HIGH
+      FixedVersion: 0:4.18.0-553.159.1.el8_10

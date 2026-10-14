@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 0:1.67.0+dfsg-1~deb11u1
+VulnerableVersions:
+    - '>=0:1.60.0+dfsg-1, <0:1.67.0+dfsg-1~deb11u1'

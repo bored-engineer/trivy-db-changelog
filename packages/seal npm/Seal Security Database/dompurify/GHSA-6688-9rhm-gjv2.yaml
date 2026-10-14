@@ -1,6 +1,0 @@
-PatchedVersions:
-    - 2.0.12-sp999
-    - 2.5.7-sp999
-VulnerableVersions:
-    - '>=2.0.12-sp0, <2.0.12-sp999'
-    - '>=2.5.7-sp0, <2.5.7-sp999'

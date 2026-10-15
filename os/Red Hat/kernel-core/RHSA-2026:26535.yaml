@@ -1,0 +1,59 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.4
+        - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_aus:8.4::highavailability
+        - cpe:/o:redhat:rhel_aus:8.4
+        - cpe:/o:redhat:rhel_aus:8.4::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-53372
+          Severity: MEDIUM
+        - ID: CVE-2025-21858
+          Severity: MEDIUM
+        - ID: CVE-2025-40135
+          Severity: MEDIUM
+        - ID: CVE-2025-40158
+          Severity: MEDIUM
+        - ID: CVE-2025-40170
+          Severity: MEDIUM
+        - ID: CVE-2025-68366
+          Severity: MEDIUM
+        - ID: CVE-2025-68800
+          Severity: MEDIUM
+        - ID: CVE-2025-71089
+          Severity: MEDIUM
+        - ID: CVE-2026-23001
+          Severity: MEDIUM
+        - ID: CVE-2026-23097
+          Severity: MEDIUM
+        - ID: CVE-2026-23191
+          Severity: MEDIUM
+        - ID: CVE-2026-23216
+          Severity: MEDIUM
+        - ID: CVE-2026-23243
+          Severity: MEDIUM
+        - ID: CVE-2026-23392
+          Severity: MEDIUM
+        - ID: CVE-2026-31685
+          Severity: MEDIUM
+        - ID: CVE-2026-43037
+          Severity: CRITICAL
+        - ID: CVE-2026-43038
+          Severity: HIGH
+        - ID: CVE-2026-43110
+          Severity: MEDIUM
+        - ID: CVE-2026-43116
+          Severity: MEDIUM
+        - ID: CVE-2026-43158
+          Severity: MEDIUM
+        - ID: CVE-2026-43163
+          Severity: MEDIUM
+        - ID: CVE-2026-43190
+          Severity: MEDIUM
+        - ID: CVE-2026-46227
+          Severity: HIGH
+        - ID: CVE-2026-46243
+          Severity: HIGH
+      FixedVersion: 0:4.18.0-305.194.1.el8_4

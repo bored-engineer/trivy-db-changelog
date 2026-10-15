@@ -12,7 +12,7 @@ Entries:
         - cpe:/o:redhat:rhel_e4s:9.2::baseos
       Cves:
         - ID: CVE-2022-49846
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2022-50066
           Severity: MEDIUM
         - ID: CVE-2023-1652

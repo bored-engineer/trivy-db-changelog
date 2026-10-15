@@ -29,7 +29,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2022-49846
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2023-52477
           Severity: LOW
         - ID: CVE-2023-52565

@@ -75,4 +75,4 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2022-49846
-          Severity: HIGH
+          Severity: MEDIUM

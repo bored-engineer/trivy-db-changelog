@@ -33,10 +33,24 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2026-56846
           Severity: HIGH
+        - ID: CVE-2026-56847
+          Severity: LOW
         - ID: CVE-2026-56848
           Severity: HIGH
+        - ID: CVE-2026-56850
+          Severity: MEDIUM
+        - ID: CVE-2026-58039
+          Severity: MEDIUM
+        - ID: CVE-2026-58040
+          Severity: MEDIUM
+        - ID: CVE-2026-58042
+          Severity: MEDIUM
         - ID: CVE-2026-58043
           Severity: HIGH
+        - ID: CVE-2026-58044
+          Severity: MEDIUM
+        - ID: CVE-2026-58045
+          Severity: MEDIUM
         - ID: CVE-2026-69152
           Severity: HIGH
         - ID: CVE-2026-69192

@@ -26,6 +26,7 @@ Entries:
         - aarch64
       Cves:
         - ID: CVE-2025-38380
+          Severity: LOW
         - ID: CVE-2025-38471
           Severity: HIGH
       FixedVersion: 0:5.14.0-427.84.1.el9_4

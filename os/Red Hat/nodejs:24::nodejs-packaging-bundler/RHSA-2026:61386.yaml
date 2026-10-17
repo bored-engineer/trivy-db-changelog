@@ -51,8 +51,24 @@ Entries:
       Cves:
         - ID: CVE-2026-56846
           Severity: HIGH
+        - ID: CVE-2026-56847
+          Severity: LOW
         - ID: CVE-2026-56848
           Severity: HIGH
+        - ID: CVE-2026-56850
+          Severity: MEDIUM
+        - ID: CVE-2026-58039
+          Severity: MEDIUM
+        - ID: CVE-2026-58040
+          Severity: MEDIUM
+        - ID: CVE-2026-58041
+          Severity: MEDIUM
+        - ID: CVE-2026-58042
+          Severity: MEDIUM
         - ID: CVE-2026-58043
           Severity: HIGH
+        - ID: CVE-2026-58044
+          Severity: MEDIUM
+        - ID: CVE-2026-58045
+          Severity: MEDIUM
       FixedVersion: 0:2021.06-6.module+el9.8.0+24708+e71d2e1d

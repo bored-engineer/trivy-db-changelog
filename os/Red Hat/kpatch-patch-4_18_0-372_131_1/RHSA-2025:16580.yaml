@@ -21,4 +21,5 @@ Entries:
         - ID: CVE-2025-38350
           Severity: HIGH
         - ID: CVE-2025-38380
+          Severity: LOW
       FixedVersion: 0:1-10.el8_6

@@ -89,6 +89,7 @@ Entries:
         - ID: CVE-2025-38250
           Severity: MEDIUM
         - ID: CVE-2025-38380
+          Severity: LOW
         - ID: CVE-2025-38471
           Severity: HIGH
       FixedVersion: 0:5.14.0-570.35.1.el9_6

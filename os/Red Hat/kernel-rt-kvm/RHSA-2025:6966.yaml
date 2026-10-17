@@ -264,6 +264,7 @@ Entries:
         - ID: CVE-2024-44934
           Severity: MEDIUM
         - ID: CVE-2024-44952
+          Severity: LOW
         - ID: CVE-2024-44958
           Severity: MEDIUM
         - ID: CVE-2024-44964

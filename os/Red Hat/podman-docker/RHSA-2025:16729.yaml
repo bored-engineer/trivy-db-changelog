@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.18
+        - cpe:/a:redhat:openshift:4.18::el8
+      Cves:
+        - ID: CVE-2025-4953
+          Severity: MEDIUM
+      FixedVersion: 5:5.2.2-2.rhaos4.18.el8

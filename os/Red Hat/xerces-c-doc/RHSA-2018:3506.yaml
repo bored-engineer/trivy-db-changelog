@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras_sap_eus:7.5
+        - cpe:/a:redhat:rhel_extras_sap_hana_eus:7.5
+        - cpe:/o:redhat:rhel_eus:7.5
+        - cpe:/o:redhat:rhel_eus:7.5::computenode
+        - cpe:/o:redhat:rhel_eus:7.5::server
+      Cves:
+        - ID: CVE-2016-4463
+          Severity: MEDIUM
+      FixedVersion: 0:3.1.1-8.el7_5.1

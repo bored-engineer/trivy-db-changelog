@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 0.1.0-alpha.27
+VulnerableVersions:
+    - <0.1.0-alpha.27

@@ -1,4 +1,0 @@
-PatchedVersions:
-    - 1:2022.10.3-5+deb13u3
-VulnerableVersions:
-    - '>=1:2022.10.3-5, <1:2022.10.3-5+deb13u3'

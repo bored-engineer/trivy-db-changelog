@@ -1,4 +1,0 @@
-PatchedVersions:
-    - 0:1.6.5+dfsg-1+deb12u12
-VulnerableVersions:
-    - '>=0:1.6.5+dfsg-1+deb12u9, <0:1.6.5+dfsg-1+deb12u12'

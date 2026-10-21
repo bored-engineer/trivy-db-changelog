@@ -1,4 +1,0 @@
-PatchedVersions:
-    - 2:22.0.2-0+deb12u6
-VulnerableVersions:
-    - '>=2:22.0.2-0+deb12u3, <2:22.0.2-0+deb12u6'

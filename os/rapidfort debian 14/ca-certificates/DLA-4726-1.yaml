@@ -1,4 +1,0 @@
-PatchedVersions:
-    - 0:20250419~deb12u1~deb11u1
-VulnerableVersions:
-    - '>=0:20230311+deb12u1, <0:20250419~deb12u1~deb11u1'

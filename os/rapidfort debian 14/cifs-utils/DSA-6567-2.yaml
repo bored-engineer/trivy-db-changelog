@@ -1,4 +1,0 @@
-PatchedVersions:
-    - 2:7.4-1+deb13u2
-VulnerableVersions:
-    - '>=2:7.0-2.1, <2:7.4-1+deb13u2'

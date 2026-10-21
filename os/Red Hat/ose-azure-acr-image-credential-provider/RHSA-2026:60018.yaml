@@ -1,0 +1,49 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.17
+        - cpe:/a:redhat:openshift:4.17::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-68121
+          Severity: MEDIUM
+        - ID: CVE-2026-25679
+          Severity: HIGH
+        - ID: CVE-2026-32280
+          Severity: HIGH
+        - ID: CVE-2026-33811
+          Severity: HIGH
+        - ID: CVE-2026-39820
+          Severity: HIGH
+        - ID: CVE-2026-42499
+          Severity: HIGH
+        - ID: CVE-2026-42504
+          Severity: HIGH
+      FixedVersion: 0:4.17.0-202608122146.p2.g5bcfbfd.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.17
+        - cpe:/a:redhat:openshift:4.17::el9
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-68121
+          Severity: MEDIUM
+        - ID: CVE-2026-25679
+          Severity: HIGH
+        - ID: CVE-2026-32280
+          Severity: HIGH
+        - ID: CVE-2026-33811
+          Severity: HIGH
+        - ID: CVE-2026-39820
+          Severity: HIGH
+        - ID: CVE-2026-42499
+          Severity: HIGH
+        - ID: CVE-2026-42504
+          Severity: HIGH
+      FixedVersion: 0:4.17.0-202608122146.p2.g5bcfbfd.assembly.stream.el9

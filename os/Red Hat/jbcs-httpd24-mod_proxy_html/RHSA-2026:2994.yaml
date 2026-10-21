@@ -1,0 +1,39 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_core_services:1
+        - cpe:/a:redhat:jboss_core_services:1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2025-55753
+          Severity: HIGH
+        - ID: CVE-2025-58098
+          Severity: HIGH
+        - ID: CVE-2025-65082
+          Severity: MEDIUM
+        - ID: CVE-2025-66200
+          Severity: MEDIUM
+        - ID: CVE-2025-69419
+          Severity: MEDIUM
+        - ID: CVE-2025-9230
+          Severity: MEDIUM
+      FixedVersion: 1:2.4.62-11.el7jbcs
+    - Affected:
+        - cpe:/a:redhat:jboss_core_services:1
+        - cpe:/a:redhat:jboss_core_services:1::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2025-55753
+          Severity: HIGH
+        - ID: CVE-2025-58098
+          Severity: HIGH
+        - ID: CVE-2025-65082
+          Severity: MEDIUM
+        - ID: CVE-2025-66200
+          Severity: MEDIUM
+        - ID: CVE-2025-69419
+          Severity: MEDIUM
+        - ID: CVE-2025-9230
+          Severity: MEDIUM
+      FixedVersion: 1:2.4.62-11.el8jbcs

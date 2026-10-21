@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 4:25.04.2-1+deb13u1
+VulnerableVersions:
+    - '>=4:23.08.1-2, <4:25.04.2-1+deb13u1'

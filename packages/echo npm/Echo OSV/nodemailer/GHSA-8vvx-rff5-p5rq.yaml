@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 10.0.2
+VendorIDs:
+    - ECHO-aee1-014d-2428
+VulnerableVersions:
+    - <10.0.2

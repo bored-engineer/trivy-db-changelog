@@ -1,0 +1,5 @@
+PatchedVersions:
+    - 0:2023.05.07-8.fc41
+Severity: CRITICAL
+VulnerableVersions:
+    - '>=0:2023.05.07-7.fc41, <0:2023.05.07-8.fc41'

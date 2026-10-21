@@ -21,6 +21,8 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-0636
           Severity: HIGH
+        - ID: CVE-2026-101292
+          Severity: HIGH
         - ID: CVE-2026-10579
           Severity: CRITICAL
         - ID: CVE-2026-15554
@@ -96,7 +98,5 @@ Entries:
         - ID: CVE-2026-5598
           Severity: HIGH
         - ID: CVE-2026-68494
-          Severity: HIGH
-        - ID: CVE-2026-86404
           Severity: HIGH
       FixedVersion: 0:1.5.26-2.Final_redhat_00001.1.el7eap

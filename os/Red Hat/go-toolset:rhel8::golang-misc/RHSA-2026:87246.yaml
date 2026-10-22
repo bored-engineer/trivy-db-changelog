@@ -1,0 +1,62 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+      Cves:
+        - ID: CVE-2024-45336
+          Severity: MEDIUM
+        - ID: CVE-2025-22866
+          Severity: MEDIUM
+        - ID: CVE-2025-22874
+          Severity: HIGH
+        - ID: CVE-2025-4673
+          Severity: MEDIUM
+        - ID: CVE-2025-68121
+          Severity: MEDIUM
+        - ID: CVE-2026-111943
+          Severity: HIGH
+        - ID: CVE-2026-27137
+          Severity: HIGH
+        - ID: CVE-2026-27143
+          Severity: MEDIUM
+        - ID: CVE-2026-27144
+          Severity: MEDIUM
+        - ID: CVE-2026-27145
+          Severity: HIGH
+        - ID: CVE-2026-32280
+          Severity: HIGH
+        - ID: CVE-2026-32281
+          Severity: MEDIUM
+        - ID: CVE-2026-32282
+          Severity: MEDIUM
+        - ID: CVE-2026-32283
+          Severity: HIGH
+        - ID: CVE-2026-33810
+          Severity: HIGH
+        - ID: CVE-2026-33811
+          Severity: HIGH
+        - ID: CVE-2026-33814
+          Severity: HIGH
+        - ID: CVE-2026-33818
+          Severity: HIGH
+        - ID: CVE-2026-39820
+          Severity: HIGH
+        - ID: CVE-2026-39821
+          Severity: HIGH
+        - ID: CVE-2026-42499
+          Severity: HIGH
+        - ID: CVE-2026-42504
+          Severity: HIGH
+        - ID: CVE-2026-56853
+          Severity: HIGH
+        - ID: CVE-2026-56858
+          Severity: HIGH
+        - ID: CVE-2026-56859
+          Severity: HIGH
+        - ID: CVE-2026-56860
+          Severity: HIGH
+        - ID: CVE-2026-56862
+          Severity: HIGH
+      FixedVersion: 0:1.26.10-4.module+el8.6.0+25114+90ecdb41

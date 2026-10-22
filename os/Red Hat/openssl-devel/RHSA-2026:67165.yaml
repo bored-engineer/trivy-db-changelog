@@ -73,4 +73,6 @@ Entries:
           Severity: LOW
         - ID: CVE-2026-63076
           Severity: MEDIUM
+        - ID: CVE-2026-75803
+          Severity: LOW
       FixedVersion: 1:3.5.8-1.el9_8

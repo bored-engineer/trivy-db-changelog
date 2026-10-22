@@ -1,0 +1,5 @@
+PatchedVersions:
+    - 0.11.6-2.fc43
+Severity: LOW
+VulnerableVersions:
+    - '>=0.8.11-4.fc43, <0.11.6-2.fc43'

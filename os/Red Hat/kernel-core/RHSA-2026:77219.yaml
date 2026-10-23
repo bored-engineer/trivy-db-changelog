@@ -1,0 +1,63 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.6
+        - cpe:/a:redhat:rhel_e4s:9.6::appstream
+        - cpe:/a:redhat:rhel_e4s:9.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.6::nfv
+        - cpe:/a:redhat:rhel_e4s:9.6::realtime
+        - cpe:/a:redhat:rhel_e4s:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.6::sap
+        - cpe:/a:redhat:rhel_e4s:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6
+        - cpe:/a:redhat:rhel_eus:9.6::appstream
+        - cpe:/a:redhat:rhel_eus:9.6::crb
+        - cpe:/a:redhat:rhel_eus:9.6::highavailability
+        - cpe:/a:redhat:rhel_eus:9.6::nfv
+        - cpe:/a:redhat:rhel_eus:9.6::realtime
+        - cpe:/a:redhat:rhel_eus:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.6::sap
+        - cpe:/a:redhat:rhel_eus:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6::supplementary
+        - cpe:/o:redhat:rhel_e4s:9.6
+        - cpe:/o:redhat:rhel_e4s:9.6::baseos
+        - cpe:/o:redhat:rhel_eus:9.6
+        - cpe:/o:redhat:rhel_eus:9.6::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-23442
+          Severity: MEDIUM
+        - ID: CVE-2026-45910
+          Severity: MEDIUM
+        - ID: CVE-2026-46043
+          Severity: MEDIUM
+        - ID: CVE-2026-46114
+          Severity: MEDIUM
+        - ID: CVE-2026-46133
+          Severity: MEDIUM
+        - ID: CVE-2026-63920
+          Severity: MEDIUM
+        - ID: CVE-2026-63922
+          Severity: HIGH
+        - ID: CVE-2026-63924
+          Severity: HIGH
+        - ID: CVE-2026-63984
+          Severity: MEDIUM
+        - ID: CVE-2026-64383
+          Severity: HIGH
+        - ID: CVE-2026-64385
+          Severity: HIGH
+        - ID: CVE-2026-64386
+          Severity: HIGH
+        - ID: CVE-2026-64582
+          Severity: HIGH
+        - ID: CVE-2026-80792
+          Severity: HIGH
+        - ID: CVE-2026-80863
+          Severity: MEDIUM
+        - ID: CVE-2026-80864
+          Severity: MEDIUM
+      FixedVersion: 0:5.14.0-570.147.1.el9_6

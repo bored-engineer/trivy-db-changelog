@@ -590,7 +590,7 @@ Entries:
         - ID: CVE-2026-9878
           Severity: CRITICAL
         - ID: CVE-2026-9879
-          Severity: CRITICAL
+          Severity: HIGH
         - ID: CVE-2026-9882
           Severity: CRITICAL
         - ID: CVE-2026-9892

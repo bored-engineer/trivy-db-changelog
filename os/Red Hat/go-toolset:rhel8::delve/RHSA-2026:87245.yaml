@@ -65,6 +65,34 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-56862
           Severity: HIGH
+        - ID: CVE-2026-56866
+          Severity: MEDIUM
+        - ID: CVE-2026-78659
+          Severity: MEDIUM
+        - ID: CVE-2026-78660
+          Severity: MEDIUM
+        - ID: CVE-2026-78663
+          Severity: MEDIUM
+        - ID: CVE-2026-78667
+          Severity: HIGH
+        - ID: CVE-2026-78669
+          Severity: HIGH
+        - ID: CVE-2026-94439
+          Severity: MEDIUM
+        - ID: CVE-2026-94440
+          Severity: MEDIUM
+        - ID: CVE-2026-94444
+          Severity: MEDIUM
+        - ID: CVE-2026-94447
+          Severity: MEDIUM
+        - ID: CVE-2026-94448
+          Severity: MEDIUM
+        - ID: CVE-2026-97030
+          Severity: MEDIUM
+        - ID: CVE-2026-97031
+          Severity: HIGH
+        - ID: CVE-2026-97032
+          Severity: MEDIUM
       FixedVersion: 0:1.26.1-1.module+el8.8.0+24781+86ad105d
     - Affected:
         - cpe:/a:redhat:rhel_tus:8.8
@@ -131,4 +159,32 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-56862
           Severity: HIGH
+        - ID: CVE-2026-56866
+          Severity: MEDIUM
+        - ID: CVE-2026-78659
+          Severity: MEDIUM
+        - ID: CVE-2026-78660
+          Severity: MEDIUM
+        - ID: CVE-2026-78663
+          Severity: MEDIUM
+        - ID: CVE-2026-78667
+          Severity: HIGH
+        - ID: CVE-2026-78669
+          Severity: HIGH
+        - ID: CVE-2026-94439
+          Severity: MEDIUM
+        - ID: CVE-2026-94440
+          Severity: MEDIUM
+        - ID: CVE-2026-94444
+          Severity: MEDIUM
+        - ID: CVE-2026-94447
+          Severity: MEDIUM
+        - ID: CVE-2026-94448
+          Severity: MEDIUM
+        - ID: CVE-2026-97030
+          Severity: MEDIUM
+        - ID: CVE-2026-97031
+          Severity: HIGH
+        - ID: CVE-2026-97032
+          Severity: MEDIUM
       FixedVersion: 0:1.26.1-1.module+el8.8.0+24781+86ad105d

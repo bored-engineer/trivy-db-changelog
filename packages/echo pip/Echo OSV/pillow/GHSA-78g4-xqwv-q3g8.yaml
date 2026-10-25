@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 13.0.0
+VendorIDs:
+    - ECHO-95d3-8591-6600
+VulnerableVersions:
+    - <13.0.0

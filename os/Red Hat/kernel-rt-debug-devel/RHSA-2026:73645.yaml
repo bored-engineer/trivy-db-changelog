@@ -1,0 +1,44 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.4
+        - cpe:/a:redhat:rhel_e4s:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.4::nfv
+        - cpe:/a:redhat:rhel_e4s:9.4::realtime
+        - cpe:/a:redhat:rhel_e4s:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.4::sap
+        - cpe:/a:redhat:rhel_e4s:9.4::sap_hana
+        - cpe:/o:redhat:rhel_e4s:9.4
+        - cpe:/o:redhat:rhel_e4s:9.4::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-49670
+          Severity: MEDIUM
+        - ID: CVE-2026-31581
+          Severity: MEDIUM
+        - ID: CVE-2026-52924
+          Severity: HIGH
+        - ID: CVE-2026-52993
+          Severity: HIGH
+        - ID: CVE-2026-53002
+          Severity: HIGH
+        - ID: CVE-2026-53059
+          Severity: MEDIUM
+        - ID: CVE-2026-53071
+          Severity: MEDIUM
+        - ID: CVE-2026-53091
+          Severity: HIGH
+        - ID: CVE-2026-53185
+          Severity: MEDIUM
+        - ID: CVE-2026-64191
+          Severity: HIGH
+        - ID: CVE-2026-68294
+          Severity: HIGH
+        - ID: CVE-2026-68480
+          Severity: HIGH
+        - ID: CVE-2026-72098
+          Severity: HIGH
+        - ID: CVE-2026-74746
+          Severity: HIGH
+      FixedVersion: 0:5.14.0-427.153.1.el9_4

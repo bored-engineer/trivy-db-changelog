@@ -1,0 +1,150 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2026-74934
+          Severity: HIGH
+        - ID: CVE-2026-74935
+          Severity: HIGH
+        - ID: CVE-2026-74936
+          Severity: HIGH
+        - ID: CVE-2026-74939
+          Severity: HIGH
+        - ID: CVE-2026-74940
+          Severity: HIGH
+        - ID: CVE-2026-74941
+          Severity: HIGH
+        - ID: CVE-2026-74942
+          Severity: HIGH
+        - ID: CVE-2026-74943
+          Severity: HIGH
+        - ID: CVE-2026-74944
+          Severity: HIGH
+        - ID: CVE-2026-74945
+          Severity: HIGH
+        - ID: CVE-2026-74946
+          Severity: HIGH
+        - ID: CVE-2026-74948
+          Severity: HIGH
+        - ID: CVE-2026-74949
+          Severity: HIGH
+        - ID: CVE-2026-74953
+          Severity: MEDIUM
+        - ID: CVE-2026-74957
+          Severity: MEDIUM
+        - ID: CVE-2026-74959
+          Severity: MEDIUM
+        - ID: CVE-2026-74960
+          Severity: MEDIUM
+        - ID: CVE-2026-74962
+          Severity: MEDIUM
+        - ID: CVE-2026-74963
+          Severity: MEDIUM
+        - ID: CVE-2026-74964
+          Severity: MEDIUM
+        - ID: CVE-2026-74965
+          Severity: MEDIUM
+        - ID: CVE-2026-74967
+          Severity: MEDIUM
+        - ID: CVE-2026-74969
+          Severity: MEDIUM
+        - ID: CVE-2026-74971
+          Severity: MEDIUM
+        - ID: CVE-2026-74972
+          Severity: MEDIUM
+        - ID: CVE-2026-74973
+          Severity: MEDIUM
+        - ID: CVE-2026-74974
+          Severity: MEDIUM
+        - ID: CVE-2026-74976
+          Severity: LOW
+        - ID: CVE-2026-74983
+          Severity: LOW
+        - ID: CVE-2026-74987
+          Severity: HIGH
+        - ID: CVE-2026-74990
+          Severity: HIGH
+      FixedVersion: 0:140.14.0-1.el8_8
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-74934
+          Severity: HIGH
+        - ID: CVE-2026-74935
+          Severity: HIGH
+        - ID: CVE-2026-74936
+          Severity: HIGH
+        - ID: CVE-2026-74939
+          Severity: HIGH
+        - ID: CVE-2026-74940
+          Severity: HIGH
+        - ID: CVE-2026-74941
+          Severity: HIGH
+        - ID: CVE-2026-74942
+          Severity: HIGH
+        - ID: CVE-2026-74943
+          Severity: HIGH
+        - ID: CVE-2026-74944
+          Severity: HIGH
+        - ID: CVE-2026-74945
+          Severity: HIGH
+        - ID: CVE-2026-74946
+          Severity: HIGH
+        - ID: CVE-2026-74948
+          Severity: HIGH
+        - ID: CVE-2026-74949
+          Severity: HIGH
+        - ID: CVE-2026-74953
+          Severity: MEDIUM
+        - ID: CVE-2026-74957
+          Severity: MEDIUM
+        - ID: CVE-2026-74959
+          Severity: MEDIUM
+        - ID: CVE-2026-74960
+          Severity: MEDIUM
+        - ID: CVE-2026-74962
+          Severity: MEDIUM
+        - ID: CVE-2026-74963
+          Severity: MEDIUM
+        - ID: CVE-2026-74964
+          Severity: MEDIUM
+        - ID: CVE-2026-74965
+          Severity: MEDIUM
+        - ID: CVE-2026-74967
+          Severity: MEDIUM
+        - ID: CVE-2026-74969
+          Severity: MEDIUM
+        - ID: CVE-2026-74971
+          Severity: MEDIUM
+        - ID: CVE-2026-74972
+          Severity: MEDIUM
+        - ID: CVE-2026-74973
+          Severity: MEDIUM
+        - ID: CVE-2026-74974
+          Severity: MEDIUM
+        - ID: CVE-2026-74976
+          Severity: LOW
+        - ID: CVE-2026-74983
+          Severity: LOW
+        - ID: CVE-2026-74987
+          Severity: HIGH
+        - ID: CVE-2026-74990
+          Severity: HIGH
+      FixedVersion: 0:140.14.0-1.el8_8

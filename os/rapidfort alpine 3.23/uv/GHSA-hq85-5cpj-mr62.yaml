@@ -1,0 +1,4 @@
+Severity: CRITICAL
+VulnerableVersions:
+    - '>=0.10.2-r0'
+    - '>=0.7.22-r0'

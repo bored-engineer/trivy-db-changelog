@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 3.11.0+echo.1
+VendorIDs:
+    - ECHO-7de2-c990-7bc9
+VulnerableVersions:
+    - <3.11.0+echo.1

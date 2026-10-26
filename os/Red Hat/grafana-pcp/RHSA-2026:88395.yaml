@@ -45,6 +45,14 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-56862
           Severity: HIGH
+        - ID: CVE-2026-78667
+          Severity: HIGH
+        - ID: CVE-2026-78669
+          Severity: HIGH
+        - ID: CVE-2026-94440
+          Severity: MEDIUM
+        - ID: CVE-2026-97031
+          Severity: HIGH
       FixedVersion: 0:3.2.0-6.el8_8.2
     - Affected:
         - cpe:/a:redhat:rhel_tus:8.8
@@ -90,5 +98,13 @@ Entries:
         - ID: CVE-2026-56860
           Severity: HIGH
         - ID: CVE-2026-56862
+          Severity: HIGH
+        - ID: CVE-2026-78667
+          Severity: HIGH
+        - ID: CVE-2026-78669
+          Severity: HIGH
+        - ID: CVE-2026-94440
+          Severity: MEDIUM
+        - ID: CVE-2026-97031
           Severity: HIGH
       FixedVersion: 0:3.2.0-6.el8_8.2

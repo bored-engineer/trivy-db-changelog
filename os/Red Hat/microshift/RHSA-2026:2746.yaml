@@ -1,0 +1,11 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.17
+        - cpe:/a:redhat:openshift:4.17::el9
+      Arches:
+        - aarch64
+        - x86_64
+      Cves:
+        - ID: CVE-2025-65637
+          Severity: MEDIUM
+      FixedVersion: 0:4.17.49-202602161401.p0.g708a69a.assembly.4.17.49.el9

@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 3.10.7
+VendorIDs:
+    - ECHO-de62-bfb6-cfea
+VulnerableVersions:
+    - <3.10.7

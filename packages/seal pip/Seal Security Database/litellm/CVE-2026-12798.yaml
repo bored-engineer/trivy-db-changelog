@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 1.80.11+sp999
+VulnerableVersions:
+    - '>=1.80.11+sp0, <1.80.11+sp999'

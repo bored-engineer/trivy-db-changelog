@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.7
+        - cpe:/a:redhat:openshift:4.7::el8
+      Cves:
+        - ID: CVE-2021-25217
+          Severity: HIGH
+        - ID: CVE-2021-3560
+          Severity: HIGH
+      FixedVersion: 0:4.7.0-202106232224.p0.git.c7654fb.el8

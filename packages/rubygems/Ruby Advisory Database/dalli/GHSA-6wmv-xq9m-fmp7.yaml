@@ -1,0 +1,7 @@
+PatchedVersions:
+    - ~> 3.2.9
+    - ~> 4.3.4
+    - ~> 5.0.7
+    - '>= 5.1.1'
+UnaffectedVersions:
+    - < 3.2.0

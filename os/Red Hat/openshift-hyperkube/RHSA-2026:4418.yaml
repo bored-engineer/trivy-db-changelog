@@ -1,0 +1,29 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.15
+        - cpe:/a:redhat:openshift:4.15::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-58183
+          Severity: MEDIUM
+        - ID: CVE-2025-65637
+          Severity: MEDIUM
+      FixedVersion: 0:4.15.0-202602130120.p2.g5cb2ef4.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.15
+        - cpe:/a:redhat:openshift:4.15::el9
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2025-58183
+          Severity: MEDIUM
+        - ID: CVE-2025-65637
+          Severity: MEDIUM
+      FixedVersion: 0:4.15.0-202602130120.p2.g5cb2ef4.assembly.stream.el9

@@ -51,8 +51,6 @@ Entries:
       Arches:
         - aarch64
       Cves:
-        - ID: CVE-2025-54518
-          Severity: HIGH
         - ID: CVE-2026-31530
           Severity: MEDIUM
         - ID: CVE-2026-64368

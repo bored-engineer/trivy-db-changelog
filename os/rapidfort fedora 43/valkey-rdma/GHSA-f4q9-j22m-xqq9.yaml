@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 8.1.11-1.fc43
+VulnerableVersions:
+    - '>=8.1.10-1.fc43, <8.1.11-1.fc43'

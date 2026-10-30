@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 84.1.0
+VulnerableVersions:
+    - '>=38.2.2, <84.1.0'

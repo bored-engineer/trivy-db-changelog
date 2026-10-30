@@ -64,7 +64,7 @@ Entries:
         - ID: CVE-2026-64319
           Severity: MEDIUM
         - ID: CVE-2026-64320
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2026-64384
           Severity: MEDIUM
       FixedVersion: 0:5.14.0-687.45.1.el9_8

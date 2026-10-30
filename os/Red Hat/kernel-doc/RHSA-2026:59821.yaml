@@ -28,5 +28,5 @@ Entries:
         - ID: CVE-2026-64277
           Severity: MEDIUM
         - ID: CVE-2026-64320
-          Severity: MEDIUM
+          Severity: HIGH
       FixedVersion: 0:4.18.0-553.158.1.el8_10

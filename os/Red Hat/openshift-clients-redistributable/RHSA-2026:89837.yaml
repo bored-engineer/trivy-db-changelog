@@ -1,0 +1,27 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-111943
+          Severity: HIGH
+        - ID: CVE-2026-33814
+          Severity: HIGH
+        - ID: CVE-2026-39821
+          Severity: HIGH
+      FixedVersion: 0:4.14.0-202610221646.p2.g92da620.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.14
+        - cpe:/a:redhat:openshift:4.14::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-111943
+          Severity: HIGH
+        - ID: CVE-2026-33814
+          Severity: HIGH
+        - ID: CVE-2026-39821
+          Severity: HIGH
+      FixedVersion: 0:4.14.0-202610221646.p2.g92da620.assembly.stream.el9

@@ -1,0 +1,48 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+      Cves:
+        - ID: CVE-2026-11525
+          Severity: LOW
+        - ID: CVE-2026-12151
+          Severity: HIGH
+        - ID: CVE-2026-42338
+          Severity: HIGH
+        - ID: CVE-2026-48615
+          Severity: MEDIUM
+        - ID: CVE-2026-48617
+          Severity: LOW
+        - ID: CVE-2026-48618
+          Severity: HIGH
+        - ID: CVE-2026-48619
+          Severity: MEDIUM
+        - ID: CVE-2026-48928
+          Severity: MEDIUM
+        - ID: CVE-2026-48930
+          Severity: MEDIUM
+        - ID: CVE-2026-48931
+          Severity: LOW
+        - ID: CVE-2026-48933
+          Severity: HIGH
+        - ID: CVE-2026-48934
+          Severity: MEDIUM
+        - ID: CVE-2026-48935
+          Severity: LOW
+        - ID: CVE-2026-48937
+          Severity: MEDIUM
+        - ID: CVE-2026-6733
+          Severity: LOW
+        - ID: CVE-2026-9678
+          Severity: MEDIUM
+      FixedVersion: 0:2021.06-6.module+el8.10.0+24500+8eb51621

@@ -8,6 +8,8 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2026-43503
+          Severity: HIGH
         - ID: CVE-2026-46300
           Severity: HIGH
       FixedVersion: 0:4.21.0-202605142021.p2.geab2218.assembly.stream.el8
@@ -20,6 +22,8 @@ Entries:
         - s390x
         - x86_64
       Cves:
+        - ID: CVE-2026-43503
+          Severity: HIGH
         - ID: CVE-2026-46300
           Severity: HIGH
       FixedVersion: 0:4.21.0-202605142021.p2.geab2218.assembly.stream.el9

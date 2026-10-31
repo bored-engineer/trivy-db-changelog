@@ -225,6 +225,7 @@ Entries:
         - ID: CVE-2024-35847
           Severity: LOW
         - ID: CVE-2024-35876
+          Severity: LOW
         - ID: CVE-2024-35893
           Severity: LOW
         - ID: CVE-2024-35896

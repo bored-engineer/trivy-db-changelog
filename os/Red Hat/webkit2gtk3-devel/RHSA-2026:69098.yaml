@@ -64,7 +64,7 @@ Entries:
         - ID: CVE-2025-9478
           Severity: HIGH
         - ID: CVE-2026-0908
-          Severity: LOW
+          Severity: HIGH
         - ID: CVE-2026-10018
           Severity: MEDIUM
         - ID: CVE-2026-10019

@@ -1,8 +1,0 @@
-Entries:
-    - Affected:
-        - cpe:/a:redhat:openshift:4.4
-        - cpe:/a:redhat:openshift:4.4::el7
-      Cves:
-        - ID: CVE-2020-10696
-          Severity: LOW
-      FixedVersion: 0:4.4.0-202004250654.git.1.b7a3cf7.el7

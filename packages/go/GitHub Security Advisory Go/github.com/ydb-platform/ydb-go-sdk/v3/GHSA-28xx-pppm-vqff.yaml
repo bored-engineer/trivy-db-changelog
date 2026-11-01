@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 3.134.2
+VulnerableVersions:
+    - '>=3.104.6, <3.134.2'

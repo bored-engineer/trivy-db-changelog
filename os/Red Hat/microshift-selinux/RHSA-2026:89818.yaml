@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.21
+        - cpe:/a:redhat:openshift:4.21::el9
+      Cves:
+        - ID: CVE-2026-111943
+          Severity: HIGH
+      FixedVersion: 0:4.21.40-202610260627.p0.g728ad5e.assembly.4.21.40.el9

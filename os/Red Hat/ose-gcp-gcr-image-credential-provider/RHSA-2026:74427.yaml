@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.22
+        - cpe:/a:redhat:openshift:4.22::el8
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-33814
+          Severity: HIGH
+      FixedVersion: 0:4.22.0-202609260651.p2.gd8b2fbf.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.22
+        - cpe:/a:redhat:openshift:4.22::el9
+      Arches:
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-33814
+          Severity: HIGH
+      FixedVersion: 0:4.22.0-202609260651.p2.gd8b2fbf.assembly.stream.el9

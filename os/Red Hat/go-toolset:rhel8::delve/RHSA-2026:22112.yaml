@@ -1,0 +1,46 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2026-32288
+          Severity: MEDIUM
+        - ID: CVE-2026-32289
+          Severity: MEDIUM
+        - ID: CVE-2026-33811
+          Severity: HIGH
+        - ID: CVE-2026-33814
+          Severity: HIGH
+        - ID: CVE-2026-39817
+          Severity: MEDIUM
+        - ID: CVE-2026-39819
+          Severity: MEDIUM
+        - ID: CVE-2026-39820
+          Severity: HIGH
+        - ID: CVE-2026-39823
+          Severity: MEDIUM
+        - ID: CVE-2026-39825
+          Severity: MEDIUM
+        - ID: CVE-2026-39826
+          Severity: MEDIUM
+        - ID: CVE-2026-39836
+          Severity: MEDIUM
+        - ID: CVE-2026-42499
+          Severity: HIGH
+        - ID: CVE-2026-42501
+          Severity: MEDIUM
+      FixedVersion: 0:1.25.2-1.module+el8.10.0+23746+9db33b5e

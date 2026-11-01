@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 9.1.0
+VendorIDs:
+    - ECHO-9f3a-0677-e28a
+VulnerableVersions:
+    - <9.1.0

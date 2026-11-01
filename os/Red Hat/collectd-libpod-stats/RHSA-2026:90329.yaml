@@ -1,0 +1,38 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:17.1
+        - cpe:/a:redhat:openstack:17.1::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2025-61726
+          Severity: HIGH
+        - ID: CVE-2026-111943
+          Severity: HIGH
+        - ID: CVE-2026-25679
+          Severity: HIGH
+        - ID: CVE-2026-27145
+          Severity: HIGH
+        - ID: CVE-2026-32280
+          Severity: HIGH
+        - ID: CVE-2026-32283
+          Severity: HIGH
+        - ID: CVE-2026-33811
+          Severity: HIGH
+        - ID: CVE-2026-33818
+          Severity: HIGH
+        - ID: CVE-2026-39821
+          Severity: HIGH
+        - ID: CVE-2026-56853
+          Severity: HIGH
+        - ID: CVE-2026-56858
+          Severity: HIGH
+        - ID: CVE-2026-56860
+          Severity: HIGH
+        - ID: CVE-2026-56862
+          Severity: HIGH
+        - ID: CVE-2026-73500
+          Severity: HIGH
+        - ID: CVE-2026-78669
+          Severity: HIGH
+      FixedVersion: 0:1.0.6-9.el9ost

@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.22
+        - cpe:/a:redhat:openshift:4.22::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-111943
+          Severity: HIGH
+      FixedVersion: 0:4.22.0-202610221634.p2.ga726d94.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.22
+        - cpe:/a:redhat:openshift:4.22::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-111943
+          Severity: HIGH
+      FixedVersion: 0:4.22.0-202610221634.p2.ga726d94.assembly.stream.el9

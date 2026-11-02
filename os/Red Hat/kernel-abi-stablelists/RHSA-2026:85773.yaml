@@ -30,5 +30,5 @@ Entries:
         - ID: CVE-2026-93817
           Severity: HIGH
         - ID: CVE-2026-98320
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:4.18.0-553.176.1.el8_10

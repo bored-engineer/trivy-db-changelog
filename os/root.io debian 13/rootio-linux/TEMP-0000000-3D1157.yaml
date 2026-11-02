@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 3.16.7-ckt7-1
+VulnerableVersions:
+    - <3.16.7-ckt7-1

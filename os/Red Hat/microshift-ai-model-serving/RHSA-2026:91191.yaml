@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.19
+        - cpe:/a:redhat:openshift:4.19::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-111943
+          Severity: HIGH
+        - ID: CVE-2026-33818
+          Severity: HIGH
+        - ID: CVE-2026-42504
+          Severity: HIGH
+        - ID: CVE-2026-56858
+          Severity: HIGH
+        - ID: CVE-2026-56860
+          Severity: HIGH
+        - ID: CVE-2026-56862
+          Severity: HIGH
+      FixedVersion: 0:4.19.53-202610271823.p0.gb3195dc.assembly.4.19.53.el9

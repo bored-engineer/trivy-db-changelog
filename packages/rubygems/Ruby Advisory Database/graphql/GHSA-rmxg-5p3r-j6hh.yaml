@@ -1,0 +1,4 @@
+PatchedVersions:
+    - '>= 2.6.9'
+UnaffectedVersions:
+    - < 1.12.6

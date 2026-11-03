@@ -1,0 +1,63 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.6
+        - cpe:/a:redhat:rhel_e4s:9.6::appstream
+        - cpe:/a:redhat:rhel_e4s:9.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.6::nfv
+        - cpe:/a:redhat:rhel_e4s:9.6::realtime
+        - cpe:/a:redhat:rhel_e4s:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.6::sap
+        - cpe:/a:redhat:rhel_e4s:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6
+        - cpe:/a:redhat:rhel_eus:9.6::appstream
+        - cpe:/a:redhat:rhel_eus:9.6::crb
+        - cpe:/a:redhat:rhel_eus:9.6::highavailability
+        - cpe:/a:redhat:rhel_eus:9.6::nfv
+        - cpe:/a:redhat:rhel_eus:9.6::realtime
+        - cpe:/a:redhat:rhel_eus:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.6::sap
+        - cpe:/a:redhat:rhel_eus:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6::supplementary
+        - cpe:/o:redhat:rhel_e4s:9.6
+        - cpe:/o:redhat:rhel_e4s:9.6::baseos
+        - cpe:/o:redhat:rhel_eus:9.6
+        - cpe:/o:redhat:rhel_eus:9.6::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-12151
+          Severity: HIGH
+        - ID: CVE-2026-13149
+          Severity: HIGH
+        - ID: CVE-2026-42338
+          Severity: HIGH
+        - ID: CVE-2026-48615
+          Severity: MEDIUM
+        - ID: CVE-2026-48617
+          Severity: LOW
+        - ID: CVE-2026-48618
+          Severity: HIGH
+        - ID: CVE-2026-48619
+          Severity: MEDIUM
+        - ID: CVE-2026-48928
+          Severity: MEDIUM
+        - ID: CVE-2026-48930
+          Severity: MEDIUM
+        - ID: CVE-2026-48931
+          Severity: LOW
+        - ID: CVE-2026-48933
+          Severity: HIGH
+        - ID: CVE-2026-48934
+          Severity: MEDIUM
+        - ID: CVE-2026-48935
+          Severity: LOW
+        - ID: CVE-2026-48937
+          Severity: MEDIUM
+        - ID: CVE-2026-59873
+          Severity: HIGH
+        - ID: CVE-2026-59874
+          Severity: HIGH
+      FixedVersion: 3:12.4.254.21-1.22.23.1.2.module+el9.6.0+24604+449f851b

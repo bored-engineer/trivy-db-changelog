@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:service_mesh:1.1
+        - cpe:/a:redhat:service_mesh:1.1::el7
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2019-14993
+          Severity: HIGH
+        - ID: CVE-2019-15225
+          Severity: HIGH
+      FixedVersion: 0:v1.12.7.redhat1-1.el7

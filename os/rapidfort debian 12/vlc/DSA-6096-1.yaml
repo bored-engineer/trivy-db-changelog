@@ -1,6 +1,4 @@
 PatchedVersions:
     - 0:3.0.23-0+deb12u1
-    - 0:3.0.23-0+deb13u1
 VulnerableVersions:
     - '>=0:3.0.21-2, <0:3.0.23-0+deb12u1'
-    - '>=0:3.0.21-2, <0:3.0.23-0+deb13u1'

@@ -1,6 +1,6 @@
 PatchedVersions:
-    - 2.18.7+echo.1
+    - 2.14.0-rc2+echo.1
 VendorIDs:
     - ECHO-7021-944f-9028
 VulnerableVersions:
-    - <2.18.7+echo.1
+    - <2.14.0-rc2+echo.1

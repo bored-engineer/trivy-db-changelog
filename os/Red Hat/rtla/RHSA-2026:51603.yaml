@@ -28,4 +28,6 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-64531
           Severity: HIGH
+        - ID: CVE-2026-64562
+          Severity: HIGH
       FixedVersion: 0:5.14.0-284.186.1.el9_2

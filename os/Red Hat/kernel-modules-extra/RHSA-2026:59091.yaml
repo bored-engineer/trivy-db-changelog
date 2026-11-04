@@ -16,4 +16,6 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-46054
           Severity: HIGH
+        - ID: CVE-2026-64562
+          Severity: HIGH
       FixedVersion: 0:4.18.0-305.201.1.el8_4

@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 26.10.0rc1
+VulnerableVersions:
+    - <26.10.0rc1

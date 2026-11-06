@@ -1,5 +1,4 @@
 PatchedVersions:
     - 1.27.1-r0
-Severity: LOW
 VulnerableVersions:
     - '>=1.21.9-r4, <1.27.1-r0'

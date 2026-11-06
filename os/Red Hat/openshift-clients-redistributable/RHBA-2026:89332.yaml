@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.20
+        - cpe:/a:redhat:openshift:4.20::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-111943
+          Severity: HIGH
+      FixedVersion: 0:4.20.0-202610221619.p2.gef515cf.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.20
+        - cpe:/a:redhat:openshift:4.20::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-111943
+          Severity: HIGH
+      FixedVersion: 0:4.20.0-202610221619.p2.gef515cf.assembly.stream.el9

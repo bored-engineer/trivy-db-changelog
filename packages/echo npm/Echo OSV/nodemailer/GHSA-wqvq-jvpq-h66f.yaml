@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 8.0.9
+VendorIDs:
+    - ECHO-8b83-0589-b27b
+VulnerableVersions:
+    - <8.0.9

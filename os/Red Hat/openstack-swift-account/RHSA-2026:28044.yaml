@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:17.1
+        - cpe:/a:redhat:openstack:17.1::el9
+      Cves:
+        - ID: CVE-2025-65073
+          Severity: HIGH
+        - ID: CVE-2026-33551
+          Severity: LOW
+        - ID: CVE-2026-43001
+          Severity: HIGH
+      FixedVersion: 0:2.27.1-17.1.20231004180819.el9ost

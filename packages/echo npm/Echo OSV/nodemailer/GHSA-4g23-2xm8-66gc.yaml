@@ -3,4 +3,4 @@ PatchedVersions:
 VendorIDs:
     - ECHO-5c4c-bea4-f8fb
 VulnerableVersions:
-    - <10.0.10
+    - '>=3.0.0, <10.0.10'

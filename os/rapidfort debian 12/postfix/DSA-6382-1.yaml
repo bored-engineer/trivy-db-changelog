@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 0:3.10.12-0+deb13u2
+VulnerableVersions:
+    - '>=0:3.9.0-4, <0:3.10.12-0+deb13u2'

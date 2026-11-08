@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 15.5.28
+VendorIDs:
+    - ECHO-4c56-162c-810d
+VulnerableVersions:
+    - '>=10.0.0, <15.5.28'

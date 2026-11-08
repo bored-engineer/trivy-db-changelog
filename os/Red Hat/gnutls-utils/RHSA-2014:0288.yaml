@@ -1,0 +1,38 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_mission_critical:6.2
+        - cpe:/o:redhat:rhel_mission_critical:6.2::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2014-0092
+          Severity: HIGH
+      FixedVersion: 0:2.8.5-4.el6_2.3
+    - Affected:
+        - cpe:/o:redhat:rhel_eus:6.3
+        - cpe:/o:redhat:rhel_eus:6.3::computenode
+        - cpe:/o:redhat:rhel_eus:6.3::server
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2014-0092
+          Severity: HIGH
+      FixedVersion: 0:2.8.5-7.el6_3.2
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.4
+        - cpe:/o:redhat:rhel_aus:6.4::server
+        - cpe:/o:redhat:rhel_eus:6.4
+        - cpe:/o:redhat:rhel_eus:6.4::computenode
+        - cpe:/o:redhat:rhel_eus:6.4::server
+      Arches:
+        - i686
+        - ppc64
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2014-0092
+          Severity: HIGH
+      FixedVersion: 0:2.8.5-10.el6_4.3

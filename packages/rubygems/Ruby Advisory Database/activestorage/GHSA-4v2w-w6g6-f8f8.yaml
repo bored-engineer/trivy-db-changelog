@@ -1,0 +1,5 @@
+PatchedVersions:
+    - ~> 8.0.5, >= 8.0.5.2
+    - '>= 8.1.4.1'
+UnaffectedVersions:
+    - < 8.0.0

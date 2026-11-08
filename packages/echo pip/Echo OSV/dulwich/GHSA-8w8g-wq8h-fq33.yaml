@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 1.2.8
+VendorIDs:
+    - ECHO-0ab0-979a-5ca7
+VulnerableVersions:
+    - '>=0.24.0, <1.2.8'

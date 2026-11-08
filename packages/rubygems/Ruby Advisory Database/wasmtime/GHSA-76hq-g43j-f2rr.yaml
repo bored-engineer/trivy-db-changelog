@@ -1,0 +1,5 @@
+PatchedVersions:
+    - ~> 48.0.2
+    - '>= 49.0.3'
+UnaffectedVersions:
+    - < 46.0.0

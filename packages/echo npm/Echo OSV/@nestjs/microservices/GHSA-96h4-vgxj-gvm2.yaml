@@ -1,6 +1,8 @@
 PatchedVersions:
     - 11.1.19+echo.1
+    - 11.1.26+echo.1
 VendorIDs:
     - ECHO-f9cf-5860-6e09
 VulnerableVersions:
     - <11.1.19+echo.1
+    - '>=11.1.26, <11.1.26+echo.1'

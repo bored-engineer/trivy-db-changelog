@@ -1,0 +1,18 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack-optools:13
+        - cpe:/a:redhat:openstack-optools:13::el7
+        - cpe:/a:redhat:openstack:13
+        - cpe:/a:redhat:openstack:13::el7
+      Cves:
+        - ID: CVE-2026-24708
+          Severity: HIGH
+        - ID: CVE-2026-33551
+          Severity: LOW
+        - ID: CVE-2026-43000
+          Severity: HIGH
+        - ID: CVE-2026-46448
+          Severity: HIGH
+        - ID: CVE-2026-54770
+          Severity: HIGH
+      FixedVersion: 1:17.0.13-43.el7ost

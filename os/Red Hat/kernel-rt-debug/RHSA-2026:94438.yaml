@@ -42,4 +42,6 @@ Entries:
           Severity: MEDIUM
         - ID: CVE-2026-98432
           Severity: CRITICAL
+        - ID: CVE-2026-99284
+          Severity: HIGH
       FixedVersion: 0:5.14.0-570.154.1.el9_6

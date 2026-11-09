@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.20
+        - cpe:/a:redhat:openshift:4.20::el9
+      Cves:
+        - ID: CVE-2025-61728
+          Severity: MEDIUM
+      FixedVersion: 5:5.4.0-16.rhaos4.20.el9

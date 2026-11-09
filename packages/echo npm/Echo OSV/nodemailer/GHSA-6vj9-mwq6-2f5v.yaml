@@ -1,6 +1,0 @@
-PatchedVersions:
-    - 10.0.2
-VendorIDs:
-    - ECHO-94cb-1303-48fb
-VulnerableVersions:
-    - '>=5.0.0, <10.0.2'

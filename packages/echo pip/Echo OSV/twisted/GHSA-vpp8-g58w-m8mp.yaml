@@ -1,6 +1,0 @@
-PatchedVersions:
-    - 26.10.0rc1
-VendorIDs:
-    - ECHO-c6b1-38a4-088c
-VulnerableVersions:
-    - <26.10.0rc1

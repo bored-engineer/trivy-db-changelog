@@ -1,6 +1,0 @@
-PatchedVersions:
-    - 43.0.1
-VendorIDs:
-    - ECHO-4349-0265-1343
-VulnerableVersions:
-    - '>=37.0.0, <43.0.1'

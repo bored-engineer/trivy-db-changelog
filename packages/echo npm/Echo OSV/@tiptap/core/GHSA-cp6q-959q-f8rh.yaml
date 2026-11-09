@@ -1,6 +1,0 @@
-PatchedVersions:
-    - 3.30.4
-VendorIDs:
-    - ECHO-443e-2221-1bd2
-VulnerableVersions:
-    - '>=2.0.0-alpha.0, <3.30.4'

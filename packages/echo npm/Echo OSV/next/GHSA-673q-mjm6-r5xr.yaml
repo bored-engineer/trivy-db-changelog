@@ -1,6 +1,0 @@
-PatchedVersions:
-    - 16.4.1
-VendorIDs:
-    - ECHO-1db6-e508-2978
-VulnerableVersions:
-    - '>=16.0.0, <16.4.1'

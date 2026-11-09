@@ -1,6 +1,0 @@
-PatchedVersions:
-    - 2026.10.18
-VendorIDs:
-    - ECHO-0503-6ff0-c480
-VulnerableVersions:
-    - '>=2019.03.09, <2026.10.18'

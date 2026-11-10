@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:6.5
+        - cpe:/o:redhat:rhel_aus:6.5::server
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2020-8616
+          Severity: HIGH
+        - ID: CVE-2020-8617
+          Severity: HIGH
+      FixedVersion: 32:9.8.2-0.23.rc1.el6_5.9

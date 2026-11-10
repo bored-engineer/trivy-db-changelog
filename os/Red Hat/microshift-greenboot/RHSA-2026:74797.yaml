@@ -1,0 +1,16 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.20
+        - cpe:/a:redhat:openshift:4.20::el9
+      Cves:
+        - ID: CVE-2026-33818
+          Severity: HIGH
+        - ID: CVE-2026-42504
+          Severity: HIGH
+        - ID: CVE-2026-56858
+          Severity: HIGH
+        - ID: CVE-2026-56860
+          Severity: HIGH
+        - ID: CVE-2026-56862
+          Severity: HIGH
+      FixedVersion: 0:4.20.41-202610012357.p0.gdad0307.assembly.4.20.41.el9

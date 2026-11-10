@@ -1,0 +1,5 @@
+PatchedVersions:
+    - ~> 7.3, >= 7.3.4
+    - '>= 8.0.0.beta3'
+UnaffectedVersions:
+    - < 6.3.0

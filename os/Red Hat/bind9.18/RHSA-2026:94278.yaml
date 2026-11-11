@@ -1,0 +1,65 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.6
+        - cpe:/a:redhat:rhel_e4s:9.6::appstream
+        - cpe:/a:redhat:rhel_e4s:9.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.6::nfv
+        - cpe:/a:redhat:rhel_e4s:9.6::realtime
+        - cpe:/a:redhat:rhel_e4s:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.6::sap
+        - cpe:/a:redhat:rhel_e4s:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6
+        - cpe:/a:redhat:rhel_eus:9.6::appstream
+        - cpe:/a:redhat:rhel_eus:9.6::crb
+        - cpe:/a:redhat:rhel_eus:9.6::highavailability
+        - cpe:/a:redhat:rhel_eus:9.6::nfv
+        - cpe:/a:redhat:rhel_eus:9.6::realtime
+        - cpe:/a:redhat:rhel_eus:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.6::sap
+        - cpe:/a:redhat:rhel_eus:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6::supplementary
+        - cpe:/o:redhat:rhel_e4s:9.6
+        - cpe:/o:redhat:rhel_e4s:9.6::baseos
+        - cpe:/o:redhat:rhel_eus:9.6
+        - cpe:/o:redhat:rhel_eus:9.6::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-10723
+          Severity: MEDIUM
+        - ID: CVE-2026-11331
+          Severity: HIGH
+        - ID: CVE-2026-11622
+          Severity: HIGH
+        - ID: CVE-2026-11721
+          Severity: HIGH
+        - ID: CVE-2026-13204
+          Severity: HIGH
+        - ID: CVE-2026-13321
+          Severity: HIGH
+        - ID: CVE-2026-19630
+          Severity: HIGH
+        - ID: CVE-2026-19666
+          Severity: HIGH
+        - ID: CVE-2026-19667
+          Severity: HIGH
+        - ID: CVE-2026-3039
+          Severity: HIGH
+        - ID: CVE-2026-5946
+          Severity: HIGH
+        - ID: CVE-2026-80274
+          Severity: HIGH
+        - ID: CVE-2026-81563
+          Severity: HIGH
+        - ID: CVE-2026-81736
+          Severity: HIGH
+        - ID: CVE-2026-94300
+          Severity: HIGH
+        - ID: CVE-2026-96888
+          Severity: HIGH
+        - ID: CVE-2026-97313
+          Severity: HIGH
+      FixedVersion: 32:9.18.29-4.el9_6.5

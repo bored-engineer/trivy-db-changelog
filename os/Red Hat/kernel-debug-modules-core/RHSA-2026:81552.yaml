@@ -79,5 +79,5 @@ Entries:
         - ID: CVE-2026-89894
           Severity: HIGH
         - ID: CVE-2026-89970
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-687.57.1.el9_8

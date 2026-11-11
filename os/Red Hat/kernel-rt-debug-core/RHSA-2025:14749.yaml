@@ -26,7 +26,7 @@ Entries:
         - ID: CVE-2025-22026
           Severity: MEDIUM
         - ID: CVE-2025-37890
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2025-38350
           Severity: HIGH
       FixedVersion: 0:5.14.0-70.144.1.rt21.216.el9_0

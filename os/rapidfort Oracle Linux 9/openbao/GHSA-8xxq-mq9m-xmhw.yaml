@@ -1,4 +1,5 @@
 PatchedVersions:
     - 2.6.3-1.el9
+Severity: LOW
 VulnerableVersions:
     - '>=2.4.1-1.el9, <2.6.3-1.el9'

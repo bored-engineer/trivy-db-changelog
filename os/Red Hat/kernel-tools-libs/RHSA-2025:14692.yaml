@@ -19,7 +19,7 @@ Entries:
         - ID: CVE-2022-49977
           Severity: MEDIUM
         - ID: CVE-2025-37890
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2025-38000
           Severity: HIGH
         - ID: CVE-2025-38001
@@ -52,7 +52,7 @@ Entries:
         - ID: CVE-2022-49977
           Severity: MEDIUM
         - ID: CVE-2025-37890
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2025-38000
           Severity: HIGH
         - ID: CVE-2025-38001

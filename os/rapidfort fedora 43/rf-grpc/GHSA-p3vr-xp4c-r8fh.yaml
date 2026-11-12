@@ -1,0 +1,5 @@
+PatchedVersions:
+    - 0:1.48.4-55.fc43
+Severity: CRITICAL
+VulnerableVersions:
+    - '>=0:1.48.4-54.fc43, <0:1.48.4-55.fc43'

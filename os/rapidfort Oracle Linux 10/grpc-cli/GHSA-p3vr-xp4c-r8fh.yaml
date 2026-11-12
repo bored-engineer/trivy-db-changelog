@@ -1,0 +1,3 @@
+Severity: CRITICAL
+VulnerableVersions:
+    - '>=1.48.4-43.el10_0'

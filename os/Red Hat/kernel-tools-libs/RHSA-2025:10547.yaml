@@ -16,7 +16,7 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2024-56614
-          Severity: MEDIUM
+          Severity: HIGH
         - ID: CVE-2024-56615
           Severity: MEDIUM
         - ID: CVE-2025-22126

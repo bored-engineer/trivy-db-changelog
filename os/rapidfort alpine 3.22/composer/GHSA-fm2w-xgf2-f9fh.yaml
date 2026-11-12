@@ -1,4 +1,4 @@
 PatchedVersions:
-    - 2.10.2-r0
+    - 2.11.0-r0
 VulnerableVersions:
-    - '>=2.8.9-r0, <2.10.2-r0'
+    - '>=2.8.9-r0, <2.11.0-r0'

@@ -1,5 +1,4 @@
 PatchedVersions:
     - 1.83.0-r0
-Severity: CRITICAL
 VulnerableVersions:
     - '>=1.76.0-r2, <1.83.0-r0'

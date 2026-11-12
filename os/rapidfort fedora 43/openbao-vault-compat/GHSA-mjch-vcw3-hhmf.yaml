@@ -1,5 +1,4 @@
 PatchedVersions:
     - 2.6.3-1.fc43
-Severity: HIGH
 VulnerableVersions:
     - '>=2.4.1-2.fc43, <2.6.3-1.fc43'

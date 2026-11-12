@@ -1,0 +1,95 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::baseos
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::extensions
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_e4s:9.8
+        - cpe:/a:redhat:rhel_e4s:9.8::appstream
+        - cpe:/a:redhat:rhel_e4s:9.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.8::nfv
+        - cpe:/a:redhat:rhel_e4s:9.8::realtime
+        - cpe:/a:redhat:rhel_e4s:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.8::sap
+        - cpe:/a:redhat:rhel_e4s:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.10
+        - cpe:/a:redhat:rhel_eus:9.10::appstream
+        - cpe:/a:redhat:rhel_eus:9.10::baseos
+        - cpe:/a:redhat:rhel_eus:9.10::crb
+        - cpe:/a:redhat:rhel_eus:9.10::extensions
+        - cpe:/a:redhat:rhel_eus:9.10::highavailability
+        - cpe:/a:redhat:rhel_eus:9.10::nfv
+        - cpe:/a:redhat:rhel_eus:9.10::realtime
+        - cpe:/a:redhat:rhel_eus:9.10::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.10::sap
+        - cpe:/a:redhat:rhel_eus:9.10::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.10::supplementary
+        - cpe:/a:redhat:rhel_eus:9.8
+        - cpe:/a:redhat:rhel_eus:9.8::appstream
+        - cpe:/a:redhat:rhel_eus:9.8::crb
+        - cpe:/a:redhat:rhel_eus:9.8::highavailability
+        - cpe:/a:redhat:rhel_eus:9.8::nfv
+        - cpe:/a:redhat:rhel_eus:9.8::realtime
+        - cpe:/a:redhat:rhel_eus:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.8::sap
+        - cpe:/a:redhat:rhel_eus:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.8::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+        - cpe:/o:redhat:rhel_e4s:9.8
+        - cpe:/o:redhat:rhel_e4s:9.8::baseos
+        - cpe:/o:redhat:rhel_eus:9.8
+        - cpe:/o:redhat:rhel_eus:9.8::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-52929
+          Severity: HIGH
+        - ID: CVE-2026-53228
+          Severity: MEDIUM
+        - ID: CVE-2026-53270
+          Severity: MEDIUM
+        - ID: CVE-2026-64303
+          Severity: HIGH
+        - ID: CVE-2026-68169
+          Severity: MEDIUM
+        - ID: CVE-2026-72083
+          Severity: HIGH
+        - ID: CVE-2026-74283
+          Severity: MEDIUM
+        - ID: CVE-2026-74510
+          Severity: MEDIUM
+        - ID: CVE-2026-74582
+          Severity: HIGH
+        - ID: CVE-2026-80586
+          Severity: HIGH
+        - ID: CVE-2026-89603
+          Severity: HIGH
+        - ID: CVE-2026-90011
+          Severity: HIGH
+        - ID: CVE-2026-93787
+          Severity: MEDIUM
+        - ID: CVE-2026-93827
+          Severity: MEDIUM
+        - ID: CVE-2026-98364
+          Severity: HIGH
+        - ID: CVE-2026-98432
+          Severity: CRITICAL
+        - ID: CVE-2026-98466
+          Severity: HIGH
+        - ID: CVE-2026-98725
+          Severity: HIGH
+        - ID: CVE-2026-99284
+          Severity: HIGH
+      FixedVersion: 0:5.14.0-687.64.1.el9_8

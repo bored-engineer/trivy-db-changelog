@@ -33,6 +33,4 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-99284
           Severity: HIGH
-        - ID: CVE-2026-99999
-          Severity: HIGH
       FixedVersion: 0:3.10.0-1160.169.1.el7

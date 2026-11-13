@@ -34,8 +34,38 @@ Entries:
       Cves:
         - ID: CVE-2026-42923
           Severity: MEDIUM
+        - ID: CVE-2026-42955
+          Severity: LOW
         - ID: CVE-2026-42960
           Severity: MEDIUM
         - ID: CVE-2026-44608
           Severity: MEDIUM
+        - ID: CVE-2026-44621
+          Severity: MEDIUM
+        - ID: CVE-2026-44687
+          Severity: LOW
+        - ID: CVE-2026-46582
+          Severity: LOW
+        - ID: CVE-2026-50045
+          Severity: MEDIUM
+        - ID: CVE-2026-50046
+          Severity: LOW
+        - ID: CVE-2026-50243
+          Severity: LOW
+        - ID: CVE-2026-50248
+          Severity: MEDIUM
+        - ID: CVE-2026-50251
+          Severity: MEDIUM
+        - ID: CVE-2026-52863
+          Severity: MEDIUM
+        - ID: CVE-2026-54478
+          Severity: LOW
+        - ID: CVE-2026-55708
+          Severity: LOW
+        - ID: CVE-2026-55717
+          Severity: MEDIUM
+        - ID: CVE-2026-56416
+          Severity: MEDIUM
+        - ID: CVE-2026-56444
+          Severity: LOW
       FixedVersion: 0:1.26.1-1.el9_9

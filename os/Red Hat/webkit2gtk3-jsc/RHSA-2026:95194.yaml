@@ -79,6 +79,8 @@ Entries:
           Severity: HIGH
         - ID: CVE-2026-119271
           Severity: HIGH
+        - ID: CVE-2026-84359
+          Severity: MEDIUM
         - ID: CVE-2026-85049
           Severity: HIGH
         - ID: CVE-2026-91733

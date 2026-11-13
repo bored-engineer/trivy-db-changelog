@@ -1,0 +1,36 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+      Cves:
+        - ID: CVE-2026-112391
+          Severity: HIGH
+        - ID: CVE-2026-112392
+          Severity: HIGH
+        - ID: CVE-2026-112397
+          Severity: HIGH
+        - ID: CVE-2026-112402
+          Severity: HIGH
+        - ID: CVE-2026-112405
+          Severity: HIGH
+        - ID: CVE-2026-112406
+          Severity: HIGH
+        - ID: CVE-2026-112892
+          Severity: HIGH
+        - ID: CVE-2026-112894
+          Severity: HIGH
+        - ID: CVE-2026-112895
+          Severity: HIGH
+        - ID: CVE-2026-96640
+          Severity: HIGH
+      FixedVersion: 0:5.1.1-33.el8_10

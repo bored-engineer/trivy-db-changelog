@@ -1,0 +1,47 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.15
+        - cpe:/a:redhat:openshift:4.15::el8
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-33818
+          Severity: HIGH
+        - ID: CVE-2026-39820
+          Severity: HIGH
+        - ID: CVE-2026-42504
+          Severity: HIGH
+        - ID: CVE-2026-56853
+          Severity: HIGH
+        - ID: CVE-2026-56858
+          Severity: HIGH
+        - ID: CVE-2026-56859
+          Severity: HIGH
+        - ID: CVE-2026-56860
+          Severity: HIGH
+        - ID: CVE-2026-56862
+          Severity: HIGH
+      FixedVersion: 0:4.15.0-202610071830.p2.g8231637.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.15
+        - cpe:/a:redhat:openshift:4.15::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-33818
+          Severity: HIGH
+        - ID: CVE-2026-39820
+          Severity: HIGH
+        - ID: CVE-2026-42504
+          Severity: HIGH
+        - ID: CVE-2026-56853
+          Severity: HIGH
+        - ID: CVE-2026-56858
+          Severity: HIGH
+        - ID: CVE-2026-56859
+          Severity: HIGH
+        - ID: CVE-2026-56860
+          Severity: HIGH
+        - ID: CVE-2026-56862
+          Severity: HIGH
+      FixedVersion: 0:4.15.0-202610071830.p2.g8231637.assembly.stream.el9

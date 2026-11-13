@@ -101,7 +101,7 @@ Entries:
         - ID: CVE-2026-93827
           Severity: MEDIUM
         - ID: CVE-2026-98260
-          Severity: HIGH
+          Severity: MEDIUM
         - ID: CVE-2026-98320
           Severity: MEDIUM
         - ID: CVE-2026-98466

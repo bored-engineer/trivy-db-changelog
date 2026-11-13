@@ -12,5 +12,5 @@ Entries:
         - cpe:/o:redhat:rhel_e4s:9.2::baseos
       Cves:
         - ID: CVE-2026-98260
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-284.198.1.el9_2

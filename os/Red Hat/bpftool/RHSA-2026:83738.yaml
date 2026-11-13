@@ -17,5 +17,5 @@ Entries:
         - x86_64
       Cves:
         - ID: CVE-2026-98260
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:7.0.0-284.198.1.el9_2

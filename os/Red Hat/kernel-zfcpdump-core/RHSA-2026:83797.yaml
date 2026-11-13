@@ -14,5 +14,5 @@ Entries:
         - s390x
       Cves:
         - ID: CVE-2026-98260
-          Severity: HIGH
+          Severity: MEDIUM
       FixedVersion: 0:5.14.0-427.156.1.el9_4

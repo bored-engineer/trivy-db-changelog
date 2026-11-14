@@ -1,0 +1,27 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16.2
+        - cpe:/a:redhat:openstack:16.2::el8
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2026-111943
+          Severity: HIGH
+        - ID: CVE-2026-33818
+          Severity: HIGH
+        - ID: CVE-2026-56852
+          Severity: HIGH
+        - ID: CVE-2026-56853
+          Severity: HIGH
+        - ID: CVE-2026-56858
+          Severity: HIGH
+        - ID: CVE-2026-56860
+          Severity: HIGH
+        - ID: CVE-2026-56862
+          Severity: HIGH
+        - ID: CVE-2026-73500
+          Severity: HIGH
+        - ID: CVE-2026-78669
+          Severity: HIGH
+      FixedVersion: 0:3.3.23-25.el8ost

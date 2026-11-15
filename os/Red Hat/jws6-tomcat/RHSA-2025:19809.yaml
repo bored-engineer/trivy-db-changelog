@@ -1,0 +1,31 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_web_server:6.0
+        - cpe:/a:redhat:jboss_enterprise_web_server:6.0::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:6.1
+        - cpe:/a:redhat:jboss_enterprise_web_server:6.1::el8
+        - cpe:/a:redhat:jboss_enterprise_web_server:6.2
+        - cpe:/a:redhat:jboss_enterprise_web_server:6.2::el8
+      Cves:
+        - ID: CVE-2025-31651
+          Severity: LOW
+        - ID: CVE-2025-55752
+          Severity: HIGH
+        - ID: CVE-2025-61795
+          Severity: MEDIUM
+      FixedVersion: 0:10.1.36-19.redhat_00018.1.el8jws
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_web_server:6.0
+        - cpe:/a:redhat:jboss_enterprise_web_server:6.0::el9
+        - cpe:/a:redhat:jboss_enterprise_web_server:6.1
+        - cpe:/a:redhat:jboss_enterprise_web_server:6.1::el9
+        - cpe:/a:redhat:jboss_enterprise_web_server:6.2
+        - cpe:/a:redhat:jboss_enterprise_web_server:6.2::el9
+      Cves:
+        - ID: CVE-2025-31651
+          Severity: LOW
+        - ID: CVE-2025-55752
+          Severity: HIGH
+        - ID: CVE-2025-61795
+          Severity: MEDIUM
+      FixedVersion: 0:10.1.36-19.redhat_00018.1.el9jws

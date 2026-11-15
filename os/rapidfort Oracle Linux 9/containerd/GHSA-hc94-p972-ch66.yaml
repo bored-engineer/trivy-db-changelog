@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 2.2.10-2.el9
+VulnerableVersions:
+    - '>=2.2.0-3.el9, <2.2.10-2.el9'

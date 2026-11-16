@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.20
+        - cpe:/a:redhat:openshift:4.20::el9
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-111943
+          Severity: HIGH
+      FixedVersion: 0:4.20.44-202610271817.p0.ge0d31e5.assembly.4.20.44.el9

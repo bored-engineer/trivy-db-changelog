@@ -1,0 +1,61 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.6
+        - cpe:/a:redhat:rhel_e4s:9.6::appstream
+        - cpe:/a:redhat:rhel_e4s:9.6::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.6::nfv
+        - cpe:/a:redhat:rhel_e4s:9.6::realtime
+        - cpe:/a:redhat:rhel_e4s:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.6::sap
+        - cpe:/a:redhat:rhel_e4s:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6
+        - cpe:/a:redhat:rhel_eus:9.6::appstream
+        - cpe:/a:redhat:rhel_eus:9.6::crb
+        - cpe:/a:redhat:rhel_eus:9.6::highavailability
+        - cpe:/a:redhat:rhel_eus:9.6::nfv
+        - cpe:/a:redhat:rhel_eus:9.6::realtime
+        - cpe:/a:redhat:rhel_eus:9.6::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.6::sap
+        - cpe:/a:redhat:rhel_eus:9.6::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.6::supplementary
+        - cpe:/o:redhat:rhel_e4s:9.6
+        - cpe:/o:redhat:rhel_e4s:9.6::baseos
+        - cpe:/o:redhat:rhel_eus:9.6
+        - cpe:/o:redhat:rhel_eus:9.6::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-111943
+          Severity: HIGH
+        - ID: CVE-2026-56866
+          Severity: MEDIUM
+        - ID: CVE-2026-78659
+          Severity: MEDIUM
+        - ID: CVE-2026-78660
+          Severity: MEDIUM
+        - ID: CVE-2026-78663
+          Severity: MEDIUM
+        - ID: CVE-2026-78667
+          Severity: HIGH
+        - ID: CVE-2026-78669
+          Severity: HIGH
+        - ID: CVE-2026-94439
+          Severity: MEDIUM
+        - ID: CVE-2026-94440
+          Severity: MEDIUM
+        - ID: CVE-2026-94444
+          Severity: MEDIUM
+        - ID: CVE-2026-94447
+          Severity: MEDIUM
+        - ID: CVE-2026-94448
+          Severity: MEDIUM
+        - ID: CVE-2026-97030
+          Severity: MEDIUM
+        - ID: CVE-2026-97031
+          Severity: HIGH
+        - ID: CVE-2026-97032
+          Severity: MEDIUM
+      FixedVersion: 0:1.26.10-1.el9_6

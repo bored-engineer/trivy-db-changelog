@@ -1,0 +1,54 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.2
+        - cpe:/a:redhat:rhel_e4s:9.2::appstream
+        - cpe:/a:redhat:rhel_e4s:9.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.2::nfv
+        - cpe:/a:redhat:rhel_e4s:9.2::realtime
+        - cpe:/a:redhat:rhel_e4s:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.2::sap
+        - cpe:/a:redhat:rhel_e4s:9.2::sap_hana
+        - cpe:/o:redhat:rhel_e4s:9.2
+        - cpe:/o:redhat:rhel_e4s:9.2::baseos
+      Arches:
+        - aarch64
+        - i686
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-18301
+          Severity: HIGH
+        - ID: CVE-2026-18302
+          Severity: HIGH
+        - ID: CVE-2026-18303
+          Severity: HIGH
+        - ID: CVE-2026-18304
+          Severity: HIGH
+        - ID: CVE-2026-18305
+          Severity: HIGH
+        - ID: CVE-2026-18306
+          Severity: HIGH
+        - ID: CVE-2026-18307
+          Severity: HIGH
+        - ID: CVE-2026-42169
+          Severity: MEDIUM
+        - ID: CVE-2026-58379
+          Severity: HIGH
+        - ID: CVE-2026-58380
+          Severity: MEDIUM
+        - ID: CVE-2026-58384
+          Severity: HIGH
+        - ID: CVE-2026-59090
+          Severity: HIGH
+        - ID: CVE-2026-66758
+          Severity: HIGH
+        - ID: CVE-2026-90947
+          Severity: HIGH
+        - ID: CVE-2026-90948
+          Severity: HIGH
+        - ID: CVE-2026-92248
+          Severity: HIGH
+        - ID: CVE-2026-97185
+          Severity: HIGH
+      FixedVersion: 2:2.99.8-4.el9_2.7

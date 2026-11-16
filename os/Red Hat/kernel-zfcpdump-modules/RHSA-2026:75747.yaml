@@ -1,0 +1,76 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2022-50756
+          Severity: MEDIUM
+        - ID: CVE-2023-54048
+          Severity: MEDIUM
+        - ID: CVE-2025-39994
+          Severity: MEDIUM
+        - ID: CVE-2025-40242
+          Severity: MEDIUM
+        - ID: CVE-2026-23105
+          Severity: MEDIUM
+        - ID: CVE-2026-45856
+          Severity: MEDIUM
+        - ID: CVE-2026-45861
+          Severity: MEDIUM
+        - ID: CVE-2026-46319
+          Severity: MEDIUM
+        - ID: CVE-2026-52972
+          Severity: HIGH
+        - ID: CVE-2026-53049
+          Severity: MEDIUM
+        - ID: CVE-2026-53230
+          Severity: MEDIUM
+        - ID: CVE-2026-53270
+          Severity: MEDIUM
+        - ID: CVE-2026-63794
+          Severity: MEDIUM
+        - ID: CVE-2026-63829
+          Severity: HIGH
+        - ID: CVE-2026-63992
+          Severity: MEDIUM
+        - ID: CVE-2026-63994
+          Severity: HIGH
+        - ID: CVE-2026-68432
+          Severity: HIGH
+        - ID: CVE-2026-72052
+          Severity: HIGH
+        - ID: CVE-2026-72255
+          Severity: HIGH
+        - ID: CVE-2026-74516
+          Severity: HIGH
+        - ID: CVE-2026-74569
+          Severity: HIGH
+        - ID: CVE-2026-74669
+          Severity: HIGH
+        - ID: CVE-2026-74744
+          Severity: HIGH
+        - ID: CVE-2026-74746
+          Severity: HIGH
+        - ID: CVE-2026-80921
+          Severity: HIGH
+        - ID: CVE-2026-89481
+          Severity: HIGH
+        - ID: CVE-2026-89972
+          Severity: HIGH
+        - ID: CVE-2026-90227
+          Severity: HIGH
+        - ID: CVE-2026-97417
+          Severity: HIGH
+      FixedVersion: 0:4.18.0-553.171.1.el8_10

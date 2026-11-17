@@ -1,0 +1,78 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2026-112391
+          Severity: HIGH
+        - ID: CVE-2026-112392
+          Severity: HIGH
+        - ID: CVE-2026-112393
+          Severity: HIGH
+        - ID: CVE-2026-112397
+          Severity: HIGH
+        - ID: CVE-2026-112398
+          Severity: HIGH
+        - ID: CVE-2026-112402
+          Severity: HIGH
+        - ID: CVE-2026-112405
+          Severity: HIGH
+        - ID: CVE-2026-112406
+          Severity: HIGH
+        - ID: CVE-2026-112892
+          Severity: HIGH
+        - ID: CVE-2026-112894
+          Severity: HIGH
+        - ID: CVE-2026-112895
+          Severity: HIGH
+        - ID: CVE-2026-112900
+          Severity: CRITICAL
+        - ID: CVE-2026-96640
+          Severity: HIGH
+      FixedVersion: 0:5.1.1-20.el8_8.2
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-112391
+          Severity: HIGH
+        - ID: CVE-2026-112392
+          Severity: HIGH
+        - ID: CVE-2026-112393
+          Severity: HIGH
+        - ID: CVE-2026-112397
+          Severity: HIGH
+        - ID: CVE-2026-112398
+          Severity: HIGH
+        - ID: CVE-2026-112402
+          Severity: HIGH
+        - ID: CVE-2026-112405
+          Severity: HIGH
+        - ID: CVE-2026-112406
+          Severity: HIGH
+        - ID: CVE-2026-112892
+          Severity: HIGH
+        - ID: CVE-2026-112894
+          Severity: HIGH
+        - ID: CVE-2026-112895
+          Severity: HIGH
+        - ID: CVE-2026-112900
+          Severity: CRITICAL
+        - ID: CVE-2026-96640
+          Severity: HIGH
+      FixedVersion: 0:5.1.1-20.el8_8.2

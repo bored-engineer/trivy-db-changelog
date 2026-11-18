@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:satellite:6.7
+        - cpe:/a:redhat:satellite:6.7::el7
+        - cpe:/a:redhat:satellite_capsule:6.7
+        - cpe:/a:redhat:satellite_capsule:6.7::el7
+      Cves:
+        - ID: CVE-2020-14334
+          Severity: HIGH
+      FixedVersion: 0:1.24.1.28-3.el7sat

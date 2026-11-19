@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el9
+        - cpe:/a:redhat:jboss_enterprise_application_platform_els:7.4
+        - cpe:/a:redhat:jboss_enterprise_application_platform_els:7.4::el9
+      Cves:
+        - ID: CVE-2026-49362
+          Severity: HIGH
+        - ID: CVE-2026-49364
+          Severity: HIGH
+        - ID: CVE-2026-54515
+          Severity: MEDIUM
+        - ID: CVE-2026-57967
+          Severity: HIGH
+        - ID: CVE-2026-66909
+          Severity: HIGH
+        - ID: CVE-2026-84725
+          Severity: HIGH
+      FixedVersion: 0:2.2.40-3.SP4_redhat_00001.1.el9eap

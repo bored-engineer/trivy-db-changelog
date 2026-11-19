@@ -1,0 +1,40 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_eus:9.8
+        - cpe:/a:redhat:rhel_eus:9.8::appstream
+        - cpe:/a:redhat:rhel_eus:9.8::crb
+        - cpe:/a:redhat:rhel_eus:9.8::highavailability
+        - cpe:/a:redhat:rhel_eus:9.8::nfv
+        - cpe:/a:redhat:rhel_eus:9.8::realtime
+        - cpe:/a:redhat:rhel_eus:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.8::sap
+        - cpe:/a:redhat:rhel_eus:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.8::supplementary
+        - cpe:/o:redhat:rhel_eus:9.8
+        - cpe:/o:redhat:rhel_eus:9.8::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2026-114938
+          Severity: CRITICAL
+        - ID: CVE-2026-114939
+          Severity: HIGH
+        - ID: CVE-2026-114940
+          Severity: HIGH
+        - ID: CVE-2026-114941
+          Severity: HIGH
+        - ID: CVE-2026-114942
+          Severity: HIGH
+        - ID: CVE-2026-114943
+          Severity: MEDIUM
+        - ID: CVE-2026-114944
+          Severity: MEDIUM
+        - ID: CVE-2026-114945
+          Severity: MEDIUM
+        - ID: CVE-2026-114946
+          Severity: MEDIUM
+        - ID: CVE-2026-114947
+          Severity: LOW
+      FixedVersion: 1:25.0.5.1.2-1.1.el9

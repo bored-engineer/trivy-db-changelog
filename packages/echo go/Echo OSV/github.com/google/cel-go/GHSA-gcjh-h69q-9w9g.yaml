@@ -1,0 +1,6 @@
+PatchedVersions:
+    - v0.26.0+echo.1
+VendorIDs:
+    - ECHO-d7ec-accb-46c2
+VulnerableVersions:
+    - '>=v0.22.0, <v0.26.0+echo.1'

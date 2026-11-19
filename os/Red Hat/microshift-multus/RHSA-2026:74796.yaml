@@ -1,0 +1,19 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.21
+        - cpe:/a:redhat:openshift:4.21::el9
+      Arches:
+        - aarch64
+        - x86_64
+      Cves:
+        - ID: CVE-2026-33818
+          Severity: HIGH
+        - ID: CVE-2026-42504
+          Severity: HIGH
+        - ID: CVE-2026-56858
+          Severity: HIGH
+        - ID: CVE-2026-56860
+          Severity: HIGH
+        - ID: CVE-2026-56862
+          Severity: HIGH
+      FixedVersion: 0:4.21.36-202610012325.p0.g5f30446.assembly.4.21.36.el9

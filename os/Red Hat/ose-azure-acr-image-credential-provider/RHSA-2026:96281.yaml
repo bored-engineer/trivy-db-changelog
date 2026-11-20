@@ -1,0 +1,33 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openshift:4.17
+        - cpe:/a:redhat:openshift:4.17::el8
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-111943
+          Severity: HIGH
+        - ID: CVE-2026-33814
+          Severity: HIGH
+        - ID: CVE-2026-92092
+          Severity: HIGH
+      FixedVersion: 0:4.17.0-202610221631.p2.g3b432f2.assembly.stream.el8
+    - Affected:
+        - cpe:/a:redhat:openshift:4.17
+        - cpe:/a:redhat:openshift:4.17::el9
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-111943
+          Severity: HIGH
+        - ID: CVE-2026-33814
+          Severity: HIGH
+        - ID: CVE-2026-92092
+          Severity: HIGH
+      FixedVersion: 0:4.17.0-202610221631.p2.g3b432f2.assembly.stream.el9

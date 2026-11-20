@@ -1,0 +1,62 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.2
+        - cpe:/a:redhat:rhel_e4s:9.2::appstream
+        - cpe:/a:redhat:rhel_e4s:9.2::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.2::nfv
+        - cpe:/a:redhat:rhel_e4s:9.2::realtime
+        - cpe:/a:redhat:rhel_e4s:9.2::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.2::sap
+        - cpe:/a:redhat:rhel_e4s:9.2::sap_hana
+        - cpe:/o:redhat:rhel_e4s:9.2
+        - cpe:/o:redhat:rhel_e4s:9.2::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2022-50315
+          Severity: MEDIUM
+        - ID: CVE-2025-68745
+          Severity: MEDIUM
+        - ID: CVE-2026-43020
+          Severity: MEDIUM
+        - ID: CVE-2026-43450
+          Severity: MEDIUM
+        - ID: CVE-2026-43493
+          Severity: MEDIUM
+        - ID: CVE-2026-46149
+          Severity: MEDIUM
+        - ID: CVE-2026-52972
+          Severity: HIGH
+        - ID: CVE-2026-53224
+          Severity: MEDIUM
+        - ID: CVE-2026-53246
+          Severity: MEDIUM
+        - ID: CVE-2026-63802
+          Severity: MEDIUM
+        - ID: CVE-2026-63831
+          Severity: HIGH
+        - ID: CVE-2026-63920
+          Severity: MEDIUM
+        - ID: CVE-2026-63922
+          Severity: HIGH
+        - ID: CVE-2026-63924
+          Severity: HIGH
+        - ID: CVE-2026-63984
+          Severity: MEDIUM
+        - ID: CVE-2026-63993
+          Severity: HIGH
+        - ID: CVE-2026-64017
+          Severity: HIGH
+        - ID: CVE-2026-64319
+          Severity: MEDIUM
+        - ID: CVE-2026-72098
+          Severity: HIGH
+        - ID: CVE-2026-72243
+          Severity: HIGH
+        - ID: CVE-2026-74641
+          Severity: MEDIUM
+        - ID: CVE-2026-80792
+          Severity: HIGH
+        - ID: CVE-2026-89846
+          Severity: HIGH
+      FixedVersion: 0:5.14.0-284.200.1.el9_2

@@ -1,0 +1,13 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.4
+        - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_aus:8.4::highavailability
+        - cpe:/o:redhat:rhel_aus:8.4
+        - cpe:/o:redhat:rhel_aus:8.4::baseos
+      Cves:
+        - ID: CVE-2026-42246
+          Severity: HIGH
+        - ID: CVE-2026-42258
+          Severity: HIGH
+      FixedVersion: 0:1.0.0-2.module+el8.1.0+3656+f80bfa1d

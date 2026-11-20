@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 48.0.1
+VulnerableVersions:
+    - '>=0.5.0, <48.0.1'

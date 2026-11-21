@@ -1,0 +1,43 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.4
+        - cpe:/a:redhat:rhel_e4s:9.4::appstream
+        - cpe:/a:redhat:rhel_e4s:9.4::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.4::nfv
+        - cpe:/a:redhat:rhel_e4s:9.4::realtime
+        - cpe:/a:redhat:rhel_e4s:9.4::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.4::sap
+        - cpe:/a:redhat:rhel_e4s:9.4::sap_hana
+        - cpe:/o:redhat:rhel_e4s:9.4
+        - cpe:/o:redhat:rhel_e4s:9.4::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-33845
+          Severity: HIGH
+        - ID: CVE-2026-33846
+          Severity: HIGH
+        - ID: CVE-2026-3833
+          Severity: MEDIUM
+        - ID: CVE-2026-42009
+          Severity: HIGH
+        - ID: CVE-2026-42010
+          Severity: HIGH
+        - ID: CVE-2026-42011
+          Severity: MEDIUM
+        - ID: CVE-2026-42012
+          Severity: MEDIUM
+        - ID: CVE-2026-42013
+          Severity: MEDIUM
+        - ID: CVE-2026-42014
+          Severity: MEDIUM
+        - ID: CVE-2026-42015
+          Severity: MEDIUM
+        - ID: CVE-2026-5260
+          Severity: MEDIUM
+        - ID: CVE-2026-5419
+          Severity: LOW
+      FixedVersion: 0:3.8.3-4.el9_4.6

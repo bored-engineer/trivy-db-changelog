@@ -1,0 +1,23 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.4
+        - cpe:/a:redhat:rhel_aus:8.4::appstream
+        - cpe:/a:redhat:rhel_aus:8.4::highavailability
+        - cpe:/o:redhat:rhel_aus:8.4
+        - cpe:/o:redhat:rhel_aus:8.4::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2023-51385
+          Severity: MEDIUM
+        - ID: CVE-2026-35385
+          Severity: HIGH
+        - ID: CVE-2026-35386
+          Severity: LOW
+        - ID: CVE-2026-35387
+          Severity: LOW
+        - ID: CVE-2026-35388
+          Severity: LOW
+        - ID: CVE-2026-35414
+          Severity: MEDIUM
+      FixedVersion: 0:8.0p1-7.el8_4.2

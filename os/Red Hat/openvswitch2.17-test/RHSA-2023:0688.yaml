@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::fastdatapath
+      Cves:
+        - ID: CVE-2022-4337
+          Severity: MEDIUM
+        - ID: CVE-2022-4338
+          Severity: MEDIUM
+      FixedVersion: 0:2.17.0-71.el8fdp

@@ -137,7 +137,55 @@ func resolveEnums(val any, cpes map[int]string) any {
 	}
 }
 
-// Iterate over each key in the database and print it
+// bucketPath maps a top-level bbolt bucket name to its path in the export.
+// trivy-db itself names a bucket "ecosystem::source" when it's a
+// language-ecosystem advisory source (see its pkg/db.forEach, which treats
+// "::" as a prefix-scan marker); every other bucket is an OS distro's
+// advisories, keyed by plain vendor/release name. Grouping on that existing
+// convention (rather than a hand-maintained vendor list) keeps the ~230
+// top-level buckets trivy-db currently has down to a handful of directories,
+// and classifies any future new source without needing an update here.
+// "vulnerability" and "data-source" are trivy-db's two core, cross-cutting
+// buckets (not tied to one source) and are left at the root.
+func bucketPath(name string) []string {
+	switch name {
+	case "vulnerability", "data-source":
+		return []string{name}
+	}
+	if ecosystem, source, ok := strings.Cut(name, "::"); ok {
+		return []string{"packages", ecosystem, source}
+	}
+	return []string{"os", name}
+}
+
+// emit writes the fast-import filemodify command for one leaf key/value
+// pair, undoing trivy-db's storage optimizations first so the changelog is
+// human-readable, and re-encoding as YAML instead of JSON for better diffs.
+func emit(cpes map[int]string, val []byte, keys ...string) error {
+	// Skip empty values
+	if len(val) == 0 {
+		return nil
+	}
+	// Parse the JSON so we can manipulate it as needed
+	var parsedVal map[string]any
+	if err := json.Unmarshal(val, &parsedVal); err != nil {
+		return fmt.Errorf("json.Unmarshal failed: %w", err)
+	}
+	// Undo trivy-db's storage optimizations so the changelog is human-readable
+	parsedVal = resolveEnums(parsedVal, cpes).(map[string]any)
+	// Pretty-print the JSON as YAML instead for better diffs
+	prettyVal, err := yaml.Marshal(parsedVal)
+	if err != nil {
+		return fmt.Errorf("yaml.Marshal failed: %w", err)
+	}
+	// Emit the filemodify line with inline contents
+	fmt.Printf("M 100644 inline %s.yaml\n", path.Join(keys...))
+	fmt.Printf("data %d\n%s\n", len(prettyVal), string(prettyVal))
+	return nil
+}
+
+// dump recurses through a bucket's nested sub-buckets, calling emit for
+// every leaf key/value pair under the given path prefix.
 func dump(b *bbolt.Bucket, cpes map[int]string, keys ...string) error {
 	// Recurse into each bucket
 	if err := b.ForEachBucket(func(key []byte) error {
@@ -147,26 +195,7 @@ func dump(b *bbolt.Bucket, cpes map[int]string, keys ...string) error {
 	}
 	// Iterate over each key/value pair
 	if err := b.ForEach(func(key []byte, val []byte) error {
-		// Skip empty values
-		if len(val) == 0 {
-			return nil
-		}
-		// Parse the JSON so we can manipulate it as needed
-		var parsedVal map[string]any
-		if err := json.Unmarshal(val, &parsedVal); err != nil {
-			return fmt.Errorf("json.Unmarshal failed: %w", err)
-		}
-		// Undo trivy-db's storage optimizations so the changelog is human-readable
-		parsedVal = resolveEnums(parsedVal, cpes).(map[string]any)
-		// Pretty-print the JSON as YAML instead for better diffs
-		prettyVal, err := yaml.Marshal(parsedVal)
-		if err != nil {
-			return fmt.Errorf("yaml.Marshal failed: %w", err)
-		}
-		// Emit the filemodify line with inline contents
-		fmt.Printf("M 100644 inline %s/%s.yaml\n", path.Join(keys...), string(key))
-		fmt.Printf("data %d\n%s\n", len(prettyVal), string(prettyVal))
-		return nil
+		return emit(cpes, val, append(keys, string(key))...)
 	}); err != nil {
 		return fmt.Errorf("(*bbolt.Bucket).ForEach for %s failed: %w", path.Join(keys...), err)
 	}
@@ -294,13 +323,20 @@ func export(ctx context.Context, ref name.Reference) error {
 			return fmt.Errorf("redHatCPEs failed: %w", err)
 		}
 		if err := tx.ForEach(func(name []byte, b *bbolt.Bucket) error {
+			switch string(name) {
 			// Ignore the RedHat CPE bucket itself: "repository"/"nvr" are internal
 			// scan-time lookup indices, and "cpe" is now inlined via resolveEnums
-			switch string(name) {
 			case "Red Hat CPE":
 				return nil
+			// data-source keys are themselves other top-level bucket names, so
+			// they need the same os/packages split bucketPath applies to those
+			// buckets, not the literal (unsplit) "data-source" case it returns.
+			case "data-source":
+				return b.ForEach(func(key, val []byte) error {
+					return emit(cpes, val, append([]string{"data-source"}, bucketPath(string(key))...)...)
+				})
 			}
-			if err := dump(b, cpes, string(name)); err != nil {
+			if err := dump(b, cpes, bucketPath(string(name))...); err != nil {
 				return fmt.Errorf("dump failed: %w", err)
 			}
 			return nil

@@ -24,6 +24,23 @@ on:
         required: false
         type: string
         default: ''
+  workflow_call:
+    # So the thin dispatcher workflow overlaid onto the "changelog" branch
+    # (see .github/changelog-dispatcher.yml) can invoke this one directly by
+    # ref, regardless of which branch is the repo's default.
+    inputs:
+      max_digests:
+        required: false
+        type: number
+        default: 256
+      start_date:
+        required: false
+        type: string
+        default: '2022-01-04T18:07:01Z'
+      cutoff_date:
+        required: false
+        type: string
+        default: ''
 
 permissions:
   contents: write
@@ -87,3 +104,24 @@ jobs:
     uses: ./.github/workflows/export.yml
     with:
       digest: ${{ matrix.digest }}
+
+  changelog:
+    needs: [discover, export]
+    # always(): still chain in whichever digests succeeded even if some
+    # matrix legs of `export` failed (fail-fast is off).
+    if: always() && needs.discover.outputs.digests != '[]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # Pinned regardless of the repo's default branch (which may be
+          # "changelog", a branch of pure trivy-db snapshots with no Go code).
+          ref: generator
+
+      - name: Update changelog branch
+        env:
+          DIGESTS: ${{ needs.discover.outputs.digests }}
+        run: .github/scripts/update-changelog.sh

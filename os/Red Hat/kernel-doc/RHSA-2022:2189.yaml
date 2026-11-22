@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/o:redhat:rhel_aus:7.3
+        - cpe:/o:redhat:rhel_aus:7.3::server
+      Cves:
+        - ID: CVE-2021-4028
+          Severity: HIGH
+        - ID: CVE-2021-4083
+          Severity: HIGH
+        - ID: CVE-2022-0492
+          Severity: HIGH
+      FixedVersion: 0:3.10.0-514.101.1.el7

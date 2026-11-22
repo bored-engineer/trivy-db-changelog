@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 11.0.0-rc.3.26522.148
+VulnerableVersions:
+    - '>=11.0.0-preview.1, <11.0.0-rc.3.26522.148'

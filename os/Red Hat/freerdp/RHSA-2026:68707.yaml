@@ -1,0 +1,37 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_rt_els:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_els:7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+        - cpe:/o:redhat:rhel_els:7
+      Arches:
+        - ppc64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-55192
+          Severity: HIGH
+        - ID: CVE-2026-55194
+          Severity: HIGH
+        - ID: CVE-2026-67288
+          Severity: MEDIUM
+        - ID: CVE-2026-67290
+          Severity: MEDIUM
+        - ID: CVE-2026-67291
+          Severity: MEDIUM
+        - ID: CVE-2026-67298
+          Severity: HIGH
+        - ID: CVE-2026-67301
+          Severity: MEDIUM
+      FixedVersion: 0:2.1.1-5.el7_9.12

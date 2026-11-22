@@ -23,6 +23,33 @@ human-readable YAML file per vulnerability record, as real git history: one
 commit per historical build, that you can `git log`, `git diff`, and `git
 blame` like any other codebase.
 
+## Example: tracing Java4Shell (CVE-2026-114938)
+
+[Java4Shell](https://calif.io/java4shell) — a pre-auth memory-corruption bug
+in OpenJDK's Base64 decoder — is a good illustration of what that actually
+buys you: a timeline of who shipped a fix and when, straight from real
+history instead of cross-referencing a dozen separate trackers.
+
+```console
+$ git log --first-parent --diff-filter=A --format='%cI' changelog -- vulnerability/CVE-2026-114938.yaml
+2026-11-18T07:15:21Z
+$ git log --first-parent --diff-filter=A --format='%cI' changelog -- 'os/wolfi/openjdk-17/CVE-2026-114938.yaml'
+2026-11-19T07:06:49Z
+```
+
+| When (UTC)           | What |
+|-----------------------|------|
+| 2026-11-17            | Disclosed publicly by [Calif](https://calif.io/java4shell); [CVE-2026-114938](https://www.tenable.com/blog/java4shell-cve-2026-114938-frequently-asked-questions-about-openjdk-rce-vulnerability) assigned |
+| 2026-11-18T07:15:21Z  | Added to trivy-db's `vulnerability` bucket — and to Debian 12 and 13's `openjdk-17`/`openjdk-21` packages — in the very next build after disclosure |
+| 2026-11-18T19:07:09Z  | Alpine 3.24 and edge's `openjdk17` |
+| 2026-11-19T01:05:40Z  | Ubuntu 24.04 and 26.04's `openjdk-17` |
+| 2026-11-19T07:06:49Z  | Wolfi's and Chainguard's `openjdk-17`, and Amazon Linux 2023's `java-17-amazon-corretto` |
+| 2026-11-20T01:04:07Z  | Oracle Linux 9's `java-17-openjdk` |
+
+As of this writing, Red Hat's own `java-17-openjdk` had no advisory for it
+yet — the same `git log` against `os/Red\ Hat` instead of a guess is how
+you'd check whether that's still true.
+
 ## How it works
 
 - **[`cmd/export`](../cmd/export)** downloads one digest of the trivy-db

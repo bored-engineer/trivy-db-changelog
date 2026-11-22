@@ -1,0 +1,21 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Arches:
+        - i686
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2026-109242
+          Severity: HIGH
+        - ID: CVE-2026-110837
+          Severity: HIGH
+        - ID: CVE-2026-111880
+          Severity: HIGH
+      FixedVersion: 2:2.2.0-12.el8_8.14

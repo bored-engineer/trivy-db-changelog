@@ -1,0 +1,5 @@
+PatchedVersions:
+    - 2.5.33-r0
+VulnerableVersions:
+    - '>=2.5.31-r0, <2.5.33-r0'
+    - '>=2.5.31-r2, <2.5.33-r0'

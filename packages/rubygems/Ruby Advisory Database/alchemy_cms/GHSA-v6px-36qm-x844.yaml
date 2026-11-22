@@ -1,0 +1,4 @@
+PatchedVersions:
+    - '>= 8.3.9'
+UnaffectedVersions:
+    - < 2.6.0

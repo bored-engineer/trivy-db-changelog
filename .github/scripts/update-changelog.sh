@@ -31,13 +31,28 @@
 # a "work" subdirectory there to build the branch in.
 set -euo pipefail
 
+# Belt-and-suspenders: if a git command ever ends up needing credentials
+# this script didn't supply, fail fast with a clear error instead of
+# blocking on an interactive prompt that can never be answered here - which
+# is what silently ate a full 6-hour job timeout before this was caught.
+export GIT_TERMINAL_PROMPT=0
+
 : "${GITHUB_REPOSITORY:?}"
+: "${GITHUB_TOKEN:?}"
 : "${DIGESTS:?}"
 
 BOT_NAME="trivy-db-changelog"
 BOT_EMAIL="41898282+github-actions[bot]@users.noreply.github.com"
 
-remote="https://github.com/${GITHUB_REPOSITORY}"
+# actions/checkout's injected credentials are scoped (via includeIf.gitdir:)
+# to the outer checkout's own .git dir and its worktrees - "work" below is a
+# separate, independent `git init`, so it never inherits them. Without this,
+# the final push has no auth at all: over HTTPS that doesn't fail fast, it
+# hangs indefinitely waiting on a credential prompt that never arrives,
+# until the job's default 6-hour timeout kills it (confirmed: this is
+# exactly what happened on both real runs that ever exercised this script -
+# zero log output after the env dump, cancelled at the 6h mark each time).
+remote="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}"
 scripts_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 readme="$scripts_dir/../README.md"
 dispatcher="$scripts_dir/../changelog-dispatcher.yml"
@@ -85,12 +100,24 @@ for attempt in 1 2 3; do
     git fetch -q --filter=tree:0 --depth=1 "$remote" "$generator_sha"
     generator_commit=$(git rev-parse FETCH_HEAD)
 
-    git read-tree "$(git rev-parse "$parent^{tree}")"
-    blob=$(git hash-object -w "$readme")
-    git update-index --add --cacheinfo 100644 "$blob" README.md
-    blob=$(git hash-object -w "$dispatcher")
-    git update-index --add --cacheinfo 100644 "$blob" .github/workflows/cron.yml
-    tree=$(git write-tree)
+    # Built via ls-tree/mktree (pure SHA-reference plumbing), not
+    # read-tree/update-index/write-tree: the latter, on this branch's
+    # blob:none-fetched digest trees, was observed triggering git's
+    # promisor remote to lazily re-fetch the *entire* snapshot's blob
+    # content on demand (a single-digest run turning into a multi-hundred-
+    # thousand-object fetch) - confirmed to be what silently ate the full
+    # 6-hour job timeout on every run that ever exercised this script.
+    # ls-tree/mktree never touch blob content, so this can't recur.
+    blob_readme=$(git hash-object -w "$readme")
+    blob_dispatcher=$(git hash-object -w "$dispatcher")
+    workflows_tree=$(printf '100644 blob %s\tcron.yml\n' "$blob_dispatcher" | git mktree)
+    github_tree=$(printf '040000 tree %s\tworkflows\n' "$workflows_tree" | git mktree)
+    tree=$(
+      { git ls-tree "$(git rev-parse "$parent^{tree}")"
+        printf '100644 blob %s\tREADME.md\n' "$blob_readme"
+        printf '040000 tree %s\t.github\n' "$github_tree"
+      } | git mktree
+    )
     tip=$(GIT_AUTHOR_NAME="$BOT_NAME" GIT_AUTHOR_EMAIL="$BOT_EMAIL" \
           GIT_COMMITTER_NAME="$BOT_NAME" GIT_COMMITTER_EMAIL="$BOT_EMAIL" \
           git commit-tree "$tree" -p "$parent" -p "$generator_commit" -m "docs: update changelog README and workflows")

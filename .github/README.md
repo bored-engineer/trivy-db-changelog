@@ -49,15 +49,17 @@ blame` like any other codebase.
 
 ## Branches
 
-- **`generator`** — this code (the repository's default branch).
+- **`changelog`** — **the repository's default branch.** The same snapshots
+  as `refs/raw/<digest>`, chained into one browsable history. This README
+  and a thin `.github/workflows/cron.yml` are overlaid onto its tip on every
+  update (see that file's header) so the branch stays self-explanatory, and
+  so GitHub can still find a workflow here now that this is the default
+  branch — that workflow just forwards to the real one on `generator` via a
+  ref-pinned reusable workflow call
+  ([`changelog-dispatcher.yml`](changelog-dispatcher.yml)), so it never
+  needs to be kept in sync with actual job logic changes.
+- **`generator`** — this code: the exporter, the cron automation, and this
+  README. Not the default branch, but everything above actually lives here.
 - **`refs/raw/<digest>`** — one orphan commit per exported digest, exactly
   as `cmd/export` produced it. The source of truth; `changelog` is derived
   from these and can always be rebuilt from them.
-- **`changelog`** — the same snapshots, chained into one browsable history.
-  This README and a thin `.github/workflows/cron.yml` are overlaid onto its
-  tip on every update (see that file's header) so the branch stays
-  self-explanatory, and so GitHub can still find a workflow here if this is
-  ever made the repository's default branch — that workflow just forwards
-  to the real one on `generator` via a ref-pinned reusable workflow call
-  ([`changelog-dispatcher.yml`](changelog-dispatcher.yml)), so it never
-  needs to be kept in sync with actual job logic changes.

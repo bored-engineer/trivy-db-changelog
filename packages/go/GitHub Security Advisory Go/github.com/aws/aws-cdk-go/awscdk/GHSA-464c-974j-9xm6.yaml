@@ -1,0 +1,2 @@
+VulnerableVersions:
+    - '>=1.175.0-devpreview, <=1.204.0-devpreview'

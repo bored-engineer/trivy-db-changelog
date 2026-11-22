@@ -1,0 +1,12 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-88029
+          Severity: HIGH
+      FixedVersion: 0:3.6.8-38.module+el8.5.0+12207+5c5719bc

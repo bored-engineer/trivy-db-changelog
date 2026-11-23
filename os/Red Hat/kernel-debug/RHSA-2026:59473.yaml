@@ -1,0 +1,22 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2026-31411
+          Severity: MEDIUM
+        - ID: CVE-2026-43051
+          Severity: MEDIUM
+        - ID: CVE-2026-46054
+          Severity: HIGH
+        - ID: CVE-2026-53016
+          Severity: MEDIUM
+        - ID: CVE-2026-63888
+          Severity: HIGH
+        - ID: CVE-2026-74580
+          Severity: HIGH
+      FixedVersion: 0:4.18.0-372.208.1.el8_6

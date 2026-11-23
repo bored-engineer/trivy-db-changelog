@@ -1,0 +1,126 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2024-57849
+          Severity: MEDIUM
+        - ID: CVE-2025-71066
+          Severity: MEDIUM
+        - ID: CVE-2026-43051
+          Severity: MEDIUM
+        - ID: CVE-2026-43206
+          Severity: HIGH
+        - ID: CVE-2026-52912
+          Severity: HIGH
+        - ID: CVE-2026-53136
+          Severity: HIGH
+        - ID: CVE-2026-53329
+          Severity: HIGH
+        - ID: CVE-2026-53374
+          Severity: HIGH
+        - ID: CVE-2026-63829
+          Severity: HIGH
+        - ID: CVE-2026-63884
+          Severity: HIGH
+        - ID: CVE-2026-63992
+          Severity: MEDIUM
+        - ID: CVE-2026-63994
+          Severity: HIGH
+        - ID: CVE-2026-64007
+          Severity: HIGH
+        - ID: CVE-2026-64219
+          Severity: HIGH
+        - ID: CVE-2026-68140
+          Severity: HIGH
+        - ID: CVE-2026-68432
+          Severity: HIGH
+        - ID: CVE-2026-68476
+          Severity: HIGH
+        - ID: CVE-2026-72052
+          Severity: HIGH
+        - ID: CVE-2026-72255
+          Severity: HIGH
+        - ID: CVE-2026-74556
+          Severity: HIGH
+        - ID: CVE-2026-74569
+          Severity: HIGH
+        - ID: CVE-2026-74669
+          Severity: HIGH
+        - ID: CVE-2026-80714
+          Severity: HIGH
+        - ID: CVE-2026-89481
+          Severity: HIGH
+        - ID: CVE-2026-97417
+          Severity: HIGH
+      FixedVersion: 0:4.18.0-477.179.1.el8_8
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2024-57849
+          Severity: MEDIUM
+        - ID: CVE-2025-71066
+          Severity: MEDIUM
+        - ID: CVE-2026-43051
+          Severity: MEDIUM
+        - ID: CVE-2026-43206
+          Severity: HIGH
+        - ID: CVE-2026-52912
+          Severity: HIGH
+        - ID: CVE-2026-53136
+          Severity: HIGH
+        - ID: CVE-2026-53329
+          Severity: HIGH
+        - ID: CVE-2026-53374
+          Severity: HIGH
+        - ID: CVE-2026-63829
+          Severity: HIGH
+        - ID: CVE-2026-63884
+          Severity: HIGH
+        - ID: CVE-2026-63992
+          Severity: MEDIUM
+        - ID: CVE-2026-63994
+          Severity: HIGH
+        - ID: CVE-2026-64007
+          Severity: HIGH
+        - ID: CVE-2026-64219
+          Severity: HIGH
+        - ID: CVE-2026-68140
+          Severity: HIGH
+        - ID: CVE-2026-68432
+          Severity: HIGH
+        - ID: CVE-2026-68476
+          Severity: HIGH
+        - ID: CVE-2026-72052
+          Severity: HIGH
+        - ID: CVE-2026-72255
+          Severity: HIGH
+        - ID: CVE-2026-74556
+          Severity: HIGH
+        - ID: CVE-2026-74569
+          Severity: HIGH
+        - ID: CVE-2026-74669
+          Severity: HIGH
+        - ID: CVE-2026-80714
+          Severity: HIGH
+        - ID: CVE-2026-89481
+          Severity: HIGH
+        - ID: CVE-2026-97417
+          Severity: HIGH
+      FixedVersion: 0:4.18.0-477.179.1.el8_8

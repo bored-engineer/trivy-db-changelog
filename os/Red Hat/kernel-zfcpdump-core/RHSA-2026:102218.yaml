@@ -1,0 +1,44 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+      Arches:
+        - s390x
+      Cves:
+        - ID: CVE-2026-64487
+          Severity: MEDIUM
+        - ID: CVE-2026-72084
+          Severity: MEDIUM
+        - ID: CVE-2026-74394
+          Severity: HIGH
+        - ID: CVE-2026-90294
+          Severity: MEDIUM
+        - ID: CVE-2026-90413
+          Severity: MEDIUM
+        - ID: CVE-2026-90414
+          Severity: HIGH
+        - ID: CVE-2026-92508
+          Severity: MEDIUM
+        - ID: CVE-2026-92511
+          Severity: MEDIUM
+        - ID: CVE-2026-93054
+          Severity: MEDIUM
+        - ID: CVE-2026-98549
+          Severity: HIGH
+        - ID: CVE-2026-99235
+          Severity: MEDIUM
+        - ID: CVE-2026-99288
+          Severity: HIGH
+        - ID: CVE-2026-99661
+          Severity: HIGH
+      FixedVersion: 0:4.18.0-553.189.1.el8_10

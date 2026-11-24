@@ -1,0 +1,5 @@
+PatchedVersions:
+    - '>= 3.33.2, < 4.0.0.beta.1'
+    - '>= 4.3.4'
+UnaffectedVersions:
+    - < 2.12.0

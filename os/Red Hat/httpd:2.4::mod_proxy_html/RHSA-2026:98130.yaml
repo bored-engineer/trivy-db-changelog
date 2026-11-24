@@ -1,0 +1,62 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2024-42516
+          Severity: MEDIUM
+        - ID: CVE-2026-29169
+          Severity: LOW
+        - ID: CVE-2026-34355
+          Severity: HIGH
+        - ID: CVE-2026-34356
+          Severity: MEDIUM
+        - ID: CVE-2026-42536
+          Severity: HIGH
+        - ID: CVE-2026-43951
+          Severity: MEDIUM
+        - ID: CVE-2026-44185
+          Severity: HIGH
+        - ID: CVE-2026-44186
+          Severity: HIGH
+        - ID: CVE-2026-44631
+          Severity: MEDIUM
+      FixedVersion: 1:2.4.37-56.module+el8.8.0+24683+908cede0.13
+    - Affected:
+        - cpe:/a:redhat:rhel_tus:8.8
+        - cpe:/a:redhat:rhel_tus:8.8::appstream
+        - cpe:/a:redhat:rhel_tus:8.8::highavailability
+        - cpe:/a:redhat:rhel_tus:8.8::nfv
+        - cpe:/a:redhat:rhel_tus:8.8::realtime
+        - cpe:/o:redhat:rhel_tus:8.8
+        - cpe:/o:redhat:rhel_tus:8.8::baseos
+      Arches:
+        - x86_64
+      Cves:
+        - ID: CVE-2024-42516
+          Severity: MEDIUM
+        - ID: CVE-2026-29169
+          Severity: LOW
+        - ID: CVE-2026-34355
+          Severity: HIGH
+        - ID: CVE-2026-34356
+          Severity: MEDIUM
+        - ID: CVE-2026-42536
+          Severity: HIGH
+        - ID: CVE-2026-43951
+          Severity: MEDIUM
+        - ID: CVE-2026-44185
+          Severity: HIGH
+        - ID: CVE-2026-44186
+          Severity: HIGH
+        - ID: CVE-2026-44631
+          Severity: MEDIUM
+      FixedVersion: 1:2.4.37-56.module+el8.8.0+24683+908cede0.13

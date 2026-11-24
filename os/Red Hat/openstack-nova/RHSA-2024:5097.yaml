@@ -1,0 +1,8 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:openstack:16.2
+        - cpe:/a:redhat:openstack:16.2::el8
+      Cves:
+        - ID: CVE-2024-40767
+          Severity: HIGH
+      FixedVersion: 1:20.6.2-2.20230814165229.el8ost

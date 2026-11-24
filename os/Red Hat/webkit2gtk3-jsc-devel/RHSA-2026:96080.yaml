@@ -1,0 +1,58 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:8
+        - cpe:/a:redhat:enterprise_linux:8::appstream
+        - cpe:/a:redhat:enterprise_linux:8::crb
+        - cpe:/a:redhat:enterprise_linux:8::highavailability
+        - cpe:/a:redhat:enterprise_linux:8::nfv
+        - cpe:/a:redhat:enterprise_linux:8::realtime
+        - cpe:/a:redhat:enterprise_linux:8::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:8::sap
+        - cpe:/a:redhat:enterprise_linux:8::sap_hana
+        - cpe:/a:redhat:enterprise_linux:8::supplementary
+        - cpe:/o:redhat:enterprise_linux:8
+        - cpe:/o:redhat:enterprise_linux:8::baseos
+      Arches:
+        - aarch64
+        - i686
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-102325
+          Severity: MEDIUM
+        - ID: CVE-2026-103629
+          Severity: HIGH
+        - ID: CVE-2026-106379
+          Severity: HIGH
+        - ID: CVE-2026-106399
+          Severity: LOW
+        - ID: CVE-2026-113106
+          Severity: MEDIUM
+        - ID: CVE-2026-118319
+          Severity: HIGH
+        - ID: CVE-2026-118340
+          Severity: HIGH
+        - ID: CVE-2026-118348
+          Severity: HIGH
+        - ID: CVE-2026-118351
+          Severity: HIGH
+        - ID: CVE-2026-118354
+          Severity: HIGH
+        - ID: CVE-2026-119261
+          Severity: HIGH
+        - ID: CVE-2026-119271
+          Severity: HIGH
+        - ID: CVE-2026-84359
+          Severity: MEDIUM
+        - ID: CVE-2026-85049
+          Severity: HIGH
+        - ID: CVE-2026-91733
+          Severity: MEDIUM
+        - ID: CVE-2026-91740
+          Severity: MEDIUM
+        - ID: CVE-2026-91747
+          Severity: MEDIUM
+        - ID: CVE-2026-93387
+          Severity: MEDIUM
+      FixedVersion: 0:2.54.2-2.el8_10

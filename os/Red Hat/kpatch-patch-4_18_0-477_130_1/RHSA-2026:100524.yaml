@@ -1,0 +1,20 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:8.8
+        - cpe:/a:redhat:rhel_e4s:8.8::appstream
+        - cpe:/a:redhat:rhel_e4s:8.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:8.8::sap
+        - cpe:/a:redhat:rhel_e4s:8.8::sap_hana
+        - cpe:/o:redhat:rhel_e4s:8.8
+        - cpe:/o:redhat:rhel_e4s:8.8::baseos
+      Arches:
+        - ppc64le
+        - x86_64
+      Cves:
+        - ID: CVE-2026-64534
+          Severity: HIGH
+        - ID: CVE-2026-98432
+          Severity: CRITICAL
+        - ID: CVE-2026-99999
+          Severity: HIGH
+      FixedVersion: 0:1-16.el8_8

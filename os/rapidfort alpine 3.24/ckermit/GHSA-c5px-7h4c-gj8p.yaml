@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 11.1.516-r0
+VulnerableVersions:
+    - '>=9.0.302-r6, <11.1.516-r0'

@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:satellite:6.1
+        - cpe:/a:redhat:satellite:6.1::el6
+        - cpe:/a:redhat:satellite_capsule:6.1
+        - cpe:/a:redhat:satellite_capsule:6.1::el6
+      Cves:
+        - ID: CVE-2016-6320
+          Severity: MEDIUM
+      FixedVersion: 0:0.30-10.el6sat

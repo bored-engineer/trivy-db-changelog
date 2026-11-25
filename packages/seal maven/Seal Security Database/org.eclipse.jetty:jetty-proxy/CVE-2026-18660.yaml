@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 9.3.24.v20180605+sp4
+VulnerableVersions:
+    - '>=9.3.24.v20180605+sp0, <9.3.24.v20180605+sp4'

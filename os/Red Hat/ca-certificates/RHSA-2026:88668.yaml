@@ -1,0 +1,10 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_aus:8.6
+        - cpe:/a:redhat:rhel_aus:8.6::appstream
+        - cpe:/o:redhat:rhel_aus:8.6
+        - cpe:/o:redhat:rhel_aus:8.6::baseos
+      Cves:
+        - ID: CVE-2026-114406
+          Severity: CRITICAL
+      FixedVersion: 0:2026.2.92_v9.0.319-80.3.el8_6

@@ -1,0 +1,101 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0::el8
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.1::el8
+      Cves:
+        - ID: CVE-2026-102495
+          Severity: HIGH
+        - ID: CVE-2026-102496
+          Severity: HIGH
+        - ID: CVE-2026-12802
+          Severity: HIGH
+        - ID: CVE-2026-12977
+          Severity: HIGH
+        - ID: CVE-2026-58060
+          Severity: HIGH
+        - ID: CVE-2026-58061
+          Severity: HIGH
+        - ID: CVE-2026-59639
+          Severity: HIGH
+        - ID: CVE-2026-59642
+          Severity: HIGH
+        - ID: CVE-2026-59645
+          Severity: HIGH
+        - ID: CVE-2026-68498
+          Severity: HIGH
+        - ID: CVE-2026-71887
+          Severity: HIGH
+        - ID: CVE-2026-71889
+          Severity: HIGH
+        - ID: CVE-2026-77185
+          Severity: HIGH
+        - ID: CVE-2026-89407
+          Severity: MEDIUM
+        - ID: CVE-2026-89425
+          Severity: HIGH
+        - ID: CVE-2026-91777
+          Severity: HIGH
+        - ID: CVE-2026-91863
+          Severity: HIGH
+        - ID: CVE-2026-91864
+          Severity: HIGH
+        - ID: CVE-2026-91865
+          Severity: HIGH
+        - ID: CVE-2026-91866
+          Severity: HIGH
+        - ID: CVE-2026-93994
+          Severity: HIGH
+      FixedVersion: 0:8.1.9.1-1.GA_redhat_00006.1.el8eap
+    - Affected:
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.0::el9
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.1
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.1::el9
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.2
+        - cpe:/a:redhat:jboss_enterprise_application_platform:8.2::el9
+      Cves:
+        - ID: CVE-2026-102495
+          Severity: HIGH
+        - ID: CVE-2026-102496
+          Severity: HIGH
+        - ID: CVE-2026-12802
+          Severity: HIGH
+        - ID: CVE-2026-12977
+          Severity: HIGH
+        - ID: CVE-2026-58060
+          Severity: HIGH
+        - ID: CVE-2026-58061
+          Severity: HIGH
+        - ID: CVE-2026-59639
+          Severity: HIGH
+        - ID: CVE-2026-59642
+          Severity: HIGH
+        - ID: CVE-2026-59645
+          Severity: HIGH
+        - ID: CVE-2026-68498
+          Severity: HIGH
+        - ID: CVE-2026-71887
+          Severity: HIGH
+        - ID: CVE-2026-71889
+          Severity: HIGH
+        - ID: CVE-2026-77185
+          Severity: HIGH
+        - ID: CVE-2026-89407
+          Severity: MEDIUM
+        - ID: CVE-2026-89425
+          Severity: HIGH
+        - ID: CVE-2026-91777
+          Severity: HIGH
+        - ID: CVE-2026-91863
+          Severity: HIGH
+        - ID: CVE-2026-91864
+          Severity: HIGH
+        - ID: CVE-2026-91865
+          Severity: HIGH
+        - ID: CVE-2026-91866
+          Severity: HIGH
+        - ID: CVE-2026-93994
+          Severity: HIGH
+      FixedVersion: 0:8.1.9.1-1.GA_redhat_00006.1.el9eap

@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 0:3.3.3-1rfubuntu0.24.04.1
+VulnerableVersions:
+    - <0:3.3.3-1rfubuntu0.24.04.1

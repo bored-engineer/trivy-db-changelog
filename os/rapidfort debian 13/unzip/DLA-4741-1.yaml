@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 0:6.0-28+deb12u1
+VulnerableVersions:
+    - '>=0:6.0-28, <0:6.0-28+deb12u1'

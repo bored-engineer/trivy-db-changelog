@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 2.42.3-r0
+VulnerableVersions:
+    - '>=2.42.1-r0, <2.42.3-r0'

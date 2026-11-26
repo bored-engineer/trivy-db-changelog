@@ -1,0 +1,53 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_extras:7
+        - cpe:/a:redhat:rhel_extras_oracle_java:7
+        - cpe:/a:redhat:rhel_extras_rt:7
+        - cpe:/a:redhat:rhel_extras_rt_els:7
+        - cpe:/a:redhat:rhel_extras_sap:7
+        - cpe:/a:redhat:rhel_extras_sap_els:7
+        - cpe:/a:redhat:rhel_extras_sap_hana:7
+        - cpe:/a:redhat:rhel_extras_sap_hana_els:7
+        - cpe:/o:redhat:enterprise_linux:7
+        - cpe:/o:redhat:enterprise_linux:7::client
+        - cpe:/o:redhat:enterprise_linux:7::computenode
+        - cpe:/o:redhat:enterprise_linux:7::server
+        - cpe:/o:redhat:enterprise_linux:7::workstation
+        - cpe:/o:redhat:rhel_els:7
+      Arches:
+        - ppc64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-115560
+          Severity: CRITICAL
+        - ID: CVE-2026-126714
+          Severity: CRITICAL
+        - ID: CVE-2026-128064
+          Severity: HIGH
+        - ID: CVE-2026-128090
+          Severity: MEDIUM
+        - ID: CVE-2026-129291
+          Severity: HIGH
+        - ID: CVE-2026-129292
+          Severity: MEDIUM
+        - ID: CVE-2026-129496
+          Severity: CRITICAL
+        - ID: CVE-2026-129506
+          Severity: LOW
+        - ID: CVE-2026-129538
+          Severity: MEDIUM
+        - ID: CVE-2026-15353
+          Severity: LOW
+        - ID: CVE-2026-6722
+          Severity: HIGH
+        - ID: CVE-2026-6735
+          Severity: MEDIUM
+        - ID: CVE-2026-7261
+          Severity: MEDIUM
+        - ID: CVE-2026-91765
+          Severity: HIGH
+        - ID: CVE-2026-9672
+          Severity: HIGH
+      FixedVersion: 0:5.4.16-48.el7_9.2

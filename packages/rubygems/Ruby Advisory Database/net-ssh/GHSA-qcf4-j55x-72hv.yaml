@@ -1,0 +1,5 @@
+PatchedVersions:
+    - ~> 7.3.10
+    - '>= 8.1.2'
+UnaffectedVersions:
+    - < 4.0.0.beta4

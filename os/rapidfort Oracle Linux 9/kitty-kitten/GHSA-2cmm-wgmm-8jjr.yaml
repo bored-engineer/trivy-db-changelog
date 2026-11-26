@@ -1,0 +1,2 @@
+VulnerableVersions:
+    - '>=0.25.2-3.el9'

@@ -1,0 +1,2 @@
+VulnerableVersions:
+    - '>=2020.12.5-4.el9'

@@ -1,0 +1,8 @@
+PatchedVersions:
+    - 4.1.100.Final
+    - 4.1.110.Final+echo.1
+VendorIDs:
+    - ECHO-9243-5f0d-880c
+VulnerableVersions:
+    - <4.1.100.Final
+    - '>=4.1.110.Final, <4.1.110.Final+echo.1'

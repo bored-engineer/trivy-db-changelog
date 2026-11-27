@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 2026.9.18-r0
+VulnerableVersions:
+    - '>=2022.10.3-r3, <2026.9.18-r0'

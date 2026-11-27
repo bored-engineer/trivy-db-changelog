@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 0:261~rc1-1.fc45
+VulnerableVersions:
+    - '>=0:260.1-2.fc45, <0:261~rc1-1.fc45'

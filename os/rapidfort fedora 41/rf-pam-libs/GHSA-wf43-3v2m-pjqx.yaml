@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 0:1.6.1-9.fc41
+VulnerableVersions:
+    - '>=0:1.6.1-6.fc41, <0:1.6.1-9.fc41'

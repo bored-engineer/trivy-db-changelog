@@ -1,0 +1,56 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:enterprise_linux:9
+        - cpe:/a:redhat:enterprise_linux:9::appstream
+        - cpe:/a:redhat:enterprise_linux:9::baseos
+        - cpe:/a:redhat:enterprise_linux:9::crb
+        - cpe:/a:redhat:enterprise_linux:9::extensions
+        - cpe:/a:redhat:enterprise_linux:9::highavailability
+        - cpe:/a:redhat:enterprise_linux:9::nfv
+        - cpe:/a:redhat:enterprise_linux:9::realtime
+        - cpe:/a:redhat:enterprise_linux:9::resilientstorage
+        - cpe:/a:redhat:enterprise_linux:9::sap
+        - cpe:/a:redhat:enterprise_linux:9::sap_hana
+        - cpe:/a:redhat:enterprise_linux:9::supplementary
+        - cpe:/a:redhat:rhel_eus:9.10
+        - cpe:/a:redhat:rhel_eus:9.10::appstream
+        - cpe:/a:redhat:rhel_eus:9.10::baseos
+        - cpe:/a:redhat:rhel_eus:9.10::crb
+        - cpe:/a:redhat:rhel_eus:9.10::extensions
+        - cpe:/a:redhat:rhel_eus:9.10::highavailability
+        - cpe:/a:redhat:rhel_eus:9.10::nfv
+        - cpe:/a:redhat:rhel_eus:9.10::realtime
+        - cpe:/a:redhat:rhel_eus:9.10::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.10::sap
+        - cpe:/a:redhat:rhel_eus:9.10::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.10::supplementary
+        - cpe:/o:redhat:enterprise_linux:9
+        - cpe:/o:redhat:enterprise_linux:9::baseos
+      Cves:
+        - ID: CVE-2026-45861
+          Severity: MEDIUM
+        - ID: CVE-2026-45970
+          Severity: MEDIUM
+        - ID: CVE-2026-53049
+          Severity: MEDIUM
+        - ID: CVE-2026-64549
+          Severity: MEDIUM
+        - ID: CVE-2026-68148
+          Severity: MEDIUM
+        - ID: CVE-2026-74480
+          Severity: HIGH
+        - ID: CVE-2026-74493
+          Severity: MEDIUM
+        - ID: CVE-2026-74631
+          Severity: HIGH
+        - ID: CVE-2026-74637
+          Severity: MEDIUM
+        - ID: CVE-2026-89638
+          Severity: HIGH
+        - ID: CVE-2026-90347
+          Severity: MEDIUM
+        - ID: CVE-2026-97528
+          Severity: MEDIUM
+        - ID: CVE-2026-98232
+          Severity: HIGH
+      FixedVersion: 0:5.14.0-741.24.1.el9_9

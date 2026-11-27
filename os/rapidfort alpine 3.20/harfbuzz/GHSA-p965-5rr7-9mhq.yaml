@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 12.2.0-r0
+VulnerableVersions:
+    - '>=8.5.0-r0, <12.2.0-r0'

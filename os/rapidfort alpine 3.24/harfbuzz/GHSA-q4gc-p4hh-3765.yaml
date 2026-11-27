@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 14.2.1-r0
+VulnerableVersions:
+    - '>=12.2.0-r0, <14.2.1-r0'

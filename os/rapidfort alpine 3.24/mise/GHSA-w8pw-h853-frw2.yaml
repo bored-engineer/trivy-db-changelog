@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 2026.8.15-r0
+VulnerableVersions:
+    - '>=2025.12.13-r1, <2026.8.15-r0'

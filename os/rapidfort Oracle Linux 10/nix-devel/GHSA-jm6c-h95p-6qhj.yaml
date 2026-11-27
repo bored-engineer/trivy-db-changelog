@@ -1,0 +1,2 @@
+VulnerableVersions:
+    - '>=2.24.15-1.el10_1'

@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 8.2604.0-11.rf
+VulnerableVersions:
+    - '>=8.2604.0-10.rf, <8.2604.0-11.rf'

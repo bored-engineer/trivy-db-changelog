@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 0:10.4.0-3.fc42
+VulnerableVersions:
+    - '>=0:10.4.0-2.fc42, <0:10.4.0-3.fc42'

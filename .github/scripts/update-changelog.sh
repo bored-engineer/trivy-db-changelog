@@ -78,11 +78,14 @@ for attempt in 1 2 3; do
   (
     cd work
 
-    # Current changelog tip, if any (no tree/blobs: we only chain onto its
-    # hash, never read its contents).
-    git fetch -q --filter=tree:0 --depth=1 "$remote" refs/heads/changelog:refs/heads/changelog 2>/dev/null || true
-    parent=$(git rev-parse --verify --quiet refs/heads/changelog || true)
-
+    # Fetch every new digest's commit+trees (no blobs) BEFORE the changelog
+    # tip. Fetching the tip first (tree:0, so none of its trees) leaves git
+    # negotiating with a "have" whose trees we don't actually have: the
+    # server then leaves out every subtree a new digest shares with the tip
+    # (e.g. an unchanged data-source/), and the overlay's mktree below fails
+    # with "entry 'data-source' object ... is unavailable". That failed every
+    # cron run's changelog job from the single-parent revert onward.
+    fetched=()
     while read -r digest; do
       ref="refs/raw/${digest/sha256:/sha256-}"
       # A matrix leg exporting this digest may have failed (fail-fast is
@@ -92,6 +95,21 @@ for attempt in 1 2 3; do
         echo "skipping $digest: export did not produce $ref" >&2
         continue
       fi
+      fetched+=("$digest")
+    done < <(printf '%s' "$DIGESTS" | jq -r '.[]')
+
+    # Current changelog tip, if any (no tree/blobs: we only chain onto its
+    # hash, never read its contents).
+    git fetch -q --filter=tree:0 --depth=1 "$remote" refs/heads/changelog:refs/heads/changelog 2>/dev/null || true
+    parent=$(git rev-parse --verify --quiet refs/heads/changelog || true)
+
+    if [ "${#fetched[@]}" -eq 0 ]; then
+      echo "none of the digests were exported; nothing to chain" >&2
+      exit 0
+    fi
+
+    for digest in ${fetched[@]+"${fetched[@]}"}; do
+      ref="refs/raw/${digest/sha256:/sha256-}"
       tree=$(git rev-parse "$ref^{tree}")
       ref_sha=$(git rev-parse "$ref")
       message=$(git log -1 --format=%B "$ref")
@@ -100,7 +118,7 @@ for attempt in 1 2 3; do
                GIT_COMMITTER_NAME="$BOT_NAME" GIT_COMMITTER_EMAIL="$BOT_EMAIL" GIT_COMMITTER_DATE="$date" \
                git commit-tree "$tree" ${parent:+-p "$parent"} -m "$message" -m "Export-Commit: $ref_sha")
       parent="$commit"
-    done < <(printf '%s' "$DIGESTS" | jq -r '.[]')
+    done
 
     # Overlay README.md and the dispatcher workflow on top of the last
     # digest's tree: the README for human browsing, the dispatcher so
@@ -130,6 +148,11 @@ for attempt in 1 2 3; do
           GIT_COMMITTER_NAME="$BOT_NAME" GIT_COMMITTER_EMAIL="$BOT_EMAIL" \
           git commit-tree "$tree" -p "$parent" -m "docs: update changelog README and workflows" -m "Export-Commit: $generator_sha")
 
+    # This subshell runs under `&&` below, which disables `set -e` inside it,
+    # so a failed step above doesn't stop the script. An empty $tip would then
+    # make the push below a branch *delete* ("refusing to delete the current
+    # branch", seen in every failed cron run) - check explicitly.
+    [ -n "$tip" ] || { echo "failed to build the changelog tip" >&2; exit 1; }
     git push "$remote" "$tip:refs/heads/changelog"
   ) && exit 0
 

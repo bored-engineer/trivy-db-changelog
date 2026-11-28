@@ -1,0 +1,6 @@
+PatchedVersions:
+    - 4.2.5.RELEASE+sp2p2
+    - 5.1.5.RELEASE+sp2p2
+VulnerableVersions:
+    - '>=4.2.5.RELEASE+sp0, <4.2.5.RELEASE+sp2p2'
+    - '>=5.1.5.RELEASE+sp0, <5.1.5.RELEASE+sp2p2'

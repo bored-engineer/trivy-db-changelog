@@ -1,0 +1,55 @@
+Entries:
+    - Affected:
+        - cpe:/a:redhat:rhel_e4s:9.8
+        - cpe:/a:redhat:rhel_e4s:9.8::appstream
+        - cpe:/a:redhat:rhel_e4s:9.8::highavailability
+        - cpe:/a:redhat:rhel_e4s:9.8::nfv
+        - cpe:/a:redhat:rhel_e4s:9.8::realtime
+        - cpe:/a:redhat:rhel_e4s:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_e4s:9.8::sap
+        - cpe:/a:redhat:rhel_e4s:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.8
+        - cpe:/a:redhat:rhel_eus:9.8::appstream
+        - cpe:/a:redhat:rhel_eus:9.8::crb
+        - cpe:/a:redhat:rhel_eus:9.8::highavailability
+        - cpe:/a:redhat:rhel_eus:9.8::nfv
+        - cpe:/a:redhat:rhel_eus:9.8::realtime
+        - cpe:/a:redhat:rhel_eus:9.8::resilientstorage
+        - cpe:/a:redhat:rhel_eus:9.8::sap
+        - cpe:/a:redhat:rhel_eus:9.8::sap_hana
+        - cpe:/a:redhat:rhel_eus:9.8::supplementary
+        - cpe:/o:redhat:rhel_e4s:9.8
+        - cpe:/o:redhat:rhel_e4s:9.8::baseos
+        - cpe:/o:redhat:rhel_eus:9.8
+        - cpe:/o:redhat:rhel_eus:9.8::baseos
+      Arches:
+        - aarch64
+        - ppc64le
+        - s390x
+        - x86_64
+      Cves:
+        - ID: CVE-2026-115560
+          Severity: CRITICAL
+        - ID: CVE-2026-126714
+          Severity: CRITICAL
+        - ID: CVE-2026-127960
+          Severity: HIGH
+        - ID: CVE-2026-128064
+          Severity: HIGH
+        - ID: CVE-2026-128090
+          Severity: MEDIUM
+        - ID: CVE-2026-129289
+          Severity: CRITICAL
+        - ID: CVE-2026-129291
+          Severity: HIGH
+        - ID: CVE-2026-129292
+          Severity: MEDIUM
+        - ID: CVE-2026-129496
+          Severity: CRITICAL
+        - ID: CVE-2026-129506
+          Severity: LOW
+        - ID: CVE-2026-129538
+          Severity: MEDIUM
+        - ID: CVE-2026-15353
+          Severity: LOW
+      FixedVersion: 0:1.22.3-1.module+el9.7.0+24111+199d2cc4

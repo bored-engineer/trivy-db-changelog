@@ -60,6 +60,12 @@ you'd check whether that's still true.
   prints a [`git fast-import`](https://git-scm.com/docs/git-fast-import)
   stream rather than writing files directly, resetting `refs/raw/<digest>`
   to a fresh orphan commit with one YAML file per record.
+  The changelog has to check out cleanly on case-insensitive filesystems
+  (the macOS and Windows defaults), so path segments are case-normalized
+  (CVE IDs uppercased, package names lowercased) and any two leaves that
+  still differ only by case are merged into one file instead of silently
+  overwriting each other on checkout. The stream ends with `done`, so a
+  failed export never commits a truncated snapshot.
 - **[`cron.yml`](workflows/cron.yml)** runs every 6 hours (offset to land
   after upstream's own build), diffs the digests upstream has published
   against the `refs/raw/*` refs already exported, and runs

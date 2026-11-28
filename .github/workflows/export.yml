@@ -14,6 +14,13 @@ on:
         required: true
         type: string
 
+# bash -eo pipefail for every run step (GitHub's default without an explicit
+# shell is bash -e, no pipefail), so a failure early in a pipeline fails the
+# step instead of leaving it with partial or empty output.
+defaults:
+  run:
+    shell: bash
+
 permissions:
   contents: write
   packages: read
@@ -42,7 +49,10 @@ jobs:
           password: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Export trivy-db
-        run: go run ./cmd/export "ghcr.io/aquasecurity/trivy-db@${{ inputs.digest }}" | git fast-import
+        # cmd/export ends its stream with fast-import's "done" only on
+        # success, so a failed export never leaves a (truncated) ref behind;
+        # the Push step's ref check double-checks it.
+        run: go run ./cmd/export "ghcr.io/aquasecurity/trivy-db@${{ inputs.digest }}" | git fast-import --quiet
 
       - name: Push ref
         run: |
@@ -54,4 +64,16 @@ jobs:
           # Force-push: cmd/export always resets this ref to a fresh orphan
           # commit, so re-running against an already-exported digest is
           # never a fast-forward.
-          git push --force origin "$ref:$ref"
+          #
+          # Retried: with many export jobs pushing to the same repo at once,
+          # GitHub occasionally returns a transient "Internal Server Error"
+          # on the push itself (retrying the exact same push succeeds).
+          for attempt in 1 2 3 4 5; do
+            if git push --force origin "$ref:$ref"; then
+              exit 0
+            fi
+            echo "push attempt $attempt failed, retrying after a pause" >&2
+            sleep $((attempt * 10))
+          done
+          echo "push failed after 5 attempts" >&2
+          exit 1

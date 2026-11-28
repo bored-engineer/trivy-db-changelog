@@ -1,0 +1,4 @@
+PatchedVersions:
+    - 258.9-1.fc43
+VulnerableVersions:
+    - '>=258-1.fc43, <258.9-1.fc43'

@@ -1,0 +1,125 @@
+name: Re-export
+
+# Re-exports a batch of trivy-db digests with the current cmd/export,
+# force-replacing their refs/raw/<digest> refs. Started by
+# .github/scripts/reexport.sh, which pushes a reexport/<n> branch for each
+# batch: a branch that's just this repository's generator commit plus a
+# reexport-digests.json listing the batch's digests. (A push trigger, not
+# workflow_dispatch, because dispatching needs the workflow on the default
+# branch, and "changelog" - the default - carries only the thin cron
+# dispatcher.) The script deletes each branch once its run succeeds.
+#
+# This only replaces the refs/raw/* snapshots; the script's "rebuild" step
+# then re-chains them into a fresh changelog branch.
+
+on:
+  push:
+    branches:
+      - 'reexport/**'
+
+# bash -eo pipefail for every run step (GitHub's default without an explicit
+# shell is bash -e, no pipefail).
+defaults:
+  run:
+    shell: bash
+
+permissions:
+  contents: write
+  packages: read
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      shards: ${{ steps.shards.outputs.shards }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      # Each shard is exported sequentially on one runner: setup (checkout,
+      # Go, build, login) took longer than a trivy-db export itself when it
+      # was paid once per digest.
+      - name: Split the batch into shards
+        id: shards
+        run: |
+          shards=$(jq -c '[. as $d | range(0; length; 16) | {id: ., digests: ($d[.:.+16] | join(" "))}]' reexport-digests.json)
+          echo "$(echo "$shards" | jq length) shard(s) for $(jq length reexport-digests.json) digest(s)"
+          echo "shards=$shards" >> "$GITHUB_OUTPUT"
+
+  export:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    strategy:
+      fail-fast: false
+      matrix:
+        include: ${{ fromJson(needs.plan.outputs.shards) }}
+    steps:
+      # The pushed commit itself: the code that re-exports is the code on
+      # the branch, not whatever generator is by the time this shard runs.
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Set up Go
+        uses: actions/setup-go@b7ad1dad31e06c5925ef5d2fc7ad053ef454303e # v7.0.0
+        with:
+          go-version-file: go.mod
+
+      - name: Build
+        run: go build -o "$RUNNER_TEMP/export" ./cmd/export
+
+      - name: Log in to ghcr.io
+        uses: docker/login-action@abd2ef45e78c5afb21d64d4ca52ee8550d9572c7 # v4.5.1
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Export
+        env:
+          DIGESTS: ${{ matrix.digests }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          # Each digest is exported into a throwaway bare repository, so a
+          # shard's disk use stays at one snapshot and nothing accumulates.
+          # It's a separate repository from the checkout, so (like
+          # update-changelog.sh) it doesn't inherit the checkout's
+          # credentials: push with an explicit token URL, and fail fast
+          # instead of hanging if auth is ever missing.
+          export GIT_TERMINAL_PROMPT=0
+          remote="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}"
+          : > failed.txt
+
+          for digest in $DIGESTS; do
+            ref="refs/raw/${digest/:/-}"
+            gd="$RUNNER_TEMP/export.git"
+            ok=
+            for attempt in 1 2 3; do
+              rm -rf "$gd" && git init -q --bare "$gd"
+              git --git-dir="$gd" config gc.auto 0
+              # cmd/export ends its stream with fast-import's "done" only on
+              # success, so a failed export never leaves a (truncated) ref.
+              if timeout 30m "$RUNNER_TEMP/export" "ghcr.io/aquasecurity/trivy-db@$digest" \
+                  | git --git-dir="$gd" fast-import --quiet \
+                  && git --git-dir="$gd" rev-parse --verify --quiet "$ref" >/dev/null \
+                  && git --git-dir="$gd" push --force "$remote" "$ref:$ref"; then
+                ok=1
+                break
+              fi
+              echo "attempt $attempt failed for $digest, retrying after a pause" >&2
+              sleep $((attempt * 15))
+            done
+            if [ -n "$ok" ]; then
+              echo "ok      $digest"
+            else
+              echo "FAILED  $digest"
+              echo "$digest" >> failed.txt
+            fi
+          done
+          rm -rf "$RUNNER_TEMP/export.git"
+
+          if [ -s failed.txt ]; then
+            echo "::error::$(wc -l < failed.txt) export(s) failed:"
+            cat failed.txt
+            exit 1
+          fi
